@@ -1,0 +1,35 @@
+You'll need to have installed:
+
+bash
+rpl
+PostgreSQL
+
+For the power ratings:
+
+R
+R package lme4
+R package RPostgreSQL
+
+Under Ubuntu:
+
+apt-get install rpl
+apt-get install postgresql-9.2
+apt-get install r-base-core
+
+Install the two R packages if you want to run the power ratings scripts.
+
+To load data from Hockey Reference:
+
+./load_href.sh
+
+NHL power ratings:
+
+./href_lmer.sh
+
+To load data from NCAA:
+
+./load_ncaa.sh
+
+NCAA power ratings:
+
+./ncaa_lmer.sh

@@ -33,4 +33,4 @@ cp ncaa/ncaa_colors.csv /tmp/ncaa_colors.csv
 psql hockey -f load_ncaa_colors.sql
 rm /tmp/ncaa_colors.csv
 
-exit 1
+exit 0

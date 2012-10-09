@@ -10,4 +10,4 @@ rm /tmp/href_games.csv
 
 psql hockey -f create_href_teams.sql
 
-exit 1
+exit 0
