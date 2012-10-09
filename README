@@ -33,3 +33,6 @@ To load data from NCAA:
 NCAA power ratings:
 
 ./ncaa_sos.sh
+
+The NHL power ratings are based on regular season games only and are tested on playoff games.
+The NCAA power ratings exclude March and April games and are tested on March and April games.
