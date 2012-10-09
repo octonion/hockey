@@ -24,7 +24,7 @@ To load data from Hockey Reference:
 
 NHL power ratings:
 
-./href_lmer.sh
+./href_sos.sh
 
 To load data from NCAA:
 
@@ -32,4 +32,4 @@ To load data from NCAA:
 
 NCAA power ratings:
 
-./ncaa_lmer.sh
+./ncaa_sos.sh
