@@ -1,0 +1,130 @@
+year,team_id,team_name,wins,losses,ties,total_games
+2012,4,Adrian,20,6,1,27
+2012,721,Air Force,21,11,7,39
+2012,10,Ala.-Huntsville,2,28,1,31
+2012,11,Alas. Anchorage,9,25,2,36
+2012,12,Alas. Fairbanks,12,20,4,36
+2012,22,American Int'l,8,26,3,37
+2012,24,Amherst,24,4,1,29
+2012,725,Army,4,23,7,34
+2012,38,Augsburg,10,14,1,25
+2012,45,Babson,9,13,4,26
+2012,26107,Becker,9,15,2,26
+2012,54,Bemidji St.,17,18,3,38
+2012,56,Bentley,16,16,8,40
+2012,60,Bethel (MN),8,15,2,25
+2012,67,Boston College,33,10,1,44
+2012,68,Boston U.,23,15,1,39
+2012,69,Bowdoin,16,6,3,25
+2012,71,Bowling Green,14,25,5,44
+2012,78,Brockport,9,13,3,25
+2012,80,Brown,9,18,5,32
+2012,85,Buffalo St.,13,12,2,27
+2012,116,Canisius,10,22,4,36
+2012,123,Castleton,19,7,2,28
+2012,146,Clarkson,16,17,6,39
+2012,151,Colby,7,15,1,23
+2012,153,Colgate,19,17,3,39
+2012,154,Colorado Col.,18,16,2,36
+2012,1036,Concordia (WI),2,20,3,25
+2012,161,Concordia-M'head,10,11,4,25
+2012,164,Connecticut,16,19,4,39
+2012,163,Connecticut Col.,6,15,3,24
+2012,167,Cornell,19,9,7,35
+2012,170,Curry,14,11,2,27
+2012,172,Dartmouth,13,16,4,33
+2012,183,Denver,25,14,4,43
+2012,213,Elmira,15,9,3,27
+2012,224,Ferris St.,26,12,5,43
+2012,30032,Finlandia,7,18,1,26
+2012,227,Fitchburg St.,9,13,4,26
+2012,238,Framingham St.,6,15,4,25
+2012,242,Fredonia St.,12,11,3,26
+2012,266,Gust. Adolphus,17,7,5,29
+2012,267,Hamilton,8,14,3,25
+2012,268,Hamline,10,14,2,26
+2012,275,Harvard,13,10,11,34
+2012,282,Hobart,16,10,1,27
+2012,285,Holy Cross,20,15,4,39
+2012,22626,Johnson & Wales (RI),13,10,3,26
+2012,344,Lake Forest,5,22,0,27
+2012,345,Lake Superior St.,18,17,5,40
+2012,348,Lawrence,13,11,4,28
+2012,380,Maine,23,14,3,40
+2012,382,Manhattanville,13,9,3,25
+2012,1196,Marian (WI),13,9,4,26
+2012,401,Mass.-Boston,13,10,3,26
+2012,656,Mass.-Dartmouth,16,9,2,27
+2012,368,Mass.-Lowell,24,13,1,38
+2012,400,Massachusetts,13,18,5,36
+2012,408,Mercyhurst,20,16,4,40
+2012,410,Merrimack,18,12,7,37
+2012,414,Miami (OH),24,15,2,41
+2012,418,Michigan,24,13,4,41
+2012,416,Michigan St.,19,16,4,39
+2012,417,Michigan Tech,16,19,4,39
+2012,420,Middlebury,14,10,3,27
+2012,20220,Milwaukee Engr.,22,7,1,30
+2012,427,Minn. Duluth,25,10,6,41
+2012,383,Minn. St. Mankato,12,24,2,38
+2012,428,Minnesota,28,14,1,43
+2012,30067,Morrisville St.,5,19,1,25
+2012,464,Neb. Omaha,14,18,6,38
+2012,1254,Neumann,15,8,3,26
+2012,467,New England Col.,9,12,5,26
+2012,469,New Hampshire,15,19,3,37
+2012,482,Niagara,17,11,9,37
+2012,484,Nichols,12,13,2,27
+2012,494,North Dakota,26,13,3,42
+2012,500,Northeastern,13,16,5,34
+2012,506,Northern Mich.,17,14,6,37
+2012,1267,Northland,6,16,3,25
+2012,511,Norwich,24,3,2,29
+2012,513,Notre Dame,19,18,3,40
+2012,518,Ohio St.,15,15,5,35
+2012,530,Oswego St.,24,4,2,30
+2012,547,Plattsburgh St.,19,5,4,28
+2012,548,Plymouth St.,17,7,3,27
+2012,554,Princeton,9,16,7,32
+2012,556,Providence,14,20,4,38
+2012,562,Quinnipiac,20,14,6,40
+2012,570,Rensselaer,12,24,3,39
+2012,579,Robert Morris,17,17,5,39
+2012,580,Rochester Inst.,20,13,6,39
+2012,590,Sacred Heart,6,28,3,37
+2012,621,Salem St.,15,9,3,27
+2012,623,Salve Regina,6,19,0,25
+2012,642,Skidmore,12,13,2,27
+2012,662,Southern Me.,10,11,6,27
+2012,598,St. Cloud St.,17,17,5,39
+2012,602,Saint John's (MN),11,13,2,26
+2012,607,St. Lawrence,14,19,3,36
+2012,612,Saint Mary's (MN),5,18,2,25
+2012,614,St. Norbert,21,5,5,31
+2012,615,St. Olaf,13,9,6,28
+2012,618,St. Scholastica,15,8,5,28
+2012,620,St. Thomas (MN),18,6,2,26
+2012,684,Suffolk,3,21,0,24
+2012,168,SUNY Cortland,6,18,1,25
+2012,247,SUNY Geneseo,13,12,1,26
+2012,552,SUNY Potsdam,8,16,2,26
+2012,713,Trinity (CT),9,13,2,24
+2012,717,Tufts,12,11,2,25
+2012,1255,U New England,4,19,2,25
+2012,727,Union (NY),26,8,7,41
+2012,733,Utica,15,9,2,26
+2012,738,Vermont,6,27,1,34
+2012,762,Wentworth Inst.,21,7,1,29
+2012,764,Wesleyan (CT),12,11,2,25
+2012,774,Western Mich.,21,14,6,41
+2012,775,Western New Eng.,14,12,1,27
+2012,777,Westfield St.,7,14,5,26
+2012,789,Williams,12,9,5,26
+2012,793,Wis.-Eau Claire,13,12,3,28
+2012,801,Wis.-River Falls,16,9,2,27
+2012,802,Wis.-Stevens Point,14,11,4,29
+2012,803,Wis.-Stout,8,17,2,27
+2012,804,Wis.-Superior,10,10,7,27
+2012,796,Wisconsin,17,18,2,37
+2012,809,Worcester St.,9,15,3,27
+2012,813,Yale,16,16,3,35

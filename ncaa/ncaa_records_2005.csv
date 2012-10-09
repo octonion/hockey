@@ -1,0 +1,123 @@
+year,team_id,team_name,wins,losses,ties,total_games
+2005,721,Air Force,14,19,3,36
+2005,10,Ala.-Huntsville,18,10,4,32
+2005,11,Alas. Anchorage,12,19,6,37
+2005,12,Alas. Fairbanks,15,15,7,37
+2005,22,American Int'l,4,23,4,31
+2005,24,Amherst,13,10,2,25
+2005,725,Army,7,21,3,31
+2005,38,Augsburg,8,12,5,25
+2005,45,Babson,20,5,3,28
+2005,54,Bemidji St.,23,13,1,37
+2005,56,Bentley,8,20,6,34
+2005,60,Bethel (MN),17,9,0,26
+2005,67,Boston College,26,7,7,40
+2005,68,Boston U.,23,14,4,41
+2005,69,Bowdoin,17,6,3,26
+2005,71,Bowling Green,16,16,4,36
+2005,78,Brockport,8,16,1,25
+2005,85,Buffalo St.,5,17,3,25
+2005,116,Canisius,16,15,4,35
+2005,123,Castleton,0,25,0,25
+2005,146,Clarkson,13,23,3,39
+2005,151,Colby,15,8,2,25
+2005,153,Colgate,25,11,3,39
+2005,154,Colorado Col.,31,9,3,43
+2005,161,Concordia-M'head,4,20,1,25
+2005,164,Connecticut,11,23,3,37
+2005,163,Connecticut Col.,7,16,1,24
+2005,167,Cornell,27,5,3,35
+2005,170,Curry,19,6,3,28
+2005,172,Dartmouth,20,13,2,35
+2005,183,Denver,32,9,2,43
+2005,213,Elmira,11,12,3,26
+2005,224,Ferris St.,13,22,4,39
+2005,227,Fitchburg St.,12,12,1,25
+2005,238,Framingham St.,6,15,2,23
+2005,242,Fredonia St.,16,6,5,27
+2005,266,Gust. Adolphus,10,14,1,25
+2005,267,Hamilton,9,12,4,25
+2005,268,Hamline,4,20,1,25
+2005,282,Hobart,14,6,4,24
+2005,285,Holy Cross,16,14,6,36
+2005,22626,Johnson & Wales (RI),9,15,2,26
+2005,344,Lake Forest,13,14,1,28
+2005,345,Lake Superior St.,9,22,7,38
+2005,348,Lawrence,11,13,2,26
+2005,351,Lebanon Valley,5,19,1,25
+2005,380,Maine,20,13,7,40
+2005,382,Manhattanville,21,4,1,26
+2005,1196,Marian (WI),10,17,2,29
+2005,401,Mass.-Boston,4,19,1,24
+2005,656,Mass.-Dartmouth,22,5,0,27
+2005,368,Mass.-Lowell,20,12,4,36
+2005,400,Massachusetts,13,23,2,38
+2005,408,Mercyhurst,18,16,4,38
+2005,410,Merrimack,8,26,2,36
+2005,414,Miami (OH),15,18,5,38
+2005,418,Michigan,31,8,3,42
+2005,416,Michigan St.,20,17,4,41
+2005,417,Michigan Tech,8,25,4,37
+2005,420,Middlebury,23,4,3,30
+2005,20220,Milwaukee Engr.,19,9,0,28
+2005,427,Minn. Duluth,15,17,6,38
+2005,383,Minn. St. Mankato,13,19,6,38
+2005,428,Minnesota,28,15,1,44
+2005,464,Neb. Omaha,19,16,4,39
+2005,1254,Neumann,4,17,2,23
+2005,467,New England Col.,18,12,0,30
+2005,469,New Hampshire,26,11,5,42
+2005,482,Niagara,15,19,2,36
+2005,484,Nichols,4,17,2,23
+2005,494,North Dakota,25,15,5,45
+2005,500,Northeastern,15,18,5,38
+2005,506,Northern Mich.,22,11,7,40
+2005,1267,Northland,3,24,0,27
+2005,511,Norwich,18,5,3,26
+2005,513,Notre Dame,5,27,6,38
+2005,518,Ohio St.,27,11,4,42
+2005,530,Oswego St.,18,6,3,27
+2005,547,Plattsburgh St.,18,13,0,31
+2005,548,Plymouth St.,13,10,2,25
+2005,554,Princeton,8,20,3,31
+2005,556,Providence,12,21,4,37
+2005,562,Quinnipiac,21,13,3,37
+2005,570,Rensselaer,14,22,2,38
+2005,579,Robert Morris,8,21,4,33
+2005,580,Rochester Inst.,13,10,1,24
+2005,590,Sacred Heart,13,21,1,35
+2005,621,Salem St.,11,12,3,26
+2005,623,Salve Regina,10,14,1,25
+2005,642,Skidmore,6,19,1,26
+2005,662,Southern Me.,15,10,2,27
+2005,598,St. Cloud St.,14,23,3,40
+2005,602,Saint John's (MN),23,3,2,28
+2005,607,St. Lawrence,17,19,2,38
+2005,612,Saint Mary's (MN),10,14,1,25
+2005,614,St. Norbert,24,3,3,30
+2005,615,St. Olaf,14,7,6,27
+2005,618,St. Scholastica,5,17,5,27
+2005,620,St. Thomas (MN),20,6,5,31
+2005,684,Suffolk,4,16,2,22
+2005,168,SUNY Cortland,11,14,2,27
+2005,247,SUNY Geneseo,18,7,4,29
+2005,552,SUNY Potsdam,10,14,3,27
+2005,713,Trinity (CT),21,4,2,27
+2005,717,Tufts,12,12,1,25
+2005,727,Union (NY),13,22,2,37
+2005,733,Utica,16,5,6,27
+2005,738,Vermont,21,14,4,39
+2005,757,Wayne St. (MI),14,17,4,35
+2005,762,Wentworth Inst.,15,10,2,27
+2005,764,Wesleyan (CT),4,18,2,24
+2005,774,Western Mich.,14,21,2,37
+2005,775,Western New Eng.,5,16,3,24
+2005,789,Williams,11,12,2,25
+2005,793,Wis.-Eau Claire,8,15,4,27
+2005,801,Wis.-River Falls,17,9,2,28
+2005,802,Wis.-Stevens Point,12,12,3,27
+2005,803,Wis.-Stout,10,13,4,27
+2005,804,Wis.-Superior,19,3,7,29
+2005,796,Wisconsin,23,14,4,41
+2005,809,Worcester St.,3,19,1,23
+2005,813,Yale,5,25,2,32
