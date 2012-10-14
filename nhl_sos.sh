@@ -15,3 +15,5 @@ psql hockey -f href_sos/schedule_factors.sql
 
 psql hockey -f href_sos/current_ranking.sql > href_sos/current_ranking.txt
 psql hockey -f href_sos/audit.sql > href_sos/audit.txt
+
+psql hockey -f href_sos/predict_playoffs.sql > href_sos/predict_playoffs.txt
