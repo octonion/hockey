@@ -36,14 +36,22 @@ path = '//*[@id="scoreboard"]/table/tr'
       if ([4,7].include?(i))
         a = td.xpath("a").first
         if (a==nil)
-          row += [td.text,nil,nil]
+          if (td.text.size==0)
+            row += [nil,nil,nil]
+          else
+            row += [td.text.strip,nil,nil]
+          end
         else
           href = a.attribute("href").text
           team_id = href.split('/')[2]
-          row += [td.text,team_id,href]
+          row += [td.text.strip,team_id,href]
         end
       end
-      row << td.text
+      if (td.text.size==0)
+        row += [nil]
+      else
+        row += [td.text.strip]
+      end
     end
     games << row
   end
@@ -64,14 +72,22 @@ path = '//*[@id="scoreboard"]/table/tr'
       if ([4,7].include?(i))
         a = td.xpath("a").first
         if (a==nil)
-          row += [td.text,nil,nil]
+          if (td.text.size==0)
+            row += [nil,nil,nil]
+          else
+            row += [td.text.strip,nil,nil]
+          end
         else
           href = a.attribute("href").text
           team_id = href.split('/')[2]
-          row += [td.text,team_id,href]
+          row += [td.text.strip,team_id,href]
         end
       end
-      row << td.text
+      if (td.text.size==0)
+        row += [nil]
+      else
+        row += [td.text.strip]
+      end
     end
     games << row
   end
