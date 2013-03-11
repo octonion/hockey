@@ -3,6 +3,7 @@ begin;
 drop table if exists uscho.results;
 
 create table uscho.results (
+	pull_id		      text,
 	game_id		      integer,
 	game_date	      date,
 	year		      integer,
@@ -20,13 +21,15 @@ create table uscho.results (
 );
 
 insert into uscho.results
-(game_id,game_date,year,
+(pull_id,
+ game_id,game_date,year,
  school_name,school_id,
  opponent_name,opponent_id,
  location_name,location_id,field,
  team_score,opponent_score)
 (
 select
+team_id,
 game_id,
 game_date,
 year,
@@ -56,23 +59,25 @@ opponent_id,
  from uscho.games g
  where
      TRUE
- and g.team_score is not NULL
- and g.opponent_score is not NULL
- and g.team_score >= 0
- and g.opponent_score >= 0
+-- and g.team_score is not NULL
+-- and g.opponent_score is not NULL
+-- and g.team_score >= 0
+-- and g.opponent_score >= 0
  and g.team_id is not NULL
  and g.opponent_id is not NULL
  and g.game_date is not null
 );
 
 insert into uscho.results
-(game_id,game_date,year,
+(pull_id,
+ game_id,game_date,year,
  school_name,school_id,
  opponent_name,opponent_id,
  location_name,location_id,field,
  team_score,opponent_score)
 (
 select
+team_id,
 game_id,
 game_date,
 year,
@@ -102,10 +107,10 @@ g.team_score
 from uscho.games g
 where
     TRUE
-and g.team_score is not NULL
-and g.opponent_score is not NULL
-and g.team_score >= 0
-and g.opponent_score >= 0
+--and g.team_score is not NULL
+--and g.opponent_score is not NULL
+--and g.team_score >= 0
+--and g.opponent_score >= 0
 and g.team_id is not NULL
 and g.opponent_id is not NULL
 and g.game_date is not null

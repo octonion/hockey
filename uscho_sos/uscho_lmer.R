@@ -18,7 +18,7 @@ r.opponent_div_id as d_div,
 r.team_score::float as gs
 from uscho.results r
 where
-    r.year between 1998 and 2013
+    r.year between 1999 and 2013
 and r.school_div_id is not null
 and r.opponent_div_id is not null
 and r.team_score is not null
