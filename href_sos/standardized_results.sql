@@ -12,7 +12,8 @@ create table href.results (
 	location_id	      text,
 	field		      text,
 	team_score	      integer,
-	opponent_score	      integer
+	opponent_score	      integer,
+	game_length	      text
 );
 
 insert into href.results
@@ -20,7 +21,7 @@ insert into href.results
  team_name,team_id,
  opponent_name,opponent_id,
  location_id,field,
- team_score,opponent_score)
+ team_score,opponent_score,game_length)
 (
 select
 game_id,
@@ -38,13 +39,14 @@ end) as team_score,
 (case when status in ('OT','SO') then
       least(g.home_score,g.visitor_score)
 else g.visitor_score
-end) as opponent_score
+end) as opponent_score,
+coalesce(status,'0 OT') as game_length
 from href.games g
 where
     g.home_score is not NULL
 and g.visitor_score is not NULL
-and g.home_score >= 0
-and g.visitor_score >= 0
+--and g.home_score >= 0
+--and g.visitor_score >= 0
 and g.home_id is not NULL
 and g.visitor_id is not NULL
 );
@@ -54,7 +56,7 @@ insert into href.results
  team_name,team_id,
  opponent_name,opponent_id,
  location_id,field,
- team_score,opponent_score)
+ team_score,opponent_score,game_length)
 (
 select
 game_id,
@@ -72,13 +74,14 @@ end) as team_score,
 (case when status in ('OT','SO') then
       least(g.home_score,g.visitor_score)
 else g.home_score
-end) as opponent_score
+end) as opponent_score,
+coalesce(status,'0 OT') as game_length
 from href.games g
 where
     g.home_score is not NULL
 and g.visitor_score is not NULL
-and g.home_score >= 0
-and g.visitor_score >= 0
+--and g.home_score >= 0
+--and g.visitor_score >= 0
 and g.home_id is not NULL
 and g.visitor_id is not NULL
 );

@@ -1,10 +1,9 @@
+sink("nhl_lmer.txt")
 
 library("lme4")
-
 library("RPostgreSQL")
 
 drv <- dbDriver("PostgreSQL")
-
 con <- dbConnect(drv,host="localhost",port="5432",dbname="hockey")
 
 query <- dbSendQuery(con, "
@@ -17,10 +16,7 @@ r.opponent_id as opponent,
 r.team_score as gs
 from href.results r
 where
-    r.year between 2002 and 2012
-and r.team_score>=0
-and r.opponent_score>=0
---and not(r.team_score,r.opponent_score)=(0,0)
+    r.year between 2002 and 2013
 ;")
 
 games <- fetch(query,n=-1)
@@ -28,7 +24,7 @@ dim(games)
 
 attach(games)
 
-model <- gs ~ 1+year+field+(1|offense)+(1|defense)+(1|game_id)
+model <- gs ~ year+field+(1|offense)+(1|defense)+(1|game_id)
 
 pll <- list()
 
@@ -76,7 +72,9 @@ g$gs <- gs
 
 dim(g)
 
-fit <- lmer(model,data=g,family=poisson(link=log))
+fit <- glmer(model,data=g,REML=TRUE,verbose=TRUE,family=poisson(link=log))
+fit
+summary(fit)
 
 # List of data frames
 
