@@ -3,7 +3,7 @@ begin;
 drop table if exists uscho.results;
 
 create table uscho.results (
-	pull_id		      text,
+	pulled_id		      text,
 	game_id		      integer,
 	game_date	      date,
 	year		      integer,
@@ -17,16 +17,17 @@ create table uscho.results (
 	location_id	      text,
 	field		      text,
 	team_score	      integer,
-	opponent_score	      integer
+	opponent_score	      integer,
+	game_length	      text
 );
 
 insert into uscho.results
-(pull_id,
+(pulled_id,
  game_id,game_date,year,
  school_name,school_id,
  opponent_name,opponent_id,
  location_name,location_id,field,
- team_score,opponent_score)
+ team_score,opponent_score,game_length)
 (
 select
 team_id,
@@ -55,7 +56,11 @@ opponent_id,
        when location='Neutral' then 'none' end) as field,
 */
  g.team_score,
- g.opponent_score
+ g.opponent_score,
+ (case when g.overtime is null then '0 OT'
+       when g.overtime='' then '0 OT'
+       when g.overtime='OT' then '1 OT'
+       else g.overtime end) as game_length
  from uscho.games g
  where
      TRUE
@@ -69,12 +74,12 @@ opponent_id,
 );
 
 insert into uscho.results
-(pull_id,
+(pulled_id,
  game_id,game_date,year,
  school_name,school_id,
  opponent_name,opponent_id,
  location_name,location_id,field,
- team_score,opponent_score)
+ team_score,opponent_score,game_length)
 (
 select
 team_id,
@@ -103,7 +108,11 @@ team_id,
 (case when location='@' then 'offense_home'
       else 'none' end) as field,
 g.opponent_score,
-g.team_score
+g.team_score,
+(case when g.overtime is null then '0 OT'
+      when g.overtime='' then '0 OT'
+      when g.overtime='OT' then '1 OT'
+      else g.overtime end) as game_length
 from uscho.games g
 where
     TRUE

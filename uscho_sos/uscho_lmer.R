@@ -1,5 +1,6 @@
-library("lme4")
+sink("uscho_lmer.txt")
 
+library("lme4")
 library("RPostgreSQL")
 
 drv <- dbDriver("PostgreSQL")
@@ -15,6 +16,7 @@ r.school_id as team,
 r.school_div_id as o_div,
 r.opponent_id as opponent,
 r.opponent_div_id as d_div,
+r.game_length as game_length,
 r.team_score::float as gs
 from uscho.results r
 where
@@ -25,9 +27,7 @@ and r.team_score is not null
 and r.opponent_score is not null
 
 -- fit all excluding March and April
-
-and not(extract(month from r.game_date) in (3,4))
-
+--and not(extract(month from r.game_date) in (3,4))
 ;")
 
 games <- fetch(query,n=-1)
@@ -35,18 +35,22 @@ dim(games)
 
 attach(games)
 
-model <- gs ~ 1+year+field+o_div+d_div+(1|offense)+(1|defense)+(1|game_id)
-
 pll <- list()
 
 # Fixed parameters
 
 year <- as.factor(year)
+
 field <- as.factor(field)
+field <- relevel(field, ref = "none")
+
 d_div <- as.factor(d_div)
+
 o_div <- as.factor(o_div)
 
-fp <- data.frame(year,field,d_div,o_div)
+game_length <- as.factor(game_length)
+
+fp <- data.frame(year,field,d_div,o_div,game_length)
 fpn <- names(fp)
 
 # Random parameters
@@ -85,7 +89,11 @@ g$gs <- gs
 
 dim(g)
 
-fit <- glmer(model,data=g,family=poisson(link=log))
+model <- gs ~ year+field+d_div+o_div+game_length+(1|offense)+(1|defense)+(1|game_id)
+
+fit <- glmer(model,data=g,REML=TRUE,verbose=TRUE,family=poisson(link=log))
+fit
+summary(fit)
 
 # List of data frames
 

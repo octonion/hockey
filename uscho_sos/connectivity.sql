@@ -2,21 +2,17 @@ begin;
 
 select
 r.year,
-t.div_id as div,
-o.div_id as div,
+r.school_div_id as t_div,
+r.opponent_div_id as o_div,
 sum(case when r.team_score>r.opponent_score then 1 else 0 end) as won,
 sum(case when r.team_score<r.opponent_score then 1 else 0 end) as lost,
 sum(case when r.team_score=r.opponent_score then 1 else 0 end) as tied,
 count(*)
 from uscho.results r
-left join uscho.schools_divisions t
-  on (t.school_id,t.year)=(r.school_id,r.year)
-left join uscho.schools_divisions o
-  on (o.school_id,o.year)=(r.opponent_id,r.year)
 where
-    t.div_id<=o.div_id
-and r.year between 2002 and 2013
-group by r.year,t.div_id,o.div_id
-order by r.year,t.div_id,o.div_id;
+    r.school_div_id<=r.opponent_div_id
+and r.year between 1999 and 2013
+group by r.year,t_div,o_div
+order by r.year,t_div,o_div;
 
 commit;

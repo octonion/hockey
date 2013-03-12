@@ -64,7 +64,7 @@ and r.school_id > r.opponent_id
 
 -- test March and April
 
-and extract(month from r.game_date) in (3,4)
+--and extract(month from r.game_date) in (3,4)
 
 -- D1
 
@@ -138,7 +138,7 @@ and r.school_id > r.opponent_id
 
 -- test March and April
 
-and extract(month from r.game_date) in (3,4)
+--and extract(month from r.game_date) in (3,4)
 
 -- D1
 

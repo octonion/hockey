@@ -4,7 +4,7 @@ set timezone to 'America/Los_Angeles';
 
 select
 
---g.pull_id,
+--g.pulled_id,
 distinct
 g.school_name as team,
 --g.school_id,
@@ -49,8 +49,8 @@ where
 and g.game_date = current_date
 and g.year=2013
 and g.field in ('offense_home','none')
---and g.pull_id=least(g.school_id,g.opponent_id)
---and g.pull_id='alaska-anchorage'
+--and g.pulled_id=least(g.school_id,g.opponent_id)
+--and g.pulled_id='alaska-anchorage'
 order by team asc;
 
 commit;
