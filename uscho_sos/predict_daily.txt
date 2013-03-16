@@ -1,0 +1,33 @@
+BEGIN
+SET
+         team         | h_div |     site     |         opp          | v_div | t_score | o_score 
+----------------------+-------+--------------+----------------------+-------+---------+---------
+ Air Force            |     1 | offense_home | Canisius             |     1 |     2.6 |     1.8
+ Boston College       |     1 | offense_home | Vermont              |     1 |     3.6 |     2.2
+ Boston University    |     1 | offense_home | Merrimack            |     1 |     2.8 |     2.3
+ Connecticut          |     1 | offense_home | Robert Morris        |     1 |     2.5 |     2.4
+ Denver               |     1 | offense_home | Colorado College     |     1 |     4.1 |     2.7
+ Holy Cross           |     1 | offense_home | Mercyhurst           |     1 |     2.9 |     2.9
+ Massachusetts-Lowell |     1 | offense_home | Maine                |     1 |     3.0 |     1.6
+ Miami                |     1 | offense_home | Michigan State       |     1 |     2.6 |     1.3
+ Minnesota            |     1 | offense_home | Bemidji State        |     1 |     3.8 |     1.5
+ Minnesota State      |     1 | offense_home | Nebraska-Omaha       |     1 |     3.6 |     2.4
+ Niagara              |     1 | offense_home | RIT                  |     1 |     3.6 |     2.5
+ North Dakota         |     1 | offense_home | Michigan Tech        |     1 |     3.4 |     2.3
+ Norwich              |     3 | none         | Oswego               |     3 |     2.2 |     2.7
+ Notre Dame           |     1 | offense_home | Bowling Green        |     1 |     2.9 |     2.0
+ Ohio State           |     1 | offense_home | Ferris State         |     1 |     2.4 |     2.2
+ Oswego               |     3 | none         | Norwich              |     3 |     2.7 |     2.2
+ Providence           |     1 | offense_home | New Hampshire        |     1 |     2.5 |     2.5
+ Quinnipiac           |     1 | offense_home | Cornell              |     1 |     2.6 |     1.5
+ Rensselaer           |     1 | offense_home | Brown                |     1 |     2.6 |     1.9
+ St. Cloud State      |     1 | offense_home | Alaska-Anchorage     |     1 |     3.9 |     1.7
+ Union                |     1 | offense_home | Dartmouth            |     1 |     2.8 |     2.1
+ Utica                |     3 | none         | Wisconsin-Eau Claire |     3 |     3.2 |     2.7
+ Western Michigan     |     1 | offense_home | Michigan             |     1 |     3.1 |     2.1
+ Wisconsin            |     1 | offense_home | Minnesota-Duluth     |     1 |     2.6 |     1.9
+ Wisconsin-Eau Claire |     3 | none         | Utica                |     3 |     2.7 |     3.2
+ Yale                 |     1 | offense_home | St. Lawrence         |     1 |     3.1 |     2.6
+(26 rows)
+
+COMMIT
