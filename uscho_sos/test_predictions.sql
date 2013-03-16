@@ -62,14 +62,14 @@ TRUE
 
 and r.school_id > r.opponent_id
 
--- test March and April
+-- test NCAA tournament games
 
---and extract(month from r.game_date) in (3,4)
+and coalesce(r.notes,'') like 'NCAA%'
 
 -- D1
 
---and r.school_div_id=1
---and r.opponent_div_id=1
+and r.school_div_id=1
+and r.opponent_div_id=1
 
 group by r.year
 order by r.year;
@@ -136,12 +136,12 @@ TRUE
 
 and r.school_id > r.opponent_id
 
--- test March and April
+-- test NCAA tournament games
 
---and extract(month from r.game_date) in (3,4)
+and coalesce(r.notes,'') like 'NCAA%'
 
 -- D1
 
---and r.school_div_id=1
---and r.opponent_div_id=1
+and r.school_div_id=1
+and r.opponent_div_id=1
 ;

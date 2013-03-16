@@ -26,8 +26,8 @@ and r.opponent_div_id is not null
 and r.team_score is not null
 and r.opponent_score is not null
 
--- fit all excluding March and April
---and not(extract(month from r.game_date) in (3,4))
+-- fit all excluding NCAA tournament games
+and not(coalesce(r.notes,'') like 'NCAA%')
 ;")
 
 games <- fetch(query,n=-1)

@@ -18,7 +18,8 @@ create table uscho.results (
 	field		      text,
 	team_score	      integer,
 	opponent_score	      integer,
-	game_length	      text
+	game_length	      text,
+	notes		      text
 );
 
 insert into uscho.results
@@ -27,7 +28,7 @@ insert into uscho.results
  school_name,school_id,
  opponent_name,opponent_id,
  location_name,location_id,field,
- team_score,opponent_score,game_length)
+ team_score,opponent_score,game_length,notes)
 (
 select
 team_id,
@@ -60,7 +61,8 @@ opponent_id,
  (case when g.overtime is null then '0 OT'
        when g.overtime='' then '0 OT'
        when g.overtime='OT' then '1 OT'
-       else g.overtime end) as game_length
+       else g.overtime end) as game_length,
+ g.notes
  from uscho.games g
  where
      TRUE
@@ -79,7 +81,7 @@ insert into uscho.results
  school_name,school_id,
  opponent_name,opponent_id,
  location_name,location_id,field,
- team_score,opponent_score,game_length)
+ team_score,opponent_score,game_length,notes)
 (
 select
 team_id,
@@ -112,7 +114,8 @@ g.team_score,
 (case when g.overtime is null then '0 OT'
       when g.overtime='' then '0 OT'
       when g.overtime='OT' then '1 OT'
-      else g.overtime end) as game_length
+      else g.overtime end) as game_length,
+g.notes
 from uscho.games g
 where
     TRUE
