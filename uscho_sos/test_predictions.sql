@@ -64,12 +64,17 @@ and r.school_id > r.opponent_id
 
 -- test NCAA tournament games
 
-and coalesce(r.notes,'') like 'NCAA%'
+--and not(coalesce(r.notes,'') like 'NCAA%')
+and (coalesce(r.notes,'') like 'NCAA%')
 
 -- D1
 
 and r.school_div_id=1
 and r.opponent_div_id=1
+
+-- No overtime games
+
+and r.game_length='0 OT'
 
 group by r.year
 order by r.year;
@@ -138,10 +143,15 @@ and r.school_id > r.opponent_id
 
 -- test NCAA tournament games
 
+--and not(coalesce(r.notes,'') like 'NCAA%')
 and coalesce(r.notes,'') like 'NCAA%'
 
 -- D1
 
 and r.school_div_id=1
 and r.opponent_div_id=1
+
+-- No overtime games
+
+and r.game_length='0 OT'
 ;
