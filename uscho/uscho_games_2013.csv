@@ -1172,18 +1172,21 @@
 2013,Sat.,,3/23/2013,7:00 ET,Boston University,boston-university,/team/boston-university/mens-hockey/,Boston University,0,vs.,Massachusetts-Lowell,umass-lowell,/team/umass-lowell/mens-hockey/,Massachusetts-Lowell,1,,HEA Tournament,HE,Box,Recap,"NESN+, NBC"
 2013,Sat.,,3/23/2013,7:05 CT,Colorado College,colorado-college,/team/colorado-college/mens-hockey/,Colorado College,2,vs.,Wisconsin,wisconsin,/team/wisconsin/mens-hockey/,Wisconsin,3,,WCHA Tournament,WC,Box,Recap,"FSN, Root"
 2013,Sun.,,3/24/2013,2:05 ET,Michigan,michigan,/team/michigan/mens-hockey/,Michigan,1,vs.,Notre Dame,notre-dame,/team/notre-dame/mens-hockey/,Notre Dame,3,,CCHA Tournament,CC,Box,Recap,FSD
-2013,Fri.,,3/29/2013,2:00 ET,Yale,yale,/team/yale/mens-hockey/,Yale,,vs.,Minnesota,minnesota,/team/minnesota/mens-hockey/,Minnesota,,,NCAA West Regional,NC,,,ESPNU
-2013,Fri.,,3/29/2013,5:30 ET,Niagara,niagara,/team/niagara/mens-hockey/,Niagara,,vs.,North Dakota,north-dakota,/team/north-dakota/mens-hockey/,North Dakota,,,NCAA West Regional,NC,,,ESPNU
-2013,Fri.,,3/29/2013,4:30 ET,Wisconsin,wisconsin,/team/wisconsin/mens-hockey/,Wisconsin,,vs.,Massachusetts-Lowell,umass-lowell,/team/umass-lowell/mens-hockey/,Massachusetts-Lowell,,,NCAA Northeast Regional,NC,,,ESPN3
-2013,Fri.,,3/29/2013,8:00 ET,Denver,denver,/team/denver/mens-hockey/,Denver,,vs.,New Hampshire,new-hampshire,/team/new-hampshire/mens-hockey/,New Hampshire,,,NCAA Northeast Regional,NC,,,ESPNU
-2013,Sat.,,3/30/2013,9:00 ET,Union,union,/team/union/mens-hockey/,Union,,vs.,Boston College,boston-college,/team/boston-college/mens-hockey/,Boston College,,,NCAA East Regional,NC,,,ESPNU
-2013,Sat.,,3/30/2013,5:30 ET,Canisius,canisius,/team/canisius/mens-hockey/,Canisius,,vs.,Quinnipiac,quinnipiac,/team/quinnipiac/mens-hockey/,Quinnipiac,,,NCAA East Regional,NC,,,ESPN3
-2013,Sat.,,3/30/2013,4:00 ET,Niagara/No Dakota,,,Niagara/No Dakota,,vs.,Yale/Minnesota,,,Yale/Minnesota,,,NCAA West Regional,NC,,,ESPNU
-2013,Sat.,,3/30/2013,5:00 ET,Minnesota State,minnesota-state,/team/minnesota-state/mens-hockey/,Minnesota State,,vs.,Miami,miami,/team/miami/mens-hockey/,Miami,,,NCAA Midwest Regional,NC,,,ESPN3
-2013,Sat.,,3/30/2013,1:30 ET,St. Cloud State,st-cloud-state,/team/st-cloud-state/mens-hockey/,St. Cloud State,,vs.,Notre Dame,notre-dame,/team/notre-dame/mens-hockey/,Notre Dame,,,NCAA Midwest Regional,NC,,,ESPN3
-2013,Sat.,,3/30/2013,6:00 ET,Denver/UNH,,,Denver/UNH,,vs.,Wisconsin/Lowell,,,Wisconsin/Lowell,,,NCAA Northeast Regional,NC,,,ESPNU
-2013,Sun.,,3/31/2013,6:30 ET,Union/BC,,,Union/BC,,vs.,Canisius/Quinn,,,Canisius/Quinn,,,NCAA East Regional,NC,,,ESPNU
-2013,Sun.,,3/31/2013,4:00 ET,Minn State/Miami,,,Minn State/Miami,,vs.,St Cloud/NotreDame,,,St Cloud/NotreDame,,,NCAA Midwest Regional,NC,,,ESPNU
+2013,Fri.,,3/29/2013,2:00 ET,Yale,yale,/team/yale/mens-hockey/,Yale,3,vs.,Minnesota,minnesota,/team/minnesota/mens-hockey/,Minnesota,2,OT,NCAA West Regional,NC,Box,Recap,ESPNU
+2013,Fri.,,3/29/2013,5:30 ET,Niagara,niagara,/team/niagara/mens-hockey/,Niagara,1,vs.,North Dakota,north-dakota,/team/north-dakota/mens-hockey/,North Dakota,2,,NCAA West Regional,NC,Box,Recap,ESPNU
+2013,Fri.,,3/29/2013,4:30 ET,Wisconsin,wisconsin,/team/wisconsin/mens-hockey/,Wisconsin,1,vs.,Massachusetts-Lowell,umass-lowell,/team/umass-lowell/mens-hockey/,Massachusetts-Lowell,6,,NCAA Northeast Regional,NC,Box,Recap,ESPN3
+2013,Fri.,,3/29/2013,8:00 ET,Denver,denver,/team/denver/mens-hockey/,Denver,2,vs.,New Hampshire,new-hampshire,/team/new-hampshire/mens-hockey/,New Hampshire,5,,NCAA Northeast Regional,NC,Box,Recap,ESPNU
+2013,Sat.,,3/30/2013,9:00 ET,Union,union,/team/union/mens-hockey/,Union,5,vs.,Boston College,boston-college,/team/boston-college/mens-hockey/,Boston College,1,,NCAA East Regional,NC,Box,Recap,ESPNU
+2013,Sat.,,3/30/2013,5:30 ET,Canisius,canisius,/team/canisius/mens-hockey/,Canisius,3,vs.,Quinnipiac,quinnipiac,/team/quinnipiac/mens-hockey/,Quinnipiac,4,,NCAA East Regional,NC,Box,Recap,ESPN3
+2013,Sat.,,3/30/2013,4:00 ET,Yale,yale,/team/yale/mens-hockey/,Yale,4,vs.,North Dakota,north-dakota,/team/north-dakota/mens-hockey/,North Dakota,1,,NCAA West Regional,NC,Box,Recap,ESPNU
+2013,Sat.,,3/30/2013,5:00 ET,Minnesota State,minnesota-state,/team/minnesota-state/mens-hockey/,Minnesota State,0,vs.,Miami,miami,/team/miami/mens-hockey/,Miami,4,,NCAA Midwest Regional,NC,Box,Recap,ESPN3
+2013,Sat.,,3/30/2013,1:30 ET,St. Cloud State,st-cloud-state,/team/st-cloud-state/mens-hockey/,St. Cloud State,5,vs.,Notre Dame,notre-dame,/team/notre-dame/mens-hockey/,Notre Dame,1,,NCAA Midwest Regional,NC,Box,Recap,ESPN3
+2013,Sat.,,3/30/2013,6:00 ET,New Hampshire,new-hampshire,/team/new-hampshire/mens-hockey/,New Hampshire,0,vs.,Massachusetts-Lowell,umass-lowell,/team/umass-lowell/mens-hockey/,Massachusetts-Lowell,2,,NCAA Northeast Regional,NC,Box,Recap,ESPNU
+2013,Sun.,,3/31/2013,6:30 ET,Union,union,/team/union/mens-hockey/,Union,1,vs.,Quinnipiac,quinnipiac,/team/quinnipiac/mens-hockey/,Quinnipiac,5,,NCAA East Regional,NC,Box,Recap,ESPNU
+2013,Sun.,,3/31/2013,4:00 ET,St. Cloud State,st-cloud-state,/team/st-cloud-state/mens-hockey/,St. Cloud State,4,vs.,Miami,miami,/team/miami/mens-hockey/,Miami,1,,NCAA Midwest Regional,NC,Box,Recap,ESPNU
+2013,Thu.,,4/11/2013,8:00 ET,St. Cloud State,st-cloud-state,/team/st-cloud-state/mens-hockey/,St. Cloud State,,vs.,Quinnipiac,quinnipiac,/team/quinnipiac/mens-hockey/,Quinnipiac,,,NCAA Tournament,NC,,,ESPN2
+2013,Thu.,,4/11/2013,4:30 ET,Yale,yale,/team/yale/mens-hockey/,Yale,,vs.,Massachusetts-Lowell,umass-lowell,/team/umass-lowell/mens-hockey/,Massachusetts-Lowell,,,NCAA Tournament,NC,,,ESPN2
+2013,Sat.,,4/13/2013,7:00 ET,Yale/Mass.-Lowell,,,Yale/Mass.-Lowell,,vs.,StCloud/Quinnipiac,,,StCloud/Quinnipiac,,,NCAA Tournament,NC,,,
 2013,Thu.,,10/18/2012,7:00 ET,Geneseo,geneseo,/team/geneseo/mens-hockey/,Geneseo,2,@,Nazareth,nazareth,/team/nazareth/mens-hockey/,Nazareth,3,OT,,NC,Box,Recap,
 2013,Fri.,,10/19/2012,7:00 ET,Penn State,penn-state,/team/penn-state/mens-hockey/,Penn State,0,@,Buffalo State,buffalo-state,/team/buffalo-state/mens-hockey/,Buffalo State,3,,,NC,Box,,
 2013,Fri.,,10/19/2012,7:00 ET,Canton,canton,/team/canton/mens-hockey/,Canton,2,@,Fredonia,fredonia,/team/fredonia/mens-hockey/,Fredonia,5,,,NC,Box,,
