@@ -27,7 +27,9 @@ and r.opponent_score is not null
 games <- fetch(query,n=-1)
 dim(games)
 
-krach <- BTm(outcome,team,opponent,data=games)
-krach
+fit <- BTm(outcome,team,opponent,data=games)
+
+krach <- as.data.frame(BTabilities(fit))
+krach[with(krach, order(-ability)), ]
 
 quit("no")
