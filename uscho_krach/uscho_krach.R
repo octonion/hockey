@@ -8,8 +8,9 @@ con <- dbConnect(drv,host="localhost",port="5432",dbname="hockey")
 
 query <- dbSendQuery(con, "
 select
-(case when r.team_score>r.opponent_score then 1
-      when r.team_score<r.opponent_score then 0
+(case when r.team_score>r.opponent_score then 1.0
+      when r.team_score<r.opponent_score then 0.0
+      when r.team_score=r.opponent_score then 0.5
  end) as outcome,
 r.school_name as team,
 r.opponent_name as opponent
@@ -20,7 +21,6 @@ and r.school_div_id=1
 and r.opponent_div_id=1
 and r.team_score is not null
 and r.opponent_score is not null
-and not(r.team_score=r.opponent_score)
 
 ;")
 
