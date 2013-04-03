@@ -50,5 +50,67 @@ Type 'q()' to quit R.
 > 
 > fit <- BTm(outcome,team,opponent,data=games)
 > 
-> krach <- BTabilities(fit)
+> krach <- as.data.frame(BTabilities(fit))
 > krach[with(krach, order(-ability)), ]
+                            ability      s.e.
+Quinnipiac              1.687042594 0.4015617
+Massachusetts-Lowell    1.480098569 0.4152627
+Minnesota               1.428503522 0.3987337
+Yale                    1.115338226 0.3989082
+Miami                   1.114307264 0.3874483
+Notre Dame              1.109912670 0.3905815
+Boston College          1.091836391 0.4111990
+St. Cloud State         1.079314965 0.3940719
+New Hampshire           1.073435003 0.4045978
+Minnesota State         1.060248659 0.3939826
+North Dakota            1.049186531 0.3850639
+Denver                  1.021083095 0.3894451
+Wisconsin               0.977117172 0.3930831
+Union                   0.970033316 0.3846626
+Boston University       0.858155343 0.4045506
+Providence              0.844498240 0.4066967
+Western Michigan        0.836673102 0.3925581
+Rensselaer              0.805906367 0.3886128
+Colorado College        0.682153112 0.3829429
+Brown                   0.643506424 0.3950588
+Dartmouth               0.606402213 0.4027125
+Cornell                 0.601177557 0.3986595
+Niagara                 0.507046057 0.3407573
+St. Lawrence            0.506592196 0.3896454
+Nebraska-Omaha          0.501670266 0.4004176
+Ohio State              0.484634063 0.3854241
+Ferris State            0.458902800 0.3898522
+Alaska                  0.453101532 0.3881356
+Michigan                0.427716979 0.3881034
+Merrimack               0.396491819 0.4009867
+Northern Michigan       0.339530527 0.3929070
+Colgate                 0.227082295 0.3924409
+Bowling Green           0.219074108 0.3808444
+Vermont                 0.190351117 0.4109112
+Massachusetts           0.162663066 0.4136942
+Lake Superior           0.157525549 0.3945560
+Maine                   0.155738166 0.4019846
+Minnesota-Duluth        0.154744103 0.4022561
+Robert Morris           0.135182555 0.3384038
+Michigan Tech           0.127051859 0.4025306
+Princeton               0.088151020 0.4179692
+Holy Cross              0.063385350 0.3443918
+Michigan State          0.035728909 0.3856090
+Connecticut             0.028681519 0.3442945
+Harvard                 0.001044263 0.4123571
+Air Force               0.000000000 0.0000000
+Clarkson               -0.087168523 0.3859485
+Mercyhurst             -0.093427249 0.3285750
+Canisius               -0.124904828 0.3173180
+Penn State             -0.260184132 0.3994084
+Northeastern           -0.321786574 0.4311376
+RIT                    -0.341212033 0.3342737
+Bemidji State          -0.390893122 0.4180260
+Alaska-Anchorage       -0.665342193 0.4231321
+American International -0.688257125 0.3544133
+Bentley                -0.873450718 0.3580658
+Army                   -1.320134678 0.3763609
+Sacred Heart           -2.358840449 0.4537438
+Alabama-Huntsville     -2.443111193 0.6618266
+> 
+> quit("no")
