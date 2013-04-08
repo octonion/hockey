@@ -11,6 +11,10 @@ fit <- BTm(outcome,team,opponent,data=g)
 fit
 
 krach <- as.data.frame(BTabilities(fit))
-krach[with(krach, order(-ability)), ]
+krach <- krach[with(krach, order(-ability)), ]
+
+krach <- subset(krach,TRUE,select=c(ability))
+krach$ability <- exp(krach$ability)
+krach
 
 quit("no")
