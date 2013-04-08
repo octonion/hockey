@@ -1,0 +1,235 @@
+
+R version 2.15.3 (2013-03-01) -- "Security Blanket"
+Copyright (C) 2013 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> 
+> games <- read.csv("uscho_games.csv",stringsAsFactors=FALSE)
+> dim(games)
+[1] 31193     9
+> 
+> t <- subset(games, year==2013 & team_div=="I" & opponent_div=="I", select=c(outcome,team,opponent))
+> 
+> t$team <- as.factor(t$team)
+> t$opponent <- as.factor(t$opponent)
+> 
+> o <- data.frame(outcome=1-t$outcome,team=t$opponent,opponent=t$team)
+> 
+> g <- rbind(t,o)
+> 
+> d <- nlevels(t$team)
+> 
+> fit <- glm(outcome ~ -1+team+opponent,data=g,family=binomial(link="logit"))
+> 
+> fit
+
+Call:  glm(formula = outcome ~ -1 + team + opponent, family = binomial(link = "logit"), 
+    data = g)
+
+Coefficients:
+                 teamAir Force          teamAlabama-Huntsville  
+                     1.139e-15                      -2.443e+00  
+                    teamAlaska            teamAlaska-Anchorage  
+                     4.531e-01                      -6.653e-01  
+    teamAmerican International                        teamArmy  
+                    -6.883e-01                      -1.320e+00  
+             teamBemidji State                     teamBentley  
+                    -3.909e-01                      -8.735e-01  
+            teamBoston College           teamBoston University  
+                     1.092e+00                       8.582e-01  
+             teamBowling Green                       teamBrown  
+                     2.191e-01                       6.435e-01  
+                  teamCanisius                    teamClarkson  
+                    -1.249e-01                      -8.717e-02  
+                   teamColgate            teamColorado College  
+                     2.271e-01                       6.822e-01  
+               teamConnecticut                     teamCornell  
+                     2.868e-02                       6.012e-01  
+                 teamDartmouth                      teamDenver  
+                     6.064e-01                       1.021e+00  
+              teamFerris State                     teamHarvard  
+                     4.589e-01                       1.044e-03  
+                teamHoly Cross               teamLake Superior  
+                     6.339e-02                       1.575e-01  
+                     teamMaine               teamMassachusetts  
+                     1.557e-01                       1.627e-01  
+      teamMassachusetts-Lowell                  teamMercyhurst  
+                     1.480e+00                      -9.343e-02  
+                 teamMerrimack                       teamMiami  
+                     3.965e-01                       1.114e+00  
+                  teamMichigan              teamMichigan State  
+                     4.277e-01                       3.573e-02  
+             teamMichigan Tech                   teamMinnesota  
+                     1.271e-01                       1.429e+00  
+          teamMinnesota-Duluth             teamMinnesota State  
+                     1.547e-01                       1.060e+00  
+            teamNebraska-Omaha               teamNew Hampshire  
+                     5.017e-01                       1.073e+00  
+                   teamNiagara                teamNorth Dakota  
+                     5.070e-01                       1.049e+00  
+              teamNortheastern           teamNorthern Michigan  
+                    -3.218e-01                       3.395e-01  
+                teamNotre Dame                  teamOhio State  
+                     1.110e+00                       4.846e-01  
+                teamPenn State                   teamPrinceton  
+                    -2.602e-01                       8.815e-02  
+                teamProvidence                  teamQuinnipiac  
+                     8.445e-01                       1.687e+00  
+                teamRensselaer                         teamRIT  
+                     8.059e-01                      -3.412e-01  
+             teamRobert Morris                teamSacred Heart  
+                     1.352e-01                      -2.359e+00  
+           teamSt. Cloud State                teamSt. Lawrence  
+                     1.079e+00                       5.066e-01  
+                     teamUnion                     teamVermont  
+                     9.700e-01                       1.904e-01  
+          teamWestern Michigan                   teamWisconsin  
+                     8.367e-01                       9.771e-01  
+                      teamYale      opponentAlabama-Huntsville  
+                     1.115e+00                       2.443e+00  
+                opponentAlaska        opponentAlaska-Anchorage  
+                    -4.531e-01                       6.653e-01  
+opponentAmerican International                    opponentArmy  
+                     6.883e-01                       1.320e+00  
+         opponentBemidji State                 opponentBentley  
+                     3.909e-01                       8.735e-01  
+        opponentBoston College       opponentBoston University  
+                    -1.092e+00                      -8.582e-01  
+         opponentBowling Green                   opponentBrown  
+                    -2.191e-01                      -6.435e-01  
+              opponentCanisius                opponentClarkson  
+                     1.249e-01                       8.717e-02  
+               opponentColgate        opponentColorado College  
+                    -2.271e-01                      -6.822e-01  
+           opponentConnecticut                 opponentCornell  
+                    -2.868e-02                      -6.012e-01  
+             opponentDartmouth                  opponentDenver  
+                    -6.064e-01                      -1.021e+00  
+          opponentFerris State                 opponentHarvard  
+                    -4.589e-01                      -1.044e-03  
+            opponentHoly Cross           opponentLake Superior  
+                    -6.339e-02                      -1.575e-01  
+                 opponentMaine           opponentMassachusetts  
+                    -1.557e-01                      -1.627e-01  
+  opponentMassachusetts-Lowell              opponentMercyhurst  
+                    -1.480e+00                       9.343e-02  
+             opponentMerrimack                   opponentMiami  
+                    -3.965e-01                      -1.114e+00  
+              opponentMichigan          opponentMichigan State  
+                    -4.277e-01                      -3.573e-02  
+         opponentMichigan Tech               opponentMinnesota  
+                    -1.271e-01                      -1.429e+00  
+      opponentMinnesota-Duluth         opponentMinnesota State  
+                    -1.547e-01                      -1.060e+00  
+        opponentNebraska-Omaha           opponentNew Hampshire  
+                    -5.017e-01                      -1.073e+00  
+               opponentNiagara            opponentNorth Dakota  
+                    -5.070e-01                      -1.049e+00  
+          opponentNortheastern       opponentNorthern Michigan  
+                     3.218e-01                      -3.395e-01  
+            opponentNotre Dame              opponentOhio State  
+                    -1.110e+00                      -4.846e-01  
+            opponentPenn State               opponentPrinceton  
+                     2.602e-01                      -8.815e-02  
+            opponentProvidence              opponentQuinnipiac  
+                    -8.445e-01                      -1.687e+00  
+            opponentRensselaer                     opponentRIT  
+                    -8.059e-01                       3.412e-01  
+         opponentRobert Morris            opponentSacred Heart  
+                    -1.352e-01                       2.359e+00  
+       opponentSt. Cloud State            opponentSt. Lawrence  
+                    -1.079e+00                      -5.066e-01  
+                 opponentUnion                 opponentVermont  
+                    -9.700e-01                      -1.904e-01  
+      opponentWestern Michigan               opponentWisconsin  
+                    -8.367e-01                      -9.771e-01  
+                  opponentYale  
+                    -1.115e+00  
+
+Degrees of Freedom: 2206 Total (i.e. Null);  2089 Residual
+Null Deviance:	    2687 
+Residual Deviance: 2345 	AIC: 2951 
+> 
+> logistic <- as.data.frame(summary(fit)$coefficients[1:d,])
+> logistic <- logistic[with(logistic, order(-Estimate)), ]
+> 
+> logistic <- subset(logistic,TRUE,select=c(Estimate))
+> logistic$Estimate <- exp(logistic$Estimate)
+> logistic
+                             Estimate
+teamQuinnipiac             5.40347678
+teamMassachusetts-Lowell   4.39337871
+teamMinnesota              4.17245054
+teamYale                   3.05059980
+teamMiami                  3.04745637
+teamNotre Dame             3.03409342
+teamBoston College         2.97974102
+teamSt. Cloud State        2.94266303
+teamNew Hampshire          2.92541106
+teamMinnesota State        2.88708880
+teamNorth Dakota           2.85532745
+teamDenver                 2.77620002
+teamWisconsin              2.65678613
+teamUnion                  2.63803235
+teamBoston University      2.35880549
+teamProvidence             2.32681002
+teamWestern Michigan       2.30867346
+teamRensselaer             2.23872468
+teamColorado College       1.97813229
+teamBrown                  1.90314242
+teamDartmouth              1.83382182
+teamCornell                1.82426571
+teamNiagara                1.66037928
+teamSt. Lawrence           1.65962587
+teamNebraska-Omaha         1.65147737
+teamOhio State             1.62358077
+teamFerris State           1.58233689
+teamAlaska                 1.57318391
+teamMichigan               1.53375194
+teamMerrimack              1.48660028
+teamNorthern Michigan      1.40428816
+teamColgate                1.25493314
+teamBowling Green          1.24492353
+teamVermont                1.20967426
+teamMassachusetts          1.17664017
+teamLake Superior          1.17061067
+teamMaine                  1.16852020
+teamMinnesota-Duluth       1.16735920
+teamRobert Morris          1.14474574
+teamMichigan Tech          1.13547590
+teamPrinceton              1.09215305
+teamHoly Cross             1.06543733
+teamMichigan State         1.03637486
+teamConnecticut            1.02909679
+teamHarvard                1.00104481
+teamAir Force              1.00000000
+teamClarkson               0.91652263
+teamMercyhurst             0.91080428
+teamCanisius               0.88258090
+teamPenn State             0.77090962
+teamNortheastern           0.72485288
+teamRIT                    0.71090816
+teamBemidji State          0.67645245
+teamAlaska-Anchorage       0.51409758
+teamAmerican International 0.50245102
+teamBentley                0.41750836
+teamArmy                   0.26709933
+teamSacred Heart           0.09452977
+teamAlabama-Huntsville     0.08689010
+> 
+> quit("no")
