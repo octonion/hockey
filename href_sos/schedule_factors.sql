@@ -60,7 +60,7 @@ r.opponent_id,
 r.year,
 r.field
 from href.results r
-where r.year between 2002 and 2013
+where r.year between 2002 and 2014
 );
 
 update public.r

@@ -1,0 +1,60 @@
+                         Estimate
+Quinnipiac             3.95033463
+Massachusetts-Lowell   3.25243187
+Minnesota              2.82388531
+Yale                   2.27942112
+Miami                  2.21105503
+Notre Dame             2.17199581
+New Hampshire          2.13214626
+Boston College         2.12837958
+St. Cloud State        2.00911565
+Union                  2.00624919
+North Dakota           1.99054169
+Minnesota State        1.96780382
+Denver                 1.84893604
+Wisconsin              1.82564064
+Providence             1.70396231
+Boston University      1.68374652
+Western Michigan       1.66448139
+Rensselaer             1.66198638
+Brown                  1.40413965
+Colorado College       1.39121085
+Cornell                1.38824557
+Niagara                1.36282892
+Dartmouth              1.35395617
+St. Lawrence           1.26579460
+Ohio State             1.20216401
+Ferris State           1.19325555
+Nebraska-Omaha         1.16140236
+Alaska                 1.12382232
+Michigan               1.11264315
+Merrimack              1.07745208
+Northern Michigan      1.05049968
+Robert Morris          0.95742202
+Colgate                0.95659683
+Bowling Green          0.95496607
+Vermont                0.87329083
+Holy Cross             0.84227822
+Lake Superior          0.83855096
+Maine                  0.83670908
+Massachusetts          0.83584215
+Princeton              0.82634702
+Connecticut            0.81964119
+Minnesota-Duluth       0.81804466
+Michigan Tech          0.80212041
+Air Force              0.79966843
+Michigan State         0.77855651
+Harvard                0.75656645
+Mercyhurst             0.75471428
+Canisius               0.70330624
+Clarkson               0.70023157
+Penn State             0.64530158
+RIT                    0.58604616
+Northeastern           0.52206478
+Bemidji State          0.45855441
+American International 0.41921680
+Alaska-Anchorage       0.35397604
+Bentley                0.34369988
+Army                   0.21655539
+Alabama-Huntsville     0.07835112
+Sacred Heart           0.07725705

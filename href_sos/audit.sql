@@ -20,7 +20,7 @@ offensive::numeric(4,3) as ofs,
 defensive::numeric(4,3) as dfs,
 schedule_strength::numeric(4,3) as sos
 from href._schedule_factors sf
-where sf.year in (2013)
+where sf.year in (2014)
 and sf.team_id is not null
 order by str desc);
 

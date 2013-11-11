@@ -15,8 +15,8 @@ table_xpath = '//*[@id="games"]/tbody/tr'
 
 #//*[@id="games"]/tbody/tr[1]/td[1]/a
 
-first_year = 2013
-last_year = 2013
+first_year = 2014
+last_year = 2014
 
 if (first_year==last_year)
   stats = CSV.open("games_#{first_year}.csv","w")

@@ -16,7 +16,7 @@ r.opponent_id as opponent,
 r.team_score as gs
 from href.results r
 where
-    r.year between 2002 and 2013
+    r.year between 2002 and 2014
 ;")
 
 games <- fetch(query,n=-1)
