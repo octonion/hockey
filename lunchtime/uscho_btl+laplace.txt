@@ -1,0 +1,163 @@
+
+R version 3.0.3 (2014-03-06) -- "Warm Puppy"
+Copyright (C) 2014 The R Foundation for Statistical Computing
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> library("BradleyTerry2")
+> 
+> games <- read.csv("uscho_games.csv",stringsAsFactors=FALSE)
+> dim(games)
+[1] 31193    10
+> 
+> g <- subset(games,year==2013 & team_div=="I" & opponent_div=="I")
+> dim(g)
+[1] 1103   10
+> 
+> teams <- unique(append(g$team,g$opponent))
+> n <- length(teams)
+> 
+> dummy_games_won <- data.frame(year=rep("2013",n),game_date=rep("",n),team=rep("Dummy",n),team_div=rep("I",n),opponent=teams,opponent_div=rep("I",n),site=rep("",n),team_score=rep(1,n),opponent_score=rep(0,n),outcome=rep(1.0,n))
+> 
+> dummy_games_lost <- data.frame(year=rep("2013",n),game_date=rep("",n),team=teams,team_div=rep("I",n),opponent=rep("Dummy",n),opponent_div=rep("I",n),site=rep("",n),team_score=rep(1,n),opponent_score=rep(0,n),outcome=rep(1.0,n))
+> 
+> g <- rbind(g,dummy_games_won)
+> g <- rbind(g,dummy_games_lost)
+> dim(g)
+[1] 1221   10
+> 
+> fit <- BTm(outcome,team,opponent,data=g)
+> 
+> fit
+Bradley Terry model fit by glm.fit 
+
+Call:  BTm(outcome = outcome, player1 = team, player2 = opponent, data = g)
+
+Coefficients:
+    ..Alabama-Huntsville                  ..Alaska        ..Alaska-Anchorage  
+                -2.07485                   0.26425                  -0.80077  
+..American International                    ..Army           ..Bemidji State  
+                -0.61182                  -1.20397                  -0.55919  
+               ..Bentley          ..Boston College       ..Boston University  
+                -0.79415                   0.82486                   0.60373  
+         ..Bowling Green                   ..Brown                ..Canisius  
+                 0.04464                   0.43270                  -0.13400  
+              ..Clarkson                 ..Colgate        ..Colorado College  
+                -0.23434                   0.04626                   0.43647  
+           ..Connecticut                 ..Cornell               ..Dartmouth  
+                 0.03164                   0.37348                   0.38681  
+                ..Denver                   ..Dummy            ..Ferris State  
+                 0.75464                   0.17446                   0.26781  
+               ..Harvard              ..Holy Cross           ..Lake Superior  
+                -0.17908                   0.06437                  -0.01770  
+                 ..Maine           ..Massachusetts    ..Massachusetts-Lowell  
+                -0.04320                  -0.04312                   1.19239  
+            ..Mercyhurst               ..Merrimack                   ..Miami  
+                -0.09566                   0.18226                   0.88153  
+              ..Michigan          ..Michigan State           ..Michigan Tech  
+                 0.23924                  -0.13171                  -0.07476  
+             ..Minnesota        ..Minnesota-Duluth         ..Minnesota State  
+                 1.15111                  -0.04025                   0.80398  
+        ..Nebraska-Omaha           ..New Hampshire                 ..Niagara  
+                 0.28399                   0.80051                   0.46217  
+          ..North Dakota            ..Northeastern       ..Northern Michigan  
+                 0.79796                  -0.47453                   0.13910  
+            ..Notre Dame              ..Ohio State              ..Penn State  
+                 0.87201                   0.29209                  -0.25550  
+             ..Princeton              ..Providence              ..Quinnipiac  
+                -0.09419                   0.58492                   1.41821  
+            ..Rensselaer                     ..RIT           ..Robert Morris  
+                 0.57782                  -0.32406                   0.12862  
+          ..Sacred Heart         ..St. Cloud State            ..St. Lawrence  
+                -2.12581                   0.81581                   0.30998  
+                 ..Union                 ..Vermont        ..Western Michigan  
+                 0.74517                  -0.02250                   0.62606  
+             ..Wisconsin                    ..Yale  
+                 0.72960                   0.86086  
+
+Degrees of Freedom: 1221 Total (i.e. Null);  1162 Residual
+Null Deviance:	    1507 
+Residual Deviance: 1350 	AIC: 1656
+> 
+> krach <- as.data.frame(BTabilities(fit))
+> krach <- krach[with(krach, order(-ability)), ]
+> 
+> krach <- subset(krach,TRUE,select=c(ability))
+> krach$ability <- exp(krach$ability)
+> krach
+                         ability
+Quinnipiac             4.1297234
+Massachusetts-Lowell   3.2949460
+Minnesota              3.1616861
+Miami                  2.4145816
+Notre Dame             2.3917174
+Yale                   2.3652006
+Boston College         2.2815694
+St. Cloud State        2.2610110
+Minnesota State        2.2344136
+New Hampshire          2.2266786
+North Dakota           2.2210051
+Denver                 2.1268387
+Union                  2.1068027
+Wisconsin              2.0742594
+Western Michigan       1.8702189
+Boston University      1.8289247
+Providence             1.7948500
+Rensselaer             1.7821408
+Niagara                1.5875200
+Colorado College       1.5472310
+Brown                  1.5414184
+Dartmouth              1.4722754
+Cornell                1.4527884
+St. Lawrence           1.3633968
+Ohio State             1.3392203
+Nebraska-Omaha         1.3284234
+Ferris State           1.3071029
+Alaska                 1.3024593
+Michigan               1.2702824
+Merrimack              1.1999241
+Dummy                  1.1906022
+Northern Michigan      1.1492349
+Robert Morris          1.1372541
+Holy Cross             1.0664837
+Colgate                1.0473459
+Bowling Green          1.0456550
+Connecticut            1.0321466
+Air Force              1.0000000
+Lake Superior          0.9824579
+Vermont                0.9777483
+Minnesota-Duluth       0.9605505
+Massachusetts          0.9577936
+Maine                  0.9577196
+Michigan Tech          0.9279670
+Princeton              0.9101098
+Mercyhurst             0.9087697
+Michigan State         0.8765959
+Canisius               0.8745866
+Harvard                0.8360422
+Clarkson               0.7910940
+Penn State             0.7745266
+RIT                    0.7232042
+Northeastern           0.6221793
+Bemidji State          0.5716695
+American International 0.5423621
+Bentley                0.4519636
+Alaska-Anchorage       0.4489811
+Army                   0.3000002
+Alabama-Huntsville     0.1255747
+Sacred Heart           0.1193365
+> 
+> quit("no")
