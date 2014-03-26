@@ -1,0 +1,106 @@
+
+R version 3.0.3 (2014-03-06) -- "Warm Puppy"
+Copyright (C) 2014 The R Foundation for Statistical Computing
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> library("BradleyTerry2")
+> 
+> nfl_games <- read.csv("nfl_games_2012.csv") #,stringsAsFactors=FALSE)
+> nfl_teams <- read.csv("nfl_teams.csv") #,stringsAsFactors=FALSE)
+> nfl_teams <- data.frame(team_id=nfl_teams$team_id,team_name=as.character(nfl_teams$team_name))
+> nfl_opponents <- data.frame(opponent_id=nfl_teams$team_id,opponent_name=as.character(nfl_teams$team_name))
+> 
+> nfl_games <- merge(nfl_games,nfl_teams,by="team_id")
+> nfl_games <- merge(nfl_games,nfl_opponents,by="opponent_id")
+> 
+> dim(nfl_games)
+[1] 267  10
+> #nfl_games$team_name <- as.factor(nfl_games$team_name)
+> #nfl_games$opponent_name <- as.factor(nfl_games$opponent_name)
+> nfl_games$outcome <- (nfl_games$team_score > nfl_games$opponent_score)
+> 
+> team1 <- as.character(nfl_games$team_name)
+> team2 <- as.character(nfl_games$opponent_name)
+> 
+> t <- unique(append(team1,team2))
+> 
+> n <- length(t)
+> 
+> g <- data.frame(team=nfl_games$team_name,opponent=nfl_games$opponent_name,outcome=nfl_games$outcome)
+> 
+> dummy_games_won <- data.frame(team=rep(" Dummy",n),opponent=t,outcome=rep(1.0,n))
+> 
+> dummy_games_lost <- data.frame(team=t,opponent=rep(" Dummy",n),outcome=rep(1.0,n))
+> 
+> g <- rbind(g,dummy_games_won)
+> g <- rbind(g,dummy_games_lost)
+> 
+> #g$team <- as.factor(g$team)
+> #g$opponent <- as.factor(g$opponent)
+> dim(g)
+[1] 331   3
+> 
+> fit <- BTm(outcome,team,opponent,data=g)
+> krach <- as.data.frame(BTabilities(fit))
+> 
+> krach <- krach[with(krach, order(-ability)), ]
+> 
+> krach <- subset(krach,TRUE,select=c(ability))
+> d <- krach[" Dummy",]
+> krach$ability <- krach$ability-d
+> 
+> krach$exp_ability <- exp(krach$ability)
+> krach$p <- krach$exp_ability/(krach$exp_ability+1.0)
+> krach
+                    ability exp_ability         p
+ San_Francisco  1.227136817   3.4114479 0.7733171
+ New_England    1.080519111   2.9462086 0.7465922
+ Atlanta        1.037638957   2.8225450 0.7383942
+ Houston        1.037175243   2.8212364 0.7383046
+ Denver         1.010250326   2.7462884 0.7330691
+ Baltimore      0.953856208   2.5956999 0.7218900
+ Green_Bay      0.895075599   2.4475208 0.7099365
+ Seattle        0.866500249   2.3785719 0.7040170
+ Chicago        0.645439602   1.9068251 0.6559821
+ Minnesota      0.564091621   1.7578503 0.6373987
+ Indianapolis   0.510345989   1.6658675 0.6248876
+ Washington     0.378907057   1.4606873 0.5936095
+ NY_Giants      0.324934857   1.3839405 0.5805264
+ Cincinnati     0.178977224   1.1959935 0.5446252
+ Dallas         0.079098883   1.0823113 0.5197644
+ Dummy          0.000000000   1.0000000 0.5000000
+ St_Louis      -0.001569831   0.9984314 0.4996075
+ Pittsburgh    -0.171426907   0.8424618 0.4572479
+ New_Orleans   -0.234465597   0.7909934 0.4416507
+ Miami         -0.256602230   0.7736759 0.4361991
+ Carolina      -0.259595983   0.7713632 0.4354630
+ Tampa_Bay     -0.306396388   0.7360948 0.4239946
+ NY_Jets       -0.463893961   0.6288302 0.3860625
+ Arizona       -0.469463363   0.6253378 0.3847433
+ Tennessee     -0.491375502   0.6117843 0.3795696
+ San_Diego     -0.532786180   0.5869673 0.3698673
+ Buffalo       -0.570117056   0.5654592 0.3612098
+ Detroit       -0.760362398   0.4674970 0.3185676
+ Cleveland     -0.821815975   0.4396326 0.3053783
+ Philadelphia  -0.966868918   0.3802718 0.2755050
+ Oakland       -1.346417510   0.2601707 0.2064567
+ Jacksonville  -1.649478386   0.1921501 0.1611795
+ Kansas_City   -1.857600181   0.1560467 0.1349830
+> sum(krach$p)
+[1] 16.5
+> 
+> quit("no")
