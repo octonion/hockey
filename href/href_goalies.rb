@@ -1,4 +1,4 @@
-#!/usr/bin/ruby1.9.1
+#!/usr/bin/ruby
 # coding: utf-8
 
 bad = " "
@@ -15,7 +15,7 @@ table_xpath = '//*[@id="stats"]/tbody/tr'
 
 stats = CSV.open("goalies.csv","w")
 
-(1990..2012).each do |year|
+(1990..2014).each do |year|
 
   if (year==2005)
     next

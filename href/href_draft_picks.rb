@@ -1,4 +1,4 @@
-#!/usr/bin/ruby1.9.1
+#!/usr/bin/ruby
 # coding: utf-8
 
 bad = " "
@@ -15,7 +15,7 @@ table_xpath = '//*[@id="stats"]/tbody/tr'
 
 stats = CSV.open("draft_picks.csv","w")
 
-(1990..2012).each do |year|
+(1990..2014).each do |year|
 
   url = "#{base}/NHL_#{year}_entry.html"
   print "Pulling draft year #{year}"

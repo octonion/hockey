@@ -15,7 +15,7 @@ table_xpath = '//*[@id="games_playoffs"]/tbody/tr'
 
 stats = CSV.open("playoffs.csv","w")
 
-(1990..2012).each do |year|
+(1990..2014).each do |year|
 
   if (year==2005)
     next

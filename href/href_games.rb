@@ -1,4 +1,4 @@
-#!/usr/bin/ruby1.9.3
+#!/usr/bin/ruby
 # coding: utf-8
 
 bad = " "
@@ -15,8 +15,8 @@ table_xpath = '//*[@id="games"]/tbody/tr'
 
 #//*[@id="games"]/tbody/tr[1]/td[1]/a
 
-first_year = 2014
-last_year = 2014
+first_year = 2015
+last_year = 2015
 
 if (first_year==last_year)
   stats = CSV.open("games_#{first_year}.csv","w")
