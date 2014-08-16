@@ -1,4 +1,4 @@
-#!/usr/bin/ruby1.9.1
+#!/usr/bin/ruby
 
 require 'csv'
 require 'mechanize'
@@ -9,8 +9,8 @@ agent.user_agent = 'Mozilla/5.0'
 d1_base = 'http://www.uscho.com/scoreboard/division-i-men'
 d3_base = 'http://www.uscho.com/scoreboard/division-iii-men'
 
-first_year = 2014
-last_year = 2014
+first_year = 2015
+last_year = 2015
 
 path = '//*[@id="scoreboard"]/table/tr'
 
