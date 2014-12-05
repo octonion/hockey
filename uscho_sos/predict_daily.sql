@@ -47,7 +47,7 @@ join uscho._basic_factors i
 where
     TRUE
 and g.game_date = current_date
-and g.year=2014
+and g.year=2015
 and g.field in ('offense_home','none')
 --and g.pulled_id=least(g.school_id,g.opponent_id)
 --and g.pulled_id='alaska-anchorage'

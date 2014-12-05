@@ -11,7 +11,7 @@ count(*)
 from uscho.results r
 where
     r.school_div_id<=r.opponent_div_id
-and r.year between 1999 and 2014
+and r.year between 1999 and 2015
 group by r.year,t_div,o_div
 order by r.year,t_div,o_div;
 

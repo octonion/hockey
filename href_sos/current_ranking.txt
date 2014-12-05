@@ -3,36 +3,36 @@ CREATE TABLE
 INSERT 0 30
  rk |         team          |  str  |  ofs  |  dfs  |  sos  
 ----+-----------------------+-------+-------+-------+-------
-  1 | San Jose Sharks       | 1.157 | 1.090 | 0.942 | 1.000
-  2 | Colorado Avalanche    | 1.152 | 1.052 | 0.913 | 0.994
-  3 | Anaheim Ducks         | 1.114 | 1.072 | 0.962 | 0.996
-  4 | St. Louis Blues       | 1.104 | 1.050 | 0.951 | 0.996
-  5 | Boston Bruins         | 1.097 | 1.007 | 0.918 | 1.001
-  6 | Chicago Blackhawks    | 1.091 | 1.079 | 0.989 | 0.994
-  7 | Minnesota Wild        | 1.068 | 0.995 | 0.932 | 0.993
-  8 | Montreal Canadiens    | 1.055 | 0.999 | 0.947 | 0.997
-  9 | Tampa Bay Lightning   | 1.050 | 1.034 | 0.985 | 0.994
- 10 | Toronto Maple Leafs   | 1.050 | 1.017 | 0.969 | 0.999
- 11 | Pittsburgh Penguins   | 1.045 | 1.019 | 0.975 | 0.989
- 12 | Ottawa Senators       | 1.026 | 1.037 | 1.010 | 1.003
- 13 | Los Angeles Kings     | 1.008 | 0.988 | 0.980 | 0.986
- 14 | Detroit Red Wings     | 1.003 | 0.982 | 0.978 | 0.997
- 15 | Phoenix Coyotes       | 1.000 | 1.042 | 1.042 | 1.000
- 16 | Vancouver Canucks     | 0.999 | 0.987 | 0.988 | 1.005
- 17 | Washington Capitals   | 0.997 | 1.022 | 1.025 | 0.988
- 18 | New Jersey Devils     | 0.991 | 0.953 | 0.961 | 0.991
- 19 | New York Rangers      | 0.966 | 0.970 | 1.004 | 1.000
- 20 | Winnipeg Jets         | 0.965 | 0.984 | 1.019 | 1.010
- 21 | Dallas Stars          | 0.964 | 0.991 | 1.029 | 1.012
- 22 | Columbus Blue Jackets | 0.958 | 0.987 | 1.030 | 1.001
- 23 | New York Islanders    | 0.941 | 1.006 | 1.069 | 0.989
- 24 | Carolina Hurricanes   | 0.935 | 0.932 | 0.997 | 1.005
- 25 | Calgary Flames        | 0.935 | 1.014 | 1.085 | 1.017
- 26 | Nashville Predators   | 0.922 | 0.962 | 1.044 | 1.011
- 27 | Philadelphia Flyers   | 0.904 | 0.916 | 1.013 | 0.992
- 28 | Florida Panthers      | 0.873 | 0.946 | 1.083 | 1.004
- 29 | Buffalo Sabres        | 0.863 | 0.914 | 1.058 | 1.014
- 30 | Edmonton Oilers       | 0.860 | 0.986 | 1.145 | 1.002
+  1 | St. Louis Blues       | 1.202 | 1.102 | 0.916 | 1.000
+  2 | Boston Bruins         | 1.177 | 1.065 | 0.905 | 0.992
+  3 | Chicago Blackhawks    | 1.175 | 1.141 | 0.971 | 0.999
+  4 | Anaheim Ducks         | 1.174 | 1.099 | 0.936 | 1.002
+  5 | Pittsburgh Penguins   | 1.141 | 1.089 | 0.954 | 0.989
+  6 | San Jose Sharks       | 1.106 | 1.039 | 0.940 | 1.001
+  7 | Los Angeles Kings     | 1.066 | 0.934 | 0.876 | 1.004
+  8 | Tampa Bay Lightning   | 1.060 | 1.016 | 0.958 | 0.998
+  9 | Colorado Avalanche    | 1.047 | 1.048 | 1.001 | 0.997
+ 10 | Dallas Stars          | 1.033 | 1.033 | 1.000 | 1.006
+ 11 | New York Rangers      | 1.031 | 0.981 | 0.952 | 1.000
+ 12 | Montreal Canadiens    | 1.018 | 0.956 | 0.939 | 0.995
+ 13 | Minnesota Wild        | 1.015 | 0.941 | 0.928 | 1.001
+ 14 | New Jersey Devils     | 1.012 | 0.925 | 0.914 | 1.002
+ 15 | Columbus Blue Jackets | 1.012 | 1.041 | 1.028 | 0.998
+ 16 | Detroit Red Wings     | 0.991 | 0.978 | 0.987 | 0.993
+ 17 | Phoenix Coyotes       | 0.980 | 1.009 | 1.029 | 1.000
+ 18 | Vancouver Canucks     | 0.974 | 0.934 | 0.959 | 1.006
+ 19 | Winnipeg Jets         | 0.969 | 1.006 | 1.039 | 1.003
+ 20 | Philadelphia Flyers   | 0.967 | 1.009 | 1.044 | 0.992
+ 21 | Washington Capitals   | 0.960 | 1.014 | 1.057 | 0.990
+ 22 | Carolina Hurricanes   | 0.952 | 0.960 | 1.008 | 0.998
+ 23 | Toronto Maple Leafs   | 0.952 | 1.031 | 1.083 | 0.994
+ 24 | Ottawa Senators       | 0.923 | 1.026 | 1.112 | 1.002
+ 25 | Nashville Predators   | 0.919 | 0.970 | 1.056 | 1.006
+ 26 | New York Islanders    | 0.889 | 1.006 | 1.132 | 1.009
+ 27 | Calgary Flames        | 0.862 | 0.921 | 1.069 | 1.010
+ 28 | Edmonton Oilers       | 0.862 | 0.971 | 1.126 | 1.005
+ 29 | Florida Panthers      | 0.861 | 0.946 | 1.099 | 1.002
+ 30 | Buffalo Sabres        | 0.821 | 0.866 | 1.055 | 1.004
 (30 rows)
 
 COMMIT

@@ -38,7 +38,7 @@ join uscho._factors o
   on (o.parameter,o.level::integer)=('o_div',length(t.division))
 join uscho._factors d
   on (d.parameter,d.level::integer)=('d_div',length(t.division))
-where sf.year in (2014)
+where sf.year in (2015)
 order by str desc);
 
 select
