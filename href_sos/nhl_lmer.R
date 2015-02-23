@@ -72,7 +72,7 @@ g$gs <- gs
 
 dim(g)
 
-fit <- glmer(model,data=g,REML=TRUE,verbose=TRUE,family=poisson(link=log))
+fit <- glmer(model, data=g, REML=TRUE, verbose=TRUE, family=poisson)
 fit
 summary(fit)
 

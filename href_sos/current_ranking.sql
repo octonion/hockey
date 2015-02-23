@@ -27,7 +27,7 @@ schedule_strength::numeric(4,3) as sos
 from href._schedule_factors sf
 join href.teams s
   on (s.team_id)=(sf.team_id)
-where sf.year in (2014)
+where sf.year in (2015)
 order by str desc);
 
 select
