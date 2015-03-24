@@ -1,10 +1,10 @@
-library("BradleyTerry2")
+library(BradleyTerry2)
 
-library("RPostgreSQL")
+library(RPostgreSQL)
 
 drv <- dbDriver("PostgreSQL")
 
-con <- dbConnect(drv,host="localhost",port="5432",dbname="hockey")
+con <- dbConnect(drv,dbname="hockey")
 
 query <- dbSendQuery(con, "
 select
@@ -12,11 +12,11 @@ select
       when r.team_score<r.opponent_score then 0.0
       when r.team_score=r.opponent_score then 0.5
  end) as outcome,
-r.school_name as team,
-r.opponent_name as opponent
+r.school_id as team,
+r.opponent_id as opponent
 from uscho.results r
 where
-    r.year between 2013 and 2013
+    r.year between 2015 and 2015
 and r.school_div_id=1
 and r.opponent_div_id=1
 and r.team_score is not null

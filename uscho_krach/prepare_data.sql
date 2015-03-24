@@ -23,7 +23,7 @@ join uscho.teams o
   on (o.team_id,o.year)=(g.opponent_id,g.year)
 where
     TRUE
---and g.year=2013
+--and g.year=2015
 --and t.division='I'
 --and o.division='I'
 and g.team_score is not null
