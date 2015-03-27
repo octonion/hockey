@@ -40,7 +40,8 @@ where
     TRUE
 and g.game_date = current_date
 and g.year=2015
-and g.field in ('offense_home','none')
+and (g.field in ('offense_home') or
+    (g.field in ('none') and g.school_id < g.opponent_id))
 order by team asc;
 
 copy
@@ -83,7 +84,8 @@ where
     TRUE
 and g.game_date = current_date
 and g.year=2015
-and g.field in ('offense_home','none')
+and (g.field in ('offense_home') or
+    (g.field in ('none') and g.school_id < g.opponent_id))
 order by team asc
 ) to '/tmp/predict_daily.csv' csv header;
 
