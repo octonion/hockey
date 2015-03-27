@@ -43,7 +43,7 @@ pll <- list()
 year <- as.factor(year)
 
 field <- as.factor(field)
-field <- relevel(field, ref = "none")
+field <- relevel(field, ref = "neutral")
 
 d_div <- as.factor(d_div)
 

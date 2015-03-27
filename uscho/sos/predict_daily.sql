@@ -31,7 +31,7 @@ join uscho._factors d
   on (d.parameter,d.level)=('field',
     (case when g.field='offense_home' then 'defense_home'
           when g.field='defense_home' then 'offense_home'
-          when g.field='none' then 'none' end))
+          when g.field='neutral' then 'neutral' end))
 join uscho._factors y
   on (y.parameter,y.level)=('year',g.year::text)
 join uscho._basic_factors i
@@ -41,7 +41,7 @@ where
 and g.game_date = current_date
 and g.year=2015
 and (g.field in ('offense_home') or
-    (g.field in ('none') and g.school_id < g.opponent_id))
+    (g.field in ('neutral') and g.school_id < g.opponent_id))
 order by team asc;
 
 copy
@@ -75,7 +75,7 @@ join uscho._factors d
   on (d.parameter,d.level)=('field',
     (case when g.field='offense_home' then 'defense_home'
           when g.field='defense_home' then 'offense_home'
-          when g.field='none' then 'none' end))
+          when g.field='neutral' then 'neutral' end))
 join uscho._factors y
   on (y.parameter,y.level)=('year',g.year::text)
 join uscho._basic_factors i
@@ -85,7 +85,7 @@ where
 and g.game_date = current_date
 and g.year=2015
 and (g.field in ('offense_home') or
-    (g.field in ('none') and g.school_id < g.opponent_id))
+    (g.field in ('neutral') and g.school_id < g.opponent_id))
 order by team asc
 ) to '/tmp/predict_daily.csv' csv header;
 
