@@ -2,70 +2,50 @@ BEGIN
  rd |       name        |   p   
 ----+-------------------+-------
   2 | Minnesota State   | 0.775
-  2 | Michigan Tech     | 0.637
-  2 | North Dakota      | 0.575
   2 | Harvard           | 0.556
   2 | Denver            | 0.550
-  2 | Boston University | 0.548
   2 | Miami (Ohio)      | 0.540
-  2 | Minnesota-Duluth  | 0.500
-  2 | Minnesota         | 0.500
   2 | Providence        | 0.460
-  2 | Yale              | 0.452
   2 | Boston College    | 0.450
   2 | Nebraska-Omaha    | 0.444
-  2 | Quinnipiac        | 0.425
-  2 | St. Cloud State   | 0.363
   2 | RIT               | 0.225
+  3 | Boston University | 0.560
   3 | Minnesota State   | 0.511
-  3 | Michigan Tech     | 0.422
-  3 | Boston University | 0.307
+  3 | North Dakota      | 0.503
+  3 | St. Cloud State   | 0.497
+  3 | Minnesota-Duluth  | 0.440
   3 | Miami (Ohio)      | 0.288
   3 | Denver            | 0.279
   3 | Harvard           | 0.240
-  3 | North Dakota      | 0.239
-  3 | Minnesota         | 0.231
-  3 | Yale              | 0.231
-  3 | Minnesota-Duluth  | 0.231
   3 | Providence        | 0.227
   3 | Boston College    | 0.206
-  3 | St. Cloud State   | 0.192
   3 | Nebraska-Omaha    | 0.169
-  3 | Quinnipiac        | 0.147
   3 | RIT               | 0.081
   4 | Minnesota State   | 0.329
-  4 | Michigan Tech     | 0.251
-  4 | Boston University | 0.164
+  4 | Boston University | 0.325
+  4 | Minnesota-Duluth  | 0.229
+  4 | North Dakota      | 0.225
+  4 | St. Cloud State   | 0.221
   4 | Miami (Ohio)      | 0.135
   4 | Denver            | 0.128
   4 | Harvard           | 0.122
-  4 | Yale              | 0.112
-  4 | Minnesota-Duluth  | 0.110
-  4 | North Dakota      | 0.110
-  4 | Minnesota         | 0.109
   4 | Providence        | 0.098
-  4 | St. Cloud State   | 0.088
   4 | Boston College    | 0.085
   4 | Nebraska-Omaha    | 0.076
-  4 | Quinnipiac        | 0.057
   4 | RIT               | 0.028
-  5 | Minnesota State   | 0.192
-  5 | Michigan Tech     | 0.151
-  5 | Boston University | 0.089
-  5 | Miami (Ohio)      | 0.062
-  5 | Denver            | 0.058
-  5 | Yale              | 0.056
-  5 | Harvard           | 0.055
-  5 | Minnesota-Duluth  | 0.054
-  5 | Minnesota         | 0.053
-  5 | North Dakota      | 0.052
-  5 | Providence        | 0.042
-  5 | St. Cloud State   | 0.041
-  5 | Boston College    | 0.034
-  5 | Nebraska-Omaha    | 0.030
-  5 | Quinnipiac        | 0.023
-  5 | RIT               | 0.008
-(64 rows)
+  5 | Minnesota State   | 0.199
+  5 | Boston University | 0.178
+  5 | Minnesota-Duluth  | 0.112
+  5 | North Dakota      | 0.106
+  5 | St. Cloud State   | 0.103
+  5 | Miami (Ohio)      | 0.065
+  5 | Denver            | 0.061
+  5 | Harvard           | 0.057
+  5 | Providence        | 0.044
+  5 | Boston College    | 0.036
+  5 | Nebraska-Omaha    | 0.031
+  5 | RIT               | 0.009
+(44 rows)
 
-COPY 64
+COPY 44
 COMMIT
