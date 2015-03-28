@@ -6,7 +6,7 @@ require 'mechanize'
 agent = Mechanize.new{ |agent| agent.history.max_size=0 }
 agent.user_agent = 'Mozilla/5.0'
 
-results = CSV.open('uscho_teams.csv','w')
+results = CSV.open('csv/uscho_teams.csv','w')
 
 base = 'http://www.uscho.com/stats/history/'
 url = 'http://www.uscho.com/stats/'
@@ -77,4 +77,3 @@ teams.each do |team_id|
 end
 
 results.close
-

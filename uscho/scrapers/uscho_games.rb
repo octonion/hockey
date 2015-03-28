@@ -12,13 +12,13 @@ d3_base = 'http://www.uscho.com/scoreboard/division-iii-men'
 first_year = 2015
 last_year = 2015
 
-path = '//*[@id="scoreboard"]/table/tr'
+path = '//section[@id="scoreboard"]/table/tr'
 
 (first_year..last_year).each do |year|
 
   print "Pulling #{year}\n"
 
-  games = CSV.open("uscho_games_#{year}.csv","w")
+  games = CSV.open("csv/uscho_games_#{year}.csv","w")
 
   url = "#{d1_base}/#{year-1}-#{year}/composite-schedule/"
 
@@ -56,6 +56,8 @@ path = '//*[@id="scoreboard"]/table/tr'
     games << row
   end
 
+  games.flush
+
   url = "#{d3_base}/#{year-1}-#{year}/composite-schedule/"
 
   begin
@@ -91,5 +93,7 @@ path = '//*[@id="scoreboard"]/table/tr'
     end
     games << row
   end
+
+  games.close
 
 end

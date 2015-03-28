@@ -1,19 +1,17 @@
 BEGIN
     school_name    |    p    
 -------------------+---------
- Minnesota State   | 0.19906
- Boston University | 0.17781
- Minnesota-Duluth  | 0.11204
- North Dakota      | 0.10562
- St. Cloud State   | 0.10292
- Miami (Ohio)      | 0.06525
- Denver            | 0.06065
- Harvard           | 0.05701
- Providence        | 0.04355
- Boston College    | 0.03600
- Nebraska-Omaha    | 0.03144
- RIT               | 0.00865
-(12 rows)
+ Boston University | 0.19651
+ Denver            | 0.13940
+ Minnesota-Duluth  | 0.12534
+ North Dakota      | 0.11862
+ St. Cloud State   | 0.11567
+ Harvard           | 0.08591
+ Miami (Ohio)      | 0.07865
+ Providence        | 0.05320
+ Nebraska-Omaha    | 0.04936
+ RIT               | 0.03736
+(10 rows)
 
-COPY 12
+COPY 10
 COMMIT
