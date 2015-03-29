@@ -1,35 +1,21 @@
 rd,name,p
-2,Harvard,0.556
-2,Miami (Ohio),0.540
-2,Providence,0.460
-2,Nebraska-Omaha,0.444
-3,Boston University,0.560
-3,Denver,0.508
+3,Nebraska-Omaha,0.611
+3,Denver,0.529
 3,North Dakota,0.503
 3,St. Cloud State,0.497
-3,Minnesota-Duluth,0.440
-3,Harvard,0.369
-3,RIT,0.360
-3,Miami (Ohio),0.275
-3,Nebraska-Omaha,0.271
-3,Providence,0.217
-4,Boston University,0.325
-4,Denver,0.294
-4,Minnesota-Duluth,0.229
-4,North Dakota,0.225
-4,St. Cloud State,0.221
-4,Harvard,0.184
-4,Miami (Ohio),0.162
-4,RIT,0.121
-4,Nebraska-Omaha,0.120
-4,Providence,0.120
-5,Boston University,0.197
-5,Denver,0.139
-5,Minnesota-Duluth,0.125
-5,North Dakota,0.119
-5,St. Cloud State,0.116
-5,Harvard,0.086
-5,Miami (Ohio),0.079
-5,Providence,0.053
-5,Nebraska-Omaha,0.049
-5,RIT,0.037
+3,Providence,0.471
+3,RIT,0.389
+4,Boston University,0.581
+4,Denver,0.319
+4,Nebraska-Omaha,0.276
+4,Providence,0.271
+4,North Dakota,0.212
+4,St. Cloud State,0.208
+4,RIT,0.134
+5,Boston University,0.360
+5,Denver,0.146
+5,Providence,0.116
+5,North Dakota,0.115
+5,St. Cloud State,0.112
+5,Nebraska-Omaha,0.110
+5,RIT,0.040
