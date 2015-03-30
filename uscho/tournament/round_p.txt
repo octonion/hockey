@@ -1,23 +1,15 @@
 BEGIN
  rd |       name        |   p   
 ----+-------------------+-------
-  3 | Nebraska-Omaha    | 0.611
-  3 | Denver            | 0.529
-  3 | Providence        | 0.471
-  3 | RIT               | 0.389
   4 | Boston University | 0.579
+  4 | Providence        | 0.533
+  4 | Nebraska-Omaha    | 0.467
   4 | North Dakota      | 0.421
-  4 | Denver            | 0.319
-  4 | Nebraska-Omaha    | 0.276
-  4 | Providence        | 0.271
-  4 | RIT               | 0.134
-  5 | Boston University | 0.360
-  5 | North Dakota      | 0.229
-  5 | Denver            | 0.146
-  5 | Providence        | 0.116
-  5 | Nebraska-Omaha    | 0.109
-  5 | RIT               | 0.040
-(16 rows)
+  5 | Boston University | 0.358
+  5 | Providence        | 0.229
+  5 | North Dakota      | 0.228
+  5 | Nebraska-Omaha    | 0.185
+(8 rows)
 
-COPY 16
+COPY 8
 COMMIT
