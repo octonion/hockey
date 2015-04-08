@@ -1,9 +1,10 @@
-sink("diagnostics/lmer.txt")
+sink("diagnostics/zim.txt")
 
-library(lme4)
+library(glmmADMB)
 library(RPostgreSQL)
 
 drv <- dbDriver("PostgreSQL")
+
 con <- dbConnect(drv, dbname="hockey")
 
 query <- dbSendQuery(con, "
@@ -13,12 +14,10 @@ r.year,
 r.field as field,
 r.team_id as team,
 r.opponent_id as opponent,
-r.team_score as gs,
-r.game_length as status
+r.team_score as gs
 from href.results r
 where
     r.year between 2011 and 2015
-and r.team_score is not null
 ;")
 
 games <- fetch(query,n=-1)
@@ -32,9 +31,8 @@ pll <- list()
 
 year <- as.factor(year)
 field <- as.factor(field)
-status <- as.factor(status)
 
-fp <- data.frame(year,field,status)
+fp <- data.frame(year,field)
 fpn <- names(fp)
 
 # Random parameters
@@ -65,17 +63,16 @@ for (n in rpn) {
 # Model parameters
 
 parameter_levels <- as.data.frame(do.call("rbind",pll))
-dbWriteTable(con,c("href","_parameter_levels"),parameter_levels,row.names=TRUE)
+dbWriteTable(con,c("href","_zim_parameter_levels"),parameter_levels,row.names=TRUE)
 
 g <- cbind(fp,rp)
 
-g$gs <- gs
-
 dim(g)
 
-model <- gs ~ year+field+status+(1|offense)+(1|defense)+(1|game_id)
+model <- gs ~ year+field+(1|offense)+(1|defense)+(1|game_id)
 
-fit <- glmer(model, data=g, REML=TRUE, verbose=TRUE, family=poisson)
+fit <- glmmadmb(model, data=g, zeroInflation=TRUE, family="poisson", verbose=TRUE, extra.args="-ndi 1000000 -rs")
+
 fit
 summary(fit)
 
@@ -121,6 +118,6 @@ for (n in rn) {
 
 combined <- as.data.frame(do.call("rbind",results))
 
-dbWriteTable(con,c("href","_basic_factors"),as.data.frame(combined),row.names=TRUE)
+dbWriteTable(con,c("href","_zim_basic_factors"),as.data.frame(combined),row.names=TRUE)
 
 quit("no")

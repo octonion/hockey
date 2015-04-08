@@ -43,10 +43,9 @@ end) as opponent_score,
 coalesce(status,'0 OT') as game_length
 from href.games g
 where
-    g.home_score is not NULL
-and g.visitor_score is not NULL
---and g.home_score >= 0
---and g.visitor_score >= 0
+--    g.home_score is not NULL
+--and g.visitor_score is not NULL
+    TRUE
 and g.home_id is not NULL
 and g.visitor_id is not NULL
 );
@@ -78,10 +77,9 @@ end) as opponent_score,
 coalesce(status,'0 OT') as game_length
 from href.games g
 where
-    g.home_score is not NULL
-and g.visitor_score is not NULL
---and g.home_score >= 0
---and g.visitor_score >= 0
+--    g.home_score is not NULL
+--and g.visitor_score is not NULL
+    TRUE
 and g.home_id is not NULL
 and g.visitor_id is not NULL
 );
