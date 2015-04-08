@@ -1,5 +1,7 @@
 begin;
 
+drop table if exists href.teams;
+
 create table href.teams (
        team_id	  	  text,
        team_name	  text,

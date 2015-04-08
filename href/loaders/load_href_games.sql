@@ -1,5 +1,7 @@
 begin;
 
+drop table if exists href.games;
+
 create table href.games (
 	year				integer,
 	game_date			text,

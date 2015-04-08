@@ -18,17 +18,19 @@ table_xpath = '//*[@id="games"]/tbody/tr'
 first_year = 2015
 last_year = 2015
 
-if (first_year==last_year)
-  stats = CSV.open("games_#{first_year}.csv","w")
-else
-  stats = CSV.open("games_#{first_year}-#{last_year}.csv","w")
-end
+#if (first_year==last_year)
+#  stats = CSV.open("csv/games_#{first_year}.csv","w")
+#else
+#  stats = CSV.open("csv/games_#{first_year}-#{last_year}.csv","w")
+#end
 
 (first_year..last_year).each do |year|
 
   if (year==2005)
     next
   end
+
+  stats = CSV.open("csv/games_#{first_year}.csv","w")
 
   url = "#{base}/NHL_#{year}_games.html"
   print "Pulling year #{year}"
@@ -67,13 +69,15 @@ end
 
     if (row.size>1)
       found += 1
+      if (row.size == 10)
+        row += [nil]
+      end
       stats << row[0..10]
     end
 
   end
 
   print " - found #{found}\n"
-
+  stats.close
 end
 
-stats.close

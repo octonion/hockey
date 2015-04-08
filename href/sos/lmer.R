@@ -1,10 +1,10 @@
 sink("nhl_lmer.txt")
 
-library("lme4")
-library("RPostgreSQL")
+library(lme4)
+library(RPostgreSQL)
 
 drv <- dbDriver("PostgreSQL")
-con <- dbConnect(drv,host="localhost",port="5432",dbname="hockey")
+con <- dbConnect(drv, dbname="hockey")
 
 query <- dbSendQuery(con, "
 select

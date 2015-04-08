@@ -13,7 +13,7 @@ base = "http://www.hockey-reference.com/draft"
 
 table_xpath = '//*[@id="stats"]/tbody/tr'
 
-stats = CSV.open("draft_picks.csv","w")
+stats = CSV.open("csv/draft_picks.csv","w")
 
 (1990..2014).each do |year|
 

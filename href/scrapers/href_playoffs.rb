@@ -13,13 +13,13 @@ base = "http://www.hockey-reference.com/leagues"
 
 table_xpath = '//*[@id="games_playoffs"]/tbody/tr'
 
-stats = CSV.open("playoffs.csv","w")
-
-(1990..2014).each do |year|
+(2015..2015).each do |year|
 
   if (year==2005)
     next
   end
+
+  stats = CSV.open("csv/playoffs_#{year}.csv","w")
 
   url = "#{base}/NHL_#{year}_games.html"
   print "Pulling year #{year}"
@@ -64,7 +64,5 @@ stats = CSV.open("playoffs.csv","w")
   end
 
   print " - found #{found}\n"
-
+  stats.close
 end
-
-stats.close

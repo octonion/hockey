@@ -1,5 +1,7 @@
 begin;
 
+drop table if exists href.playoffs;
+
 create table href.playoffs (
 	year				integer,
 	game_date			text,
