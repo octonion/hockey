@@ -21,6 +21,7 @@ psql hockey -f sos/schedule_factors.sql
 psql hockey -c "vacuum full verbose analyze uscho._schedule_factors;"
 
 psql hockey -f sos/current_ranking.sql > sos/current_ranking.txt
+cp /tmp/current_ranking.csv sos
 
 psql hockey -f sos/predict_daily.sql > sos/predict_daily.txt
 cp /tmp/predict_daily.csv sos

@@ -145,4 +145,5 @@ INSERT 0 140
  140 | franklin-pierce                 |   2 | 0.319 | 0.560 | 1.757 | 0.810
 (140 rows)
 
+COPY 140
 COMMIT
