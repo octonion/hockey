@@ -25,7 +25,7 @@ path = '//section[@id="scoreboard"]/table/tr'
   begin
     page = agent.get(url)
   rescue
-#    print "  -> #{year} not found\n"
+    print "  -> #{year} not found\n"
     next
   end
 
