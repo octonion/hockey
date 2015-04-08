@@ -1,4 +1,4 @@
-sink("diagnostics/uscho_lmer.txt")
+sink("diagnostics/lmer.txt")
 
 library(lme4)
 library(RPostgreSQL)
@@ -20,7 +20,6 @@ r.game_length as game_length,
 r.team_score::float as gs
 from uscho.results r
 where
---    r.year between 2011 and 2015
     r.year between 1999 and 2015
 and r.school_div_id is not null
 and r.opponent_div_id is not null
@@ -28,7 +27,7 @@ and r.team_score is not null
 and r.opponent_score is not null
 
 -- fit all excluding NCAA tournament games
-and not(coalesce(r.notes,'') like 'NCAA%')
+-- and not(coalesce(r.notes,'') like 'NCAA%')
 ;")
 
 games <- fetch(query,n=-1)

@@ -1,8 +1,14 @@
 #!/bin/bash
 
-createdb hockey
+cmd="psql template1 --tuples-only --command \"select count(*) from pg_database where datname = 'hockey';\""
 
-psql hockey -f loaders/create_schema_uscho.sql
+db_exists=`eval $cmd`
+
+if [ $db_exists -eq 0 ] ; then
+   createdb hockey
+fi
+
+psql hockey -f schema/create_schema.sql
 
 cat csv/uscho_games_*.csv > /tmp/uscho_games.csv
 psql hockey -f loaders/load_uscho_games.sql
