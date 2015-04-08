@@ -1,0 +1,8 @@
+BEGIN
+SET
+ date | site | team | div | score | opp | div | score 
+------+------+------+-----+-------+-----+-----+-------
+(0 rows)
+
+COPY 0
+COMMIT
