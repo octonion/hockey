@@ -6,8 +6,8 @@ psql hockey -f sos/standardized_results.sql
 
 psql hockey -c "vacuum full verbose analyze uscho.results;"
 
-psql hockey -c "drop table uscho._basic_factors;"
-psql hockey -c "drop table uscho._parameter_levels;"
+psql hockey -c "drop table if exists uscho._parameter_levels;"
+psql hockey -c "drop table if exists uscho._basic_factors;"
 
 R --vanilla -f sos/lmer.R
 
