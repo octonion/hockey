@@ -22,7 +22,7 @@ TRUE
 
 -- test March and April
 
-and not(r.field='none')
+and not(r.field='neutral')
 
 and extract(month from r.game_date) in (3,4)
 

@@ -1,0 +1,2083 @@
+year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_score,location,neutral_site_location,game_length,attendance
+2015,Adrian,4,Northland,1267,10/31/2014,9,2,Home,"",-,437
+2015,Adrian,4,Northland,1267,11/01/2014,7,2,Home,"",-,650
+2015,Adrian,4,MSOE,20220,11/07/2014,5,4,Home,"",-,696
+2015,Adrian,4,MSOE,20220,11/08/2014,5,3,Home,"",-,465
+2015,Adrian,4,Concordia Wisconsin,1036,11/14/2014,5,3,Away,"",-,937
+2015,Adrian,4,Concordia Wisconsin,1036,11/15/2014,6,2,Away,"",-,487
+2015,Adrian,4,Wis.-Eau Claire,793,11/21/2014,5,2,Away,"",-,"1,364"
+2015,Adrian,4,Wis.-Stevens Point,802,11/22/2014,6,4,Away,"",-,859
+2015,Adrian,4,Wis.-Stevens Point,802,11/29/2014,3,6,Home,"",-,490
+2015,Adrian,4,Neumann,1254,11/30/2014,0,4,Home,"",-,470
+2015,Adrian,4,Marian (WI),1196,12/05/2014,6,0,Home,"",-,506
+2015,Adrian,4,Marian (WI),1196,12/06/2014,7,2,Home,"",-,412
+2015,Adrian,4,SUNY Geneseo,247,01/06/2015,0,0,Home,"",1 OT,475
+2015,Adrian,4,Bethel (MN),60,01/09/2015,7,3,Away,"",-,0
+2015,Adrian,4,Wis.-River Falls,801,01/10/2015,1,1,Away,"",1 OT,0
+2015,Adrian,4,St. Scholastica,618,01/16/2015,2,2,Away,"",1 OT,0
+2015,Adrian,4,St. Scholastica,618,01/17/2015,3,0,Away,"",-,0
+2015,Adrian,4,Finlandia,30032,01/23/2015,0,3,Away,"",-,0
+2015,Adrian,4,Finlandia,30032,01/24/2015,7,3,Away,"",-,0
+2015,Adrian,4,St. Norbert,614,01/30/2015,4,2,Home,"",-,0
+2015,Adrian,4,St. Norbert,614,01/31/2015,6,4,Home,"",-,0
+2015,Adrian,4,Lawrence,348,02/06/2015,6,1,Away,"",-,0
+2015,Adrian,4,Lawrence,348,02/07/2015,7,1,Away,"",-,0
+2015,Adrian,4,Lake Forest,344,02/13/2015,6,2,Away,"",-,0
+2015,Adrian,4,Lake Forest,344,02/14/2015,6,2,Away,"",-,0
+2015,Adrian,4,Concordia Wisconsin,1036,02/20/2015,3,0,Home,"",-,0
+2015,Adrian,4,Concordia Wisconsin,1036,02/21/2015,8,4,Home,"",-,0
+2015,Adrian,4,St. Scholastica,618,02/28/2015,4,3,Home,"",1 OT,0
+2015,Adrian,4,St. Norbert,614,03/07/2015,4,2,Home,"",-,0
+2015,Amherst,24,Hamilton,267,11/15/2014,3,1,Away,"",-,600
+2015,Amherst,24,Trinity (CT),713,11/21/2014,2,7,Away,"",-,216
+2015,Amherst,24,Wesleyan (CT),764,11/22/2014,5,0,Away,"",-,150
+2015,Amherst,24,Saint Michael's,613,11/25/2014,6,4,Away,"",-,148
+2015,Amherst,24,Elmira,213,11/29/2014,5,4,Home,"",-,182
+2015,Amherst,24,Nazareth,461,11/30/2014,1,0,Home,"",-,173
+2015,Amherst,24,Middlebury,420,12/05/2014,5,3,Away,"",-,"1,100"
+2015,Amherst,24,Williams,789,12/06/2014,3,4,Away,"",-,313
+2015,Amherst,24,Utica,733,01/02/2015,3,3,Neutral,"",1 OT,451
+2015,Amherst,24,Plattsburgh St.,547,01/03/2015,0,0,Away,"",1 OT,"1,406"
+2015,Amherst,24,Babson,45,01/06/2015,1,0,Home,"",-,0
+2015,Amherst,24,Colby,151,01/09/2015,5,1,Home,"",-,0
+2015,Amherst,24,Bowdoin,69,01/10/2015,4,2,Home,"",-,0
+2015,Amherst,24,Connecticut Col.,163,01/16/2015,4,6,Home,"",-,0
+2015,Amherst,24,Tufts,717,01/17/2015,3,2,Home,"",-,0
+2015,Amherst,24,Hamilton,267,01/23/2015,3,1,Home,"",-,0
+2015,Amherst,24,Trinity (CT),713,01/30/2015,3,2,Home,"",-,0
+2015,Amherst,24,Wesleyan (CT),764,01/31/2015,6,2,Home,"",-,0
+2015,Amherst,24,Colby,151,02/06/2015,2,1,Away,"",-,0
+2015,Amherst,24,Bowdoin,69,02/07/2015,3,4,Away,"",-,0
+2015,Amherst,24,Connecticut Col.,163,02/13/2015,4,0,Away,"",-,0
+2015,Amherst,24,Tufts,717,02/14/2015,3,1,Away,"",-,0
+2015,Amherst,24,Middlebury,420,02/20/2015,4,0,Home,"",-,0
+2015,Amherst,24,Williams,789,02/21/2015,5,3,Home,"",-,0
+2015,Amherst,24,Middlebury,420,02/28/2015,3,0,Home,"",-,0
+2015,Amherst,24,Tufts,717,03/07/2015,3,2,Home,"",-,0
+2015,Assumption,36,Suffolk,684,11/01/2014,2,3,Home,"",-,193
+2015,Assumption,36,Westfield St.,777,11/04/2014,1,2,Home,"",-,104
+2015,Assumption,36,Franklin Pierce,241,11/08/2014,5,3,Away,"",-,181
+2015,Assumption,36,Stonehill,682,11/14/2014,2,3,Home,"",-,172
+2015,Assumption,36,Franklin Pierce,241,11/19/2014,2,3,Home,"",1 OT,86
+2015,Assumption,36,Southern N.H.,468,11/22/2014,3,4,Home,"",1 OT,140
+2015,Assumption,36,Johnson & Wales (RI),22626,11/25/2014,2,5,Away,"",-,107
+2015,Assumption,36,Nichols,484,11/28/2014,2,4,Neutral,"",-,313
+2015,Assumption,36,Worcester St.,809,11/30/2014,1,0,Neutral,"",-,78
+2015,Assumption,36,St. Anselm,593,12/03/2014,4,0,Home,"",-,156
+2015,Assumption,36,Western New Eng.,775,12/06/2014,4,3,Away,"",-,156
+2015,Assumption,36,Becker,26107,12/07/2014,3,2,Home,"",-,204
+2015,Assumption,36,Framingham St.,238,12/10/2014,2,3,Away,"",-,125
+2015,Assumption,36,Fitchburg St.,227,01/06/2015,3,1,Home,"",-,78
+2015,Assumption,36,Nichols,484,01/09/2015,5,9,Away,"",-,0
+2015,Assumption,36,Southern N.H.,468,01/17/2015,4,1,Away,"",-,0
+2015,Assumption,36,Wentworth,762,01/18/2015,2,4,Away,"",-,0
+2015,Assumption,36,Saint Michael's,613,01/20/2015,0,1,Away,"",-,0
+2015,Assumption,36,Suffolk,684,01/22/2015,5,6,Away,"",-,0
+2015,Assumption,36,Southern N.H.,468,01/31/2015,2,4,Home,"",-,0
+2015,Assumption,36,Stonehill,682,02/04/2015,1,9,Away,"",-,0
+2015,Assumption,36,Franklin Pierce,241,02/16/2015,6,3,Away,"",-,0
+2015,Assumption,36,Worcester St.,809,02/17/2015,3,5,Home,"",-,0
+2015,Assumption,36,Saint Michael's,613,02/21/2015,1,4,Away,"",-,0
+2015,Augsburg,38,Saint Mary's (MN),612,10/31/2014,2,0,Neutral,"",-,177
+2015,Augsburg,38,Concordia-M'head,161,11/01/2014,1,5,Neutral,"",-,211
+2015,Augsburg,38,Bethel (MN),60,11/07/2014,5,1,Away,"",-,230
+2015,Augsburg,38,Bethel (MN),60,11/08/2014,5,2,Home,"",-,300
+2015,Augsburg,38,Wis.-Stout,803,11/14/2014,7,3,Away,"",-,702
+2015,Augsburg,38,Wis.-River Falls,801,11/15/2014,3,5,Away,"",-,614
+2015,Augsburg,38,Concordia Wisconsin,1036,11/21/2014,3,1,Away,"",-,714
+2015,Augsburg,38,Wis.-River Falls,801,11/25/2014,3,4,Home,"",1 OT,233
+2015,Augsburg,38,Wis.-Eau Claire,793,11/29/2014,1,3,Home,"",-,290
+2015,Augsburg,38,Saint John's (MN),602,12/05/2014,6,5,Away,"",1 OT,417
+2015,Augsburg,38,Saint John's (MN),602,12/06/2014,2,4,Home,"",-,357
+2015,Augsburg,38,Wis.-Stevens Point,802,01/09/2015,1,2,Home,"",-,0
+2015,Augsburg,38,Wis.-Eau Claire,793,01/10/2015,1,4,Home,"",-,0
+2015,Augsburg,38,Gust. Adolphus,266,01/16/2015,5,3,Home,"",-,0
+2015,Augsburg,38,Gust. Adolphus,266,01/17/2015,0,3,Away,"",-,0
+2015,Augsburg,38,Concordia-M'head,161,01/23/2015,4,2,Home,"",-,0
+2015,Augsburg,38,Concordia-M'head,161,01/24/2015,2,3,Home,"",-,0
+2015,Augsburg,38,St. Thomas (MN),620,01/30/2015,0,5,Away,"",-,0
+2015,Augsburg,38,St. Thomas (MN),620,01/31/2015,4,3,Home,"",-,0
+2015,Augsburg,38,Saint Mary's (MN),612,02/06/2015,0,5,Home,"",-,0
+2015,Augsburg,38,Saint Mary's (MN),612,02/07/2015,5,4,Away,"",-,0
+2015,Augsburg,38,Hamline,268,02/13/2015,2,3,Away,"",-,0
+2015,Augsburg,38,Hamline,268,02/14/2015,5,6,Home,"",1 OT,0
+2015,Augsburg,38,St. Olaf,615,02/20/2015,4,3,Away,"",1 OT,0
+2015,Augsburg,38,St. Olaf,615,02/21/2015,4,1,Home,"",-,0
+2015,Augsburg,38,Hamline,268,02/26/2015,3,4,Home,"",-,0
+2015,Aurora,42,Wis.-Superior,804,10/31/2014,2,6,Away,"",-,357
+2015,Aurora,42,Wis.-Superior,804,11/01/2014,3,6,Away,"",-,347
+2015,Aurora,42,Concordia Wisconsin,1036,11/19/2014,2,8,Away,"",-,348
+2015,Aurora,42,Marian (WI),1196,11/26/2014,2,8,Away,"",-,48
+2015,Aurora,42,MSOE,20220,11/29/2014,5,6,Away,"",1 OT,148
+2015,Aurora,42,MSOE,20220,11/30/2014,2,5,Away,"",-,141
+2015,Aurora,42,Saint Mary's (MN),612,12/05/2014,6,3,Home,"",-,417
+2015,Aurora,42,Saint Mary's (MN),612,12/06/2014,2,11,Home,"",-,383
+2015,Aurora,42,St. Scholastica,618,12/07/2014,3,6,Home,"",-,377
+2015,Aurora,42,Finlandia,30032,12/13/2014,2,4,Away,"",-,57
+2015,Aurora,42,Finlandia,30032,12/14/2014,2,2,Away,"",1 OT,88
+2015,Aurora,42,Wis.-River Falls,801,01/02/2015,3,4,Away,"",-,275
+2015,Aurora,42,Wis.-River Falls,801,01/03/2015,1,3,Away,"",-,175
+2015,Aurora,42,Concordia Wisconsin,1036,01/07/2015,3,5,Away,"",-,0
+2015,Aurora,42,St. Thomas (MN),620,01/18/2015,1,4,Away,"",-,0
+2015,Aurora,42,Wis.-Stout,803,01/23/2015,2,7,Away,"",-,0
+2015,Aurora,42,Wis.-Stout,803,01/24/2015,1,5,Away,"",-,0
+2015,Babson,45,Curry,170,11/01/2014,4,1,Away,"",-,500
+2015,Babson,45,St. Anselm,593,11/07/2014,7,0,Away,"",-,729
+2015,Babson,45,New England Col.,467,11/08/2014,2,0,Away,"",-,210
+2015,Babson,45,Skidmore,642,11/21/2014,6,1,Home,"",-,250
+2015,Babson,45,Castleton,123,11/22/2014,3,0,Home,"",-,300
+2015,Babson,45,UMass Dartmouth,656,11/25/2014,8,1,Home,"",-,206
+2015,Babson,45,Nazareth,461,11/29/2014,5,2,Home,"",-,216
+2015,Babson,45,Elmira,213,11/30/2014,2,1,Home,"",-,267
+2015,Babson,45,Southern Me.,662,12/05/2014,3,0,Home,"",-,310
+2015,Babson,45,U New England,1255,12/06/2014,4,1,Home,"",-,550
+2015,Babson,45,Salem St.,621,12/10/2014,4,1,Home,"",-,235
+2015,Babson,45,Plymouth St.,548,01/03/2015,2,2,Away,"",1 OT,300
+2015,Babson,45,Amherst,24,01/06/2015,0,1,Away,"",-,0
+2015,Babson,45,Saint Michael's,613,01/09/2015,7,1,Away,"",-,0
+2015,Babson,45,Norwich,511,01/10/2015,2,3,Away,"",1 OT,0
+2015,Babson,45,New England Col.,467,01/16/2015,3,3,Home,"",1 OT,0
+2015,Babson,45,St. Anselm,593,01/17/2015,7,5,Home,"",-,0
+2015,Babson,45,UMass Boston,401,01/23/2015,4,2,Home,"",-,0
+2015,Babson,45,UMass Boston,401,01/24/2015,3,4,Away,"",1 OT,0
+2015,Babson,45,Castleton,123,01/30/2015,1,3,Away,"",-,0
+2015,Babson,45,Skidmore,642,01/31/2015,4,2,Away,"",-,0
+2015,Babson,45,U New England,1255,02/06/2015,0,0,Away,"",1 OT,0
+2015,Babson,45,Southern Me.,662,02/07/2015,2,0,Away,"",-,0
+2015,Babson,45,Norwich,511,02/13/2015,1,6,Home,"",-,0
+2015,Babson,45,Saint Michael's,613,02/14/2015,3,2,Home,"",1 OT,0
+2015,Babson,45,New England Col.,467,02/21/2015,3,1,Home,"",-,0
+2015,Babson,45,UMass Boston,401,02/28/2015,5,2,Away,"",-,0
+2015,Babson,45,Norwich,511,03/07/2015,2,3,Away,"",1 OT,0
+2015,Becker,26107,Fitchburg St.,227,10/31/2014,4,2,Away,"",-,344
+2015,Becker,26107,Worcester St.,809,11/01/2014,1,4,Neutral,"",-,144
+2015,Becker,26107,Western New Eng.,775,11/09/2014,2,3,Home,"",-,56
+2015,Becker,26107,Nichols,484,11/12/2014,0,3,Home,"",-,68
+2015,Becker,26107,Salve Regina,623,11/15/2014,0,8,Home,"",-,137
+2015,Becker,26107,Johnson & Wales (RI),22626,11/20/2014,1,4,Away,"",-,63
+2015,Becker,26107,Suffolk,684,11/22/2014,2,7,Away,"",-,375
+2015,Becker,26107,Tufts,717,11/25/2014,0,5,Away,"",-,150
+2015,Becker,26107,Worcester St.,809,11/28/2014,4,1,Home,"",-,226
+2015,Becker,26107,Nichols,484,11/30/2014,5,1,Neutral,"",-,121
+2015,Becker,26107,Assumption,36,12/07/2014,2,3,Away,"",-,204
+2015,Becker,26107,Southern N.H.,468,01/02/2015,1,8,Home,"",-,171
+2015,Becker,26107,SUNY Canton,30165,01/04/2015,1,4,Home,"",-,70
+2015,Becker,26107,Westfield St.,777,01/07/2015,5,0,Away,"",-,0
+2015,Becker,26107,SUNY Cortland,168,01/09/2015,4,9,Home,"",-,0
+2015,Becker,26107,Stonehill,682,01/14/2015,2,4,Away,"",-,0
+2015,Becker,26107,Wentworth,762,01/23/2015,3,6,Home,"",-,0
+2015,Becker,26107,Nichols,484,01/30/2015,3,6,Away,"",-,0
+2015,Becker,26107,Western New Eng.,775,02/05/2015,2,3,Away,"",-,0
+2015,Becker,26107,Johnson & Wales (RI),22626,02/08/2015,1,5,Home,"",-,0
+2015,Becker,26107,Salve Regina,623,02/11/2015,0,2,Away,"",-,0
+2015,Becker,26107,Wentworth,762,02/14/2015,2,7,Away,"",-,0
+2015,Becker,26107,Suffolk,684,02/19/2015,2,1,Home,"",-,0
+2015,Becker,26107,Curry,170,02/21/2015,2,5,Home,"",-,0
+2015,Becker,26107,Curry,170,02/23/2015,0,2,Away,"",-,0
+2015,Bethel (MN),60,Gust. Adolphus,266,10/31/2014,4,2,Neutral,"",-,300
+2015,Bethel (MN),60,St. Olaf,615,11/01/2014,2,1,Neutral,"",-,300
+2015,Bethel (MN),60,Augsburg,38,11/07/2014,1,5,Home,"",-,230
+2015,Bethel (MN),60,Augsburg,38,11/08/2014,2,5,Away,"",-,300
+2015,Bethel (MN),60,Wis.-River Falls,801,11/14/2014,2,5,Home,"",-,100
+2015,Bethel (MN),60,Wis.-Eau Claire,793,11/15/2014,3,6,Away,"",-,"1,347"
+2015,Bethel (MN),60,Concordia-M'head,161,11/21/2014,2,5,Home,"",-,200
+2015,Bethel (MN),60,Concordia-M'head,161,11/22/2014,1,4,Home,"",-,120
+2015,Bethel (MN),60,Concordia Wisconsin,1036,11/28/2014,5,6,Home,"",-,122
+2015,Bethel (MN),60,Concordia Wisconsin,1036,11/29/2014,1,3,Home,"",-,74
+2015,Bethel (MN),60,Hamline,268,12/05/2014,5,5,Home,"",1 OT,300
+2015,Bethel (MN),60,Hamline,268,12/06/2014,1,2,Away,"",-,200
+2015,Bethel (MN),60,Adrian,4,01/09/2015,3,7,Home,"",-,0
+2015,Bethel (MN),60,Lake Forest,344,01/10/2015,3,3,Home,"",1 OT,0
+2015,Bethel (MN),60,Saint Mary's (MN),612,01/16/2015,2,5,Away,"",-,0
+2015,Bethel (MN),60,Saint Mary's (MN),612,01/17/2015,2,5,Home,"",-,0
+2015,Bethel (MN),60,St. Olaf,615,01/23/2015,1,2,Away,"",-,0
+2015,Bethel (MN),60,St. Olaf,615,01/24/2015,1,4,Home,"",-,0
+2015,Bethel (MN),60,Wis.-Stevens Point,802,01/31/2015,4,9,Away,"",-,0
+2015,Bethel (MN),60,St. Thomas (MN),620,02/06/2015,3,7,Home,"",-,0
+2015,Bethel (MN),60,St. Thomas (MN),620,02/07/2015,0,4,Away,"",-,0
+2015,Bethel (MN),60,Saint John's (MN),602,02/13/2015,2,0,Home,"",-,0
+2015,Bethel (MN),60,Saint John's (MN),602,02/14/2015,3,6,Away,"",-,0
+2015,Bethel (MN),60,Gust. Adolphus,266,02/20/2015,6,2,Home,"",-,0
+2015,Bethel (MN),60,Gust. Adolphus,266,02/21/2015,2,4,Away,"",-,0
+2015,Bowdoin,69,Middlebury,420,11/15/2014,6,0,Home,"",-,"1,020"
+2015,Bowdoin,69,Williams,789,11/16/2014,3,3,Home,"",1 OT,"1,008"
+2015,Bowdoin,69,Colby,151,11/21/2014,5,3,Home,"",-,"2,300"
+2015,Bowdoin,69,Colby,151,11/22/2014,6,3,Away,"",-,"1,600"
+2015,Bowdoin,69,U New England,1255,11/25/2014,3,0,Away,"",-,211
+2015,Bowdoin,69,Wentworth,762,11/29/2014,6,1,Home,"",-,520
+2015,Bowdoin,69,Salve Regina,623,11/30/2014,8,0,Neutral,"",-,100
+2015,Bowdoin,69,Connecticut Col.,163,12/05/2014,1,3,Away,"",-,300
+2015,Bowdoin,69,Tufts,717,12/06/2014,3,4,Away,"",1 OT,350
+2015,Bowdoin,69,Southern Me.,662,12/09/2014,4,1,Away,"",-,130
+2015,Bowdoin,69,Hamilton,267,01/09/2015,4,4,Away,"",1 OT,0
+2015,Bowdoin,69,Amherst,24,01/10/2015,2,4,Away,"",-,0
+2015,Bowdoin,69,Trinity (CT),713,01/16/2015,1,2,Home,"",-,0
+2015,Bowdoin,69,Wesleyan (CT),764,01/17/2015,4,3,Home,"",-,0
+2015,Bowdoin,69,U New England,1255,01/20/2015,4,2,Home,"",-,0
+2015,Bowdoin,69,Middlebury,420,01/23/2015,2,2,Away,"",1 OT,0
+2015,Bowdoin,69,Williams,789,01/24/2015,2,5,Away,"",-,0
+2015,Bowdoin,69,Southern Me.,662,01/28/2015,6,1,Home,"",-,0
+2015,Bowdoin,69,Hamilton,267,02/06/2015,2,1,Home,"",-,0
+2015,Bowdoin,69,Amherst,24,02/07/2015,4,3,Home,"",-,0
+2015,Bowdoin,69,Trinity (CT),713,02/13/2015,4,5,Away,"",-,0
+2015,Bowdoin,69,Wesleyan (CT),764,02/14/2015,3,1,Away,"",-,0
+2015,Bowdoin,69,Connecticut Col.,163,02/20/2015,1,4,Home,"",-,0
+2015,Bowdoin,69,Tufts,717,02/21/2015,4,0,Home,"",-,0
+2015,Bowdoin,69,Williams,789,02/28/2015,3,4,Away,"",1 OT,0
+2015,Brockport,78,Hobart,282,10/31/2014,1,3,Home,"",-,650
+2015,Brockport,78,Nazareth,461,11/01/2014,1,7,Away,"",-,687
+2015,Brockport,78,Plattsburgh St.,547,11/07/2014,0,1,Home,"",-,500
+2015,Brockport,78,SUNY Potsdam,552,11/08/2014,3,2,Home,"",-,500
+2015,Brockport,78,SUNY Geneseo,247,11/14/2014,3,5,Home,"",-,"1,000"
+2015,Brockport,78,SUNY Canton,30165,11/15/2014,4,1,Home,"",-,500
+2015,Brockport,78,Oswego St.,530,11/21/2014,4,4,Away,"",1 OT,"2,585"
+2015,Brockport,78,SUNY Cortland,168,11/22/2014,4,5,Away,"",-,573
+2015,Brockport,78,Tufts,717,11/28/2014,4,2,Neutral,"",-,117
+2015,Brockport,78,Manhattanville,382,11/29/2014,4,3,Neutral,"",-,128
+2015,Brockport,78,Buffalo St.,85,12/05/2014,3,0,Home,"",-,500
+2015,Brockport,78,Fredonia,242,12/06/2014,3,0,Home,"",-,500
+2015,Brockport,78,Southern N.H.,468,01/05/2015,3,1,Home,"",-,200
+2015,Brockport,78,Elmira,213,01/10/2015,5,3,Away,"",-,0
+2015,Brockport,78,Nazareth,461,01/16/2015,3,5,Home,"",-,0
+2015,Brockport,78,Morrisville St.,30067,01/23/2015,7,3,Home,"",-,0
+2015,Brockport,78,Morrisville St.,30067,01/24/2015,1,3,Home,"",-,0
+2015,Brockport,78,Plattsburgh St.,547,01/30/2015,3,4,Away,"",-,0
+2015,Brockport,78,SUNY Potsdam,552,01/31/2015,3,3,Away,"",1 OT,0
+2015,Brockport,78,SUNY Geneseo,247,02/06/2015,0,3,Away,"",-,0
+2015,Brockport,78,Franklin Pierce,241,02/07/2015,5,2,Home,"",-,0
+2015,Brockport,78,Oswego St.,530,02/13/2015,1,3,Home,"",-,0
+2015,Brockport,78,SUNY Cortland,168,02/14/2015,3,1,Home,"",-,0
+2015,Brockport,78,Buffalo St.,85,02/20/2015,1,4,Away,"",-,0
+2015,Brockport,78,Fredonia,242,02/21/2015,4,3,Away,"",-,0
+2015,Brockport,78,SUNY Geneseo,247,02/25/2015,6,4,Away,"",-,0
+2015,Brockport,78,Plattsburgh St.,547,02/28/2015,5,7,Away,"",-,0
+2015,Buffalo St.,85,Oswego St.,530,10/31/2014,3,4,Home,"",-,"1,031"
+2015,Buffalo St.,85,SUNY Cortland,168,11/01/2014,3,2,Home,"",1 OT,388
+2015,Buffalo St.,85,Morrisville St.,30067,11/07/2014,4,4,Home,"",1 OT,355
+2015,Buffalo St.,85,Morrisville St.,30067,11/08/2014,5,5,Home,"",1 OT,322
+2015,Buffalo St.,85,Plattsburgh St.,547,11/14/2014,1,6,Away,"",-,"2,015"
+2015,Buffalo St.,85,SUNY Potsdam,552,11/15/2014,2,5,Away,"",-,"1,007"
+2015,Buffalo St.,85,St. Norbert,614,11/28/2014,0,7,Away,"",-,844
+2015,Buffalo St.,85,St. Norbert,614,11/29/2014,0,8,Away,"",-,745
+2015,Buffalo St.,85,Brockport,78,12/05/2014,0,3,Away,"",-,500
+2015,Buffalo St.,85,SUNY Geneseo,247,12/06/2014,3,2,Away,"",1 OT,850
+2015,Buffalo St.,85,Johnson & Wales (RI),22626,12/13/2014,5,3,Home,"",-,175
+2015,Buffalo St.,85,Neumann,1254,01/02/2015,5,2,Neutral,"",-,310
+2015,Buffalo St.,85,Norwich,511,01/03/2015,1,4,Away,"",-,"1,273"
+2015,Buffalo St.,85,Elmira,213,01/06/2015,4,6,Away,"",-,653
+2015,Buffalo St.,85,Nazareth,461,01/10/2015,3,2,Away,"",1 OT,0
+2015,Buffalo St.,85,Johnson & Wales (RI),22626,01/16/2015,2,1,Away,"",-,0
+2015,Buffalo St.,85,Curry,170,01/17/2015,3,7,Away,"",-,0
+2015,Buffalo St.,85,Oswego St.,530,01/23/2015,0,6,Away,"",-,0
+2015,Buffalo St.,85,SUNY Cortland,168,01/24/2015,7,3,Away,"",-,0
+2015,Buffalo St.,85,Plattsburgh St.,547,02/06/2015,0,6,Home,"",-,0
+2015,Buffalo St.,85,SUNY Potsdam,552,02/07/2015,5,3,Home,"",-,0
+2015,Buffalo St.,85,Fredonia,242,02/13/2015,3,1,Home,"",-,0
+2015,Buffalo St.,85,Fredonia,242,02/14/2015,6,2,Away,"",-,0
+2015,Buffalo St.,85,Brockport,78,02/20/2015,4,1,Home,"",-,0
+2015,Buffalo St.,85,SUNY Geneseo,247,02/21/2015,4,4,Home,"",1 OT,0
+2015,Buffalo St.,85,SUNY Potsdam,552,02/25/2015,6,2,Away,"",-,0
+2015,Buffalo St.,85,Oswego St.,530,02/28/2015,0,2,Away,"",-,0
+2015,Castleton,123,Utica,733,11/01/2014,2,4,Away,"",-,"3,747"
+2015,Castleton,123,Southern Me.,662,11/07/2014,4,0,Away,"",-,299
+2015,Castleton,123,U New England,1255,11/08/2014,3,0,Away,"",-,178
+2015,Castleton,123,St. Anselm,593,11/14/2014,4,5,Home,"",-,920
+2015,Castleton,123,New England Col.,467,11/15/2014,5,2,Home,"",-,525
+2015,Castleton,123,UMass Boston,401,11/21/2014,0,2,Away,"",-,347
+2015,Castleton,123,Babson,45,11/22/2014,0,3,Away,"",-,300
+2015,Castleton,123,Manhattanville,382,11/28/2014,0,2,Home,"",-,428
+2015,Castleton,123,Tufts,717,11/29/2014,3,4,Home,"",-,273
+2015,Castleton,123,Saint Michael's,613,12/05/2014,1,5,Home,"",-,638
+2015,Castleton,123,Norwich,511,12/06/2014,1,5,Home,"",-,823
+2015,Castleton,123,Plymouth St.,548,12/13/2014,4,3,Away,"",1 OT,751
+2015,Castleton,123,Nichols,484,01/02/2015,2,4,Away,"",-,97
+2015,Castleton,123,Salve Regina,623,01/03/2015,3,0,Away,"",-,57
+2015,Castleton,123,Utica,733,01/10/2015,1,3,Home,"",-,0
+2015,Castleton,123,U New England,1255,01/16/2015,2,3,Home,"",-,0
+2015,Castleton,123,New England Col.,467,01/23/2015,2,7,Away,"",-,0
+2015,Castleton,123,St. Anselm,593,01/24/2015,5,2,Away,"",-,0
+2015,Castleton,123,Babson,45,01/30/2015,3,1,Home,"",-,0
+2015,Castleton,123,UMass Boston,401,01/31/2015,3,4,Home,"",1 OT,0
+2015,Castleton,123,Norwich,511,02/06/2015,0,3,Away,"",-,0
+2015,Castleton,123,Saint Michael's,613,02/07/2015,6,2,Away,"",-,0
+2015,Castleton,123,Skidmore,642,02/13/2015,4,1,Home,"",-,0
+2015,Castleton,123,Skidmore,642,02/14/2015,4,3,Away,"",-,0
+2015,Castleton,123,Southern Me.,662,02/16/2015,3,5,Home,"",-,0
+2015,Castleton,123,U New England,1255,02/21/2015,3,2,Home,"",1 OT,0
+2015,Castleton,123,Norwich,511,02/28/2015,1,2,Away,"",-,0
+2015,Colby,151,Williams,789,11/15/2014,2,4,Home,"",-,685
+2015,Colby,151,Middlebury,420,11/16/2014,2,2,Home,"",1 OT,510
+2015,Colby,151,Bowdoin,69,11/21/2014,3,5,Away,"",-,"2,300"
+2015,Colby,151,Bowdoin,69,11/22/2014,3,6,Home,"",-,"1,600"
+2015,Colby,151,Salve Regina,623,11/29/2014,5,3,Neutral,"",-,108
+2015,Colby,151,Wentworth,762,11/30/2014,7,0,Home,"",-,340
+2015,Colby,151,Tufts,717,12/05/2014,1,4,Away,"",-,400
+2015,Colby,151,Connecticut Col.,163,12/06/2014,5,5,Away,"",1 OT,300
+2015,Colby,151,Norwich,511,01/02/2015,0,3,Away,"",-,"1,742"
+2015,Colby,151,Neumann,1254,01/03/2015,2,5,Neutral,"",-,232
+2015,Colby,151,Salem St.,621,01/06/2015,9,3,Home,"",-,0
+2015,Colby,151,Amherst,24,01/09/2015,1,5,Away,"",-,0
+2015,Colby,151,Hamilton,267,01/10/2015,1,0,Away,"",-,0
+2015,Colby,151,Wesleyan (CT),764,01/16/2015,5,2,Home,"",-,0
+2015,Colby,151,Trinity (CT),713,01/17/2015,3,6,Home,"",-,0
+2015,Colby,151,Williams,789,01/23/2015,2,4,Away,"",-,0
+2015,Colby,151,Middlebury,420,01/24/2015,3,4,Away,"",1 OT,0
+2015,Colby,151,Southern Me.,662,01/31/2015,2,3,Away,"",-,0
+2015,Colby,151,Amherst,24,02/06/2015,1,2,Home,"",-,0
+2015,Colby,151,Hamilton,267,02/07/2015,2,2,Home,"",1 OT,0
+2015,Colby,151,Wesleyan (CT),764,02/13/2015,1,2,Away,"",1 OT,0
+2015,Colby,151,Trinity (CT),713,02/14/2015,1,5,Away,"",-,0
+2015,Colby,151,Tufts,717,02/20/2015,1,4,Home,"",-,0
+2015,Colby,151,Connecticut Col.,163,02/21/2015,1,4,Home,"",-,0
+2015,Concordia Wisconsin,1036,Lawrence,348,10/31/2014,2,6,Away,"",-,699
+2015,Concordia Wisconsin,1036,Lawrence,348,11/01/2014,2,4,Home,"",-,587
+2015,Concordia Wisconsin,1036,St. Scholastica,618,11/07/2014,3,4,Away,"",-,208
+2015,Concordia Wisconsin,1036,St. Scholastica,618,11/08/2014,3,4,Away,"",-,187
+2015,Concordia Wisconsin,1036,Adrian,4,11/14/2014,3,5,Home,"",-,937
+2015,Concordia Wisconsin,1036,Adrian,4,11/15/2014,2,6,Home,"",-,487
+2015,Concordia Wisconsin,1036,Aurora,42,11/19/2014,8,2,Home,"",-,348
+2015,Concordia Wisconsin,1036,Augsburg,38,11/21/2014,1,3,Home,"",-,714
+2015,Concordia Wisconsin,1036,Bethel (MN),60,11/28/2014,6,5,Away,"",-,122
+2015,Concordia Wisconsin,1036,Bethel (MN),60,11/29/2014,3,1,Away,"",-,74
+2015,Concordia Wisconsin,1036,Finlandia,30032,12/05/2014,4,1,Home,"",-,587
+2015,Concordia Wisconsin,1036,Finlandia,30032,12/06/2014,5,1,Home,"",-,217
+2015,Concordia Wisconsin,1036,Aurora,42,01/07/2015,5,3,Home,"",-,0
+2015,Concordia Wisconsin,1036,Wis.-Superior,804,01/09/2015,2,6,Away,"",-,0
+2015,Concordia Wisconsin,1036,Wis.-Stout,803,01/10/2015,5,8,Away,"",-,0
+2015,Concordia Wisconsin,1036,St. Norbert,614,01/16/2015,1,7,Away,"",-,0
+2015,Concordia Wisconsin,1036,St. Norbert,614,01/17/2015,2,4,Home,"",-,0
+2015,Concordia Wisconsin,1036,Lake Forest,344,01/23/2015,1,9,Away,"",-,0
+2015,Concordia Wisconsin,1036,Lake Forest,344,01/24/2015,1,5,Home,"",-,0
+2015,Concordia Wisconsin,1036,Marian (WI),1196,01/30/2015,3,4,Away,"",-,0
+2015,Concordia Wisconsin,1036,Marian (WI),1196,01/31/2015,1,4,Home,"",-,0
+2015,Concordia Wisconsin,1036,Northland,1267,02/06/2015,5,3,Away,"",-,0
+2015,Concordia Wisconsin,1036,Northland,1267,02/07/2015,5,2,Away,"",-,0
+2015,Concordia Wisconsin,1036,MSOE,20220,02/13/2015,0,3,Home,"",-,0
+2015,Concordia Wisconsin,1036,MSOE,20220,02/14/2015,0,3,Away,"",-,0
+2015,Concordia Wisconsin,1036,Adrian,4,02/20/2015,0,3,Away,"",-,0
+2015,Concordia Wisconsin,1036,Adrian,4,02/21/2015,4,8,Away,"",-,0
+2015,Concordia-M'head,161,Augsburg,38,11/01/2014,5,1,Neutral,"",-,211
+2015,Concordia-M'head,161,Saint Mary's (MN),612,11/02/2014,2,4,Neutral,"",-,230
+2015,Concordia-M'head,161,Wis.-River Falls,801,11/06/2014,3,4,Home,"",-,302
+2015,Concordia-M'head,161,Wis.-Superior,804,11/08/2014,2,1,Home,"",-,187
+2015,Concordia-M'head,161,Gust. Adolphus,266,11/14/2014,1,2,Home,"",-,317
+2015,Concordia-M'head,161,Gust. Adolphus,266,11/15/2014,3,3,Home,"",1 OT,253
+2015,Concordia-M'head,161,Bethel (MN),60,11/21/2014,5,2,Away,"",-,200
+2015,Concordia-M'head,161,Bethel (MN),60,11/22/2014,4,1,Away,"",-,120
+2015,Concordia-M'head,161,Middlebury,420,11/28/2014,4,3,Away,"",-,"1,016"
+2015,Concordia-M'head,161,Norwich,511,11/29/2014,2,2,Neutral,"",1 OT,698
+2015,Concordia-M'head,161,St. Thomas (MN),620,12/05/2014,1,5,Away,"",-,190
+2015,Concordia-M'head,161,St. Thomas (MN),620,12/06/2014,2,2,Away,"",1 OT,100
+2015,Concordia-M'head,161,Northland,1267,12/13/2014,4,2,Home,"",-,412
+2015,Concordia-M'head,161,St. Norbert,614,01/09/2015,3,6,Home,"",-,0
+2015,Concordia-M'head,161,Lawrence,348,01/10/2015,5,1,Home,"",-,0
+2015,Concordia-M'head,161,Saint John's (MN),602,01/16/2015,3,2,Home,"",1 OT,0
+2015,Concordia-M'head,161,Saint John's (MN),602,01/17/2015,4,0,Home,"",-,0
+2015,Concordia-M'head,161,Augsburg,38,01/23/2015,2,4,Away,"",-,0
+2015,Concordia-M'head,161,Augsburg,38,01/24/2015,3,2,Away,"",-,0
+2015,Concordia-M'head,161,Hamline,268,01/30/2015,0,2,Home,"",-,0
+2015,Concordia-M'head,161,Hamline,268,01/31/2015,4,1,Home,"",-,0
+2015,Concordia-M'head,161,St. Olaf,615,02/06/2015,1,1,Home,"",1 OT,0
+2015,Concordia-M'head,161,St. Olaf,615,02/07/2015,4,3,Home,"",-,0
+2015,Concordia-M'head,161,Saint Mary's (MN),612,02/13/2015,3,4,Away,"",1 OT,0
+2015,Concordia-M'head,161,Saint Mary's (MN),612,02/14/2015,8,3,Away,"",-,0
+2015,Concordia-M'head,161,Saint Mary's (MN),612,03/01/2015,3,4,Away,"",1 OT,0
+2015,Connecticut Col.,163,Trinity (CT),713,11/15/2014,2,7,Home,"",-,200
+2015,Connecticut Col.,163,Wesleyan (CT),764,11/16/2014,5,2,Home,"",-,100
+2015,Connecticut Col.,163,Williams,789,11/21/2014,1,2,Away,"",-,145
+2015,Connecticut Col.,163,Middlebury,420,11/22/2014,2,3,Away,"",-,525
+2015,Connecticut Col.,163,Utica,733,11/29/2014,1,5,Away,"",-,"3,695"
+2015,Connecticut Col.,163,Manhattanville,382,12/02/2014,3,4,Home,"",-,100
+2015,Connecticut Col.,163,Bowdoin,69,12/05/2014,3,1,Home,"",-,300
+2015,Connecticut Col.,163,Colby,151,12/06/2014,5,5,Home,"",1 OT,300
+2015,Connecticut Col.,163,UMass Boston,401,01/04/2015,4,1,Away,"",-,527
+2015,Connecticut Col.,163,Lake Forest,344,01/05/2015,1,1,Neutral,"",1 OT,196
+2015,Connecticut Col.,163,Stonehill,682,01/10/2015,3,1,Home,"",-,0
+2015,Connecticut Col.,163,St. Anselm,593,01/13/2015,2,1,Away,"",-,0
+2015,Connecticut Col.,163,Amherst,24,01/16/2015,6,4,Away,"",-,0
+2015,Connecticut Col.,163,Hamilton,267,01/17/2015,1,3,Away,"",-,0
+2015,Connecticut Col.,163,Trinity (CT),713,01/23/2015,1,3,Away,"",-,0
+2015,Connecticut Col.,163,Wesleyan (CT),764,01/24/2015,4,1,Away,"",-,0
+2015,Connecticut Col.,163,Williams,789,01/30/2015,3,1,Home,"",-,0
+2015,Connecticut Col.,163,Middlebury,420,01/31/2015,3,0,Home,"",-,0
+2015,Connecticut Col.,163,Tufts,717,02/06/2015,2,1,Away,"",-,0
+2015,Connecticut Col.,163,Tufts,717,02/07/2015,4,1,Home,"",-,0
+2015,Connecticut Col.,163,Amherst,24,02/13/2015,0,4,Home,"",-,0
+2015,Connecticut Col.,163,Hamilton,267,02/14/2015,2,4,Home,"",-,0
+2015,Connecticut Col.,163,Bowdoin,69,02/20/2015,4,1,Away,"",-,0
+2015,Connecticut Col.,163,Colby,151,02/21/2015,4,1,Away,"",-,0
+2015,Connecticut Col.,163,Hamilton,267,02/28/2015,4,3,Home,"",1 OT,0
+2015,Connecticut Col.,163,Williams,789,03/07/2015,2,4,Neutral,"Amherst, MA",-,0
+2015,Curry,170,Babson,45,11/01/2014,1,4,Home,"",-,500
+2015,Curry,170,UMass Boston,401,11/02/2014,4,6,Home,"",-,250
+2015,Curry,170,Westfield St.,777,11/06/2014,3,2,Home,"",1 OT,200
+2015,Curry,170,Nichols,484,11/08/2014,1,4,Home,"",-,300
+2015,Curry,170,Western New Eng.,775,11/13/2014,7,2,Away,"",-,314
+2015,Curry,170,Johnson & Wales (RI),22626,11/15/2014,1,3,Away,"",-,137
+2015,Curry,170,Salve Regina,623,11/20/2014,5,2,Home,"",-,250
+2015,Curry,170,Wentworth,762,11/22/2014,1,1,Home,"",1 OT,300
+2015,Curry,170,UMass Dartmouth,656,12/04/2014,4,2,Away,"",-,100
+2015,Curry,170,Utica,733,12/06/2014,1,5,Away,"",-,"3,500"
+2015,Curry,170,SUNY Potsdam,552,12/12/2014,4,2,Away,"",-,437
+2015,Curry,170,SUNY Canton,30165,12/13/2014,5,4,Away,"",-,217
+2015,Curry,170,Manhattanville,382,01/04/2015,5,2,Away,"",-,245
+2015,Curry,170,Plymouth St.,548,01/08/2015,4,3,Away,"",-,0
+2015,Curry,170,Fredonia,242,01/16/2015,4,4,Home,"",1 OT,0
+2015,Curry,170,Buffalo St.,85,01/17/2015,7,3,Home,"",-,0
+2015,Curry,170,Western New Eng.,775,01/31/2015,1,5,Home,"",-,0
+2015,Curry,170,Nichols,484,02/04/2015,0,5,Away,"",-,0
+2015,Curry,170,Salve Regina,623,02/07/2015,0,3,Away,"",-,0
+2015,Curry,170,Johnson & Wales (RI),22626,02/12/2015,1,3,Home,"",-,0
+2015,Curry,170,Suffolk,684,02/14/2015,5,2,Home,"",-,0
+2015,Curry,170,Suffolk,684,02/16/2015,4,2,Away,"",-,0
+2015,Curry,170,Wentworth,762,02/18/2015,3,0,Away,"",-,0
+2015,Curry,170,Becker,26107,02/21/2015,5,2,Away,"",-,0
+2015,Curry,170,Becker,26107,02/23/2015,2,0,Home,"",-,0
+2015,Curry,170,Wentworth,762,02/28/2015,8,4,Home,"",-,0
+2015,Curry,170,Nichols,484,03/04/2015,2,3,Away,"",-,0
+2015,Elmira,213,Neumann,1254,11/07/2014,2,3,Away,"",1 OT,284
+2015,Elmira,213,Manhattanville,382,11/08/2014,1,1,Away,"",1 OT,375
+2015,Elmira,213,Utica,733,11/14/2014,4,3,Home,"",-,"1,203"
+2015,Elmira,213,Hobart,282,11/21/2014,4,2,Away,"",-,295
+2015,Elmira,213,Hobart,282,11/22/2014,2,4,Away,"",-,210
+2015,Elmira,213,Amherst,24,11/29/2014,4,5,Away,"",-,182
+2015,Elmira,213,Babson,45,11/30/2014,1,2,Away,"",-,267
+2015,Elmira,213,Fredonia,242,12/02/2014,7,2,Away,"",-,127
+2015,Elmira,213,Nazareth,461,12/05/2014,4,4,Home,"",1 OT,"1,005"
+2015,Elmira,213,Wesleyan (CT),764,12/06/2014,7,6,Home,"",-,960
+2015,Elmira,213,Buffalo St.,85,01/06/2015,6,4,Home,"",-,653
+2015,Elmira,213,SUNY Geneseo,247,01/09/2015,3,2,Away,"",-,0
+2015,Elmira,213,Brockport,78,01/10/2015,3,5,Home,"",-,0
+2015,Elmira,213,SUNY Potsdam,552,01/13/2015,5,2,Away,"",-,0
+2015,Elmira,213,Oswego St.,530,01/16/2015,2,2,Home,"",1 OT,0
+2015,Elmira,213,Salve Regina,623,01/17/2015,4,3,Home,"",-,0
+2015,Elmira,213,Manhattanville,382,01/23/2015,1,3,Home,"",-,0
+2015,Elmira,213,Manhattanville,382,01/24/2015,5,2,Home,"",-,0
+2015,Elmira,213,Nazareth,461,01/30/2015,2,5,Away,"",-,0
+2015,Elmira,213,Nazareth,461,01/31/2015,1,2,Away,"",-,0
+2015,Elmira,213,Neumann,1254,02/06/2015,4,7,Home,"",-,0
+2015,Elmira,213,Neumann,1254,02/07/2015,6,5,Home,"",-,0
+2015,Elmira,213,Utica,733,02/13/2015,2,3,Away,"",-,0
+2015,Elmira,213,Utica,733,02/14/2015,2,1,Away,"",1 OT,0
+2015,Elmira,213,Hobart,282,02/20/2015,1,2,Home,"",-,0
+2015,Elmira,213,Utica,733,02/25/2015,5,2,Home,"",-,0
+2015,Elmira,213,Hobart,282,02/28/2015,1,5,Away,"",-,0
+2015,Finlandia,30032,Wis.-Stevens Point,802,11/01/2014,0,11,Away,"",-,"1,091"
+2015,Finlandia,30032,St. Norbert,614,11/07/2014,1,7,Away,"",-,816
+2015,Finlandia,30032,St. Norbert,614,11/08/2014,0,12,Away,"",-,965
+2015,Finlandia,30032,St. Scholastica,618,11/15/2014,4,3,Home,"",-,317
+2015,Finlandia,30032,St. Scholastica,618,11/16/2014,2,3,Home,"",-,91
+2015,Finlandia,30032,Wis.-Stout,803,11/21/2014,1,4,Away,"",-,378
+2015,Finlandia,30032,Wis.-Superior,804,11/22/2014,1,4,Away,"",-,437
+2015,Finlandia,30032,Lake Forest,344,11/28/2014,0,5,Home,"",-,57
+2015,Finlandia,30032,Lake Forest,344,11/29/2014,3,5,Home,"",-,104
+2015,Finlandia,30032,Concordia Wisconsin,1036,12/05/2014,1,4,Away,"",-,587
+2015,Finlandia,30032,Concordia Wisconsin,1036,12/06/2014,1,5,Away,"",-,217
+2015,Finlandia,30032,Aurora,42,12/13/2014,4,2,Home,"",-,57
+2015,Finlandia,30032,Aurora,42,12/14/2014,2,2,Home,"",1 OT,88
+2015,Finlandia,30032,Gust. Adolphus,266,01/09/2015,2,4,Away,"",-,0
+2015,Finlandia,30032,St. Olaf,615,01/10/2015,1,2,Away,"",-,0
+2015,Finlandia,30032,Northland,1267,01/16/2015,1,3,Away,"",-,0
+2015,Finlandia,30032,Northland,1267,01/18/2015,2,1,Home,"",-,0
+2015,Finlandia,30032,Adrian,4,01/23/2015,3,0,Home,"",-,0
+2015,Finlandia,30032,Adrian,4,01/24/2015,3,7,Home,"",-,0
+2015,Finlandia,30032,MSOE,20220,01/30/2015,2,6,Away,"",-,0
+2015,Finlandia,30032,MSOE,20220,01/31/2015,0,3,Away,"",-,0
+2015,Finlandia,30032,Marian (WI),1196,02/07/2015,2,4,Away,"",-,0
+2015,Finlandia,30032,Marian (WI),1196,02/08/2015,3,6,Away,"",-,0
+2015,Finlandia,30032,Lawrence,348,02/13/2015,1,2,Home,"",-,0
+2015,Finlandia,30032,Lawrence,348,02/14/2015,4,0,Home,"",-,0
+2015,Fitchburg St.,227,Becker,26107,10/31/2014,2,4,Home,"",-,344
+2015,Fitchburg St.,227,Wentworth,762,11/01/2014,1,3,Home,"",-,284
+2015,Fitchburg St.,227,New England Col.,467,11/04/2014,2,2,Away,"",1 OT,275
+2015,Fitchburg St.,227,Plymouth St.,548,11/13/2014,3,3,Home,"",1 OT,544
+2015,Fitchburg St.,227,Worcester St.,809,11/15/2014,2,4,Away,"",-,125
+2015,Fitchburg St.,227,Westfield St.,777,11/20/2014,1,2,Home,"",-,484
+2015,Fitchburg St.,227,Framingham St.,238,11/22/2014,4,0,Away,"",-,397
+2015,Fitchburg St.,227,Southern N.H.,468,11/29/2014,3,6,Away,"",-,126
+2015,Fitchburg St.,227,U New England,1255,11/30/2014,7,4,Neutral,"",-,73
+2015,Fitchburg St.,227,Salem St.,621,12/04/2014,3,0,Away,"",-,325
+2015,Fitchburg St.,227,UMass Dartmouth,656,12/06/2014,4,6,Home,"",-,400
+2015,Fitchburg St.,227,Assumption,36,01/06/2015,1,3,Away,"",-,0
+2015,Fitchburg St.,227,Franklin Pierce,241,01/10/2015,4,1,Away,"",-,0
+2015,Fitchburg St.,227,Plymouth St.,548,01/15/2015,5,3,Away,"",-,0
+2015,Fitchburg St.,227,Worcester St.,809,01/17/2015,6,3,Home,"",-,0
+2015,Fitchburg St.,227,Westfield St.,777,01/22/2015,6,2,Away,"",-,0
+2015,Fitchburg St.,227,Salem St.,621,01/29/2015,3,6,Home,"",-,0
+2015,Fitchburg St.,227,UMass Dartmouth,656,01/31/2015,3,2,Away,"",-,0
+2015,Fitchburg St.,227,Framingham St.,238,02/03/2015,2,5,Home,"",-,0
+2015,Fitchburg St.,227,Plymouth St.,548,02/07/2015,2,6,Home,"",-,0
+2015,Fitchburg St.,227,Worcester St.,809,02/12/2015,3,2,Away,"",-,0
+2015,Fitchburg St.,227,Westfield St.,777,02/14/2015,5,2,Home,"",-,0
+2015,Fitchburg St.,227,Framingham St.,238,02/19/2015,1,4,Away,"",-,0
+2015,Fitchburg St.,227,Salem St.,621,02/21/2015,1,1,Away,"",1 OT,0
+2015,Fitchburg St.,227,UMass Dartmouth,656,02/24/2015,3,5,Home,"",-,0
+2015,Fitchburg St.,227,UMass Dartmouth,656,02/28/2015,4,5,Home,"",-,0
+2015,Framingham St.,238,Southern N.H.,468,11/04/2014,4,6,Away,"",-,347
+2015,Framingham St.,238,UMass Dartmouth,656,11/08/2014,5,5,Home,"",1 OT,178
+2015,Framingham St.,238,Westfield St.,777,11/11/2014,4,6,Away,"",-,325
+2015,Framingham St.,238,Salem St.,621,11/15/2014,2,4,Away,"",-,275
+2015,Framingham St.,238,Worcester St.,809,11/20/2014,5,2,Away,"",-,175
+2015,Framingham St.,238,Fitchburg St.,227,11/22/2014,0,4,Home,"",-,397
+2015,Framingham St.,238,New England Col.,467,11/25/2014,0,6,Away,"",-,165
+2015,Framingham St.,238,Plymouth St.,548,12/04/2014,4,5,Home,"",1 OT,100
+2015,Framingham St.,238,Assumption,36,12/10/2014,3,2,Home,"",-,125
+2015,Framingham St.,238,Franklin Pierce,241,12/13/2014,3,5,Away,"",-,127
+2015,Framingham St.,238,Western New Eng.,775,01/06/2015,3,3,Home,"",1 OT,0
+2015,Framingham St.,238,Westfield St.,777,01/10/2015,2,4,Home,"",-,0
+2015,Framingham St.,238,UMass Dartmouth,656,01/15/2015,2,9,Away,"",-,0
+2015,Framingham St.,238,Salem St.,621,01/17/2015,3,5,Home,"",-,0
+2015,Framingham St.,238,Worcester St.,809,01/22/2015,3,2,Home,"",-,0
+2015,Framingham St.,238,Plymouth St.,548,01/29/2015,2,12,Away,"",-,0
+2015,Framingham St.,238,Stonehill,682,01/31/2015,2,6,Away,"",-,0
+2015,Framingham St.,238,Fitchburg St.,227,02/03/2015,5,2,Away,"",-,0
+2015,Framingham St.,238,Westfield St.,777,02/05/2015,3,5,Away,"",-,0
+2015,Framingham St.,238,UMass Dartmouth,656,02/07/2015,2,1,Home,"",-,0
+2015,Framingham St.,238,Salem St.,621,02/12/2015,1,2,Away,"",-,0
+2015,Framingham St.,238,Fitchburg St.,227,02/19/2015,4,1,Home,"",-,0
+2015,Framingham St.,238,Plymouth St.,548,02/21/2015,1,2,Home,"",-,0
+2015,Framingham St.,238,Worcester St.,809,02/26/2015,2,6,Away,"",-,0
+2015,Franklin Pierce,241,Johnson & Wales (RI),22626,10/31/2014,2,5,Away,"",-,117
+2015,Franklin Pierce,241,Nichols,484,11/01/2014,0,1,Home,"",-,226
+2015,Franklin Pierce,241,Assumption,36,11/08/2014,3,5,Home,"",-,181
+2015,Franklin Pierce,241,SUNY Geneseo,247,11/15/2014,2,7,Away,"",-,950
+2015,Franklin Pierce,241,Assumption,36,11/19/2014,3,2,Away,"",1 OT,86
+2015,Franklin Pierce,241,Stonehill,682,11/22/2014,2,5,Away,"",-,130
+2015,Franklin Pierce,241,Westfield St.,777,11/25/2014,2,5,Home,"",-,73
+2015,Franklin Pierce,241,Southern N.H.,468,12/02/2014,4,2,Away,"",-,184
+2015,Franklin Pierce,241,Salve Regina,623,12/05/2014,0,4,Away,"",-,123
+2015,Franklin Pierce,241,Suffolk,684,12/06/2014,3,4,Home,"",-,118
+2015,Franklin Pierce,241,St. Anselm,593,12/10/2014,1,5,Away,"",-,372
+2015,Franklin Pierce,241,Framingham St.,238,12/13/2014,5,3,Home,"",-,127
+2015,Franklin Pierce,241,Fitchburg St.,227,01/10/2015,1,4,Home,"",-,0
+2015,Franklin Pierce,241,Suffolk,684,01/17/2015,1,4,Away,"",-,0
+2015,Franklin Pierce,241,Southern N.H.,468,01/20/2015,1,2,Home,"",-,0
+2015,Franklin Pierce,241,Hamilton,267,01/24/2015,0,4,Away,"",-,0
+2015,Franklin Pierce,241,SUNY Canton,30165,01/30/2015,0,5,Home,"",-,0
+2015,Franklin Pierce,241,SUNY Canton,30165,01/31/2015,2,5,Home,"",-,0
+2015,Franklin Pierce,241,Saint Michael's,613,02/03/2015,2,9,Home,"",-,0
+2015,Franklin Pierce,241,Brockport,78,02/07/2015,2,5,Away,"",-,0
+2015,Franklin Pierce,241,Southern N.H.,468,02/10/2015,6,6,Away,"",1 OT,0
+2015,Franklin Pierce,241,Stonehill,682,02/12/2015,1,2,Home,"",-,0
+2015,Franklin Pierce,241,Assumption,36,02/16/2015,3,6,Home,"",-,0
+2015,Franklin Pierce,241,Stonehill,682,02/18/2015,2,8,Away,"",-,0
+2015,Fredonia,242,SUNY Cortland,168,10/31/2014,2,2,Home,"",1 OT,275
+2015,Fredonia,242,Oswego St.,530,11/01/2014,2,10,Home,"",-,345
+2015,Fredonia,242,SUNY Canton,30165,11/07/2014,4,4,Away,"",1 OT,863
+2015,Fredonia,242,SUNY Canton,30165,11/08/2014,3,2,Away,"",-,573
+2015,Fredonia,242,SUNY Potsdam,552,11/14/2014,4,4,Away,"",1 OT,957
+2015,Fredonia,242,Plattsburgh St.,547,11/15/2014,1,4,Away,"",-,"1,954"
+2015,Fredonia,242,Elmira,213,12/02/2014,2,7,Home,"",-,127
+2015,Fredonia,242,SUNY Geneseo,247,12/05/2014,0,3,Away,"",-,"1,408"
+2015,Fredonia,242,Brockport,78,12/06/2014,0,3,Away,"",-,500
+2015,Fredonia,242,Johnson & Wales (RI),22626,12/12/2014,2,1,Home,"",-,235
+2015,Fredonia,242,Southern N.H.,468,01/06/2015,7,1,Home,"",-,70
+2015,Fredonia,242,Neumann,1254,01/09/2015,4,2,Away,"",-,0
+2015,Fredonia,242,Neumann,1254,01/10/2015,1,2,Away,"",1 OT,0
+2015,Fredonia,242,Curry,170,01/16/2015,4,4,Away,"",1 OT,0
+2015,Fredonia,242,Johnson & Wales (RI),22626,01/17/2015,2,4,Neutral,"Providence, RI",-,0
+2015,Fredonia,242,SUNY Cortland,168,01/23/2015,3,3,Away,"",1 OT,0
+2015,Fredonia,242,Oswego St.,530,01/24/2015,1,7,Away,"",-,0
+2015,Fredonia,242,Morrisville St.,30067,01/30/2015,4,5,Away,"",-,0
+2015,Fredonia,242,Morrisville St.,30067,01/31/2015,2,4,Away,"",-,0
+2015,Fredonia,242,SUNY Potsdam,552,02/06/2015,0,2,Home,"",-,0
+2015,Fredonia,242,Plattsburgh St.,547,02/07/2015,0,9,Home,"",-,0
+2015,Fredonia,242,Buffalo St.,85,02/13/2015,1,3,Away,"",-,0
+2015,Fredonia,242,Buffalo St.,85,02/14/2015,2,6,Home,"",-,0
+2015,Fredonia,242,SUNY Geneseo,247,02/20/2015,1,6,Home,"",-,0
+2015,Fredonia,242,Brockport,78,02/21/2015,3,4,Home,"",-,0
+2015,Gust. Adolphus,266,Bethel (MN),60,10/31/2014,2,4,Neutral,"",-,300
+2015,Gust. Adolphus,266,St. Olaf,615,11/02/2014,6,3,Neutral,"",-,100
+2015,Gust. Adolphus,266,Wis.-Stevens Point,802,11/07/2014,1,4,Home,"",-,515
+2015,Gust. Adolphus,266,Wis.-Stout,803,11/08/2014,4,3,Home,"",1 OT,535
+2015,Gust. Adolphus,266,Concordia-M'head,161,11/14/2014,2,1,Away,"",-,317
+2015,Gust. Adolphus,266,Concordia-M'head,161,11/15/2014,3,3,Away,"",1 OT,253
+2015,Gust. Adolphus,266,Hamline,268,11/21/2014,3,3,Away,"",1 OT,475
+2015,Gust. Adolphus,266,Hamline,268,11/22/2014,2,2,Home,"",1 OT,541
+2015,Gust. Adolphus,266,Lawrence,348,11/29/2014,3,3,Home,"",1 OT,234
+2015,Gust. Adolphus,266,Marian (WI),1196,11/30/2014,1,2,Home,"",-,186
+2015,Gust. Adolphus,266,St. Olaf,615,12/05/2014,3,3,Home,"",1 OT,502
+2015,Gust. Adolphus,266,St. Olaf,615,12/06/2014,2,4,Away,"",-,492
+2015,Gust. Adolphus,266,Williams,789,01/02/2015,2,3,Home,"",-,197
+2015,Gust. Adolphus,266,Finlandia,30032,01/09/2015,4,2,Home,"",-,0
+2015,Gust. Adolphus,266,St. Scholastica,618,01/10/2015,0,0,Home,"",1 OT,0
+2015,Gust. Adolphus,266,Augsburg,38,01/16/2015,3,5,Away,"",-,0
+2015,Gust. Adolphus,266,Augsburg,38,01/17/2015,3,0,Home,"",-,0
+2015,Gust. Adolphus,266,Saint Mary's (MN),612,01/23/2015,0,3,Away,"",-,0
+2015,Gust. Adolphus,266,Saint Mary's (MN),612,01/24/2015,2,1,Home,"",1 OT,0
+2015,Gust. Adolphus,266,Saint John's (MN),602,01/30/2015,1,1,Away,"",1 OT,0
+2015,Gust. Adolphus,266,Saint John's (MN),602,01/31/2015,2,3,Home,"",-,0
+2015,Gust. Adolphus,266,St. Thomas (MN),620,02/13/2015,1,1,Home,"",1 OT,0
+2015,Gust. Adolphus,266,St. Thomas (MN),620,02/14/2015,3,1,Away,"",-,0
+2015,Gust. Adolphus,266,Bethel (MN),60,02/20/2015,2,6,Away,"",-,0
+2015,Gust. Adolphus,266,Bethel (MN),60,02/21/2015,4,2,Home,"",-,0
+2015,Hamilton,267,Amherst,24,11/15/2014,1,3,Home,"",-,600
+2015,Hamilton,267,Wesleyan (CT),764,11/21/2014,4,0,Away,"",-,200
+2015,Hamilton,267,Trinity (CT),713,11/22/2014,1,1,Away,"",1 OT,142
+2015,Hamilton,267,Utica,733,11/28/2014,3,5,Away,"",-,"3,815"
+2015,Hamilton,267,SUNY Canton,30165,11/29/2014,5,1,Away,"",-,203
+2015,Hamilton,267,Williams,789,12/05/2014,5,2,Away,"",-,103
+2015,Hamilton,267,Middlebury,420,12/06/2014,2,6,Away,"",-,850
+2015,Hamilton,267,SUNY Cortland,168,12/12/2014,3,3,Home,"",1 OT,0
+2015,Hamilton,267,Lake Forest,344,01/04/2015,3,5,Neutral,"",-,722
+2015,Hamilton,267,UMass Boston,401,01/05/2015,1,1,Away,"",1 OT,237
+2015,Hamilton,267,Bowdoin,69,01/09/2015,4,4,Home,"",1 OT,0
+2015,Hamilton,267,Colby,151,01/10/2015,0,1,Home,"",-,0
+2015,Hamilton,267,Tufts,717,01/16/2015,6,3,Home,"",-,0
+2015,Hamilton,267,Connecticut Col.,163,01/17/2015,3,1,Home,"",-,0
+2015,Hamilton,267,Amherst,24,01/23/2015,1,3,Away,"",-,0
+2015,Hamilton,267,Franklin Pierce,241,01/24/2015,4,0,Home,"",-,0
+2015,Hamilton,267,Wesleyan (CT),764,01/30/2015,5,3,Home,"",-,0
+2015,Hamilton,267,Trinity (CT),713,01/31/2015,1,6,Home,"",-,0
+2015,Hamilton,267,Bowdoin,69,02/06/2015,1,2,Away,"",-,0
+2015,Hamilton,267,Colby,151,02/07/2015,2,2,Away,"",1 OT,0
+2015,Hamilton,267,Tufts,717,02/13/2015,3,3,Away,"",1 OT,0
+2015,Hamilton,267,Connecticut Col.,163,02/14/2015,4,2,Away,"",-,0
+2015,Hamilton,267,Williams,789,02/20/2015,5,1,Home,"",-,0
+2015,Hamilton,267,Middlebury,420,02/21/2015,1,3,Home,"",-,0
+2015,Hamilton,267,Connecticut Col.,163,02/28/2015,3,4,Away,"",1 OT,0
+2015,Hamline,268,Saint John's (MN),602,11/01/2014,2,6,Neutral,"",-,311
+2015,Hamline,268,St. Thomas (MN),620,11/02/2014,2,1,Neutral,"",-,206
+2015,Hamline,268,Wis.-Stout,803,11/07/2014,4,2,Home,"",-,212
+2015,Hamline,268,Wis.-River Falls,801,11/08/2014,2,5,Home,"",-,200
+2015,Hamline,268,Wis.-Eau Claire,793,11/14/2014,2,5,Away,"",-,"1,386"
+2015,Hamline,268,Wis.-Superior,804,11/15/2014,2,0,Away,"",-,456
+2015,Hamline,268,Gust. Adolphus,266,11/21/2014,3,3,Home,"",1 OT,475
+2015,Hamline,268,Gust. Adolphus,266,11/22/2014,2,2,Away,"",1 OT,541
+2015,Hamline,268,Bethel (MN),60,12/05/2014,5,5,Away,"",1 OT,300
+2015,Hamline,268,Bethel (MN),60,12/06/2014,2,1,Home,"",-,200
+2015,Hamline,268,Wis.-River Falls,801,12/12/2014,1,3,Away,"",-,420
+2015,Hamline,268,Lake Forest,344,01/09/2015,5,5,Home,"",1 OT,0
+2015,Hamline,268,Wis.-Stevens Point,802,01/10/2015,5,4,Home,"",-,0
+2015,Hamline,268,St. Olaf,615,01/16/2015,4,2,Home,"",-,0
+2015,Hamline,268,St. Olaf,615,01/17/2015,3,0,Away,"",-,0
+2015,Hamline,268,St. Thomas (MN),620,01/23/2015,1,4,Home,"",-,0
+2015,Hamline,268,St. Thomas (MN),620,01/24/2015,3,4,Away,"",1 OT,0
+2015,Hamline,268,Concordia-M'head,161,01/30/2015,2,0,Away,"",-,0
+2015,Hamline,268,Concordia-M'head,161,01/31/2015,1,4,Away,"",-,0
+2015,Hamline,268,Saint John's (MN),602,02/06/2015,6,5,Away,"",-,0
+2015,Hamline,268,Saint John's (MN),602,02/07/2015,0,2,Home,"",-,0
+2015,Hamline,268,Augsburg,38,02/13/2015,3,2,Home,"",-,0
+2015,Hamline,268,Augsburg,38,02/14/2015,6,5,Away,"",1 OT,0
+2015,Hamline,268,Saint Mary's (MN),612,02/20/2015,3,4,Away,"",1 OT,0
+2015,Hamline,268,Saint Mary's (MN),612,02/21/2015,4,5,Home,"",-,0
+2015,Hamline,268,Augsburg,38,02/26/2015,4,3,Away,"",-,0
+2015,Hamline,268,St. Thomas (MN),620,02/28/2015,6,3,Away,"",-,0
+2015,Hamline,268,Saint Mary's (MN),612,03/07/2015,4,2,Away,"",-,0
+2015,Hobart,282,Brockport,78,10/31/2014,3,1,Away,"",-,650
+2015,Hobart,282,SUNY Potsdam,552,11/01/2014,4,5,Away,"",-,732
+2015,Hobart,282,Manhattanville,382,11/07/2014,3,4,Away,"",-,641
+2015,Hobart,282,Neumann,1254,11/08/2014,6,3,Away,"",-,134
+2015,Hobart,282,Nazareth,461,11/14/2014,5,2,Home,"",-,220
+2015,Hobart,282,Utica,733,11/15/2014,5,4,Home,"",1 OT,150
+2015,Hobart,282,Elmira,213,11/21/2014,2,4,Home,"",-,295
+2015,Hobart,282,Elmira,213,11/22/2014,4,2,Home,"",-,210
+2015,Hobart,282,Wesleyan (CT),764,12/05/2014,4,1,Home,"",-,200
+2015,Hobart,282,Trinity (CT),713,12/06/2014,3,4,Home,"",-,200
+2015,Hobart,282,Southern Me.,662,01/02/2015,6,2,Neutral,"",-,150
+2015,Hobart,282,Middlebury,420,01/03/2015,4,1,Neutral,"",-,100
+2015,Hobart,282,Oswego St.,530,01/09/2015,4,5,Away,"",-,0
+2015,Hobart,282,SUNY Geneseo,247,01/10/2015,7,4,Away,"",-,0
+2015,Hobart,282,Salve Regina,623,01/16/2015,7,0,Home,"",-,0
+2015,Hobart,282,Nichols,484,01/17/2015,4,3,Home,"",-,0
+2015,Hobart,282,Nazareth,461,01/23/2015,2,7,Away,"",-,0
+2015,Hobart,282,Nazareth,461,01/24/2015,2,1,Away,"",-,0
+2015,Hobart,282,Neumann,1254,01/30/2015,6,2,Home,"",-,0
+2015,Hobart,282,Neumann,1254,01/31/2015,3,2,Home,"",-,0
+2015,Hobart,282,Utica,733,02/06/2015,3,2,Away,"",1 OT,0
+2015,Hobart,282,Utica,733,02/07/2015,4,2,Away,"",-,0
+2015,Hobart,282,Manhattanville,382,02/13/2015,1,0,Home,"",1 OT,0
+2015,Hobart,282,Manhattanville,382,02/14/2015,3,0,Home,"",-,0
+2015,Hobart,282,Elmira,213,02/20/2015,2,1,Away,"",-,0
+2015,Hobart,282,Elmira,213,02/28/2015,5,1,Home,"",-,0
+2015,Hobart,282,Neumann,1254,03/07/2015,2,1,Home,"",1 OT,0
+2015,Johnson & Wales (RI),22626,Franklin Pierce,241,10/31/2014,5,2,Home,"",-,117
+2015,Johnson & Wales (RI),22626,Wentworth,762,11/08/2014,2,3,Away,"",-,150
+2015,Johnson & Wales (RI),22626,Suffolk,684,11/13/2014,1,2,Home,"",1 OT,147
+2015,Johnson & Wales (RI),22626,Curry,170,11/15/2014,3,1,Home,"",-,137
+2015,Johnson & Wales (RI),22626,Becker,26107,11/20/2014,4,1,Home,"",-,63
+2015,Johnson & Wales (RI),22626,Nichols,484,11/22/2014,3,2,Away,"",-,92
+2015,Johnson & Wales (RI),22626,Assumption,36,11/25/2014,5,2,Home,"",-,107
+2015,Johnson & Wales (RI),22626,Williams,789,11/29/2014,3,4,Neutral,"",-,110
+2015,Johnson & Wales (RI),22626,Skidmore,642,11/30/2014,2,2,Away,"",1 OT,130
+2015,Johnson & Wales (RI),22626,Fredonia,242,12/12/2014,1,2,Away,"",-,235
+2015,Johnson & Wales (RI),22626,Buffalo St.,85,12/13/2014,3,5,Away,"",-,175
+2015,Johnson & Wales (RI),22626,SUNY Canton,30165,01/03/2015,2,0,Home,"",-,107
+2015,Johnson & Wales (RI),22626,UMass Dartmouth,656,01/07/2015,7,2,Home,"",-,0
+2015,Johnson & Wales (RI),22626,SUNY Potsdam,552,01/09/2015,3,2,Home,"",-,0
+2015,Johnson & Wales (RI),22626,Buffalo St.,85,01/16/2015,1,2,Home,"",-,0
+2015,Johnson & Wales (RI),22626,Fredonia,242,01/17/2015,4,2,Neutral,"Providence, RI",-,0
+2015,Johnson & Wales (RI),22626,Western New Eng.,775,01/24/2015,5,0,Away,"",-,0
+2015,Johnson & Wales (RI),22626,Salve Regina,623,01/29/2015,1,3,Home,"",-,0
+2015,Johnson & Wales (RI),22626,Suffolk,684,01/31/2015,3,2,Away,"",1 OT,0
+2015,Johnson & Wales (RI),22626,Wentworth,762,02/05/2015,0,2,Home,"",-,0
+2015,Johnson & Wales (RI),22626,Becker,26107,02/08/2015,5,1,Away,"",-,0
+2015,Johnson & Wales (RI),22626,Curry,170,02/12/2015,3,1,Away,"",-,0
+2015,Johnson & Wales (RI),22626,Western New Eng.,775,02/14/2015,2,3,Home,"",-,0
+2015,Johnson & Wales (RI),22626,Nichols,484,02/19/2015,2,3,Home,"",-,0
+2015,Johnson & Wales (RI),22626,Salve Regina,623,02/22/2015,4,1,Away,"",-,0
+2015,Johnson & Wales (RI),22626,Suffolk,684,02/28/2015,5,0,Home,"",-,0
+2015,Johnson & Wales (RI),22626,Salve Regina,623,03/04/2015,3,9,Away,"",-,0
+2015,Lake Forest,344,Wis.-Stout,803,11/01/2014,6,2,Home,"",-,478
+2015,Lake Forest,344,Northland,1267,11/07/2014,6,1,Away,"",-,110
+2015,Lake Forest,344,Northland,1267,11/08/2014,3,4,Away,"",-,105
+2015,Lake Forest,344,St. Norbert,614,11/14/2014,1,3,Home,"",-,310
+2015,Lake Forest,344,St. Norbert,614,11/15/2014,2,2,Away,"",1 OT,987
+2015,Lake Forest,344,Wis.-Stevens Point,802,11/21/2014,1,5,Away,"",-,619
+2015,Lake Forest,344,Wis.-Eau Claire,793,11/22/2014,1,1,Away,"",1 OT,"1,193"
+2015,Lake Forest,344,Finlandia,30032,11/28/2014,5,0,Away,"",-,57
+2015,Lake Forest,344,Finlandia,30032,11/29/2014,5,3,Away,"",-,104
+2015,Lake Forest,344,St. Scholastica,618,12/05/2014,1,0,Home,"",-,414
+2015,Lake Forest,344,St. Scholastica,618,12/06/2014,3,1,Home,"",-,213
+2015,Lake Forest,344,Hamilton,267,01/04/2015,5,3,Neutral,"",-,722
+2015,Lake Forest,344,Connecticut Col.,163,01/05/2015,1,1,Neutral,"",1 OT,196
+2015,Lake Forest,344,Hamline,268,01/09/2015,5,5,Away,"",1 OT,0
+2015,Lake Forest,344,Bethel (MN),60,01/10/2015,3,3,Away,"",1 OT,0
+2015,Lake Forest,344,Marian (WI),1196,01/16/2015,4,3,Away,"",-,0
+2015,Lake Forest,344,Marian (WI),1196,01/17/2015,4,1,Home,"",-,0
+2015,Lake Forest,344,Concordia Wisconsin,1036,01/23/2015,9,1,Home,"",-,0
+2015,Lake Forest,344,Concordia Wisconsin,1036,01/24/2015,5,1,Away,"",-,0
+2015,Lake Forest,344,Lawrence,348,01/30/2015,4,1,Away,"",-,0
+2015,Lake Forest,344,Lawrence,348,01/31/2015,6,3,Home,"",-,0
+2015,Lake Forest,344,MSOE,20220,02/06/2015,1,2,Away,"",-,0
+2015,Lake Forest,344,MSOE,20220,02/07/2015,2,0,Home,"",-,0
+2015,Lake Forest,344,Adrian,4,02/13/2015,2,6,Home,"",-,0
+2015,Lake Forest,344,Adrian,4,02/14/2015,2,6,Home,"",-,0
+2015,Lake Forest,344,St. Scholastica,618,02/21/2015,1,2,Home,"",-,0
+2015,Lake Forest,344,St. Scholastica,618,02/22/2015,3,2,Home,"",-,0
+2015,Lawrence,348,Concordia Wisconsin,1036,10/31/2014,6,2,Home,"",-,699
+2015,Lawrence,348,Concordia Wisconsin,1036,11/01/2014,4,2,Away,"",-,587
+2015,Lawrence,348,Marian (WI),1196,11/07/2014,1,2,Away,"",-,393
+2015,Lawrence,348,Marian (WI),1196,11/08/2014,2,5,Home,"",-,479
+2015,Lawrence,348,Northland,1267,11/14/2014,4,2,Home,"",-,631
+2015,Lawrence,348,Northland,1267,11/15/2014,5,4,Home,"",1 OT,512
+2015,Lawrence,348,Wis.-River Falls,801,11/21/2014,1,4,Away,"",-,456
+2015,Lawrence,348,Wis.-Stout,803,11/22/2014,1,2,Away,"",-,278
+2015,Lawrence,348,Gust. Adolphus,266,11/29/2014,3,3,Away,"",1 OT,234
+2015,Lawrence,348,St. Olaf,615,11/30/2014,4,3,Neutral,"",-,79
+2015,Lawrence,348,St. Norbert,614,12/05/2014,1,3,Away,"",-,"1,001"
+2015,Lawrence,348,St. Norbert,614,12/06/2014,0,9,Home,"",-,621
+2015,Lawrence,348,Wis.-Eau Claire,793,12/13/2014,2,11,Away,"",-,789
+2015,Lawrence,348,Concordia-M'head,161,01/10/2015,1,5,Away,"",-,0
+2015,Lawrence,348,Saint John's (MN),602,01/11/2015,2,6,Away,"",-,0
+2015,Lawrence,348,MSOE,20220,01/16/2015,2,5,Home,"",-,0
+2015,Lawrence,348,MSOE,20220,01/17/2015,3,2,Away,"",-,0
+2015,Lawrence,348,St. Scholastica,618,01/23/2015,1,6,Away,"",-,0
+2015,Lawrence,348,St. Scholastica,618,01/24/2015,2,4,Away,"",-,0
+2015,Lawrence,348,Lake Forest,344,01/30/2015,1,4,Home,"",-,0
+2015,Lawrence,348,Lake Forest,344,01/31/2015,3,6,Away,"",-,0
+2015,Lawrence,348,Adrian,4,02/06/2015,1,6,Home,"",-,0
+2015,Lawrence,348,Adrian,4,02/07/2015,1,7,Home,"",-,0
+2015,Lawrence,348,Finlandia,30032,02/13/2015,2,1,Away,"",-,0
+2015,Lawrence,348,Finlandia,30032,02/14/2015,0,4,Away,"",-,0
+2015,Lawrence,348,St. Norbert,614,02/20/2015,0,5,Away,"",-,0
+2015,Lawrence,348,St. Norbert,614,02/21/2015,0,6,Away,"",-,0
+2015,Manhattanville,382,Hobart,282,11/07/2014,4,3,Home,"",-,641
+2015,Manhattanville,382,Elmira,213,11/08/2014,1,1,Home,"",1 OT,375
+2015,Manhattanville,382,Neumann,1254,11/14/2014,0,3,Away,"",-,176
+2015,Manhattanville,382,Neumann,1254,11/15/2014,3,4,Away,"",1 OT,149
+2015,Manhattanville,382,Nazareth,461,11/21/2014,0,5,Away,"",-,333
+2015,Manhattanville,382,Western New Eng.,775,11/25/2014,2,1,Home,"",-,125
+2015,Manhattanville,382,Castleton,123,11/28/2014,2,0,Away,"",-,428
+2015,Manhattanville,382,Brockport,78,11/29/2014,3,4,Neutral,"",-,128
+2015,Manhattanville,382,Connecticut Col.,163,12/02/2014,4,3,Away,"",-,100
+2015,Manhattanville,382,SUNY Canton,30165,12/05/2014,3,2,Home,"",-,185
+2015,Manhattanville,382,Nichols,484,12/06/2014,1,1,Home,"",1 OT,226
+2015,Manhattanville,382,Curry,170,01/04/2015,2,5,Home,"",-,245
+2015,Manhattanville,382,Morrisville St.,30067,01/06/2015,4,4,Home,"",1 OT,275
+2015,Manhattanville,382,Wentworth,762,01/11/2015,4,1,Away,"",-,0
+2015,Manhattanville,382,Williams,789,01/16/2015,1,1,Away,"",1 OT,0
+2015,Manhattanville,382,Utica,733,01/17/2015,0,2,Away,"",-,0
+2015,Manhattanville,382,Elmira,213,01/23/2015,3,1,Away,"",-,0
+2015,Manhattanville,382,Elmira,213,01/24/2015,2,5,Away,"",-,0
+2015,Manhattanville,382,Utica,733,01/30/2015,2,3,Home,"",-,0
+2015,Manhattanville,382,Utica,733,01/31/2015,1,2,Home,"",-,0
+2015,Manhattanville,382,Nazareth,461,02/06/2015,5,5,Home,"",1 OT,0
+2015,Manhattanville,382,Nazareth,461,02/07/2015,2,4,Home,"",-,0
+2015,Manhattanville,382,Hobart,282,02/13/2015,0,1,Away,"",1 OT,0
+2015,Manhattanville,382,Hobart,282,02/14/2015,0,3,Away,"",-,0
+2015,Manhattanville,382,Neumann,1254,02/20/2015,2,5,Home,"",-,0
+2015,Manhattanville,382,Nazareth,461,02/25/2015,1,5,Away,"",-,0
+2015,Marian (WI),1196,St. Norbert,614,10/31/2014,2,5,Away,"",-,"1,086"
+2015,Marian (WI),1196,St. Norbert,614,11/01/2014,1,4,Home,"",-,369
+2015,Marian (WI),1196,Lawrence,348,11/07/2014,2,1,Home,"",-,393
+2015,Marian (WI),1196,Lawrence,348,11/08/2014,5,2,Away,"",-,479
+2015,Marian (WI),1196,MSOE,20220,11/14/2014,1,3,Away,"",-,730
+2015,Marian (WI),1196,MSOE,20220,11/15/2014,1,3,Home,"",-,589
+2015,Marian (WI),1196,Aurora,42,11/26/2014,8,2,Home,"",-,48
+2015,Marian (WI),1196,St. Olaf,615,11/29/2014,3,1,Neutral,"",-,54
+2015,Marian (WI),1196,Gust. Adolphus,266,11/30/2014,2,1,Away,"",-,186
+2015,Marian (WI),1196,Adrian,4,12/05/2014,0,6,Away,"",-,506
+2015,Marian (WI),1196,Adrian,4,12/06/2014,2,7,Away,"",-,412
+2015,Marian (WI),1196,Wis.-Superior,804,12/12/2014,5,2,Home,"",-,219
+2015,Marian (WI),1196,Wis.-Stevens Point,802,12/13/2014,1,2,Home,"",-,189
+2015,Marian (WI),1196,Wis.-Eau Claire,793,01/09/2015,3,5,Away,"",-,0
+2015,Marian (WI),1196,St. Thomas (MN),620,01/10/2015,0,1,Away,"",-,0
+2015,Marian (WI),1196,Lake Forest,344,01/16/2015,3,4,Home,"",-,0
+2015,Marian (WI),1196,Lake Forest,344,01/17/2015,1,4,Away,"",-,0
+2015,Marian (WI),1196,Northland,1267,01/23/2015,4,2,Away,"",-,0
+2015,Marian (WI),1196,Northland,1267,01/24/2015,2,2,Away,"",1 OT,0
+2015,Marian (WI),1196,Concordia Wisconsin,1036,01/30/2015,4,3,Home,"",-,0
+2015,Marian (WI),1196,Concordia Wisconsin,1036,01/31/2015,4,1,Away,"",-,0
+2015,Marian (WI),1196,Finlandia,30032,02/07/2015,4,2,Home,"",-,0
+2015,Marian (WI),1196,Finlandia,30032,02/08/2015,6,3,Home,"",-,0
+2015,Marian (WI),1196,St. Scholastica,618,02/13/2015,6,5,Home,"",1 OT,0
+2015,Marian (WI),1196,St. Scholastica,618,02/14/2015,4,3,Home,"",-,0
+2015,Marian (WI),1196,MSOE,20220,02/20/2015,3,6,Away,"",-,0
+2015,Marian (WI),1196,MSOE,20220,02/21/2015,4,2,Away,"",-,0
+2015,Middlebury,420,Bowdoin,69,11/15/2014,0,6,Away,"",-,"1,020"
+2015,Middlebury,420,Colby,151,11/16/2014,2,2,Away,"",1 OT,510
+2015,Middlebury,420,Tufts,717,11/21/2014,2,2,Home,"",1 OT,875
+2015,Middlebury,420,Connecticut Col.,163,11/22/2014,3,2,Home,"",-,525
+2015,Middlebury,420,Concordia-M'head,161,11/28/2014,3,4,Home,"",-,"1,016"
+2015,Middlebury,420,Plattsburgh St.,547,11/29/2014,2,4,Home,"",-,758
+2015,Middlebury,420,Amherst,24,12/05/2014,3,5,Home,"",-,"1,100"
+2015,Middlebury,420,Hamilton,267,12/06/2014,6,2,Home,"",-,850
+2015,Middlebury,420,Saint Michael's,613,01/02/2015,2,1,Neutral,"",-,150
+2015,Middlebury,420,Hobart,282,01/03/2015,1,4,Neutral,"",-,100
+2015,Middlebury,420,Trinity (CT),713,01/09/2015,1,3,Away,"",-,0
+2015,Middlebury,420,Wesleyan (CT),764,01/10/2015,3,2,Away,"",1 OT,0
+2015,Middlebury,420,Plattsburgh St.,547,01/16/2015,3,1,Away,"",-,0
+2015,Middlebury,420,Norwich,511,01/17/2015,3,0,Home,"",-,0
+2015,Middlebury,420,Bowdoin,69,01/23/2015,2,2,Home,"",1 OT,0
+2015,Middlebury,420,Colby,151,01/24/2015,4,3,Home,"",1 OT,0
+2015,Middlebury,420,Tufts,717,01/30/2015,1,2,Away,"",-,0
+2015,Middlebury,420,Connecticut Col.,163,01/31/2015,0,3,Away,"",-,0
+2015,Middlebury,420,Trinity (CT),713,02/06/2015,1,2,Home,"",1 OT,0
+2015,Middlebury,420,Wesleyan (CT),764,02/07/2015,3,0,Home,"",-,0
+2015,Middlebury,420,Williams,789,02/13/2015,2,0,Home,"",-,0
+2015,Middlebury,420,Williams,789,02/14/2015,4,5,Away,"",-,0
+2015,Middlebury,420,Amherst,24,02/20/2015,0,4,Away,"",-,0
+2015,Middlebury,420,Hamilton,267,02/21/2015,3,1,Away,"",-,0
+2015,Middlebury,420,Amherst,24,02/28/2015,0,3,Away,"",-,0
+2015,Morrisville St.,30067,SUNY Geneseo,247,10/31/2014,1,4,Home,"",-,575
+2015,Morrisville St.,30067,SUNY Geneseo,247,11/01/2014,0,6,Home,"",-,150
+2015,Morrisville St.,30067,Buffalo St.,85,11/07/2014,4,4,Away,"",1 OT,355
+2015,Morrisville St.,30067,Buffalo St.,85,11/08/2014,5,5,Away,"",1 OT,322
+2015,Morrisville St.,30067,SUNY Cortland,168,11/14/2014,6,4,Home,"",-,100
+2015,Morrisville St.,30067,SUNY Cortland,168,11/15/2014,7,3,Home,"",-,325
+2015,Morrisville St.,30067,Plattsburgh St.,547,11/21/2014,3,5,Away,"",-,"1,808"
+2015,Morrisville St.,30067,Plattsburgh St.,547,11/22/2014,2,5,Away,"",-,"1,787"
+2015,Morrisville St.,30067,Skidmore,642,11/29/2014,5,2,Away,"",-,245
+2015,Morrisville St.,30067,Williams,789,11/30/2014,3,2,Neutral,"",1 OT,75
+2015,Morrisville St.,30067,Neumann,1254,12/05/2014,1,1,Home,"",1 OT,135
+2015,Morrisville St.,30067,Utica,733,12/11/2014,3,4,Away,"",-,"3,365"
+2015,Morrisville St.,30067,Manhattanville,382,01/06/2015,4,4,Away,"",1 OT,275
+2015,Morrisville St.,30067,SUNY Canton,30165,01/09/2015,4,5,Away,"",-,0
+2015,Morrisville St.,30067,Southern N.H.,468,01/10/2015,5,5,Home,"",1 OT,0
+2015,Morrisville St.,30067,Nichols,484,01/16/2015,1,3,Home,"",-,0
+2015,Morrisville St.,30067,Brockport,78,01/23/2015,3,7,Away,"",-,0
+2015,Morrisville St.,30067,Brockport,78,01/24/2015,3,1,Away,"",-,0
+2015,Morrisville St.,30067,Fredonia,242,01/30/2015,5,4,Home,"",-,0
+2015,Morrisville St.,30067,Fredonia,242,01/31/2015,4,2,Home,"",-,0
+2015,Morrisville St.,30067,Oswego St.,530,02/06/2015,2,6,Away,"",-,0
+2015,Morrisville St.,30067,Oswego St.,530,02/07/2015,1,5,Away,"",-,0
+2015,Morrisville St.,30067,SUNY Potsdam,552,02/13/2015,2,7,Home,"",-,0
+2015,Morrisville St.,30067,SUNY Potsdam,552,02/14/2015,1,3,Home,"",-,0
+2015,MSOE,20220,St. Scholastica,618,10/31/2014,1,4,Away,"",-,218
+2015,MSOE,20220,St. Scholastica,618,11/01/2014,3,7,Away,"",-,210
+2015,MSOE,20220,Adrian,4,11/07/2014,4,5,Away,"",-,696
+2015,MSOE,20220,Adrian,4,11/08/2014,3,5,Away,"",-,465
+2015,MSOE,20220,Marian (WI),1196,11/14/2014,3,1,Home,"",-,730
+2015,MSOE,20220,Marian (WI),1196,11/15/2014,3,1,Away,"",-,589
+2015,MSOE,20220,Aurora,42,11/29/2014,6,5,Home,"",1 OT,148
+2015,MSOE,20220,Aurora,42,11/30/2014,5,2,Home,"",-,141
+2015,MSOE,20220,Northland,1267,12/05/2014,8,2,Home,"",-,502
+2015,MSOE,20220,Northland,1267,12/06/2014,3,0,Home,"",-,236
+2015,MSOE,20220,Wis.-Eau Claire,793,12/12/2014,0,4,Away,"",-,817
+2015,MSOE,20220,Wis.-Superior,804,12/13/2014,1,4,Home,"",-,243
+2015,MSOE,20220,Saint Mary's (MN),612,01/04/2015,4,0,Home,"",-,181
+2015,MSOE,20220,Wis.-Stout,803,01/09/2015,6,0,Away,"",-,0
+2015,MSOE,20220,Wis.-Superior,804,01/10/2015,3,2,Away,"",-,0
+2015,MSOE,20220,Lawrence,348,01/16/2015,5,2,Away,"",-,0
+2015,MSOE,20220,Lawrence,348,01/17/2015,2,3,Home,"",-,0
+2015,MSOE,20220,St. Norbert,614,01/22/2015,1,4,Home,"",-,0
+2015,MSOE,20220,St. Norbert,614,01/24/2015,2,1,Away,"",-,0
+2015,MSOE,20220,Finlandia,30032,01/30/2015,6,2,Home,"",-,0
+2015,MSOE,20220,Finlandia,30032,01/31/2015,3,0,Home,"",-,0
+2015,MSOE,20220,Lake Forest,344,02/06/2015,2,1,Home,"",-,0
+2015,MSOE,20220,Lake Forest,344,02/07/2015,0,2,Away,"",-,0
+2015,MSOE,20220,Concordia Wisconsin,1036,02/13/2015,3,0,Away,"",-,0
+2015,MSOE,20220,Concordia Wisconsin,1036,02/14/2015,3,0,Home,"",-,0
+2015,MSOE,20220,Marian (WI),1196,02/20/2015,6,3,Home,"",-,0
+2015,MSOE,20220,Marian (WI),1196,02/21/2015,2,4,Home,"",-,0
+2015,MSOE,20220,St. Norbert,614,02/28/2015,1,3,Away,"",-,0
+2015,Nazareth,461,Brockport,78,11/01/2014,7,1,Home,"",-,687
+2015,Nazareth,461,Utica,733,11/07/2014,2,2,Away,"",1 OT,"3,769"
+2015,Nazareth,461,Utica,733,11/08/2014,5,4,Away,"",-,"3,815"
+2015,Nazareth,461,Hobart,282,11/14/2014,2,5,Away,"",-,220
+2015,Nazareth,461,Oswego St.,530,11/15/2014,0,4,Away,"",-,"2,918"
+2015,Nazareth,461,Manhattanville,382,11/21/2014,5,0,Home,"",-,333
+2015,Nazareth,461,Neumann,1254,11/22/2014,3,2,Home,"",-,205
+2015,Nazareth,461,Babson,45,11/29/2014,2,5,Away,"",-,216
+2015,Nazareth,461,Amherst,24,11/30/2014,0,1,Away,"",-,173
+2015,Nazareth,461,SUNY Geneseo,247,12/02/2014,1,1,Home,"",1 OT,294
+2015,Nazareth,461,Elmira,213,12/05/2014,4,4,Away,"",1 OT,"1,005"
+2015,Nazareth,461,St. Scholastica,618,01/02/2015,4,3,Neutral,"",1 OT,300
+2015,Nazareth,461,Oswego St.,530,01/03/2015,2,5,Away,"",-,"2,213"
+2015,Nazareth,461,Buffalo St.,85,01/10/2015,2,3,Home,"",1 OT,0
+2015,Nazareth,461,Brockport,78,01/16/2015,5,3,Away,"",-,0
+2015,Nazareth,461,SUNY Geneseo,247,01/20/2015,3,1,Away,"",-,0
+2015,Nazareth,461,Hobart,282,01/23/2015,7,2,Home,"",-,0
+2015,Nazareth,461,Hobart,282,01/24/2015,1,2,Home,"",-,0
+2015,Nazareth,461,Elmira,213,01/30/2015,5,2,Home,"",-,0
+2015,Nazareth,461,Elmira,213,01/31/2015,2,1,Home,"",-,0
+2015,Nazareth,461,Manhattanville,382,02/06/2015,5,5,Away,"",1 OT,0
+2015,Nazareth,461,Manhattanville,382,02/07/2015,4,2,Away,"",-,0
+2015,Nazareth,461,Neumann,1254,02/13/2015,3,4,Away,"",-,0
+2015,Nazareth,461,Neumann,1254,02/14/2015,2,5,Away,"",-,0
+2015,Nazareth,461,Utica,733,02/20/2015,1,1,Home,"",1 OT,0
+2015,Nazareth,461,Manhattanville,382,02/25/2015,5,1,Home,"",-,0
+2015,Nazareth,461,Neumann,1254,02/28/2015,4,8,Away,"",-,0
+2015,Neumann,1254,Salve Regina,623,11/01/2014,2,2,Away,"",1 OT,57
+2015,Neumann,1254,Elmira,213,11/07/2014,3,2,Home,"",1 OT,284
+2015,Neumann,1254,Hobart,282,11/08/2014,3,6,Home,"",-,134
+2015,Neumann,1254,Manhattanville,382,11/14/2014,3,0,Home,"",-,176
+2015,Neumann,1254,Manhattanville,382,11/15/2014,4,3,Home,"",1 OT,149
+2015,Neumann,1254,Utica,733,11/21/2014,4,1,Away,"",-,"3,633"
+2015,Neumann,1254,Nazareth,461,11/22/2014,2,3,Away,"",-,205
+2015,Neumann,1254,Adrian,4,11/30/2014,4,0,Away,"",-,470
+2015,Neumann,1254,Morrisville St.,30067,12/05/2014,1,1,Away,"",1 OT,135
+2015,Neumann,1254,SUNY Canton,30165,12/06/2014,6,0,Home,"",-,214
+2015,Neumann,1254,Buffalo St.,85,01/02/2015,2,5,Neutral,"",-,310
+2015,Neumann,1254,Colby,151,01/03/2015,5,2,Neutral,"",-,232
+2015,Neumann,1254,Fredonia,242,01/09/2015,2,4,Home,"",-,0
+2015,Neumann,1254,Fredonia,242,01/10/2015,2,1,Home,"",1 OT,0
+2015,Neumann,1254,SUNY Geneseo,247,01/15/2015,1,4,Home,"",-,0
+2015,Neumann,1254,SUNY Geneseo,247,01/17/2015,2,2,Away,"",1 OT,0
+2015,Neumann,1254,Utica,733,01/23/2015,9,0,Home,"",-,0
+2015,Neumann,1254,Utica,733,01/24/2015,5,5,Home,"",1 OT,0
+2015,Neumann,1254,Hobart,282,01/30/2015,2,6,Away,"",-,0
+2015,Neumann,1254,Hobart,282,01/31/2015,2,3,Away,"",-,0
+2015,Neumann,1254,Elmira,213,02/06/2015,7,4,Away,"",-,0
+2015,Neumann,1254,Elmira,213,02/07/2015,5,6,Away,"",-,0
+2015,Neumann,1254,Nazareth,461,02/13/2015,4,3,Home,"",-,0
+2015,Neumann,1254,Nazareth,461,02/14/2015,5,2,Home,"",-,0
+2015,Neumann,1254,Manhattanville,382,02/20/2015,5,2,Away,"",-,0
+2015,Neumann,1254,Nazareth,461,02/28/2015,8,4,Home,"",-,0
+2015,Neumann,1254,Hobart,282,03/07/2015,1,2,Away,"",1 OT,0
+2015,New England Col.,467,Fitchburg St.,227,11/04/2014,2,2,Home,"",1 OT,275
+2015,New England Col.,467,UMass Boston,401,11/07/2014,4,5,Home,"",1 OT,210
+2015,New England Col.,467,Babson,45,11/08/2014,0,2,Home,"",-,210
+2015,New England Col.,467,Skidmore,642,11/14/2014,4,1,Away,"",-,615
+2015,New England Col.,467,Castleton,123,11/15/2014,2,5,Away,"",-,525
+2015,New England Col.,467,Saint Michael's,613,11/21/2014,3,2,Home,"",1 OT,245
+2015,New England Col.,467,Norwich,511,11/22/2014,3,4,Home,"",-,310
+2015,New England Col.,467,Framingham St.,238,11/25/2014,6,0,Home,"",-,165
+2015,New England Col.,467,St. Anselm,593,12/05/2014,0,4,Away,"",-,539
+2015,New England Col.,467,Plymouth St.,548,12/12/2014,4,4,Home,"",1 OT,157
+2015,New England Col.,467,Plattsburgh St.,547,01/02/2015,0,5,Away,"",-,"1,596"
+2015,New England Col.,467,Utica,733,01/03/2015,0,4,Neutral,"",-,413
+2015,New England Col.,467,Southern Me.,662,01/09/2015,4,0,Away,"",-,0
+2015,New England Col.,467,U New England,1255,01/10/2015,3,3,Away,"",1 OT,0
+2015,New England Col.,467,Suffolk,684,01/13/2015,7,0,Home,"",-,0
+2015,New England Col.,467,Babson,45,01/16/2015,3,3,Away,"",1 OT,0
+2015,New England Col.,467,UMass Boston,401,01/17/2015,1,4,Away,"",-,0
+2015,New England Col.,467,Salem St.,621,01/20/2015,4,2,Home,"",-,0
+2015,New England Col.,467,Castleton,123,01/23/2015,7,2,Home,"",-,0
+2015,New England Col.,467,Skidmore,642,01/24/2015,1,3,Home,"",-,0
+2015,New England Col.,467,Norwich,511,01/30/2015,2,6,Away,"",-,0
+2015,New England Col.,467,Saint Michael's,613,01/31/2015,3,1,Away,"",-,0
+2015,New England Col.,467,St. Anselm,593,02/06/2015,3,4,Home,"",1 OT,0
+2015,New England Col.,467,U New England,1255,02/13/2015,1,0,Home,"",-,0
+2015,New England Col.,467,Southern Me.,662,02/14/2015,1,1,Home,"",1 OT,0
+2015,New England Col.,467,Babson,45,02/21/2015,1,3,Away,"",-,0
+2015,Nichols,484,Franklin Pierce,241,11/01/2014,1,0,Away,"",-,226
+2015,Nichols,484,Plymouth St.,548,11/04/2014,6,4,Home,"",-,149
+2015,Nichols,484,Curry,170,11/08/2014,4,1,Away,"",-,300
+2015,Nichols,484,Becker,26107,11/12/2014,3,0,Away,"",-,68
+2015,Nichols,484,Wentworth,762,11/15/2014,7,3,Away,"",-,175
+2015,Nichols,484,Suffolk,684,11/19/2014,1,1,Home,"",1 OT,151
+2015,Nichols,484,Johnson & Wales (RI),22626,11/22/2014,2,3,Home,"",-,92
+2015,Nichols,484,Assumption,36,11/28/2014,4,2,Neutral,"",-,313
+2015,Nichols,484,Becker,26107,11/30/2014,1,5,Neutral,"",-,121
+2015,Nichols,484,Manhattanville,382,12/06/2014,1,1,Away,"",1 OT,226
+2015,Nichols,484,Castleton,123,01/02/2015,4,2,Home,"",-,97
+2015,Nichols,484,Skidmore,642,01/03/2015,7,3,Home,"",-,75
+2015,Nichols,484,Assumption,36,01/09/2015,9,5,Home,"",-,0
+2015,Nichols,484,SUNY Cortland,168,01/13/2015,7,1,Home,"",-,0
+2015,Nichols,484,Morrisville St.,30067,01/16/2015,3,1,Away,"",-,0
+2015,Nichols,484,Hobart,282,01/17/2015,3,4,Away,"",-,0
+2015,Nichols,484,Salve Regina,623,01/24/2015,5,0,Away,"",-,0
+2015,Nichols,484,Becker,26107,01/30/2015,6,3,Home,"",-,0
+2015,Nichols,484,Curry,170,02/04/2015,5,0,Home,"",-,0
+2015,Nichols,484,Suffolk,684,02/07/2015,3,2,Away,"",-,0
+2015,Nichols,484,Wentworth,762,02/11/2015,4,1,Home,"",-,0
+2015,Nichols,484,Salve Regina,623,02/14/2015,4,4,Home,"",1 OT,0
+2015,Nichols,484,Johnson & Wales (RI),22626,02/19/2015,3,2,Away,"",-,0
+2015,Nichols,484,Western New Eng.,775,02/21/2015,5,2,Away,"",-,0
+2015,Nichols,484,Western New Eng.,775,02/22/2015,8,3,Home,"",-,0
+2015,Nichols,484,Curry,170,03/04/2015,3,2,Home,"",-,0
+2015,Nichols,484,Salve Regina,623,03/07/2015,3,0,Home,"",-,0
+2015,Northland,1267,Adrian,4,10/31/2014,2,9,Away,"",-,437
+2015,Northland,1267,Adrian,4,11/01/2014,2,7,Away,"",-,650
+2015,Northland,1267,Lake Forest,344,11/07/2014,1,6,Home,"",-,110
+2015,Northland,1267,Lake Forest,344,11/08/2014,4,3,Home,"",-,105
+2015,Northland,1267,Lawrence,348,11/14/2014,2,4,Away,"",-,631
+2015,Northland,1267,Lawrence,348,11/15/2014,4,5,Away,"",1 OT,512
+2015,Northland,1267,Wis.-Superior,804,11/21/2014,3,4,Home,"",-,110
+2015,Northland,1267,Wis.-River Falls,801,11/22/2014,0,3,Away,"",-,500
+2015,Northland,1267,Wis.-Stout,803,11/25/2014,2,2,Home,"",1 OT,123
+2015,Northland,1267,Wis.-Superior,804,11/26/2014,1,5,Away,"",-,124
+2015,Northland,1267,MSOE,20220,12/05/2014,2,8,Away,"",-,502
+2015,Northland,1267,MSOE,20220,12/06/2014,0,3,Away,"",-,236
+2015,Northland,1267,Concordia-M'head,161,12/13/2014,2,4,Away,"",-,412
+2015,Northland,1267,St. Olaf,615,01/09/2015,3,3,Away,"",1 OT,0
+2015,Northland,1267,Saint Mary's (MN),612,01/10/2015,4,5,Away,"",-,0
+2015,Northland,1267,Finlandia,30032,01/16/2015,3,1,Home,"",-,0
+2015,Northland,1267,Finlandia,30032,01/18/2015,1,2,Away,"",-,0
+2015,Northland,1267,Marian (WI),1196,01/23/2015,2,4,Home,"",-,0
+2015,Northland,1267,Marian (WI),1196,01/24/2015,2,2,Home,"",1 OT,0
+2015,Northland,1267,St. Scholastica,618,01/30/2015,4,4,Home,"",1 OT,0
+2015,Northland,1267,St. Scholastica,618,01/31/2015,3,2,Away,"",-,0
+2015,Northland,1267,Concordia Wisconsin,1036,02/06/2015,3,5,Home,"",-,0
+2015,Northland,1267,Concordia Wisconsin,1036,02/07/2015,2,5,Home,"",-,0
+2015,Northland,1267,St. Norbert,614,02/13/2015,3,4,Home,"",1 OT,0
+2015,Northland,1267,St. Norbert,614,02/14/2015,0,5,Home,"",-,0
+2015,Norwich,511,Plymouth St.,548,10/31/2014,9,1,Home,"",-,"1,256"
+2015,Norwich,511,Saint Michael's,613,11/07/2014,4,1,Home,"",-,"1,523"
+2015,Norwich,511,Southern Me.,662,11/14/2014,5,0,Home,"",-,"1,829"
+2015,Norwich,511,U New England,1255,11/15/2014,4,1,Home,"",-,"1,023"
+2015,Norwich,511,St. Anselm,593,11/21/2014,5,1,Away,"",-,759
+2015,Norwich,511,New England Col.,467,11/22/2014,4,3,Away,"",-,310
+2015,Norwich,511,Plattsburgh St.,547,11/28/2014,5,1,Neutral,"",-,792
+2015,Norwich,511,Concordia-M'head,161,11/29/2014,2,2,Neutral,"",1 OT,698
+2015,Norwich,511,Skidmore,642,12/05/2014,4,0,Away,"",-,430
+2015,Norwich,511,Castleton,123,12/06/2014,5,1,Away,"",-,823
+2015,Norwich,511,Colby,151,01/02/2015,3,0,Home,"",-,"1,742"
+2015,Norwich,511,Buffalo St.,85,01/03/2015,4,1,Home,"",-,"1,273"
+2015,Norwich,511,Plattsburgh St.,547,01/06/2015,1,4,Away,"",-,"1,536"
+2015,Norwich,511,UMass Boston,401,01/09/2015,6,3,Home,"",-,0
+2015,Norwich,511,Babson,45,01/10/2015,3,2,Home,"",1 OT,0
+2015,Norwich,511,Saint Michael's,613,01/16/2015,9,0,Away,"",-,0
+2015,Norwich,511,Middlebury,420,01/17/2015,0,3,Away,"",-,0
+2015,Norwich,511,U New England,1255,01/23/2015,6,1,Away,"",-,0
+2015,Norwich,511,Southern Me.,662,01/24/2015,5,1,Away,"",-,0
+2015,Norwich,511,New England Col.,467,01/30/2015,6,2,Home,"",-,0
+2015,Norwich,511,St. Anselm,593,01/31/2015,4,0,Home,"",-,0
+2015,Norwich,511,Castleton,123,02/06/2015,3,0,Home,"",-,0
+2015,Norwich,511,Skidmore,642,02/07/2015,6,3,Home,"",-,0
+2015,Norwich,511,Babson,45,02/13/2015,6,1,Away,"",-,0
+2015,Norwich,511,UMass Boston,401,02/14/2015,3,4,Away,"",-,0
+2015,Norwich,511,Southern Me.,662,02/21/2015,4,0,Home,"",-,0
+2015,Norwich,511,Castleton,123,02/28/2015,2,1,Home,"",-,0
+2015,Norwich,511,Babson,45,03/07/2015,3,2,Home,"",1 OT,0
+2015,Oswego St.,530,Buffalo St.,85,10/31/2014,4,3,Away,"",-,"1,031"
+2015,Oswego St.,530,Fredonia,242,11/01/2014,10,2,Away,"",-,345
+2015,Oswego St.,530,SUNY Cortland,168,11/08/2014,6,4,Home,"",-,"3,000"
+2015,Oswego St.,530,SUNY Canton,30165,11/14/2014,9,1,Home,"",-,"2,780"
+2015,Oswego St.,530,Nazareth,461,11/15/2014,4,0,Home,"",-,"2,918"
+2015,Oswego St.,530,Brockport,78,11/21/2014,4,4,Home,"",1 OT,"2,585"
+2015,Oswego St.,530,Utica,733,11/22/2014,4,4,Neutral,"",1 OT,"7,047"
+2015,Oswego St.,530,SUNY Geneseo,247,11/25/2014,1,2,Home,"",-,"1,488"
+2015,Oswego St.,530,Plattsburgh St.,547,12/05/2014,3,1,Away,"",-,"2,021"
+2015,Oswego St.,530,SUNY Potsdam,552,12/06/2014,7,1,Away,"",-,743
+2015,Oswego St.,530,Tufts,717,01/02/2015,4,2,Home,"",-,"2,242"
+2015,Oswego St.,530,Nazareth,461,01/03/2015,5,2,Home,"",-,"2,213"
+2015,Oswego St.,530,Hobart,282,01/09/2015,5,4,Home,"",-,0
+2015,Oswego St.,530,Southern N.H.,468,01/11/2015,3,4,Home,"",-,0
+2015,Oswego St.,530,Elmira,213,01/16/2015,2,2,Away,"",1 OT,0
+2015,Oswego St.,530,Buffalo St.,85,01/23/2015,6,0,Home,"",-,0
+2015,Oswego St.,530,Fredonia,242,01/24/2015,7,1,Home,"",-,0
+2015,Oswego St.,530,SUNY Cortland,168,01/31/2015,7,4,Away,"",-,0
+2015,Oswego St.,530,Morrisville St.,30067,02/06/2015,6,2,Home,"",-,0
+2015,Oswego St.,530,Morrisville St.,30067,02/07/2015,5,1,Home,"",-,0
+2015,Oswego St.,530,Brockport,78,02/13/2015,3,1,Away,"",-,0
+2015,Oswego St.,530,SUNY Geneseo,247,02/14/2015,2,1,Away,"",-,0
+2015,Oswego St.,530,Plattsburgh St.,547,02/20/2015,3,3,Home,"",1 OT,0
+2015,Oswego St.,530,SUNY Potsdam,552,02/21/2015,2,4,Home,"",-,0
+2015,Oswego St.,530,Buffalo St.,85,02/28/2015,2,0,Home,"",-,0
+2015,Oswego St.,530,Plattsburgh St.,547,03/07/2015,1,2,Away,"",-,0
+2015,Plattsburgh St.,547,SUNY Potsdam,552,10/31/2014,4,2,Away,"",-,"1,024"
+2015,Plattsburgh St.,547,Brockport,78,11/07/2014,1,0,Away,"",-,500
+2015,Plattsburgh St.,547,SUNY Geneseo,247,11/08/2014,7,4,Away,"",-,"1,650"
+2015,Plattsburgh St.,547,Buffalo St.,85,11/14/2014,6,1,Home,"",-,"2,015"
+2015,Plattsburgh St.,547,Fredonia,242,11/15/2014,4,1,Home,"",-,"1,954"
+2015,Plattsburgh St.,547,Morrisville St.,30067,11/21/2014,5,3,Home,"",-,"1,808"
+2015,Plattsburgh St.,547,Morrisville St.,30067,11/22/2014,5,2,Home,"",-,"1,787"
+2015,Plattsburgh St.,547,Norwich,511,11/28/2014,1,5,Neutral,"",-,792
+2015,Plattsburgh St.,547,Middlebury,420,11/29/2014,4,2,Away,"",-,758
+2015,Plattsburgh St.,547,Oswego St.,530,12/05/2014,1,3,Home,"",-,"2,021"
+2015,Plattsburgh St.,547,SUNY Cortland,168,12/06/2014,7,1,Home,"",-,"1,567"
+2015,Plattsburgh St.,547,New England Col.,467,01/02/2015,5,0,Home,"",-,"1,596"
+2015,Plattsburgh St.,547,Amherst,24,01/03/2015,0,0,Home,"",1 OT,"1,406"
+2015,Plattsburgh St.,547,Norwich,511,01/06/2015,4,1,Home,"",-,"1,536"
+2015,Plattsburgh St.,547,Skidmore,642,01/09/2015,4,2,Away,"",-,0
+2015,Plattsburgh St.,547,Middlebury,420,01/16/2015,1,3,Home,"",-,0
+2015,Plattsburgh St.,547,Williams,789,01/17/2015,3,6,Home,"",-,0
+2015,Plattsburgh St.,547,SUNY Potsdam,552,01/23/2015,6,2,Home,"",-,0
+2015,Plattsburgh St.,547,Brockport,78,01/30/2015,4,3,Home,"",-,0
+2015,Plattsburgh St.,547,SUNY Geneseo,247,01/31/2015,2,3,Home,"",-,0
+2015,Plattsburgh St.,547,Buffalo St.,85,02/06/2015,6,0,Away,"",-,0
+2015,Plattsburgh St.,547,Fredonia,242,02/07/2015,9,0,Away,"",-,0
+2015,Plattsburgh St.,547,SUNY Canton,30165,02/11/2015,8,0,Away,"",-,0
+2015,Plattsburgh St.,547,Oswego St.,530,02/20/2015,3,3,Away,"",1 OT,0
+2015,Plattsburgh St.,547,SUNY Cortland,168,02/21/2015,5,2,Away,"",-,0
+2015,Plattsburgh St.,547,Brockport,78,02/28/2015,7,5,Home,"",-,0
+2015,Plattsburgh St.,547,Oswego St.,530,03/07/2015,2,1,Home,"",-,0
+2015,Plymouth St.,548,Norwich,511,10/31/2014,1,9,Away,"",-,"1,256"
+2015,Plymouth St.,548,Nichols,484,11/04/2014,4,6,Away,"",-,149
+2015,Plymouth St.,548,Salem St.,621,11/06/2014,3,2,Away,"",-,900
+2015,Plymouth St.,548,Fitchburg St.,227,11/13/2014,3,3,Away,"",1 OT,544
+2015,Plymouth St.,548,UMass Dartmouth,656,11/15/2014,4,1,Home,"",-,800
+2015,Plymouth St.,548,Worcester St.,809,11/22/2014,5,1,Home,"",-,900
+2015,Plymouth St.,548,Framingham St.,238,12/04/2014,5,4,Away,"",1 OT,100
+2015,Plymouth St.,548,Westfield St.,777,12/06/2014,5,2,Away,"",-,225
+2015,Plymouth St.,548,New England Col.,467,12/12/2014,4,4,Away,"",1 OT,157
+2015,Plymouth St.,548,Castleton,123,12/13/2014,3,4,Home,"",1 OT,751
+2015,Plymouth St.,548,Trinity (CT),713,01/02/2015,4,5,Home,"",-,350
+2015,Plymouth St.,548,Babson,45,01/03/2015,2,2,Home,"",1 OT,300
+2015,Plymouth St.,548,Curry,170,01/08/2015,3,4,Home,"",-,0
+2015,Plymouth St.,548,Salem St.,621,01/10/2015,3,2,Home,"",-,0
+2015,Plymouth St.,548,Fitchburg St.,227,01/15/2015,3,5,Home,"",-,0
+2015,Plymouth St.,548,UMass Dartmouth,656,01/17/2015,2,8,Away,"",-,0
+2015,Plymouth St.,548,Worcester St.,809,01/25/2015,3,2,Away,"",-,0
+2015,Plymouth St.,548,Framingham St.,238,01/29/2015,12,2,Home,"",-,0
+2015,Plymouth St.,548,Westfield St.,777,01/31/2015,6,3,Home,"",-,0
+2015,Plymouth St.,548,Salem St.,621,02/05/2015,5,2,Away,"",-,0
+2015,Plymouth St.,548,Fitchburg St.,227,02/07/2015,6,2,Away,"",-,0
+2015,Plymouth St.,548,UMass Dartmouth,656,02/12/2015,3,2,Home,"",-,0
+2015,Plymouth St.,548,Worcester St.,809,02/19/2015,3,6,Home,"",-,0
+2015,Plymouth St.,548,Framingham St.,238,02/21/2015,2,1,Away,"",-,0
+2015,Plymouth St.,548,Westfield St.,777,02/24/2015,5,1,Home,"",-,0
+2015,Plymouth St.,548,Westfield St.,777,03/03/2015,3,0,Home,"",-,0
+2015,Plymouth St.,548,Salem St.,621,03/07/2015,6,2,Home,"",-,0
+2015,Saint John's (MN),602,St. Thomas (MN),620,10/31/2014,0,0,Neutral,"",1 OT,332
+2015,Saint John's (MN),602,Hamline,268,11/01/2014,6,2,Neutral,"",-,311
+2015,Saint John's (MN),602,Wis.-Superior,804,11/06/2014,2,1,Home,"",-,357
+2015,Saint John's (MN),602,Wis.-Eau Claire,793,11/09/2014,3,3,Home,"",1 OT,209
+2015,Saint John's (MN),602,St. Olaf,615,11/14/2014,4,1,Away,"",-,382
+2015,Saint John's (MN),602,St. Olaf,615,11/15/2014,4,2,Home,"",-,493
+2015,Saint John's (MN),602,Saint Mary's (MN),612,11/21/2014,2,2,Home,"",1 OT,638
+2015,Saint John's (MN),602,Saint Mary's (MN),612,11/22/2014,4,2,Home,"",-,361
+2015,Saint John's (MN),602,St. Scholastica,618,11/25/2014,1,2,Away,"",-,174
+2015,Saint John's (MN),602,Augsburg,38,12/05/2014,5,6,Home,"",1 OT,417
+2015,Saint John's (MN),602,Augsburg,38,12/06/2014,4,2,Away,"",-,357
+2015,Saint John's (MN),602,Wis.-River Falls,801,12/09/2014,0,4,Away,"",-,287
+2015,Saint John's (MN),602,St. Norbert,614,01/08/2015,0,0,Home,"",1 OT,0
+2015,Saint John's (MN),602,Lawrence,348,01/11/2015,6,2,Home,"",-,0
+2015,Saint John's (MN),602,Concordia-M'head,161,01/16/2015,2,3,Away,"",1 OT,0
+2015,Saint John's (MN),602,Concordia-M'head,161,01/17/2015,0,4,Away,"",-,0
+2015,Saint John's (MN),602,Wis.-Stout,803,01/20/2015,4,2,Home,"",-,0
+2015,Saint John's (MN),602,Gust. Adolphus,266,01/30/2015,1,1,Home,"",1 OT,0
+2015,Saint John's (MN),602,Gust. Adolphus,266,01/31/2015,3,2,Away,"",-,0
+2015,Saint John's (MN),602,Hamline,268,02/06/2015,5,6,Home,"",-,0
+2015,Saint John's (MN),602,Hamline,268,02/07/2015,2,0,Away,"",-,0
+2015,Saint John's (MN),602,Bethel (MN),60,02/13/2015,0,2,Away,"",-,0
+2015,Saint John's (MN),602,Bethel (MN),60,02/14/2015,6,3,Home,"",-,0
+2015,Saint John's (MN),602,St. Thomas (MN),620,02/19/2015,2,3,Home,"",-,0
+2015,Saint John's (MN),602,St. Thomas (MN),620,02/20/2015,1,3,Away,"",-,0
+2015,Saint Mary's (MN),612,Augsburg,38,10/31/2014,0,2,Neutral,"",-,177
+2015,Saint Mary's (MN),612,Concordia-M'head,161,11/02/2014,4,2,Neutral,"",-,230
+2015,Saint Mary's (MN),612,St. Thomas (MN),620,11/08/2014,3,3,Away,"",1 OT,170
+2015,Saint Mary's (MN),612,St. Thomas (MN),620,11/09/2014,2,3,Home,"",-,311
+2015,Saint Mary's (MN),612,Wis.-Superior,804,11/14/2014,5,2,Away,"",-,403
+2015,Saint Mary's (MN),612,Wis.-Stevens Point,802,11/15/2014,2,3,Away,"",1 OT,"1,254"
+2015,Saint Mary's (MN),612,Saint John's (MN),602,11/21/2014,2,2,Away,"",1 OT,638
+2015,Saint Mary's (MN),612,Saint John's (MN),602,11/22/2014,2,4,Away,"",-,361
+2015,Saint Mary's (MN),612,Aurora,42,12/05/2014,3,6,Away,"",-,417
+2015,Saint Mary's (MN),612,Aurora,42,12/06/2014,11,2,Away,"",-,383
+2015,Saint Mary's (MN),612,MSOE,20220,01/04/2015,0,4,Away,"",-,181
+2015,Saint Mary's (MN),612,St. Scholastica,618,01/09/2015,5,2,Home,"",-,0
+2015,Saint Mary's (MN),612,Northland,1267,01/10/2015,5,4,Home,"",-,0
+2015,Saint Mary's (MN),612,Bethel (MN),60,01/16/2015,5,2,Home,"",-,0
+2015,Saint Mary's (MN),612,Bethel (MN),60,01/17/2015,5,2,Away,"",-,0
+2015,Saint Mary's (MN),612,Gust. Adolphus,266,01/23/2015,3,0,Home,"",-,0
+2015,Saint Mary's (MN),612,Gust. Adolphus,266,01/24/2015,1,2,Away,"",1 OT,0
+2015,Saint Mary's (MN),612,St. Olaf,615,01/30/2015,3,0,Home,"",-,0
+2015,Saint Mary's (MN),612,St. Olaf,615,01/31/2015,5,3,Away,"",-,0
+2015,Saint Mary's (MN),612,Augsburg,38,02/06/2015,5,0,Away,"",-,0
+2015,Saint Mary's (MN),612,Augsburg,38,02/07/2015,4,5,Home,"",-,0
+2015,Saint Mary's (MN),612,Concordia-M'head,161,02/13/2015,4,3,Home,"",1 OT,0
+2015,Saint Mary's (MN),612,Concordia-M'head,161,02/14/2015,3,8,Home,"",-,0
+2015,Saint Mary's (MN),612,Hamline,268,02/20/2015,4,3,Home,"",1 OT,0
+2015,Saint Mary's (MN),612,Hamline,268,02/21/2015,5,4,Away,"",-,0
+2015,Saint Mary's (MN),612,Concordia-M'head,161,03/01/2015,4,3,Home,"",1 OT,0
+2015,Saint Mary's (MN),612,Hamline,268,03/07/2015,2,4,Home,"",-,0
+2015,Saint Michael's,613,Southern N.H.,468,11/01/2014,3,2,Home,"",-,412
+2015,Saint Michael's,613,Norwich,511,11/07/2014,1,4,Away,"",-,"1,523"
+2015,Saint Michael's,613,U New England,1255,11/14/2014,3,2,Home,"",-,351
+2015,Saint Michael's,613,Southern Me.,662,11/15/2014,2,0,Home,"",-,289
+2015,Saint Michael's,613,New England Col.,467,11/21/2014,2,3,Away,"",1 OT,245
+2015,Saint Michael's,613,St. Anselm,593,11/22/2014,4,4,Away,"",1 OT,640
+2015,Saint Michael's,613,Amherst,24,11/25/2014,4,6,Home,"",-,148
+2015,Saint Michael's,613,Stonehill,682,12/02/2014,3,3,Away,"",1 OT,88
+2015,Saint Michael's,613,Castleton,123,12/05/2014,5,1,Away,"",-,638
+2015,Saint Michael's,613,Skidmore,642,12/06/2014,5,4,Away,"",-,160
+2015,Saint Michael's,613,Middlebury,420,01/02/2015,1,2,Neutral,"",-,150
+2015,Saint Michael's,613,Southern Me.,662,01/03/2015,2,5,Neutral,"",-,100
+2015,Saint Michael's,613,Babson,45,01/09/2015,1,7,Home,"",-,0
+2015,Saint Michael's,613,UMass Boston,401,01/10/2015,4,5,Home,"",1 OT,0
+2015,Saint Michael's,613,Norwich,511,01/16/2015,0,9,Home,"",-,0
+2015,Saint Michael's,613,Assumption,36,01/20/2015,1,0,Home,"",-,0
+2015,Saint Michael's,613,Southern Me.,662,01/23/2015,2,3,Away,"",-,0
+2015,Saint Michael's,613,U New England,1255,01/24/2015,3,4,Away,"",-,0
+2015,Saint Michael's,613,St. Anselm,593,01/30/2015,1,5,Home,"",-,0
+2015,Saint Michael's,613,New England Col.,467,01/31/2015,1,3,Home,"",-,0
+2015,Saint Michael's,613,Franklin Pierce,241,02/03/2015,9,2,Away,"",-,0
+2015,Saint Michael's,613,Skidmore,642,02/06/2015,1,0,Home,"",-,0
+2015,Saint Michael's,613,Castleton,123,02/07/2015,2,6,Home,"",-,0
+2015,Saint Michael's,613,UMass Boston,401,02/13/2015,5,6,Away,"",1 OT,0
+2015,Saint Michael's,613,Babson,45,02/14/2015,2,3,Away,"",1 OT,0
+2015,Saint Michael's,613,Assumption,36,02/21/2015,4,1,Home,"",-,0
+2015,Saint Michael's,613,St. Anselm,593,02/28/2015,3,6,Home,"",-,0
+2015,Salem St.,621,Plymouth St.,548,11/06/2014,2,3,Home,"",-,900
+2015,Salem St.,621,Westfield St.,777,11/13/2014,1,6,Away,"",-,222
+2015,Salem St.,621,Framingham St.,238,11/15/2014,4,2,Home,"",-,275
+2015,Salem St.,621,UMass Dartmouth,656,11/20/2014,5,2,Away,"",-,150
+2015,Salem St.,621,Southern Me.,662,11/25/2014,4,3,Home,"",-,500
+2015,Salem St.,621,St. Anselm,593,11/30/2014,4,1,Home,"",-,500
+2015,Salem St.,621,Fitchburg St.,227,12/04/2014,0,3,Home,"",-,325
+2015,Salem St.,621,Worcester St.,809,12/06/2014,3,0,Away,"",-,150
+2015,Salem St.,621,Babson,45,12/10/2014,1,4,Away,"",-,235
+2015,Salem St.,621,Suffolk,684,01/02/2015,4,1,Home,"",-,500
+2015,Salem St.,621,Wentworth,762,01/03/2015,3,3,Home,"",1 OT,500
+2015,Salem St.,621,Colby,151,01/06/2015,3,9,Away,"",-,0
+2015,Salem St.,621,Plymouth St.,548,01/10/2015,2,3,Away,"",-,0
+2015,Salem St.,621,Westfield St.,777,01/15/2015,2,3,Home,"",-,0
+2015,Salem St.,621,Framingham St.,238,01/17/2015,5,3,Away,"",-,0
+2015,Salem St.,621,New England Col.,467,01/20/2015,2,4,Away,"",-,0
+2015,Salem St.,621,UMass Dartmouth,656,01/22/2015,6,1,Home,"",-,0
+2015,Salem St.,621,Fitchburg St.,227,01/29/2015,6,3,Away,"",-,0
+2015,Salem St.,621,Worcester St.,809,01/31/2015,2,1,Home,"",-,0
+2015,Salem St.,621,Plymouth St.,548,02/05/2015,2,5,Home,"",-,0
+2015,Salem St.,621,Westfield St.,777,02/07/2015,3,3,Away,"",1 OT,0
+2015,Salem St.,621,Framingham St.,238,02/12/2015,2,1,Home,"",-,0
+2015,Salem St.,621,UMass Dartmouth,656,02/14/2015,7,2,Away,"",-,0
+2015,Salem St.,621,Fitchburg St.,227,02/21/2015,1,1,Home,"",1 OT,0
+2015,Salem St.,621,Worcester St.,809,02/24/2015,3,4,Away,"",-,0
+2015,Salem St.,621,UMass Dartmouth,656,03/03/2015,4,0,Home,"",-,0
+2015,Salem St.,621,Plymouth St.,548,03/07/2015,2,6,Away,"",-,0
+2015,Salve Regina,623,Neumann,1254,11/01/2014,2,2,Home,"",1 OT,57
+2015,Salve Regina,623,Stonehill,682,11/06/2014,2,2,Away,"",1 OT,96
+2015,Salve Regina,623,Suffolk,684,11/08/2014,2,3,Away,"",-,250
+2015,Salve Regina,623,Wentworth,762,11/13/2014,7,1,Home,"",-,57
+2015,Salve Regina,623,Becker,26107,11/15/2014,8,0,Away,"",-,137
+2015,Salve Regina,623,Curry,170,11/20/2014,2,5,Away,"",-,250
+2015,Salve Regina,623,Western New Eng.,775,11/22/2014,7,2,Home,"",-,222
+2015,Salve Regina,623,Colby,151,11/29/2014,3,5,Neutral,"",-,108
+2015,Salve Regina,623,Bowdoin,69,11/30/2014,0,8,Neutral,"",-,100
+2015,Salve Regina,623,Franklin Pierce,241,12/05/2014,4,0,Home,"",-,123
+2015,Salve Regina,623,Skidmore,642,01/02/2015,8,4,Home,"",-,102
+2015,Salve Regina,623,Castleton,123,01/03/2015,0,3,Home,"",-,57
+2015,Salve Regina,623,Hobart,282,01/16/2015,0,7,Away,"",-,0
+2015,Salve Regina,623,Elmira,213,01/17/2015,3,4,Away,"",-,0
+2015,Salve Regina,623,Nichols,484,01/24/2015,0,5,Home,"",-,0
+2015,Salve Regina,623,Johnson & Wales (RI),22626,01/29/2015,3,1,Away,"",-,0
+2015,Salve Regina,623,Wentworth,762,01/31/2015,3,2,Away,"",-,0
+2015,Salve Regina,623,Suffolk,684,02/05/2015,7,3,Home,"",-,0
+2015,Salve Regina,623,Curry,170,02/07/2015,3,0,Home,"",-,0
+2015,Salve Regina,623,Becker,26107,02/11/2015,2,0,Home,"",-,0
+2015,Salve Regina,623,Nichols,484,02/14/2015,4,4,Away,"",1 OT,0
+2015,Salve Regina,623,Western New Eng.,775,02/19/2015,6,2,Away,"",-,0
+2015,Salve Regina,623,Johnson & Wales (RI),22626,02/22/2015,1,4,Home,"",-,0
+2015,Salve Regina,623,Johnson & Wales (RI),22626,03/04/2015,9,3,Home,"",-,0
+2015,Salve Regina,623,Nichols,484,03/07/2015,0,3,Away,"",-,0
+2015,Skidmore,642,SUNY Canton,30165,11/01/2014,5,4,Neutral,"",-,275
+2015,Skidmore,642,U New England,1255,11/07/2014,2,3,Away,"",1 OT,335
+2015,Skidmore,642,Southern Me.,662,11/08/2014,3,1,Away,"",-,158
+2015,Skidmore,642,New England Col.,467,11/14/2014,1,4,Home,"",-,615
+2015,Skidmore,642,St. Anselm,593,11/15/2014,3,5,Home,"",-,210
+2015,Skidmore,642,Babson,45,11/21/2014,1,6,Away,"",-,250
+2015,Skidmore,642,UMass Boston,401,11/22/2014,1,6,Away,"",-,185
+2015,Skidmore,642,Morrisville St.,30067,11/29/2014,2,5,Home,"",-,245
+2015,Skidmore,642,Johnson & Wales (RI),22626,11/30/2014,2,2,Home,"",1 OT,130
+2015,Skidmore,642,Norwich,511,12/05/2014,0,4,Home,"",-,430
+2015,Skidmore,642,Saint Michael's,613,12/06/2014,4,5,Home,"",-,160
+2015,Skidmore,642,Salve Regina,623,01/02/2015,4,8,Away,"",-,102
+2015,Skidmore,642,Nichols,484,01/03/2015,3,7,Away,"",-,75
+2015,Skidmore,642,Plattsburgh St.,547,01/09/2015,2,4,Home,"",-,0
+2015,Skidmore,642,SUNY Potsdam,552,01/10/2015,1,1,Home,"",1 OT,0
+2015,Skidmore,642,Southern Me.,662,01/16/2015,5,2,Home,"",-,0
+2015,Skidmore,642,U New England,1255,01/17/2015,0,2,Home,"",-,0
+2015,Skidmore,642,St. Anselm,593,01/23/2015,4,4,Away,"",1 OT,0
+2015,Skidmore,642,New England Col.,467,01/24/2015,3,1,Away,"",-,0
+2015,Skidmore,642,UMass Boston,401,01/30/2015,1,3,Home,"",-,0
+2015,Skidmore,642,Babson,45,01/31/2015,2,4,Home,"",-,0
+2015,Skidmore,642,Saint Michael's,613,02/06/2015,0,1,Away,"",-,0
+2015,Skidmore,642,Norwich,511,02/07/2015,3,6,Away,"",-,0
+2015,Skidmore,642,Castleton,123,02/13/2015,1,4,Away,"",-,0
+2015,Skidmore,642,Castleton,123,02/14/2015,3,4,Home,"",-,0
+2015,Skidmore,642,UMass Boston,401,02/21/2015,1,11,Away,"",-,0
+2015,Southern Me.,662,Stonehill,682,11/01/2014,3,2,Home,"",-,205
+2015,Southern Me.,662,Castleton,123,11/07/2014,0,4,Home,"",-,299
+2015,Southern Me.,662,Skidmore,642,11/08/2014,1,3,Home,"",-,158
+2015,Southern Me.,662,Norwich,511,11/14/2014,0,5,Away,"",-,"1,829"
+2015,Southern Me.,662,Saint Michael's,613,11/15/2014,0,2,Away,"",-,289
+2015,Southern Me.,662,U New England,1255,11/21/2014,0,8,Away,"",-,587
+2015,Southern Me.,662,Salem St.,621,11/25/2014,3,4,Away,"",-,500
+2015,Southern Me.,662,Babson,45,12/05/2014,0,3,Away,"",-,310
+2015,Southern Me.,662,UMass Boston,401,12/06/2014,1,5,Away,"",-,135
+2015,Southern Me.,662,Bowdoin,69,12/09/2014,1,4,Home,"",-,130
+2015,Southern Me.,662,Hobart,282,01/02/2015,2,6,Neutral,"",-,150
+2015,Southern Me.,662,Saint Michael's,613,01/03/2015,5,2,Neutral,"",-,100
+2015,Southern Me.,662,New England Col.,467,01/09/2015,0,4,Home,"",-,0
+2015,Southern Me.,662,St. Anselm,593,01/10/2015,2,1,Home,"",-,0
+2015,Southern Me.,662,Skidmore,642,01/16/2015,2,5,Away,"",-,0
+2015,Southern Me.,662,Saint Michael's,613,01/23/2015,3,2,Home,"",-,0
+2015,Southern Me.,662,Norwich,511,01/24/2015,1,5,Home,"",-,0
+2015,Southern Me.,662,Bowdoin,69,01/28/2015,1,6,Away,"",-,0
+2015,Southern Me.,662,Colby,151,01/31/2015,3,2,Home,"",-,0
+2015,Southern Me.,662,U New England,1255,02/03/2015,0,1,Home,"",-,0
+2015,Southern Me.,662,UMass Boston,401,02/06/2015,0,4,Home,"",-,0
+2015,Southern Me.,662,Babson,45,02/07/2015,0,2,Home,"",-,0
+2015,Southern Me.,662,St. Anselm,593,02/13/2015,1,2,Away,"",-,0
+2015,Southern Me.,662,New England Col.,467,02/14/2015,1,1,Away,"",1 OT,0
+2015,Southern Me.,662,Castleton,123,02/16/2015,5,3,Away,"",-,0
+2015,Southern Me.,662,Norwich,511,02/21/2015,0,4,Away,"",-,0
+2015,Southern N.H.,468,Saint Michael's,613,11/01/2014,2,3,Away,"",-,412
+2015,Southern N.H.,468,Framingham St.,238,11/04/2014,6,4,Home,"",-,347
+2015,Southern N.H.,468,Stonehill,682,11/18/2014,3,6,Away,"",-,112
+2015,Southern N.H.,468,Assumption,36,11/22/2014,4,3,Away,"",1 OT,140
+2015,Southern N.H.,468,Suffolk,684,11/25/2014,4,5,Home,"",1 OT,184
+2015,Southern N.H.,468,Fitchburg St.,227,11/29/2014,6,3,Home,"",-,126
+2015,Southern N.H.,468,SUNY Cortland,168,11/30/2014,2,5,Home,"",-,131
+2015,Southern N.H.,468,Franklin Pierce,241,12/02/2014,2,4,Home,"",-,184
+2015,Southern N.H.,468,Western New Eng.,775,12/07/2014,2,1,Home,"",-,150
+2015,Southern N.H.,468,Becker,26107,01/02/2015,8,1,Away,"",-,171
+2015,Southern N.H.,468,Brockport,78,01/05/2015,1,3,Away,"",-,200
+2015,Southern N.H.,468,Fredonia,242,01/06/2015,1,7,Away,"",-,70
+2015,Southern N.H.,468,Morrisville St.,30067,01/10/2015,5,5,Away,"",1 OT,0
+2015,Southern N.H.,468,Oswego St.,530,01/11/2015,4,3,Away,"",-,0
+2015,Southern N.H.,468,Westfield St.,777,01/13/2015,9,4,Away,"",-,0
+2015,Southern N.H.,468,Assumption,36,01/17/2015,1,4,Home,"",-,0
+2015,Southern N.H.,468,Franklin Pierce,241,01/20/2015,2,1,Away,"",-,0
+2015,Southern N.H.,468,Stonehill,682,01/25/2015,2,6,Home,"",-,0
+2015,Southern N.H.,468,Assumption,36,01/31/2015,4,2,Away,"",-,0
+2015,Southern N.H.,468,St. Anselm,593,02/03/2015,2,4,Home,"",-,0
+2015,Southern N.H.,468,Stonehill,682,02/07/2015,5,8,Away,"",-,0
+2015,Southern N.H.,468,Franklin Pierce,241,02/10/2015,6,6,Home,"",1 OT,0
+2015,Southern N.H.,468,SUNY Canton,30165,02/14/2015,6,1,Neutral,"Manchester, NH",-,0
+2015,Southern N.H.,468,SUNY Canton,30165,02/15/2015,4,7,Home,"",-,0
+2015,St. Anselm,593,Babson,45,11/07/2014,0,7,Home,"",-,729
+2015,St. Anselm,593,UMass Boston,401,11/08/2014,1,3,Home,"",-,253
+2015,St. Anselm,593,Castleton,123,11/14/2014,5,4,Away,"",-,920
+2015,St. Anselm,593,Skidmore,642,11/15/2014,5,3,Away,"",-,210
+2015,St. Anselm,593,Norwich,511,11/21/2014,1,5,Home,"",-,759
+2015,St. Anselm,593,Saint Michael's,613,11/22/2014,4,4,Home,"",1 OT,640
+2015,St. Anselm,593,Salem St.,621,11/30/2014,1,4,Away,"",-,500
+2015,St. Anselm,593,Assumption,36,12/03/2014,0,4,Away,"",-,156
+2015,St. Anselm,593,New England Col.,467,12/05/2014,4,0,Home,"",-,539
+2015,St. Anselm,593,Franklin Pierce,241,12/10/2014,5,1,Home,"",-,372
+2015,St. Anselm,593,SUNY Potsdam,552,01/02/2015,2,6,Home,"",-,394
+2015,St. Anselm,593,U New England,1255,01/09/2015,5,2,Away,"",-,0
+2015,St. Anselm,593,Southern Me.,662,01/10/2015,1,2,Away,"",-,0
+2015,St. Anselm,593,Connecticut Col.,163,01/13/2015,1,2,Home,"",-,0
+2015,St. Anselm,593,UMass Boston,401,01/16/2015,4,5,Away,"",-,0
+2015,St. Anselm,593,Babson,45,01/17/2015,5,7,Away,"",-,0
+2015,St. Anselm,593,Skidmore,642,01/23/2015,4,4,Home,"",1 OT,0
+2015,St. Anselm,593,Castleton,123,01/24/2015,2,5,Home,"",-,0
+2015,St. Anselm,593,Saint Michael's,613,01/30/2015,5,1,Away,"",-,0
+2015,St. Anselm,593,Norwich,511,01/31/2015,0,4,Away,"",-,0
+2015,St. Anselm,593,Southern N.H.,468,02/03/2015,4,2,Away,"",-,0
+2015,St. Anselm,593,New England Col.,467,02/06/2015,4,3,Away,"",1 OT,0
+2015,St. Anselm,593,Stonehill,682,02/10/2015,1,1,Home,"",1 OT,0
+2015,St. Anselm,593,Southern Me.,662,02/13/2015,2,1,Home,"",-,0
+2015,St. Anselm,593,U New England,1255,02/14/2015,1,8,Home,"",-,0
+2015,St. Anselm,593,Stonehill,682,02/21/2015,3,1,Away,"",-,0
+2015,St. Anselm,593,Saint Michael's,613,02/28/2015,6,3,Away,"",-,0
+2015,St. Norbert,614,Marian (WI),1196,10/31/2014,5,2,Home,"",-,"1,086"
+2015,St. Norbert,614,Marian (WI),1196,11/01/2014,4,1,Away,"",-,369
+2015,St. Norbert,614,Finlandia,30032,11/07/2014,7,1,Home,"",-,816
+2015,St. Norbert,614,Finlandia,30032,11/08/2014,12,0,Home,"",-,965
+2015,St. Norbert,614,Lake Forest,344,11/14/2014,3,1,Away,"",-,310
+2015,St. Norbert,614,Lake Forest,344,11/15/2014,2,2,Home,"",1 OT,987
+2015,St. Norbert,614,Wis.-Eau Claire,793,11/18/2014,3,2,Home,"",-,819
+2015,St. Norbert,614,Buffalo St.,85,11/28/2014,7,0,Home,"",-,844
+2015,St. Norbert,614,Buffalo St.,85,11/29/2014,8,0,Home,"",-,745
+2015,St. Norbert,614,Lawrence,348,12/05/2014,3,1,Home,"",-,"1,001"
+2015,St. Norbert,614,Lawrence,348,12/06/2014,9,0,Away,"",-,621
+2015,St. Norbert,614,Wis.-Stevens Point,802,01/03/2015,5,6,Home,"",-,"1,827"
+2015,St. Norbert,614,Saint John's (MN),602,01/08/2015,0,0,Away,"",1 OT,0
+2015,St. Norbert,614,Concordia-M'head,161,01/09/2015,6,3,Away,"",-,0
+2015,St. Norbert,614,Concordia Wisconsin,1036,01/16/2015,7,1,Home,"",-,0
+2015,St. Norbert,614,Concordia Wisconsin,1036,01/17/2015,4,2,Away,"",-,0
+2015,St. Norbert,614,MSOE,20220,01/22/2015,4,1,Away,"",-,0
+2015,St. Norbert,614,MSOE,20220,01/24/2015,1,2,Home,"",-,0
+2015,St. Norbert,614,Adrian,4,01/30/2015,2,4,Away,"",-,0
+2015,St. Norbert,614,Adrian,4,01/31/2015,4,6,Away,"",-,0
+2015,St. Norbert,614,St. Scholastica,618,02/06/2015,1,3,Home,"",-,0
+2015,St. Norbert,614,St. Scholastica,618,02/07/2015,4,3,Home,"",-,0
+2015,St. Norbert,614,Northland,1267,02/13/2015,4,3,Away,"",1 OT,0
+2015,St. Norbert,614,Northland,1267,02/14/2015,5,0,Away,"",-,0
+2015,St. Norbert,614,Lawrence,348,02/20/2015,5,0,Home,"",-,0
+2015,St. Norbert,614,Lawrence,348,02/21/2015,6,0,Home,"",-,0
+2015,St. Norbert,614,MSOE,20220,02/28/2015,3,1,Home,"",-,0
+2015,St. Norbert,614,Adrian,4,03/07/2015,2,4,Away,"",-,0
+2015,St. Olaf,615,Bethel (MN),60,11/01/2014,1,2,Neutral,"",-,300
+2015,St. Olaf,615,Gust. Adolphus,266,11/02/2014,3,6,Neutral,"",-,100
+2015,St. Olaf,615,Wis.-Eau Claire,793,11/07/2014,0,3,Home,"",-,439
+2015,St. Olaf,615,Wis.-Stevens Point,802,11/08/2014,3,2,Home,"",-,321
+2015,St. Olaf,615,Saint John's (MN),602,11/14/2014,1,4,Home,"",-,382
+2015,St. Olaf,615,Saint John's (MN),602,11/15/2014,2,4,Away,"",-,493
+2015,St. Olaf,615,St. Thomas (MN),620,11/21/2014,1,4,Away,"",-,250
+2015,St. Olaf,615,St. Thomas (MN),620,11/22/2014,2,1,Home,"",-,339
+2015,St. Olaf,615,Marian (WI),1196,11/29/2014,1,3,Neutral,"",-,54
+2015,St. Olaf,615,Lawrence,348,11/30/2014,3,4,Neutral,"",-,79
+2015,St. Olaf,615,Gust. Adolphus,266,12/05/2014,3,3,Away,"",1 OT,502
+2015,St. Olaf,615,Gust. Adolphus,266,12/06/2014,4,2,Home,"",-,492
+2015,St. Olaf,615,Williams,789,01/03/2015,1,3,Home,"",-,207
+2015,St. Olaf,615,Northland,1267,01/09/2015,3,3,Home,"",1 OT,0
+2015,St. Olaf,615,Finlandia,30032,01/10/2015,2,1,Home,"",-,0
+2015,St. Olaf,615,Hamline,268,01/16/2015,2,4,Away,"",-,0
+2015,St. Olaf,615,Hamline,268,01/17/2015,0,3,Home,"",-,0
+2015,St. Olaf,615,Bethel (MN),60,01/23/2015,2,1,Home,"",-,0
+2015,St. Olaf,615,Bethel (MN),60,01/24/2015,4,1,Away,"",-,0
+2015,St. Olaf,615,Saint Mary's (MN),612,01/30/2015,0,3,Away,"",-,0
+2015,St. Olaf,615,Saint Mary's (MN),612,01/31/2015,3,5,Home,"",-,0
+2015,St. Olaf,615,Concordia-M'head,161,02/06/2015,1,1,Away,"",1 OT,0
+2015,St. Olaf,615,Concordia-M'head,161,02/07/2015,3,4,Away,"",-,0
+2015,St. Olaf,615,Augsburg,38,02/20/2015,3,4,Home,"",1 OT,0
+2015,St. Olaf,615,Augsburg,38,02/21/2015,1,4,Away,"",-,0
+2015,St. Scholastica,618,MSOE,20220,10/31/2014,4,1,Home,"",-,218
+2015,St. Scholastica,618,MSOE,20220,11/01/2014,7,3,Home,"",-,210
+2015,St. Scholastica,618,Concordia Wisconsin,1036,11/07/2014,4,3,Home,"",-,208
+2015,St. Scholastica,618,Concordia Wisconsin,1036,11/08/2014,4,3,Home,"",-,187
+2015,St. Scholastica,618,Finlandia,30032,11/15/2014,3,4,Away,"",-,317
+2015,St. Scholastica,618,Finlandia,30032,11/16/2014,3,2,Away,"",-,91
+2015,St. Scholastica,618,Saint John's (MN),602,11/25/2014,2,1,Home,"",-,174
+2015,St. Scholastica,618,Lake Forest,344,12/05/2014,0,1,Away,"",-,414
+2015,St. Scholastica,618,Lake Forest,344,12/06/2014,1,3,Away,"",-,213
+2015,St. Scholastica,618,Aurora,42,12/07/2014,6,3,Away,"",-,377
+2015,St. Scholastica,618,St. Thomas (MN),620,12/13/2014,2,4,Away,"",-,250
+2015,St. Scholastica,618,Nazareth,461,01/02/2015,3,4,Neutral,"",1 OT,300
+2015,St. Scholastica,618,Tufts,717,01/03/2015,9,2,Neutral,"",-,390
+2015,St. Scholastica,618,Saint Mary's (MN),612,01/09/2015,2,5,Away,"",-,0
+2015,St. Scholastica,618,Gust. Adolphus,266,01/10/2015,0,0,Away,"",1 OT,0
+2015,St. Scholastica,618,Adrian,4,01/16/2015,2,2,Home,"",1 OT,0
+2015,St. Scholastica,618,Adrian,4,01/17/2015,0,3,Home,"",-,0
+2015,St. Scholastica,618,Lawrence,348,01/23/2015,6,1,Home,"",-,0
+2015,St. Scholastica,618,Lawrence,348,01/24/2015,4,2,Home,"",-,0
+2015,St. Scholastica,618,Northland,1267,01/30/2015,4,4,Away,"",1 OT,0
+2015,St. Scholastica,618,Northland,1267,01/31/2015,2,3,Home,"",-,0
+2015,St. Scholastica,618,St. Norbert,614,02/06/2015,3,1,Away,"",-,0
+2015,St. Scholastica,618,St. Norbert,614,02/07/2015,3,4,Away,"",-,0
+2015,St. Scholastica,618,Marian (WI),1196,02/13/2015,5,6,Away,"",1 OT,0
+2015,St. Scholastica,618,Marian (WI),1196,02/14/2015,3,4,Away,"",-,0
+2015,St. Scholastica,618,Lake Forest,344,02/21/2015,2,1,Away,"",-,0
+2015,St. Scholastica,618,Lake Forest,344,02/22/2015,2,3,Away,"",-,0
+2015,St. Scholastica,618,Adrian,4,02/28/2015,3,4,Away,"",1 OT,0
+2015,St. Thomas (MN),620,Saint John's (MN),602,10/31/2014,0,0,Neutral,"",1 OT,332
+2015,St. Thomas (MN),620,Hamline,268,11/02/2014,1,2,Neutral,"",-,206
+2015,St. Thomas (MN),620,Saint Mary's (MN),612,11/08/2014,3,3,Home,"",1 OT,170
+2015,St. Thomas (MN),620,Saint Mary's (MN),612,11/09/2014,3,2,Away,"",-,311
+2015,St. Thomas (MN),620,Wis.-Stevens Point,802,11/14/2014,1,3,Away,"",-,"1,145"
+2015,St. Thomas (MN),620,Wis.-Stout,803,11/15/2014,4,0,Away,"",-,630
+2015,St. Thomas (MN),620,St. Olaf,615,11/21/2014,4,1,Home,"",-,250
+2015,St. Thomas (MN),620,St. Olaf,615,11/22/2014,1,2,Away,"",-,339
+2015,St. Thomas (MN),620,Concordia-M'head,161,12/05/2014,5,1,Home,"",-,190
+2015,St. Thomas (MN),620,Concordia-M'head,161,12/06/2014,2,2,Home,"",1 OT,100
+2015,St. Thomas (MN),620,St. Scholastica,618,12/13/2014,4,2,Home,"",-,250
+2015,St. Thomas (MN),620,Wis.-River Falls,801,01/09/2015,3,0,Home,"",-,0
+2015,St. Thomas (MN),620,Marian (WI),1196,01/10/2015,1,0,Home,"",-,0
+2015,St. Thomas (MN),620,Wis.-Eau Claire,793,01/17/2015,3,2,Home,"",-,0
+2015,St. Thomas (MN),620,Aurora,42,01/18/2015,4,1,Home,"",-,0
+2015,St. Thomas (MN),620,Hamline,268,01/23/2015,4,1,Away,"",-,0
+2015,St. Thomas (MN),620,Hamline,268,01/24/2015,4,3,Home,"",1 OT,0
+2015,St. Thomas (MN),620,Augsburg,38,01/30/2015,5,0,Home,"",-,0
+2015,St. Thomas (MN),620,Augsburg,38,01/31/2015,3,4,Away,"",-,0
+2015,St. Thomas (MN),620,Bethel (MN),60,02/06/2015,7,3,Away,"",-,0
+2015,St. Thomas (MN),620,Bethel (MN),60,02/07/2015,4,0,Home,"",-,0
+2015,St. Thomas (MN),620,Gust. Adolphus,266,02/13/2015,1,1,Away,"",1 OT,0
+2015,St. Thomas (MN),620,Gust. Adolphus,266,02/14/2015,1,3,Home,"",-,0
+2015,St. Thomas (MN),620,Saint John's (MN),602,02/19/2015,3,2,Away,"",-,0
+2015,St. Thomas (MN),620,Saint John's (MN),602,02/20/2015,3,1,Home,"",-,0
+2015,St. Thomas (MN),620,Hamline,268,02/28/2015,3,6,Home,"",-,0
+2015,Stonehill,682,U New England,1255,10/31/2014,1,4,Away,"",-,311
+2015,Stonehill,682,Southern Me.,662,11/01/2014,2,3,Away,"",-,205
+2015,Stonehill,682,Salve Regina,623,11/06/2014,2,2,Home,"",1 OT,96
+2015,Stonehill,682,Assumption,36,11/14/2014,3,2,Away,"",-,172
+2015,Stonehill,682,Southern N.H.,468,11/18/2014,6,3,Home,"",-,112
+2015,Stonehill,682,Franklin Pierce,241,11/22/2014,5,2,Home,"",-,130
+2015,Stonehill,682,Saint Michael's,613,12/02/2014,3,3,Home,"",1 OT,88
+2015,Stonehill,682,Wentworth,762,12/06/2014,3,2,Away,"",-,225
+2015,Stonehill,682,Westfield St.,777,12/10/2014,3,2,Away,"",-,100
+2015,Stonehill,682,Suffolk,684,01/08/2015,4,2,Home,"",-,0
+2015,Stonehill,682,Connecticut Col.,163,01/10/2015,1,3,Away,"",-,0
+2015,Stonehill,682,Becker,26107,01/14/2015,4,2,Home,"",-,0
+2015,Stonehill,682,SUNY Canton,30165,01/17/2015,5,6,Away,"",-,0
+2015,Stonehill,682,SUNY Canton,30165,01/18/2015,5,0,Away,"",-,0
+2015,Stonehill,682,Western New Eng.,775,01/21/2015,4,4,Home,"",1 OT,0
+2015,Stonehill,682,Southern N.H.,468,01/25/2015,6,2,Away,"",-,0
+2015,Stonehill,682,UMass Dartmouth,656,01/29/2015,3,6,Away,"",-,0
+2015,Stonehill,682,Framingham St.,238,01/31/2015,6,2,Home,"",-,0
+2015,Stonehill,682,Assumption,36,02/04/2015,9,1,Home,"",-,0
+2015,Stonehill,682,Southern N.H.,468,02/07/2015,8,5,Home,"",-,0
+2015,Stonehill,682,St. Anselm,593,02/10/2015,1,1,Away,"",1 OT,0
+2015,Stonehill,682,Franklin Pierce,241,02/12/2015,2,1,Away,"",-,0
+2015,Stonehill,682,Franklin Pierce,241,02/18/2015,8,2,Home,"",-,0
+2015,Stonehill,682,St. Anselm,593,02/21/2015,1,3,Home,"",-,0
+2015,Suffolk,684,Assumption,36,11/01/2014,3,2,Away,"",-,193
+2015,Suffolk,684,Salve Regina,623,11/08/2014,3,2,Home,"",-,250
+2015,Suffolk,684,Johnson & Wales (RI),22626,11/13/2014,2,1,Away,"",1 OT,147
+2015,Suffolk,684,Western New Eng.,775,11/15/2014,3,1,Away,"",-,158
+2015,Suffolk,684,Nichols,484,11/19/2014,1,1,Away,"",1 OT,151
+2015,Suffolk,684,Becker,26107,11/22/2014,7,2,Home,"",-,375
+2015,Suffolk,684,Southern N.H.,468,11/25/2014,5,4,Away,"",1 OT,184
+2015,Suffolk,684,Franklin Pierce,241,12/06/2014,4,3,Away,"",-,118
+2015,Suffolk,684,Wentworth,762,12/07/2014,1,2,Away,"",-,230
+2015,Suffolk,684,Salem St.,621,01/02/2015,1,4,Away,"",-,500
+2015,Suffolk,684,Wesleyan (CT),764,01/03/2015,5,2,Neutral,"",-,75
+2015,Suffolk,684,Stonehill,682,01/08/2015,2,4,Away,"",-,0
+2015,Suffolk,684,Tufts,717,01/10/2015,4,7,Home,"",-,0
+2015,Suffolk,684,New England Col.,467,01/13/2015,0,7,Away,"",-,0
+2015,Suffolk,684,Franklin Pierce,241,01/17/2015,4,1,Home,"",-,0
+2015,Suffolk,684,Assumption,36,01/22/2015,6,5,Home,"",-,0
+2015,Suffolk,684,Johnson & Wales (RI),22626,01/31/2015,2,3,Home,"",1 OT,0
+2015,Suffolk,684,Salve Regina,623,02/05/2015,3,7,Away,"",-,0
+2015,Suffolk,684,Nichols,484,02/07/2015,2,3,Home,"",-,0
+2015,Suffolk,684,Curry,170,02/14/2015,2,5,Away,"",-,0
+2015,Suffolk,684,Curry,170,02/16/2015,2,4,Home,"",-,0
+2015,Suffolk,684,Becker,26107,02/19/2015,1,2,Away,"",-,0
+2015,Suffolk,684,Wentworth,762,02/21/2015,5,5,Home,"",1 OT,0
+2015,Suffolk,684,Wentworth,762,02/22/2015,1,2,Away,"",-,0
+2015,Suffolk,684,Western New Eng.,775,02/24/2015,5,4,Home,"",1 OT,0
+2015,Suffolk,684,Johnson & Wales (RI),22626,02/28/2015,0,5,Away,"",-,0
+2015,SUNY Canton,30165,Skidmore,642,11/01/2014,4,5,Neutral,"",-,275
+2015,SUNY Canton,30165,Fredonia,242,11/07/2014,4,4,Home,"",1 OT,863
+2015,SUNY Canton,30165,Fredonia,242,11/08/2014,2,3,Home,"",-,573
+2015,SUNY Canton,30165,Oswego St.,530,11/14/2014,1,9,Away,"",-,"2,780"
+2015,SUNY Canton,30165,Brockport,78,11/15/2014,1,4,Away,"",-,500
+2015,SUNY Canton,30165,SUNY Potsdam,552,11/21/2014,2,4,Away,"",-,923
+2015,SUNY Canton,30165,SUNY Cortland,168,11/25/2014,6,3,Away,"",-,122
+2015,SUNY Canton,30165,Hamilton,267,11/29/2014,1,5,Home,"",-,203
+2015,SUNY Canton,30165,Manhattanville,382,12/05/2014,2,3,Away,"",-,185
+2015,SUNY Canton,30165,Neumann,1254,12/06/2014,0,6,Away,"",-,214
+2015,SUNY Canton,30165,Curry,170,12/13/2014,4,5,Home,"",-,217
+2015,SUNY Canton,30165,Johnson & Wales (RI),22626,01/03/2015,0,2,Away,"",-,107
+2015,SUNY Canton,30165,Becker,26107,01/04/2015,4,1,Away,"",-,70
+2015,SUNY Canton,30165,Morrisville St.,30067,01/09/2015,5,4,Home,"",-,0
+2015,SUNY Canton,30165,Western New Eng.,775,01/16/2015,7,2,Home,"",-,0
+2015,SUNY Canton,30165,Stonehill,682,01/17/2015,6,5,Home,"",-,0
+2015,SUNY Canton,30165,Stonehill,682,01/18/2015,0,5,Home,"",-,0
+2015,SUNY Canton,30165,SUNY Geneseo,247,01/24/2015,1,3,Away,"",-,0
+2015,SUNY Canton,30165,Franklin Pierce,241,01/30/2015,5,0,Away,"",-,0
+2015,SUNY Canton,30165,Franklin Pierce,241,01/31/2015,5,2,Away,"",-,0
+2015,SUNY Canton,30165,SUNY Cortland,168,02/06/2015,5,6,Home,"",1 OT,0
+2015,SUNY Canton,30165,SUNY Cortland,168,02/07/2015,3,6,Home,"",-,0
+2015,SUNY Canton,30165,Plattsburgh St.,547,02/11/2015,0,8,Home,"",-,0
+2015,SUNY Canton,30165,Southern N.H.,468,02/14/2015,1,6,Neutral,"Manchester, NH",-,0
+2015,SUNY Canton,30165,Southern N.H.,468,02/15/2015,7,4,Away,"",-,0
+2015,SUNY Cortland,168,Fredonia,242,10/31/2014,2,2,Away,"",1 OT,275
+2015,SUNY Cortland,168,Buffalo St.,85,11/01/2014,2,3,Away,"",1 OT,388
+2015,SUNY Cortland,168,Oswego St.,530,11/08/2014,4,6,Away,"",-,"3,000"
+2015,SUNY Cortland,168,Morrisville St.,30067,11/14/2014,4,6,Away,"",-,100
+2015,SUNY Cortland,168,Morrisville St.,30067,11/15/2014,3,7,Away,"",-,325
+2015,SUNY Cortland,168,SUNY Geneseo,247,11/21/2014,4,2,Home,"",-,638
+2015,SUNY Cortland,168,Brockport,78,11/22/2014,5,4,Home,"",-,573
+2015,SUNY Cortland,168,SUNY Canton,30165,11/25/2014,3,6,Home,"",-,122
+2015,SUNY Cortland,168,U New England,1255,11/29/2014,3,0,Neutral,"",-,103
+2015,SUNY Cortland,168,Southern N.H.,468,11/30/2014,5,2,Away,"",-,131
+2015,SUNY Cortland,168,SUNY Potsdam,552,12/05/2014,6,2,Away,"",-,502
+2015,SUNY Cortland,168,Plattsburgh St.,547,12/06/2014,1,7,Away,"",-,"1,567"
+2015,SUNY Cortland,168,Hamilton,267,12/12/2014,3,3,Away,"",1 OT,0
+2015,SUNY Cortland,168,Worcester St.,809,01/08/2015,5,0,Away,"",-,0
+2015,SUNY Cortland,168,Becker,26107,01/09/2015,9,4,Away,"",-,0
+2015,SUNY Cortland,168,Nichols,484,01/13/2015,1,7,Away,"",-,0
+2015,SUNY Cortland,168,Fredonia,242,01/23/2015,3,3,Home,"",1 OT,0
+2015,SUNY Cortland,168,Buffalo St.,85,01/24/2015,3,7,Home,"",-,0
+2015,SUNY Cortland,168,Oswego St.,530,01/31/2015,4,7,Home,"",-,0
+2015,SUNY Cortland,168,SUNY Canton,30165,02/06/2015,6,5,Away,"",1 OT,0
+2015,SUNY Cortland,168,SUNY Canton,30165,02/07/2015,6,3,Away,"",-,0
+2015,SUNY Cortland,168,SUNY Geneseo,247,02/13/2015,3,5,Away,"",-,0
+2015,SUNY Cortland,168,Brockport,78,02/14/2015,1,3,Away,"",-,0
+2015,SUNY Cortland,168,SUNY Potsdam,552,02/20/2015,5,8,Home,"",-,0
+2015,SUNY Cortland,168,Plattsburgh St.,547,02/21/2015,2,5,Home,"",-,0
+2015,SUNY Geneseo,247,Morrisville St.,30067,10/31/2014,4,1,Away,"",-,575
+2015,SUNY Geneseo,247,Morrisville St.,30067,11/01/2014,6,0,Away,"",-,150
+2015,SUNY Geneseo,247,SUNY Potsdam,552,11/07/2014,1,2,Home,"",-,"2,020"
+2015,SUNY Geneseo,247,Plattsburgh St.,547,11/08/2014,4,7,Home,"",-,"1,650"
+2015,SUNY Geneseo,247,Brockport,78,11/14/2014,5,3,Away,"",-,"1,000"
+2015,SUNY Geneseo,247,Franklin Pierce,241,11/15/2014,7,2,Home,"",-,950
+2015,SUNY Geneseo,247,SUNY Cortland,168,11/21/2014,2,4,Away,"",-,638
+2015,SUNY Geneseo,247,Oswego St.,530,11/25/2014,2,1,Away,"",-,"1,488"
+2015,SUNY Geneseo,247,Nazareth,461,12/02/2014,1,1,Away,"",1 OT,294
+2015,SUNY Geneseo,247,Fredonia,242,12/05/2014,3,0,Home,"",-,"1,408"
+2015,SUNY Geneseo,247,Buffalo St.,85,12/06/2014,2,3,Home,"",1 OT,850
+2015,SUNY Geneseo,247,Adrian,4,01/06/2015,0,0,Away,"",1 OT,475
+2015,SUNY Geneseo,247,Elmira,213,01/09/2015,2,3,Home,"",-,0
+2015,SUNY Geneseo,247,Hobart,282,01/10/2015,4,7,Home,"",-,0
+2015,SUNY Geneseo,247,Neumann,1254,01/15/2015,4,1,Away,"",-,0
+2015,SUNY Geneseo,247,Neumann,1254,01/17/2015,2,2,Home,"",1 OT,0
+2015,SUNY Geneseo,247,Nazareth,461,01/20/2015,1,3,Home,"",-,0
+2015,SUNY Geneseo,247,SUNY Canton,30165,01/24/2015,3,1,Home,"",-,0
+2015,SUNY Geneseo,247,SUNY Potsdam,552,01/30/2015,0,1,Away,"",-,0
+2015,SUNY Geneseo,247,Plattsburgh St.,547,01/31/2015,3,2,Away,"",-,0
+2015,SUNY Geneseo,247,Brockport,78,02/06/2015,3,0,Home,"",-,0
+2015,SUNY Geneseo,247,SUNY Cortland,168,02/13/2015,5,3,Home,"",-,0
+2015,SUNY Geneseo,247,Oswego St.,530,02/14/2015,1,2,Home,"",-,0
+2015,SUNY Geneseo,247,Fredonia,242,02/20/2015,6,1,Away,"",-,0
+2015,SUNY Geneseo,247,Buffalo St.,85,02/21/2015,4,4,Away,"",1 OT,0
+2015,SUNY Geneseo,247,Brockport,78,02/25/2015,4,6,Home,"",-,0
+2015,SUNY Potsdam,552,Plattsburgh St.,547,10/31/2014,2,4,Home,"",-,"1,024"
+2015,SUNY Potsdam,552,Hobart,282,11/01/2014,5,4,Home,"",-,732
+2015,SUNY Potsdam,552,SUNY Geneseo,247,11/07/2014,2,1,Away,"",-,"2,020"
+2015,SUNY Potsdam,552,Brockport,78,11/08/2014,2,3,Away,"",-,500
+2015,SUNY Potsdam,552,Fredonia,242,11/14/2014,4,4,Home,"",1 OT,957
+2015,SUNY Potsdam,552,Buffalo St.,85,11/15/2014,5,2,Home,"",-,"1,007"
+2015,SUNY Potsdam,552,SUNY Canton,30165,11/21/2014,4,2,Home,"",-,923
+2015,SUNY Potsdam,552,SUNY Cortland,168,12/05/2014,2,6,Home,"",-,502
+2015,SUNY Potsdam,552,Oswego St.,530,12/06/2014,1,7,Home,"",-,743
+2015,SUNY Potsdam,552,Curry,170,12/12/2014,2,4,Home,"",-,437
+2015,SUNY Potsdam,552,St. Anselm,593,01/02/2015,6,2,Away,"",-,394
+2015,SUNY Potsdam,552,U New England,1255,01/03/2015,1,5,Away,"",-,135
+2015,SUNY Potsdam,552,Johnson & Wales (RI),22626,01/09/2015,2,3,Away,"",-,0
+2015,SUNY Potsdam,552,Skidmore,642,01/10/2015,1,1,Away,"",1 OT,0
+2015,SUNY Potsdam,552,Elmira,213,01/13/2015,2,5,Home,"",-,0
+2015,SUNY Potsdam,552,Western New Eng.,775,01/17/2015,6,1,Home,"",-,0
+2015,SUNY Potsdam,552,Plattsburgh St.,547,01/23/2015,2,6,Away,"",-,0
+2015,SUNY Potsdam,552,SUNY Geneseo,247,01/30/2015,1,0,Home,"",-,0
+2015,SUNY Potsdam,552,Brockport,78,01/31/2015,3,3,Home,"",1 OT,0
+2015,SUNY Potsdam,552,Fredonia,242,02/06/2015,2,0,Away,"",-,0
+2015,SUNY Potsdam,552,Buffalo St.,85,02/07/2015,3,5,Away,"",-,0
+2015,SUNY Potsdam,552,Morrisville St.,30067,02/13/2015,7,2,Away,"",-,0
+2015,SUNY Potsdam,552,Morrisville St.,30067,02/14/2015,3,1,Away,"",-,0
+2015,SUNY Potsdam,552,SUNY Cortland,168,02/20/2015,8,5,Away,"",-,0
+2015,SUNY Potsdam,552,Oswego St.,530,02/21/2015,4,2,Away,"",-,0
+2015,SUNY Potsdam,552,Buffalo St.,85,02/25/2015,2,6,Home,"",-,0
+2015,Trinity (CT),713,Connecticut Col.,163,11/15/2014,7,2,Away,"",-,200
+2015,Trinity (CT),713,Tufts,717,11/16/2014,7,2,Away,"",-,250
+2015,Trinity (CT),713,Amherst,24,11/21/2014,7,2,Home,"",-,216
+2015,Trinity (CT),713,Hamilton,267,11/22/2014,1,1,Home,"",1 OT,142
+2015,Trinity (CT),713,UMass Dartmouth,656,11/29/2014,9,1,Home,"",-,100
+2015,Trinity (CT),713,UMass Boston,401,11/30/2014,3,5,Home,"",-,102
+2015,Trinity (CT),713,Utica,733,12/05/2014,1,0,Away,"",-,"3,815"
+2015,Trinity (CT),713,Hobart,282,12/06/2014,4,3,Away,"",-,200
+2015,Trinity (CT),713,Plymouth St.,548,01/02/2015,5,4,Away,"",-,350
+2015,Trinity (CT),713,Western New Eng.,775,01/04/2015,7,2,Away,"",-,96
+2015,Trinity (CT),713,Middlebury,420,01/09/2015,3,1,Home,"",-,0
+2015,Trinity (CT),713,Williams,789,01/10/2015,3,2,Home,"",-,0
+2015,Trinity (CT),713,Bowdoin,69,01/16/2015,2,1,Away,"",-,0
+2015,Trinity (CT),713,Colby,151,01/17/2015,6,3,Away,"",-,0
+2015,Trinity (CT),713,Connecticut Col.,163,01/23/2015,3,1,Home,"",-,0
+2015,Trinity (CT),713,Tufts,717,01/24/2015,4,1,Home,"",-,0
+2015,Trinity (CT),713,Amherst,24,01/30/2015,2,3,Away,"",-,0
+2015,Trinity (CT),713,Hamilton,267,01/31/2015,6,1,Away,"",-,0
+2015,Trinity (CT),713,Middlebury,420,02/06/2015,2,1,Away,"",1 OT,0
+2015,Trinity (CT),713,Williams,789,02/07/2015,3,1,Away,"",-,0
+2015,Trinity (CT),713,Bowdoin,69,02/13/2015,5,4,Home,"",-,0
+2015,Trinity (CT),713,Colby,151,02/14/2015,5,1,Home,"",-,0
+2015,Trinity (CT),713,Wesleyan (CT),764,02/20/2015,4,1,Away,"",-,0
+2015,Trinity (CT),713,Wesleyan (CT),764,02/21/2015,6,0,Home,"",-,0
+2015,Trinity (CT),713,Tufts,717,02/28/2015,1,2,Home,"",-,0
+2015,Tufts,717,Wesleyan (CT),764,11/15/2014,2,5,Home,"",-,350
+2015,Tufts,717,Trinity (CT),713,11/16/2014,2,7,Home,"",-,250
+2015,Tufts,717,Middlebury,420,11/21/2014,2,2,Away,"",1 OT,875
+2015,Tufts,717,Williams,789,11/22/2014,0,9,Away,"",-,176
+2015,Tufts,717,Becker,26107,11/25/2014,5,0,Home,"",-,150
+2015,Tufts,717,Brockport,78,11/28/2014,2,4,Neutral,"",-,117
+2015,Tufts,717,Castleton,123,11/29/2014,4,3,Away,"",-,273
+2015,Tufts,717,Colby,151,12/05/2014,4,1,Home,"",-,400
+2015,Tufts,717,Bowdoin,69,12/06/2014,4,3,Home,"",1 OT,350
+2015,Tufts,717,Oswego St.,530,01/02/2015,2,4,Away,"",-,"2,242"
+2015,Tufts,717,St. Scholastica,618,01/03/2015,2,9,Neutral,"",-,390
+2015,Tufts,717,Suffolk,684,01/10/2015,7,4,Away,"",-,0
+2015,Tufts,717,Hamilton,267,01/16/2015,3,6,Away,"",-,0
+2015,Tufts,717,Amherst,24,01/17/2015,2,3,Away,"",-,0
+2015,Tufts,717,Wesleyan (CT),764,01/23/2015,3,1,Away,"",-,0
+2015,Tufts,717,Trinity (CT),713,01/24/2015,1,4,Away,"",-,0
+2015,Tufts,717,Middlebury,420,01/30/2015,2,1,Home,"",-,0
+2015,Tufts,717,Williams,789,01/31/2015,2,4,Home,"",-,0
+2015,Tufts,717,Connecticut Col.,163,02/06/2015,1,2,Home,"",-,0
+2015,Tufts,717,Connecticut Col.,163,02/07/2015,1,4,Away,"",-,0
+2015,Tufts,717,Hamilton,267,02/13/2015,3,3,Home,"",1 OT,0
+2015,Tufts,717,Amherst,24,02/14/2015,1,3,Home,"",-,0
+2015,Tufts,717,Colby,151,02/20/2015,4,1,Away,"",-,0
+2015,Tufts,717,Bowdoin,69,02/21/2015,0,4,Away,"",-,0
+2015,Tufts,717,Trinity (CT),713,02/28/2015,2,1,Away,"",-,0
+2015,Tufts,717,Amherst,24,03/07/2015,2,3,Away,"",-,0
+2015,U New England,1255,Stonehill,682,10/31/2014,4,1,Home,"",-,311
+2015,U New England,1255,Skidmore,642,11/07/2014,3,2,Home,"",1 OT,335
+2015,U New England,1255,Castleton,123,11/08/2014,0,3,Home,"",-,178
+2015,U New England,1255,Saint Michael's,613,11/14/2014,2,3,Away,"",-,351
+2015,U New England,1255,Norwich,511,11/15/2014,1,4,Away,"",-,"1,023"
+2015,U New England,1255,Southern Me.,662,11/21/2014,8,0,Home,"",-,587
+2015,U New England,1255,Bowdoin,69,11/25/2014,0,3,Home,"",-,211
+2015,U New England,1255,SUNY Cortland,168,11/29/2014,0,3,Neutral,"",-,103
+2015,U New England,1255,Fitchburg St.,227,11/30/2014,4,7,Neutral,"",-,73
+2015,U New England,1255,UMass Boston,401,12/05/2014,1,3,Away,"",-,225
+2015,U New England,1255,Babson,45,12/06/2014,1,4,Away,"",-,550
+2015,U New England,1255,SUNY Potsdam,552,01/03/2015,5,1,Home,"",-,135
+2015,U New England,1255,St. Anselm,593,01/09/2015,2,5,Home,"",-,0
+2015,U New England,1255,New England Col.,467,01/10/2015,3,3,Home,"",1 OT,0
+2015,U New England,1255,Castleton,123,01/16/2015,3,2,Away,"",-,0
+2015,U New England,1255,Skidmore,642,01/17/2015,2,0,Away,"",-,0
+2015,U New England,1255,Bowdoin,69,01/20/2015,2,4,Away,"",-,0
+2015,U New England,1255,Norwich,511,01/23/2015,1,6,Home,"",-,0
+2015,U New England,1255,Saint Michael's,613,01/24/2015,4,3,Home,"",-,0
+2015,U New England,1255,Southern Me.,662,02/03/2015,1,0,Away,"",-,0
+2015,U New England,1255,Babson,45,02/06/2015,0,0,Home,"",1 OT,0
+2015,U New England,1255,UMass Boston,401,02/07/2015,3,7,Home,"",-,0
+2015,U New England,1255,New England Col.,467,02/13/2015,0,1,Away,"",-,0
+2015,U New England,1255,St. Anselm,593,02/14/2015,8,1,Away,"",-,0
+2015,U New England,1255,Castleton,123,02/21/2015,2,3,Away,"",1 OT,0
+2015,UMass Boston,401,UMass Dartmouth,656,11/01/2014,15,3,Home,"",-,479
+2015,UMass Boston,401,Curry,170,11/02/2014,6,4,Away,"",-,250
+2015,UMass Boston,401,New England Col.,467,11/07/2014,5,4,Away,"",1 OT,210
+2015,UMass Boston,401,St. Anselm,593,11/08/2014,3,1,Away,"",-,253
+2015,UMass Boston,401,Castleton,123,11/21/2014,2,0,Home,"",-,347
+2015,UMass Boston,401,Skidmore,642,11/22/2014,6,1,Home,"",-,185
+2015,UMass Boston,401,Wesleyan (CT),764,11/29/2014,6,2,Away,"",-,125
+2015,UMass Boston,401,Trinity (CT),713,11/30/2014,5,3,Away,"",-,102
+2015,UMass Boston,401,U New England,1255,12/05/2014,3,1,Home,"",-,225
+2015,UMass Boston,401,Southern Me.,662,12/06/2014,5,1,Home,"",-,135
+2015,UMass Boston,401,Connecticut Col.,163,01/04/2015,1,4,Home,"",-,527
+2015,UMass Boston,401,Hamilton,267,01/05/2015,1,1,Home,"",1 OT,237
+2015,UMass Boston,401,Norwich,511,01/09/2015,3,6,Away,"",-,0
+2015,UMass Boston,401,Saint Michael's,613,01/10/2015,5,4,Away,"",1 OT,0
+2015,UMass Boston,401,Wentworth,762,01/14/2015,7,3,Away,"",-,0
+2015,UMass Boston,401,St. Anselm,593,01/16/2015,5,4,Home,"",-,0
+2015,UMass Boston,401,New England Col.,467,01/17/2015,4,1,Home,"",-,0
+2015,UMass Boston,401,Babson,45,01/23/2015,2,4,Away,"",-,0
+2015,UMass Boston,401,Babson,45,01/24/2015,4,3,Home,"",1 OT,0
+2015,UMass Boston,401,Skidmore,642,01/30/2015,3,1,Away,"",-,0
+2015,UMass Boston,401,Castleton,123,01/31/2015,4,3,Away,"",1 OT,0
+2015,UMass Boston,401,Southern Me.,662,02/06/2015,4,0,Away,"",-,0
+2015,UMass Boston,401,U New England,1255,02/07/2015,7,3,Away,"",-,0
+2015,UMass Boston,401,Saint Michael's,613,02/13/2015,6,5,Home,"",1 OT,0
+2015,UMass Boston,401,Norwich,511,02/14/2015,4,3,Home,"",-,0
+2015,UMass Boston,401,Skidmore,642,02/21/2015,11,1,Home,"",-,0
+2015,UMass Boston,401,Babson,45,02/28/2015,2,5,Home,"",-,0
+2015,UMass Dartmouth,656,UMass Boston,401,11/01/2014,3,15,Away,"",-,479
+2015,UMass Dartmouth,656,Framingham St.,238,11/08/2014,5,5,Away,"",1 OT,178
+2015,UMass Dartmouth,656,Worcester St.,809,11/11/2014,3,3,Home,"",1 OT,340
+2015,UMass Dartmouth,656,Plymouth St.,548,11/15/2014,1,4,Away,"",-,800
+2015,UMass Dartmouth,656,Salem St.,621,11/20/2014,2,5,Home,"",-,150
+2015,UMass Dartmouth,656,Westfield St.,777,11/22/2014,5,4,Home,"",-,110
+2015,UMass Dartmouth,656,Babson,45,11/25/2014,1,8,Away,"",-,206
+2015,UMass Dartmouth,656,Trinity (CT),713,11/29/2014,1,9,Away,"",-,100
+2015,UMass Dartmouth,656,Wesleyan (CT),764,11/30/2014,1,6,Away,"",-,100
+2015,UMass Dartmouth,656,Curry,170,12/04/2014,2,4,Home,"",-,100
+2015,UMass Dartmouth,656,Fitchburg St.,227,12/06/2014,6,4,Away,"",-,400
+2015,UMass Dartmouth,656,Johnson & Wales (RI),22626,01/07/2015,2,7,Away,"",-,0
+2015,UMass Dartmouth,656,Worcester St.,809,01/09/2015,2,3,Away,"",-,0
+2015,UMass Dartmouth,656,Framingham St.,238,01/15/2015,9,2,Home,"",-,0
+2015,UMass Dartmouth,656,Plymouth St.,548,01/17/2015,8,2,Home,"",-,0
+2015,UMass Dartmouth,656,Salem St.,621,01/22/2015,1,6,Away,"",-,0
+2015,UMass Dartmouth,656,Westfield St.,777,01/24/2015,9,2,Away,"",-,0
+2015,UMass Dartmouth,656,Stonehill,682,01/29/2015,6,3,Home,"",-,0
+2015,UMass Dartmouth,656,Fitchburg St.,227,01/31/2015,2,3,Home,"",-,0
+2015,UMass Dartmouth,656,Worcester St.,809,02/05/2015,0,4,Home,"",-,0
+2015,UMass Dartmouth,656,Framingham St.,238,02/07/2015,1,2,Away,"",-,0
+2015,UMass Dartmouth,656,Plymouth St.,548,02/12/2015,2,3,Away,"",-,0
+2015,UMass Dartmouth,656,Salem St.,621,02/14/2015,2,7,Home,"",-,0
+2015,UMass Dartmouth,656,Westfield St.,777,02/19/2015,1,1,Home,"",1 OT,0
+2015,UMass Dartmouth,656,Fitchburg St.,227,02/24/2015,5,3,Away,"",-,0
+2015,UMass Dartmouth,656,Fitchburg St.,227,02/28/2015,5,4,Away,"",-,0
+2015,UMass Dartmouth,656,Salem St.,621,03/03/2015,0,4,Away,"",-,0
+2015,Utica,733,Castleton,123,11/01/2014,4,2,Home,"",-,"3,747"
+2015,Utica,733,Nazareth,461,11/07/2014,2,2,Home,"",1 OT,"3,769"
+2015,Utica,733,Nazareth,461,11/08/2014,4,5,Home,"",-,"3,815"
+2015,Utica,733,Elmira,213,11/14/2014,3,4,Away,"",-,"1,203"
+2015,Utica,733,Hobart,282,11/15/2014,4,5,Away,"",1 OT,150
+2015,Utica,733,Neumann,1254,11/21/2014,1,4,Home,"",-,"3,633"
+2015,Utica,733,Oswego St.,530,11/22/2014,4,4,Neutral,"",1 OT,"7,047"
+2015,Utica,733,Hamilton,267,11/28/2014,5,3,Home,"",-,"3,815"
+2015,Utica,733,Connecticut Col.,163,11/29/2014,5,1,Home,"",-,"3,695"
+2015,Utica,733,Trinity (CT),713,12/05/2014,0,1,Home,"",-,"3,815"
+2015,Utica,733,Curry,170,12/06/2014,5,1,Home,"",-,"3,500"
+2015,Utica,733,Morrisville St.,30067,12/11/2014,4,3,Home,"",-,"3,365"
+2015,Utica,733,Amherst,24,01/02/2015,3,3,Neutral,"",1 OT,451
+2015,Utica,733,New England Col.,467,01/03/2015,4,0,Neutral,"",-,413
+2015,Utica,733,Castleton,123,01/10/2015,3,1,Away,"",-,0
+2015,Utica,733,Manhattanville,382,01/17/2015,2,0,Home,"",-,0
+2015,Utica,733,Neumann,1254,01/23/2015,0,9,Away,"",-,0
+2015,Utica,733,Neumann,1254,01/24/2015,5,5,Away,"",1 OT,0
+2015,Utica,733,Manhattanville,382,01/30/2015,3,2,Away,"",-,0
+2015,Utica,733,Manhattanville,382,01/31/2015,2,1,Away,"",-,0
+2015,Utica,733,Hobart,282,02/06/2015,2,3,Home,"",1 OT,0
+2015,Utica,733,Hobart,282,02/07/2015,2,4,Home,"",-,0
+2015,Utica,733,Elmira,213,02/13/2015,3,2,Home,"",-,0
+2015,Utica,733,Elmira,213,02/14/2015,1,2,Home,"",1 OT,0
+2015,Utica,733,Nazareth,461,02/20/2015,1,1,Away,"",1 OT,0
+2015,Utica,733,Elmira,213,02/25/2015,2,5,Away,"",-,0
+2015,Wentworth,762,Worcester St.,809,10/31/2014,3,1,Neutral,"",-,224
+2015,Wentworth,762,Fitchburg St.,227,11/01/2014,3,1,Away,"",-,284
+2015,Wentworth,762,Johnson & Wales (RI),22626,11/08/2014,3,2,Home,"",-,150
+2015,Wentworth,762,Salve Regina,623,11/13/2014,1,7,Away,"",-,57
+2015,Wentworth,762,Nichols,484,11/15/2014,3,7,Home,"",-,175
+2015,Wentworth,762,Western New Eng.,775,11/19/2014,4,1,Home,"",-,200
+2015,Wentworth,762,Curry,170,11/22/2014,1,1,Away,"",1 OT,300
+2015,Wentworth,762,Bowdoin,69,11/29/2014,1,6,Away,"",-,520
+2015,Wentworth,762,Colby,151,11/30/2014,0,7,Away,"",-,340
+2015,Wentworth,762,Stonehill,682,12/06/2014,2,3,Home,"",-,225
+2015,Wentworth,762,Suffolk,684,12/07/2014,2,1,Home,"",-,230
+2015,Wentworth,762,Wesleyan (CT),764,01/02/2015,4,3,Neutral,"",-,100
+2015,Wentworth,762,Salem St.,621,01/03/2015,3,3,Away,"",1 OT,500
+2015,Wentworth,762,Manhattanville,382,01/11/2015,1,4,Home,"",-,0
+2015,Wentworth,762,UMass Boston,401,01/14/2015,3,7,Home,"",-,0
+2015,Wentworth,762,Assumption,36,01/18/2015,4,2,Home,"",-,0
+2015,Wentworth,762,Becker,26107,01/23/2015,6,3,Away,"",-,0
+2015,Wentworth,762,Salve Regina,623,01/31/2015,2,3,Home,"",-,0
+2015,Wentworth,762,Johnson & Wales (RI),22626,02/05/2015,2,0,Away,"",-,0
+2015,Wentworth,762,Western New Eng.,775,02/07/2015,0,2,Away,"",-,0
+2015,Wentworth,762,Nichols,484,02/11/2015,1,4,Away,"",-,0
+2015,Wentworth,762,Becker,26107,02/14/2015,7,2,Home,"",-,0
+2015,Wentworth,762,Curry,170,02/18/2015,0,3,Home,"",-,0
+2015,Wentworth,762,Suffolk,684,02/21/2015,5,5,Away,"",1 OT,0
+2015,Wentworth,762,Suffolk,684,02/22/2015,2,1,Home,"",-,0
+2015,Wentworth,762,Curry,170,02/28/2015,4,8,Away,"",-,0
+2015,Wesleyan (CT),764,Tufts,717,11/15/2014,5,2,Away,"",-,350
+2015,Wesleyan (CT),764,Connecticut Col.,163,11/16/2014,2,5,Away,"",-,100
+2015,Wesleyan (CT),764,Hamilton,267,11/21/2014,0,4,Home,"",-,200
+2015,Wesleyan (CT),764,Amherst,24,11/22/2014,0,5,Home,"",-,150
+2015,Wesleyan (CT),764,UMass Boston,401,11/29/2014,2,6,Home,"",-,125
+2015,Wesleyan (CT),764,UMass Dartmouth,656,11/30/2014,6,1,Home,"",-,100
+2015,Wesleyan (CT),764,Hobart,282,12/05/2014,1,4,Away,"",-,200
+2015,Wesleyan (CT),764,Elmira,213,12/06/2014,6,7,Away,"",-,960
+2015,Wesleyan (CT),764,Wentworth,762,01/02/2015,3,4,Neutral,"",-,100
+2015,Wesleyan (CT),764,Suffolk,684,01/03/2015,2,5,Neutral,"",-,75
+2015,Wesleyan (CT),764,Williams,789,01/09/2015,1,3,Home,"",-,0
+2015,Wesleyan (CT),764,Middlebury,420,01/10/2015,2,3,Home,"",1 OT,0
+2015,Wesleyan (CT),764,Colby,151,01/16/2015,2,5,Away,"",-,0
+2015,Wesleyan (CT),764,Bowdoin,69,01/17/2015,3,4,Away,"",-,0
+2015,Wesleyan (CT),764,Tufts,717,01/23/2015,1,3,Home,"",-,0
+2015,Wesleyan (CT),764,Connecticut Col.,163,01/24/2015,1,4,Home,"",-,0
+2015,Wesleyan (CT),764,Hamilton,267,01/30/2015,3,5,Away,"",-,0
+2015,Wesleyan (CT),764,Amherst,24,01/31/2015,2,6,Away,"",-,0
+2015,Wesleyan (CT),764,Williams,789,02/06/2015,1,2,Away,"",-,0
+2015,Wesleyan (CT),764,Middlebury,420,02/07/2015,0,3,Away,"",-,0
+2015,Wesleyan (CT),764,Colby,151,02/13/2015,2,1,Home,"",1 OT,0
+2015,Wesleyan (CT),764,Bowdoin,69,02/14/2015,1,3,Home,"",-,0
+2015,Wesleyan (CT),764,Trinity (CT),713,02/20/2015,1,4,Home,"",-,0
+2015,Wesleyan (CT),764,Trinity (CT),713,02/21/2015,0,6,Away,"",-,0
+2015,Western New Eng.,775,Westfield St.,777,11/01/2014,0,1,Neutral,"",-,200
+2015,Western New Eng.,775,Worcester St.,809,11/06/2014,2,2,Home,"",1 OT,161
+2015,Western New Eng.,775,Becker,26107,11/09/2014,3,2,Away,"",-,56
+2015,Western New Eng.,775,Curry,170,11/13/2014,2,7,Home,"",-,314
+2015,Western New Eng.,775,Suffolk,684,11/15/2014,1,3,Home,"",-,158
+2015,Western New Eng.,775,Wentworth,762,11/19/2014,1,4,Away,"",-,200
+2015,Western New Eng.,775,Salve Regina,623,11/22/2014,2,7,Away,"",-,222
+2015,Western New Eng.,775,Manhattanville,382,11/25/2014,1,2,Away,"",-,125
+2015,Western New Eng.,775,Assumption,36,12/06/2014,3,4,Home,"",-,156
+2015,Western New Eng.,775,Southern N.H.,468,12/07/2014,1,2,Away,"",-,150
+2015,Western New Eng.,775,Trinity (CT),713,01/04/2015,2,7,Home,"",-,96
+2015,Western New Eng.,775,Framingham St.,238,01/06/2015,3,3,Away,"",1 OT,0
+2015,Western New Eng.,775,SUNY Canton,30165,01/16/2015,2,7,Away,"",-,0
+2015,Western New Eng.,775,SUNY Potsdam,552,01/17/2015,1,6,Away,"",-,0
+2015,Western New Eng.,775,Stonehill,682,01/21/2015,4,4,Away,"",1 OT,0
+2015,Western New Eng.,775,Johnson & Wales (RI),22626,01/24/2015,0,5,Home,"",-,0
+2015,Western New Eng.,775,Curry,170,01/31/2015,5,1,Away,"",-,0
+2015,Western New Eng.,775,Becker,26107,02/05/2015,3,2,Home,"",-,0
+2015,Western New Eng.,775,Wentworth,762,02/07/2015,2,0,Home,"",-,0
+2015,Western New Eng.,775,Johnson & Wales (RI),22626,02/14/2015,3,2,Away,"",-,0
+2015,Western New Eng.,775,Salve Regina,623,02/19/2015,2,6,Home,"",-,0
+2015,Western New Eng.,775,Nichols,484,02/21/2015,2,5,Home,"",-,0
+2015,Western New Eng.,775,Nichols,484,02/22/2015,3,8,Away,"",-,0
+2015,Western New Eng.,775,Suffolk,684,02/24/2015,4,5,Away,"",1 OT,0
+2015,Westfield St.,777,Western New Eng.,775,11/01/2014,1,0,Neutral,"",-,200
+2015,Westfield St.,777,Assumption,36,11/04/2014,2,1,Away,"",-,104
+2015,Westfield St.,777,Curry,170,11/06/2014,2,3,Away,"",1 OT,200
+2015,Westfield St.,777,Framingham St.,238,11/11/2014,6,4,Home,"",-,325
+2015,Westfield St.,777,Salem St.,621,11/13/2014,6,1,Home,"",-,222
+2015,Westfield St.,777,Fitchburg St.,227,11/20/2014,2,1,Away,"",-,484
+2015,Westfield St.,777,UMass Dartmouth,656,11/22/2014,4,5,Away,"",-,110
+2015,Westfield St.,777,Franklin Pierce,241,11/25/2014,5,2,Away,"",-,73
+2015,Westfield St.,777,Worcester St.,809,12/04/2014,6,1,Home,"",-,100
+2015,Westfield St.,777,Plymouth St.,548,12/06/2014,2,5,Home,"",-,225
+2015,Westfield St.,777,Stonehill,682,12/10/2014,2,3,Home,"",-,100
+2015,Westfield St.,777,Becker,26107,01/07/2015,0,5,Home,"",-,0
+2015,Westfield St.,777,Framingham St.,238,01/10/2015,4,2,Away,"",-,0
+2015,Westfield St.,777,Southern N.H.,468,01/13/2015,4,9,Home,"",-,0
+2015,Westfield St.,777,Salem St.,621,01/15/2015,3,2,Away,"",-,0
+2015,Westfield St.,777,Fitchburg St.,227,01/22/2015,2,6,Home,"",-,0
+2015,Westfield St.,777,UMass Dartmouth,656,01/24/2015,2,9,Home,"",-,0
+2015,Westfield St.,777,Plymouth St.,548,01/31/2015,3,6,Away,"",-,0
+2015,Westfield St.,777,Framingham St.,238,02/05/2015,5,3,Home,"",-,0
+2015,Westfield St.,777,Salem St.,621,02/07/2015,3,3,Home,"",1 OT,0
+2015,Westfield St.,777,Worcester St.,809,02/10/2015,3,2,Away,"",-,0
+2015,Westfield St.,777,Fitchburg St.,227,02/14/2015,2,5,Away,"",-,0
+2015,Westfield St.,777,UMass Dartmouth,656,02/19/2015,1,1,Away,"",1 OT,0
+2015,Westfield St.,777,Worcester St.,809,02/21/2015,4,5,Home,"",-,0
+2015,Westfield St.,777,Plymouth St.,548,02/24/2015,1,5,Away,"",-,0
+2015,Westfield St.,777,Worcester St.,809,02/28/2015,6,3,Home,"",-,0
+2015,Westfield St.,777,Plymouth St.,548,03/03/2015,0,3,Away,"",-,0
+2015,Williams,789,Colby,151,11/15/2014,4,2,Away,"",-,685
+2015,Williams,789,Bowdoin,69,11/16/2014,3,3,Away,"",1 OT,"1,008"
+2015,Williams,789,Connecticut Col.,163,11/21/2014,2,1,Home,"",-,145
+2015,Williams,789,Tufts,717,11/22/2014,9,0,Home,"",-,176
+2015,Williams,789,Johnson & Wales (RI),22626,11/29/2014,4,3,Neutral,"",-,110
+2015,Williams,789,Morrisville St.,30067,11/30/2014,2,3,Neutral,"",1 OT,75
+2015,Williams,789,Hamilton,267,12/05/2014,2,5,Home,"",-,103
+2015,Williams,789,Amherst,24,12/06/2014,4,3,Home,"",-,313
+2015,Williams,789,Gust. Adolphus,266,01/02/2015,3,2,Away,"",-,197
+2015,Williams,789,St. Olaf,615,01/03/2015,3,1,Away,"",-,207
+2015,Williams,789,Wesleyan (CT),764,01/09/2015,3,1,Away,"",-,0
+2015,Williams,789,Trinity (CT),713,01/10/2015,2,3,Away,"",-,0
+2015,Williams,789,Manhattanville,382,01/16/2015,1,1,Home,"",1 OT,0
+2015,Williams,789,Plattsburgh St.,547,01/17/2015,6,3,Away,"",-,0
+2015,Williams,789,Colby,151,01/23/2015,4,2,Home,"",-,0
+2015,Williams,789,Bowdoin,69,01/24/2015,5,2,Home,"",-,0
+2015,Williams,789,Connecticut Col.,163,01/30/2015,1,3,Away,"",-,0
+2015,Williams,789,Tufts,717,01/31/2015,4,2,Away,"",-,0
+2015,Williams,789,Wesleyan (CT),764,02/06/2015,2,1,Home,"",-,0
+2015,Williams,789,Trinity (CT),713,02/07/2015,1,3,Home,"",-,0
+2015,Williams,789,Middlebury,420,02/13/2015,0,2,Away,"",-,0
+2015,Williams,789,Middlebury,420,02/14/2015,5,4,Home,"",-,0
+2015,Williams,789,Hamilton,267,02/20/2015,1,5,Away,"",-,0
+2015,Williams,789,Amherst,24,02/21/2015,3,5,Away,"",-,0
+2015,Williams,789,Bowdoin,69,02/28/2015,4,3,Home,"",1 OT,0
+2015,Williams,789,Connecticut Col.,163,03/07/2015,4,2,Neutral,"Amherst, MA",-,0
+2015,Wis.-Eau Claire,793,St. Olaf,615,11/07/2014,3,0,Away,"",-,439
+2015,Wis.-Eau Claire,793,Saint John's (MN),602,11/09/2014,3,3,Away,"",1 OT,209
+2015,Wis.-Eau Claire,793,Hamline,268,11/14/2014,5,2,Home,"",-,"1,386"
+2015,Wis.-Eau Claire,793,Bethel (MN),60,11/15/2014,6,3,Home,"",-,"1,347"
+2015,Wis.-Eau Claire,793,St. Norbert,614,11/18/2014,2,3,Away,"",-,819
+2015,Wis.-Eau Claire,793,Adrian,4,11/21/2014,2,5,Home,"",-,"1,364"
+2015,Wis.-Eau Claire,793,Lake Forest,344,11/22/2014,1,1,Home,"",1 OT,"1,193"
+2015,Wis.-Eau Claire,793,Augsburg,38,11/29/2014,3,1,Away,"",-,290
+2015,Wis.-Eau Claire,793,Wis.-Stevens Point,802,12/05/2014,0,3,Away,"",-,"1,081"
+2015,Wis.-Eau Claire,793,Wis.-Superior,804,12/06/2014,4,1,Home,"",-,872
+2015,Wis.-Eau Claire,793,MSOE,20220,12/12/2014,4,0,Home,"",-,817
+2015,Wis.-Eau Claire,793,Lawrence,348,12/13/2014,11,2,Home,"",-,789
+2015,Wis.-Eau Claire,793,Marian (WI),1196,01/09/2015,5,3,Home,"",-,0
+2015,Wis.-Eau Claire,793,Augsburg,38,01/10/2015,4,1,Away,"",-,0
+2015,Wis.-Eau Claire,793,St. Thomas (MN),620,01/17/2015,2,3,Away,"",-,0
+2015,Wis.-Eau Claire,793,Wis.-River Falls,801,01/23/2015,5,2,Away,"",-,0
+2015,Wis.-Eau Claire,793,Wis.-River Falls,801,01/24/2015,4,3,Away,"",-,0
+2015,Wis.-Eau Claire,793,Wis.-Stout,803,01/30/2015,5,3,Home,"",-,0
+2015,Wis.-Eau Claire,793,Wis.-Stout,803,01/31/2015,3,4,Home,"",-,0
+2015,Wis.-Eau Claire,793,Wis.-Superior,804,02/06/2015,5,3,Away,"",-,0
+2015,Wis.-Eau Claire,793,Wis.-Superior,804,02/07/2015,5,3,Away,"",-,0
+2015,Wis.-Eau Claire,793,Wis.-Stevens Point,802,02/13/2015,5,2,Home,"",-,0
+2015,Wis.-Eau Claire,793,Wis.-Stevens Point,802,02/14/2015,2,5,Home,"",-,0
+2015,Wis.-Eau Claire,793,Wis.-Stout,803,02/19/2015,5,1,Away,"",-,0
+2015,Wis.-Eau Claire,793,Wis.-River Falls,801,02/21/2015,3,2,Home,"",-,0
+2015,Wis.-Eau Claire,793,Wis.-River Falls,801,02/27/2015,3,4,Home,"",-,0
+2015,Wis.-Eau Claire,793,Wis.-River Falls,801,02/28/2015,4,2,Home,"",-,0
+2015,Wis.-River Falls,801,Concordia-M'head,161,11/06/2014,4,3,Away,"",-,302
+2015,Wis.-River Falls,801,Hamline,268,11/08/2014,5,2,Away,"",-,200
+2015,Wis.-River Falls,801,Bethel (MN),60,11/14/2014,5,2,Away,"",-,100
+2015,Wis.-River Falls,801,Augsburg,38,11/15/2014,5,3,Home,"",-,614
+2015,Wis.-River Falls,801,Lawrence,348,11/21/2014,4,1,Home,"",-,456
+2015,Wis.-River Falls,801,Northland,1267,11/22/2014,3,0,Home,"",-,500
+2015,Wis.-River Falls,801,Augsburg,38,11/25/2014,4,3,Away,"",1 OT,233
+2015,Wis.-River Falls,801,Wis.-Stout,803,12/04/2014,7,3,Home,"",-,418
+2015,Wis.-River Falls,801,Wis.-Superior,804,12/05/2014,1,0,Away,"",-,417
+2015,Wis.-River Falls,801,Saint John's (MN),602,12/09/2014,4,0,Home,"",-,287
+2015,Wis.-River Falls,801,Hamline,268,12/12/2014,3,1,Home,"",-,420
+2015,Wis.-River Falls,801,Aurora,42,01/02/2015,4,3,Home,"",-,275
+2015,Wis.-River Falls,801,Aurora,42,01/03/2015,3,1,Home,"",-,175
+2015,Wis.-River Falls,801,St. Thomas (MN),620,01/09/2015,0,3,Away,"",-,0
+2015,Wis.-River Falls,801,Adrian,4,01/10/2015,1,1,Home,"",1 OT,0
+2015,Wis.-River Falls,801,Wis.-Stevens Point,802,01/16/2015,0,1,Away,"",-,0
+2015,Wis.-River Falls,801,Wis.-Stevens Point,802,01/17/2015,4,2,Away,"",-,0
+2015,Wis.-River Falls,801,Wis.-Eau Claire,793,01/23/2015,2,5,Home,"",-,0
+2015,Wis.-River Falls,801,Wis.-Eau Claire,793,01/24/2015,3,4,Home,"",-,0
+2015,Wis.-River Falls,801,Wis.-Superior,804,01/30/2015,3,1,Home,"",-,0
+2015,Wis.-River Falls,801,Wis.-Superior,804,01/31/2015,4,1,Home,"",-,0
+2015,Wis.-River Falls,801,Wis.-Stout,803,02/13/2015,3,2,Away,"",-,0
+2015,Wis.-River Falls,801,Wis.-Stout,803,02/14/2015,5,2,Away,"",-,0
+2015,Wis.-River Falls,801,Wis.-Stevens Point,802,02/20/2015,3,5,Home,"",-,0
+2015,Wis.-River Falls,801,Wis.-Eau Claire,793,02/21/2015,2,3,Away,"",-,0
+2015,Wis.-River Falls,801,Wis.-Eau Claire,793,02/27/2015,4,3,Away,"",-,0
+2015,Wis.-River Falls,801,Wis.-Eau Claire,793,02/28/2015,2,4,Away,"",-,0
+2015,Wis.-River Falls,801,Wis.-Stevens Point,802,03/07/2015,3,1,Away,"",-,0
+2015,Wis.-Stevens Point,802,Finlandia,30032,11/01/2014,11,0,Home,"",-,"1,091"
+2015,Wis.-Stevens Point,802,Gust. Adolphus,266,11/07/2014,4,1,Away,"",-,515
+2015,Wis.-Stevens Point,802,St. Olaf,615,11/08/2014,2,3,Away,"",-,321
+2015,Wis.-Stevens Point,802,St. Thomas (MN),620,11/14/2014,3,1,Home,"",-,"1,145"
+2015,Wis.-Stevens Point,802,Saint Mary's (MN),612,11/15/2014,3,2,Home,"",1 OT,"1,254"
+2015,Wis.-Stevens Point,802,Lake Forest,344,11/21/2014,5,1,Home,"",-,619
+2015,Wis.-Stevens Point,802,Adrian,4,11/22/2014,4,6,Home,"",-,859
+2015,Wis.-Stevens Point,802,Adrian,4,11/29/2014,6,3,Away,"",-,490
+2015,Wis.-Stevens Point,802,Wis.-Eau Claire,793,12/05/2014,3,0,Home,"",-,"1,081"
+2015,Wis.-Stevens Point,802,Wis.-Stout,803,12/06/2014,7,5,Home,"",-,993
+2015,Wis.-Stevens Point,802,Marian (WI),1196,12/13/2014,2,1,Away,"",-,189
+2015,Wis.-Stevens Point,802,St. Norbert,614,01/03/2015,6,5,Away,"",-,"1,827"
+2015,Wis.-Stevens Point,802,Augsburg,38,01/09/2015,2,1,Away,"",-,0
+2015,Wis.-Stevens Point,802,Hamline,268,01/10/2015,4,5,Away,"",-,0
+2015,Wis.-Stevens Point,802,Wis.-River Falls,801,01/16/2015,1,0,Home,"",-,0
+2015,Wis.-Stevens Point,802,Wis.-River Falls,801,01/17/2015,2,4,Home,"",-,0
+2015,Wis.-Stevens Point,802,Wis.-Superior,804,01/23/2015,4,2,Away,"",-,0
+2015,Wis.-Stevens Point,802,Wis.-Superior,804,01/24/2015,9,4,Away,"",-,0
+2015,Wis.-Stevens Point,802,Bethel (MN),60,01/31/2015,9,4,Home,"",-,0
+2015,Wis.-Stevens Point,802,Wis.-Stout,803,02/06/2015,6,0,Away,"",-,0
+2015,Wis.-Stevens Point,802,Wis.-Stout,803,02/07/2015,3,2,Home,"",1 OT,0
+2015,Wis.-Stevens Point,802,Wis.-Eau Claire,793,02/13/2015,2,5,Away,"",-,0
+2015,Wis.-Stevens Point,802,Wis.-Eau Claire,793,02/14/2015,5,2,Away,"",-,0
+2015,Wis.-Stevens Point,802,Wis.-River Falls,801,02/20/2015,5,3,Away,"",-,0
+2015,Wis.-Stevens Point,802,Wis.-Superior,804,02/21/2015,7,0,Home,"",-,0
+2015,Wis.-Stevens Point,802,Wis.-Superior,804,02/27/2015,1,1,Home,"",1 OT,0
+2015,Wis.-Stevens Point,802,Wis.-Superior,804,02/28/2015,5,3,Home,"",-,0
+2015,Wis.-Stevens Point,802,Wis.-River Falls,801,03/07/2015,1,3,Home,"",-,0
+2015,Wis.-Stout,803,Lake Forest,344,11/01/2014,2,6,Away,"",-,478
+2015,Wis.-Stout,803,Hamline,268,11/07/2014,2,4,Away,"",-,212
+2015,Wis.-Stout,803,Gust. Adolphus,266,11/08/2014,3,4,Away,"",1 OT,535
+2015,Wis.-Stout,803,Augsburg,38,11/14/2014,3,7,Home,"",-,702
+2015,Wis.-Stout,803,St. Thomas (MN),620,11/15/2014,0,4,Home,"",-,630
+2015,Wis.-Stout,803,Finlandia,30032,11/21/2014,4,1,Home,"",-,378
+2015,Wis.-Stout,803,Lawrence,348,11/22/2014,2,1,Home,"",-,278
+2015,Wis.-Stout,803,Northland,1267,11/25/2014,2,2,Away,"",1 OT,123
+2015,Wis.-Stout,803,Wis.-River Falls,801,12/04/2014,3,7,Away,"",-,418
+2015,Wis.-Stout,803,Wis.-Stevens Point,802,12/06/2014,5,7,Away,"",-,993
+2015,Wis.-Stout,803,MSOE,20220,01/09/2015,0,6,Home,"",-,0
+2015,Wis.-Stout,803,Concordia Wisconsin,1036,01/10/2015,8,5,Home,"",-,0
+2015,Wis.-Stout,803,Wis.-Superior,804,01/16/2015,2,0,Home,"",-,0
+2015,Wis.-Stout,803,Wis.-Superior,804,01/17/2015,3,2,Away,"",-,0
+2015,Wis.-Stout,803,Saint John's (MN),602,01/20/2015,2,4,Away,"",-,0
+2015,Wis.-Stout,803,Aurora,42,01/23/2015,7,2,Home,"",-,0
+2015,Wis.-Stout,803,Aurora,42,01/24/2015,5,1,Home,"",-,0
+2015,Wis.-Stout,803,Wis.-Eau Claire,793,01/30/2015,3,5,Away,"",-,0
+2015,Wis.-Stout,803,Wis.-Eau Claire,793,01/31/2015,4,3,Away,"",-,0
+2015,Wis.-Stout,803,Wis.-Stevens Point,802,02/06/2015,0,6,Home,"",-,0
+2015,Wis.-Stout,803,Wis.-Stevens Point,802,02/07/2015,2,3,Away,"",1 OT,0
+2015,Wis.-Stout,803,Wis.-River Falls,801,02/13/2015,2,3,Home,"",-,0
+2015,Wis.-Stout,803,Wis.-River Falls,801,02/14/2015,2,5,Home,"",-,0
+2015,Wis.-Stout,803,Wis.-Eau Claire,793,02/19/2015,1,5,Home,"",-,0
+2015,Wis.-Stout,803,Wis.-Superior,804,02/20/2015,1,2,Home,"",-,0
+2015,Wis.-Stout,803,Wis.-Superior,804,02/24/2015,3,4,Home,"",1 OT,0
+2015,Wis.-Superior,804,Aurora,42,10/31/2014,6,2,Home,"",-,357
+2015,Wis.-Superior,804,Aurora,42,11/01/2014,6,3,Home,"",-,347
+2015,Wis.-Superior,804,Saint John's (MN),602,11/06/2014,1,2,Away,"",-,357
+2015,Wis.-Superior,804,Concordia-M'head,161,11/08/2014,1,2,Away,"",-,187
+2015,Wis.-Superior,804,Saint Mary's (MN),612,11/14/2014,2,5,Home,"",-,403
+2015,Wis.-Superior,804,Hamline,268,11/15/2014,0,2,Home,"",-,456
+2015,Wis.-Superior,804,Northland,1267,11/21/2014,4,3,Away,"",-,110
+2015,Wis.-Superior,804,Finlandia,30032,11/22/2014,4,1,Home,"",-,437
+2015,Wis.-Superior,804,Northland,1267,11/26/2014,5,1,Home,"",-,124
+2015,Wis.-Superior,804,Wis.-River Falls,801,12/05/2014,0,1,Home,"",-,417
+2015,Wis.-Superior,804,Wis.-Eau Claire,793,12/06/2014,1,4,Away,"",-,872
+2015,Wis.-Superior,804,Marian (WI),1196,12/12/2014,2,5,Away,"",-,219
+2015,Wis.-Superior,804,MSOE,20220,12/13/2014,4,1,Away,"",-,243
+2015,Wis.-Superior,804,Concordia Wisconsin,1036,01/09/2015,6,2,Home,"",-,0
+2015,Wis.-Superior,804,MSOE,20220,01/10/2015,2,3,Home,"",-,0
+2015,Wis.-Superior,804,Wis.-Stout,803,01/16/2015,0,2,Away,"",-,0
+2015,Wis.-Superior,804,Wis.-Stout,803,01/17/2015,2,3,Home,"",-,0
+2015,Wis.-Superior,804,Wis.-Stevens Point,802,01/23/2015,2,4,Home,"",-,0
+2015,Wis.-Superior,804,Wis.-Stevens Point,802,01/24/2015,4,9,Home,"",-,0
+2015,Wis.-Superior,804,Wis.-River Falls,801,01/30/2015,1,3,Away,"",-,0
+2015,Wis.-Superior,804,Wis.-River Falls,801,01/31/2015,1,4,Away,"",-,0
+2015,Wis.-Superior,804,Wis.-Eau Claire,793,02/06/2015,3,5,Home,"",-,0
+2015,Wis.-Superior,804,Wis.-Eau Claire,793,02/07/2015,3,5,Home,"",-,0
+2015,Wis.-Superior,804,Wis.-Stout,803,02/20/2015,2,1,Away,"",-,0
+2015,Wis.-Superior,804,Wis.-Stevens Point,802,02/21/2015,0,7,Away,"",-,0
+2015,Wis.-Superior,804,Wis.-Stout,803,02/24/2015,4,3,Away,"",1 OT,0
+2015,Wis.-Superior,804,Wis.-Stevens Point,802,02/27/2015,1,1,Away,"",1 OT,0
+2015,Wis.-Superior,804,Wis.-Stevens Point,802,02/28/2015,3,5,Away,"",-,0
+2015,Worcester St.,809,Wentworth,762,10/31/2014,1,3,Neutral,"",-,224
+2015,Worcester St.,809,Becker,26107,11/01/2014,4,1,Neutral,"",-,144
+2015,Worcester St.,809,Western New Eng.,775,11/06/2014,2,2,Away,"",1 OT,161
+2015,Worcester St.,809,UMass Dartmouth,656,11/11/2014,3,3,Away,"",1 OT,340
+2015,Worcester St.,809,Fitchburg St.,227,11/15/2014,4,2,Home,"",-,125
+2015,Worcester St.,809,Framingham St.,238,11/20/2014,2,5,Home,"",-,175
+2015,Worcester St.,809,Plymouth St.,548,11/22/2014,1,5,Away,"",-,900
+2015,Worcester St.,809,Becker,26107,11/28/2014,1,4,Away,"",-,226
+2015,Worcester St.,809,Assumption,36,11/30/2014,0,1,Neutral,"",-,78
+2015,Worcester St.,809,Westfield St.,777,12/04/2014,1,6,Away,"",-,100
+2015,Worcester St.,809,Salem St.,621,12/06/2014,0,3,Home,"",-,150
+2015,Worcester St.,809,SUNY Cortland,168,01/08/2015,0,5,Home,"",-,0
+2015,Worcester St.,809,UMass Dartmouth,656,01/09/2015,3,2,Home,"",-,0
+2015,Worcester St.,809,Fitchburg St.,227,01/17/2015,3,6,Away,"",-,0
+2015,Worcester St.,809,Framingham St.,238,01/22/2015,2,3,Away,"",-,0
+2015,Worcester St.,809,Plymouth St.,548,01/25/2015,2,3,Home,"",-,0
+2015,Worcester St.,809,Salem St.,621,01/31/2015,1,2,Away,"",-,0
+2015,Worcester St.,809,UMass Dartmouth,656,02/05/2015,4,0,Away,"",-,0
+2015,Worcester St.,809,Westfield St.,777,02/10/2015,2,3,Home,"",-,0
+2015,Worcester St.,809,Fitchburg St.,227,02/12/2015,2,3,Home,"",-,0
+2015,Worcester St.,809,Assumption,36,02/17/2015,5,3,Away,"",-,0
+2015,Worcester St.,809,Plymouth St.,548,02/19/2015,6,3,Away,"",-,0
+2015,Worcester St.,809,Westfield St.,777,02/21/2015,5,4,Away,"",-,0
+2015,Worcester St.,809,Salem St.,621,02/24/2015,4,3,Home,"",-,0
+2015,Worcester St.,809,Framingham St.,238,02/26/2015,6,2,Home,"",-,0
+2015,Worcester St.,809,Westfield St.,777,02/28/2015,3,6,Away,"",-,0

@@ -1,0 +1,132 @@
+year,team_id,team_name,wins,losses,ties,total_games
+2014,4,Adrian,22,3,4,29
+2014,721,Air Force,21,14,4,39
+2014,10,Ala.-Huntsville,2,35,1,38
+2014,11,Alas. Anchorage,18,16,4,38
+2014,12,Alas. Fairbanks,18,15,4,37
+2014,22,American Int'l,10,25,1,36
+2014,24,Amherst,16,8,3,27
+2014,725,Army,6,28,0,34
+2014,38,Augsburg,13,9,3,25
+2014,45,Babson,22,5,2,29
+2014,26107,Becker,3,18,3,24
+2014,54,Bemidji St.,10,21,7,38
+2014,56,Bentley,19,14,4,37
+2014,60,Bethel (MN),3,20,2,25
+2014,67,Boston College,28,8,4,40
+2014,68,Boston U.,10,21,4,35
+2014,69,Bowdoin,17,9,2,28
+2014,71,Bowling Green,18,15,6,39
+2014,78,Brockport,10,13,3,26
+2014,80,Brown,11,17,3,31
+2014,85,Buffalo St.,10,12,5,27
+2014,116,Canisius,17,21,3,41
+2014,123,Castleton,13,11,3,27
+2014,146,Clarkson,21,17,4,42
+2014,151,Colby,11,11,3,25
+2014,153,Colgate,20,14,5,39
+2014,154,Colorado Col.,7,24,6,37
+2014,1036,Concordia Wisconsin,10,13,4,27
+2014,161,Concordia-M'head,12,9,5,26
+2014,163,Connecticut Col.,9,14,2,25
+2014,167,Cornell,17,10,5,32
+2014,170,Curry,11,14,2,27
+2014,172,Dartmouth,10,20,4,34
+2014,183,Denver,20,16,6,42
+2014,213,Elmira,16,10,1,27
+2014,224,Ferris St.,29,11,3,43
+2014,30032,Finlandia,3,20,1,24
+2014,227,Fitchburg St.,11,14,1,26
+2014,238,Framingham St.,11,11,4,26
+2014,242,Fredonia,7,13,6,26
+2014,266,Gust. Adolphus,16,7,4,27
+2014,267,Hamilton,5,15,3,23
+2014,268,Hamline,2,22,1,25
+2014,275,Harvard,10,17,4,31
+2014,282,Hobart,14,9,4,27
+2014,285,Holy Cross,14,22,3,39
+2014,22626,Johnson & Wales (RI),18,8,1,27
+2014,344,Lake Forest,15,12,1,28
+2014,345,Lake Superior St.,16,19,1,36
+2014,348,Lawrence,6,19,2,27
+2014,380,Maine,16,15,4,35
+2014,382,Manhattanville,13,12,2,27
+2014,1196,Marian (WI),12,13,2,27
+2014,400,Massachusetts,8,22,4,34
+2014,408,Mercyhurst,21,13,7,41
+2014,410,Merrimack,8,22,3,33
+2014,414,Miami (OH),15,20,3,38
+2014,418,Michigan,18,13,4,35
+2014,416,Michigan St.,11,18,7,36
+2014,417,Michigan Tech,14,19,7,40
+2014,420,Middlebury,11,11,3,25
+2014,427,Minn. Duluth,16,16,4,36
+2014,383,Minn. St. Mankato,26,14,1,41
+2014,428,Minnesota,28,7,6,41
+2014,30067,Morrisville St.,5,17,2,24
+2014,20220,MSOE,7,19,1,27
+2014,461,Nazareth,8,16,2,26
+2014,1254,Neumann,9,12,5,26
+2014,467,New England Col.,14,10,1,25
+2014,469,New Hampshire,22,18,1,41
+2014,482,Niagara,15,20,5,40
+2014,484,Nichols,18,7,3,28
+2014,494,North Dakota,25,14,3,42
+2014,500,Northeastern,19,14,4,37
+2014,506,Northern Mich.,15,21,2,38
+2014,1267,Northland,4,21,0,25
+2014,511,Norwich,20,7,3,30
+2014,513,Notre Dame,23,15,2,40
+2014,518,Ohio St.,18,14,5,37
+2014,464,Omaha,17,18,2,37
+2014,530,Oswego St.,22,7,2,31
+2014,539,Penn St.,8,26,2,36
+2014,547,Plattsburgh St.,19,5,2,26
+2014,548,Plymouth St.,14,11,2,27
+2014,554,Princeton,6,26,0,32
+2014,556,Providence,22,11,6,39
+2014,562,Quinnipiac,24,10,6,40
+2014,570,Rensselaer,15,16,6,37
+2014,579,Robert Morris,19,18,5,42
+2014,580,Rochester Inst.,12,20,5,37
+2014,590,Sacred Heart,12,24,0,36
+2014,602,Saint John's (MN),16,10,0,26
+2014,612,Saint Mary's (MN),10,14,1,25
+2014,621,Salem St.,16,10,2,28
+2014,623,Salve Regina,11,15,0,26
+2014,642,Skidmore,7,12,7,26
+2014,662,Southern Me.,6,15,5,26
+2014,598,St. Cloud St.,22,11,5,38
+2014,607,St. Lawrence,15,19,4,38
+2014,614,St. Norbert,28,3,1,32
+2014,615,St. Olaf,12,11,4,27
+2014,618,St. Scholastica,16,9,4,29
+2014,620,St. Thomas (MN),21,5,2,28
+2014,684,Suffolk,9,15,1,25
+2014,168,SUNY Cortland,5,16,3,24
+2014,247,SUNY Geneseo,23,7,0,30
+2014,552,SUNY Potsdam,9,14,2,25
+2014,713,Trinity (CT),21,5,0,26
+2014,717,Tufts,4,19,1,24
+2014,1255,U New England,10,15,1,26
+2014,164,UConn,18,14,4,36
+2014,401,UMass Boston,17,6,4,27
+2014,656,UMass Dartmouth,5,18,2,25
+2014,368,UMass Lowell,26,11,4,41
+2014,727,Union (NY),32,6,4,42
+2014,733,Utica,16,7,4,27
+2014,738,Vermont,20,15,3,38
+2014,762,Wentworth,12,13,2,27
+2014,764,Wesleyan (CT),11,12,2,25
+2014,774,Western Mich.,19,16,5,40
+2014,775,Western New Eng.,10,14,1,25
+2014,777,Westfield St.,12,14,1,27
+2014,789,Williams,15,8,3,26
+2014,793,Wis.-Eau Claire,19,8,1,28
+2014,801,Wis.-River Falls,15,9,3,27
+2014,802,Wis.-Stevens Point,22,6,2,30
+2014,803,Wis.-Stout,8,18,0,26
+2014,804,Wis.-Superior,11,15,3,29
+2014,796,Wisconsin,24,11,2,37
+2014,809,Worcester St.,9,15,1,25
+2014,813,Yale,17,11,5,33

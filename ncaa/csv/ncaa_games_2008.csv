@@ -169,42 +169,42 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2008,Alas. Fairbanks,12,Neb. Omaha,464,03/06/2008,3,4,Away,"",-,"4,034"
 2008,Alas. Fairbanks,12,Neb. Omaha,464,03/08/2008,5,3,Away,"",-,"6,097"
 2008,Alas. Fairbanks,12,Neb. Omaha,464,03/09/2008,1,2,Away,"",3 OT,"3,405"
-2008,American Intl,22,Connecticut,164,10/19/2007,2,4,Away,"",-,859
-2008,American Intl,22,Quinnipiac,562,10/30/2007,2,3,Away,"",-,"2,560"
-2008,American Intl,22,Bentley,56,11/02/2007,1,1,Away,"",1 OT,402
-2008,American Intl,22,Bentley,56,11/03/2007,1,5,Home,"",-,145
-2008,American Intl,22,Army,725,11/09/2007,3,4,Home,"",-,113
-2008,American Intl,22,Army,725,11/10/2007,1,7,Away,"",-,"1,672"
-2008,American Intl,22,Canisius,116,11/16/2007,3,1,Home,"",-,144
-2008,American Intl,22,Canisius,116,11/17/2007,4,2,Home,"",-,127
-2008,American Intl,22,Rensselaer,570,11/23/2007,1,1,Away,"",1 OT,"2,626"
-2008,American Intl,22,Ala.-Huntsville,10,11/24/2007,3,5,Neutral,"Troy, N.Y.",-,0
-2008,American Intl,22,Air Force,721,11/30/2007,3,6,Home,"",-,187
-2008,American Intl,22,Air Force,721,12/01/2007,2,4,Home,"",-,168
-2008,American Intl,22,Connecticut,164,12/04/2007,4,1,Home,"",-,162
-2008,American Intl,22,Rochester Inst.,580,12/07/2007,4,1,Home,"",-,170
-2008,American Intl,22,Rochester Inst.,580,12/08/2007,0,5,Home,"",-,151
-2008,American Intl,22,Mercyhurst,408,12/14/2007,4,5,Away,"",-,583
-2008,American Intl,22,Mercyhurst,408,12/15/2007,1,2,Away,"",-,456
-2008,American Intl,22,Robert Morris,579,01/04/2008,2,10,Home,"",-,140
-2008,American Intl,22,Robert Morris,579,01/05/2008,3,6,Home,"",-,105
-2008,American Intl,22,Holy Cross,285,01/08/2008,3,2,Home,"",-,188
-2008,American Intl,22,Sacred Heart,590,01/11/2008,4,5,Away,"",1 OT,256
-2008,American Intl,22,Sacred Heart,590,01/12/2008,2,2,Away,"",1 OT,284
-2008,American Intl,22,Holy Cross,285,01/15/2008,3,5,Home,"",-,150
-2008,American Intl,22,Dartmouth,172,01/27/2008,3,3,Away,"",1 OT,"2,324"
-2008,American Intl,22,Rochester Inst.,580,02/01/2008,3,1,Away,"",-,"1,701"
-2008,American Intl,22,Rochester Inst.,580,02/02/2008,2,5,Away,"",-,"1,720"
-2008,American Intl,22,Bentley,56,02/08/2008,5,2,Home,"",-,256
-2008,American Intl,22,Bentley,56,02/09/2008,6,5,Away,"",-,410
-2008,American Intl,22,Army,725,02/15/2008,0,4,Away,"",-,"2,489"
-2008,American Intl,22,Army,725,02/16/2008,0,4,Home,"",-,217
-2008,American Intl,22,Connecticut,164,02/22/2008,2,4,Away,"",-,583
-2008,American Intl,22,Connecticut,164,02/23/2008,2,4,Home,"",-,350
-2008,American Intl,22,Air Force,721,02/29/2008,2,2,Away,"",1 OT,"1,722"
-2008,American Intl,22,Air Force,721,03/01/2008,0,5,Away,"",-,"1,774"
-2008,American Intl,22,Army,725,03/07/2008,0,4,Away,"",-,"1,262"
-2008,American Intl,22,Army,725,03/08/2008,2,5,Away,"",-,"1,036"
+2008,American Int'l,22,Connecticut,164,10/19/2007,2,4,Away,"",-,859
+2008,American Int'l,22,Quinnipiac,562,10/30/2007,2,3,Away,"",-,"2,560"
+2008,American Int'l,22,Bentley,56,11/02/2007,1,1,Away,"",1 OT,402
+2008,American Int'l,22,Bentley,56,11/03/2007,1,5,Home,"",-,145
+2008,American Int'l,22,Army,725,11/09/2007,3,4,Home,"",-,113
+2008,American Int'l,22,Army,725,11/10/2007,1,7,Away,"",-,"1,672"
+2008,American Int'l,22,Canisius,116,11/16/2007,3,1,Home,"",-,144
+2008,American Int'l,22,Canisius,116,11/17/2007,4,2,Home,"",-,127
+2008,American Int'l,22,Rensselaer,570,11/23/2007,1,1,Away,"",1 OT,"2,626"
+2008,American Int'l,22,Ala.-Huntsville,10,11/24/2007,3,5,Neutral,"Troy, N.Y.",-,0
+2008,American Int'l,22,Air Force,721,11/30/2007,3,6,Home,"",-,187
+2008,American Int'l,22,Air Force,721,12/01/2007,2,4,Home,"",-,168
+2008,American Int'l,22,Connecticut,164,12/04/2007,4,1,Home,"",-,162
+2008,American Int'l,22,Rochester Inst.,580,12/07/2007,4,1,Home,"",-,170
+2008,American Int'l,22,Rochester Inst.,580,12/08/2007,0,5,Home,"",-,151
+2008,American Int'l,22,Mercyhurst,408,12/14/2007,4,5,Away,"",-,583
+2008,American Int'l,22,Mercyhurst,408,12/15/2007,1,2,Away,"",-,456
+2008,American Int'l,22,Robert Morris,579,01/04/2008,2,10,Home,"",-,140
+2008,American Int'l,22,Robert Morris,579,01/05/2008,3,6,Home,"",-,105
+2008,American Int'l,22,Holy Cross,285,01/08/2008,3,2,Home,"",-,188
+2008,American Int'l,22,Sacred Heart,590,01/11/2008,4,5,Away,"",1 OT,256
+2008,American Int'l,22,Sacred Heart,590,01/12/2008,2,2,Away,"",1 OT,284
+2008,American Int'l,22,Holy Cross,285,01/15/2008,3,5,Home,"",-,150
+2008,American Int'l,22,Dartmouth,172,01/27/2008,3,3,Away,"",1 OT,"2,324"
+2008,American Int'l,22,Rochester Inst.,580,02/01/2008,3,1,Away,"",-,"1,701"
+2008,American Int'l,22,Rochester Inst.,580,02/02/2008,2,5,Away,"",-,"1,720"
+2008,American Int'l,22,Bentley,56,02/08/2008,5,2,Home,"",-,256
+2008,American Int'l,22,Bentley,56,02/09/2008,6,5,Away,"",-,410
+2008,American Int'l,22,Army,725,02/15/2008,0,4,Away,"",-,"2,489"
+2008,American Int'l,22,Army,725,02/16/2008,0,4,Home,"",-,217
+2008,American Int'l,22,Connecticut,164,02/22/2008,2,4,Away,"",-,583
+2008,American Int'l,22,Connecticut,164,02/23/2008,2,4,Home,"",-,350
+2008,American Int'l,22,Air Force,721,02/29/2008,2,2,Away,"",1 OT,"1,722"
+2008,American Int'l,22,Air Force,721,03/01/2008,0,5,Away,"",-,"1,774"
+2008,American Int'l,22,Army,725,03/07/2008,0,4,Away,"",-,"1,262"
+2008,American Int'l,22,Army,725,03/08/2008,2,5,Away,"",-,"1,036"
 2008,Amherst,24,Trinity (CT),713,11/16/2007,4,1,Home,"",-,100
 2008,Amherst,24,Wesleyan (CT),764,11/17/2007,4,0,Home,"",-,100
 2008,Amherst,24,Connecticut Col.,163,11/24/2007,4,1,Neutral,Trinity (Conn.),-,75
@@ -881,68 +881,31 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2008,Colorado Col.,154,Minnesota,428,03/21/2008,1,2,Neutral,"St. Paul, MN",1 OT,"16,967"
 2008,Colorado Col.,154,North Dakota,494,03/22/2008,2,4,Neutral,"St. Paul, MN",-,"15,981"
 2008,Colorado Col.,154,Michigan St.,416,03/28/2008,1,3,Home,"",-,"6,287"
-2008,Concordia-Mhead,161,Wis.-Eau Claire,793,11/02/2007,2,1,Away,"",-,357
-2008,Concordia-Mhead,161,Wis.-Stevens Point,802,11/03/2007,2,4,Away,"",-,"1,350"
-2008,Concordia-Mhead,161,Lake Forest,344,11/09/2007,4,5,Home,"",-,167
-2008,Concordia-Mhead,161,St. Norbert,614,11/10/2007,1,3,Home,"",-,132
-2008,Concordia-Mhead,161,Minn.-Crookston,27854,11/27/2007,1,6,Away,"",-,437
-2008,Concordia-Mhead,161,Hamline,268,11/30/2007,3,8,Away,"",-,171
-2008,Concordia-Mhead,161,Hamline,268,12/01/2007,1,4,Away,"",-,107
-2008,Concordia-Mhead,161,Saint Mary's (MN),612,12/07/2007,3,14,Home,"",-,130
-2008,Concordia-Mhead,161,Saint Mary's (MN),612,12/08/2007,2,7,Home,"",-,103
-2008,Concordia-Mhead,161,Saint Michael's,613,12/29/2007,2,3,Away,"",-,175
-2008,Concordia-Mhead,161,Neumann,1254,12/30/2007,3,6,Neutral,"Burlington, VT",-,75
-2008,Concordia-Mhead,161,Wis.-River Falls,801,01/11/2008,0,9,Away,"",-,540
-2008,Concordia-Mhead,161,Wis.-Stout,803,01/13/2008,0,4,Home,"",-,127
-2008,Concordia-Mhead,161,St. Olaf,615,01/18/2008,3,3,Away,"",1 OT,152
-2008,Concordia-Mhead,161,St. Olaf,615,01/19/2008,2,9,Away,"",-,168
-2008,Concordia-Mhead,161,Bethel (MN),60,01/25/2008,1,3,Home,"",-,107
-2008,Concordia-Mhead,161,Bethel (MN),60,01/26/2008,2,5,Home,"",-,214
-2008,Concordia-Mhead,161,St. Thomas (MN),620,02/01/2008,2,8,Home,"",-,126
-2008,Concordia-Mhead,161,St. Thomas (MN),620,02/02/2008,2,4,Home,"",-,145
-2008,Concordia-Mhead,161,Augsburg,38,02/08/2008,3,6,Home,"",-,205
-2008,Concordia-Mhead,161,Augsburg,38,02/09/2008,5,6,Home,"",-,105
-2008,Concordia-Mhead,161,Saint John's (MN),602,02/16/2008,2,4,Away,"",-,385
-2008,Concordia-Mhead,161,Saint John's (MN),602,02/17/2008,1,7,Away,"",-,274
-2008,Concordia-Mhead,161,Gust. Adolphus,266,02/22/2008,1,6,Away,"",-,571
-2008,Concordia-Mhead,161,Gust. Adolphus,266,02/23/2008,1,10,Away,"",-,387
-2008,Connecticut,164,American Int'l,22,10/19/2007,4,2,Home,"",-,859
-2008,Connecticut,164,Massachusetts,400,10/20/2007,3,4,Away,"",-,"3,624"
-2008,Connecticut,164,Army,725,10/27/2007,1,4,Home,"",-,589
-2008,Connecticut,164,Sacred Heart,590,11/02/2007,2,4,Away,"",-,651
-2008,Connecticut,164,Sacred Heart,590,11/03/2007,0,5,Home,"",-,849
-2008,Connecticut,164,Bentley,56,11/09/2007,2,4,Home,"",-,866
-2008,Connecticut,164,Bentley,56,11/10/2007,3,2,Away,"",1 OT,515
-2008,Connecticut,164,Air Force,721,11/16/2007,2,3,Away,"",-,"1,538"
-2008,Connecticut,164,Air Force,721,11/17/2007,3,2,Away,"",1 OT,"2,136"
-2008,Connecticut,164,Colgate,153,11/23/2007,1,7,Away,"",-,"1,850"
-2008,Connecticut,164,Colgate,153,11/24/2007,2,1,Away,"",1 OT,"1,862"
-2008,Connecticut,164,Holy Cross,285,11/30/2007,1,4,Home,"",-,"1,203"
-2008,Connecticut,164,Holy Cross,285,12/01/2007,3,3,Away,"",1 OT,881
-2008,Connecticut,164,American Int'l,22,12/04/2007,1,4,Away,"",-,162
-2008,Connecticut,164,Army,725,12/29/2007,4,1,Home,"",-,"1,103"
-2008,Connecticut,164,Ferris St.,224,12/30/2007,0,5,Home,"",-,958
-2008,Connecticut,164,Yale,813,01/02/2008,1,9,Away,"",-,"2,277"
-2008,Connecticut,164,Union (NY),727,01/04/2008,1,4,Away,"",-,"1,189"
-2008,Connecticut,164,Canisius,116,01/11/2008,3,1,Away,"",-,626
-2008,Connecticut,164,Canisius,116,01/12/2008,0,4,Away,"",-,659
-2008,Connecticut,164,Mercyhurst,408,01/18/2008,3,3,Home,"",1 OT,820
-2008,Connecticut,164,Mercyhurst,408,01/19/2008,3,2,Home,"",-,997
-2008,Connecticut,164,Rochester Inst.,580,01/25/2008,3,0,Home,"",-,870
-2008,Connecticut,164,Rochester Inst.,580,01/26/2008,1,1,Home,"",1 OT,"1,093"
-2008,Connecticut,164,Army,725,02/01/2008,1,3,Away,"",-,"1,608"
-2008,Connecticut,164,Army,725,02/02/2008,0,6,Away,"",-,"2,298"
-2008,Connecticut,164,Sacred Heart,590,02/08/2008,4,6,Home,"",-,920
-2008,Connecticut,164,Sacred Heart,590,02/09/2008,0,4,Away,"",-,523
-2008,Connecticut,164,Bentley,56,02/15/2008,0,6,Away,"",-,435
-2008,Connecticut,164,Bentley,56,02/16/2008,3,4,Home,"",1 OT,865
-2008,Connecticut,164,American Int'l,22,02/22/2008,4,2,Home,"",-,583
-2008,Connecticut,164,American Int'l,22,02/23/2008,4,2,Away,"",-,350
-2008,Connecticut,164,Holy Cross,285,02/29/2008,3,0,Away,"",-,655
-2008,Connecticut,164,Holy Cross,285,03/01/2008,4,2,Home,"",-,897
-2008,Connecticut,164,Sacred Heart,590,03/07/2008,5,6,Away,"",-,343
-2008,Connecticut,164,Sacred Heart,590,03/08/2008,3,2,Away,"",1 OT,331
-2008,Connecticut,164,Sacred Heart,590,03/09/2008,1,4,Away,"",-,348
+2008,Concordia-M'head,161,Wis.-Eau Claire,793,11/02/2007,2,1,Away,"",-,357
+2008,Concordia-M'head,161,Wis.-Stevens Point,802,11/03/2007,2,4,Away,"",-,"1,350"
+2008,Concordia-M'head,161,Lake Forest,344,11/09/2007,4,5,Home,"",-,167
+2008,Concordia-M'head,161,St. Norbert,614,11/10/2007,1,3,Home,"",-,132
+2008,Concordia-M'head,161,Minn.-Crookston,27854,11/27/2007,1,6,Away,"",-,437
+2008,Concordia-M'head,161,Hamline,268,11/30/2007,3,8,Away,"",-,171
+2008,Concordia-M'head,161,Hamline,268,12/01/2007,1,4,Away,"",-,107
+2008,Concordia-M'head,161,Saint Mary's (MN),612,12/07/2007,3,14,Home,"",-,130
+2008,Concordia-M'head,161,Saint Mary's (MN),612,12/08/2007,2,7,Home,"",-,103
+2008,Concordia-M'head,161,Saint Michael's,613,12/29/2007,2,3,Away,"",-,175
+2008,Concordia-M'head,161,Neumann,1254,12/30/2007,3,6,Neutral,"Burlington, VT",-,75
+2008,Concordia-M'head,161,Wis.-River Falls,801,01/11/2008,0,9,Away,"",-,540
+2008,Concordia-M'head,161,Wis.-Stout,803,01/13/2008,0,4,Home,"",-,127
+2008,Concordia-M'head,161,St. Olaf,615,01/18/2008,3,3,Away,"",1 OT,152
+2008,Concordia-M'head,161,St. Olaf,615,01/19/2008,2,9,Away,"",-,168
+2008,Concordia-M'head,161,Bethel (MN),60,01/25/2008,1,3,Home,"",-,107
+2008,Concordia-M'head,161,Bethel (MN),60,01/26/2008,2,5,Home,"",-,214
+2008,Concordia-M'head,161,St. Thomas (MN),620,02/01/2008,2,8,Home,"",-,126
+2008,Concordia-M'head,161,St. Thomas (MN),620,02/02/2008,2,4,Home,"",-,145
+2008,Concordia-M'head,161,Augsburg,38,02/08/2008,3,6,Home,"",-,205
+2008,Concordia-M'head,161,Augsburg,38,02/09/2008,5,6,Home,"",-,105
+2008,Concordia-M'head,161,Saint John's (MN),602,02/16/2008,2,4,Away,"",-,385
+2008,Concordia-M'head,161,Saint John's (MN),602,02/17/2008,1,7,Away,"",-,274
+2008,Concordia-M'head,161,Gust. Adolphus,266,02/22/2008,1,6,Away,"",-,571
+2008,Concordia-M'head,161,Gust. Adolphus,266,02/23/2008,1,10,Away,"",-,387
 2008,Connecticut Col.,163,Middlebury,420,11/16/2007,2,2,Home,"",1 OT,400
 2008,Connecticut Col.,163,Williams,789,11/17/2007,5,2,Home,"",-,350
 2008,Connecticut Col.,163,Wentworth Inst.,762,11/20/2007,1,3,Home,"",-,225
@@ -1252,33 +1215,33 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2008,Framingham St.,238,Western New Eng.,775,02/14/2008,3,4,Home,"",-,175
 2008,Framingham St.,238,Mass.-Dartmouth,656,02/16/2008,2,7,Away,"",-,229
 2008,Framingham St.,238,Wentworth Inst.,762,02/23/2008,1,5,Away,"",-,300
-2008,Fredonia St.,242,SUNY Cortland,168,10/19/2007,5,2,Neutral,"Buffalo, NY",-,179
-2008,Fredonia St.,242,Manhattanville,382,10/20/2007,2,2,Neutral,"Buffalo, NY",1 OT,265
-2008,Fredonia St.,242,Utica,733,10/26/2007,1,2,Home,"",1 OT,714
-2008,Fredonia St.,242,Utica,733,10/27/2007,4,3,Home,"",-,660
-2008,Fredonia St.,242,Brockport,78,11/02/2007,3,2,Away,"",-,500
-2008,Fredonia St.,242,SUNY Geneseo,247,11/03/2007,3,4,Away,"",-,"1,975"
-2008,Fredonia St.,242,SUNY Potsdam,552,11/09/2007,3,3,Home,"",1 OT,888
-2008,Fredonia St.,242,Plattsburgh St.,547,11/10/2007,0,3,Home,"",-,979
-2008,Fredonia St.,242,Buffalo St.,85,11/16/2007,4,3,Home,"",-,482
-2008,Fredonia St.,242,SUNY Cortland,168,11/30/2007,6,2,Away,"",-,402
-2008,Fredonia St.,242,Oswego St.,530,12/01/2007,3,3,Away,"",1 OT,"1,981"
-2008,Fredonia St.,242,Neumann,1254,12/07/2007,3,6,Away,"",-,378
-2008,Fredonia St.,242,Neumann,1254,12/08/2007,2,7,Away,"",-,96
-2008,Fredonia St.,242,Wentworth Inst.,762,01/05/2008,8,1,Home,"",-,215
-2008,Fredonia St.,242,Wentworth Inst.,762,01/06/2008,7,2,Home,"",-,392
-2008,Fredonia St.,242,Morrisville St.,30067,01/11/2008,3,1,Away,"",-,200
-2008,Fredonia St.,242,Morrisville St.,30067,01/12/2008,3,2,Away,"",-,350
-2008,Fredonia St.,242,Manhattanville,382,01/18/2008,1,3,Home,"",-,328
-2008,Fredonia St.,242,Brockport,78,01/25/2008,4,3,Home,"",-,357
-2008,Fredonia St.,242,SUNY Geneseo,247,01/26/2008,3,4,Home,"",-,"1,024"
-2008,Fredonia St.,242,SUNY Potsdam,552,02/01/2008,3,2,Away,"",-,275
-2008,Fredonia St.,242,Plattsburgh St.,547,02/02/2008,3,1,Away,"",-,"1,734"
-2008,Fredonia St.,242,SUNY Cortland,168,02/08/2008,8,2,Home,"",-,"1,024"
-2008,Fredonia St.,242,Oswego St.,530,02/09/2008,1,4,Home,"",-,"1,024"
-2008,Fredonia St.,242,Buffalo St.,85,02/15/2008,2,1,Away,"",1 OT,415
-2008,Fredonia St.,242,Buffalo St.,85,02/19/2008,4,2,Home,"",-,567
-2008,Fredonia St.,242,Oswego St.,530,02/23/2008,1,4,Away,"",-,"2,458"
+2008,Fredonia,242,SUNY Cortland,168,10/19/2007,5,2,Neutral,"Buffalo, NY",-,179
+2008,Fredonia,242,Manhattanville,382,10/20/2007,2,2,Neutral,"Buffalo, NY",1 OT,265
+2008,Fredonia,242,Utica,733,10/26/2007,1,2,Home,"",1 OT,714
+2008,Fredonia,242,Utica,733,10/27/2007,4,3,Home,"",-,660
+2008,Fredonia,242,Brockport,78,11/02/2007,3,2,Away,"",-,500
+2008,Fredonia,242,SUNY Geneseo,247,11/03/2007,3,4,Away,"",-,"1,975"
+2008,Fredonia,242,SUNY Potsdam,552,11/09/2007,3,3,Home,"",1 OT,888
+2008,Fredonia,242,Plattsburgh St.,547,11/10/2007,0,3,Home,"",-,979
+2008,Fredonia,242,Buffalo St.,85,11/16/2007,4,3,Home,"",-,482
+2008,Fredonia,242,SUNY Cortland,168,11/30/2007,6,2,Away,"",-,402
+2008,Fredonia,242,Oswego St.,530,12/01/2007,3,3,Away,"",1 OT,"1,981"
+2008,Fredonia,242,Neumann,1254,12/07/2007,3,6,Away,"",-,378
+2008,Fredonia,242,Neumann,1254,12/08/2007,2,7,Away,"",-,96
+2008,Fredonia,242,Wentworth Inst.,762,01/05/2008,8,1,Home,"",-,215
+2008,Fredonia,242,Wentworth Inst.,762,01/06/2008,7,2,Home,"",-,392
+2008,Fredonia,242,Morrisville St.,30067,01/11/2008,3,1,Away,"",-,200
+2008,Fredonia,242,Morrisville St.,30067,01/12/2008,3,2,Away,"",-,350
+2008,Fredonia,242,Manhattanville,382,01/18/2008,1,3,Home,"",-,328
+2008,Fredonia,242,Brockport,78,01/25/2008,4,3,Home,"",-,357
+2008,Fredonia,242,SUNY Geneseo,247,01/26/2008,3,4,Home,"",-,"1,024"
+2008,Fredonia,242,SUNY Potsdam,552,02/01/2008,3,2,Away,"",-,275
+2008,Fredonia,242,Plattsburgh St.,547,02/02/2008,3,1,Away,"",-,"1,734"
+2008,Fredonia,242,SUNY Cortland,168,02/08/2008,8,2,Home,"",-,"1,024"
+2008,Fredonia,242,Oswego St.,530,02/09/2008,1,4,Home,"",-,"1,024"
+2008,Fredonia,242,Buffalo St.,85,02/15/2008,2,1,Away,"",1 OT,415
+2008,Fredonia,242,Buffalo St.,85,02/19/2008,4,2,Home,"",-,567
+2008,Fredonia,242,Oswego St.,530,02/23/2008,1,4,Away,"",-,"2,458"
 2008,Gust. Adolphus,266,Lake Forest,344,11/02/2007,7,0,Away,"",-,250
 2008,Gust. Adolphus,266,St. Norbert,614,11/03/2007,4,2,Away,"",-,"1,024"
 2008,Gust. Adolphus,266,Wis.-River Falls,801,11/09/2007,5,6,Away,"",-,982
@@ -1685,98 +1648,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2008,Marian (WI),1196,Minn.-Crookston,27854,02/22/2008,3,2,Home,"",1 OT,175
 2008,Marian (WI),1196,Minn.-Crookston,27854,02/23/2008,3,1,Home,"",-,197
 2008,Marian (WI),1196,Finlandia,30032,03/01/2008,2,4,Neutral,"Milwaukee, Wisconsin",-,575
-2008,Mass.-Boston,401,Colby,151,11/16/2007,3,4,Home,"",-,325
-2008,Mass.-Boston,401,Bowdoin,69,11/17/2007,1,5,Home,"",-,200
-2008,Mass.-Boston,401,Southern N.H.,468,11/24/2007,5,8,Neutral,"Hooksett, NH",-,267
-2008,Mass.-Boston,401,Suffolk,684,11/25/2007,2,1,Neutral,"Hooksett, NH",-,165
-2008,Mass.-Boston,401,Framingham St.,238,11/27/2007,3,1,Away,"",-,100
-2008,Mass.-Boston,401,Wesleyan (CT),764,11/30/2007,8,4,Away,"",-,250
-2008,Mass.-Boston,401,Trinity (CT),713,12/01/2007,0,8,Away,"",-,200
-2008,Mass.-Boston,401,Babson,45,12/05/2007,1,1,Home,"",1 OT,315
-2008,Mass.-Boston,401,Suffolk,684,12/28/2007,5,4,Home,"",-,191
-2008,Mass.-Boston,401,Fitchburg St.,227,12/29/2007,5,4,Home,"",1 OT,166
-2008,Mass.-Boston,401,Amherst,24,01/11/2008,2,3,Away,"",-,200
-2008,Mass.-Boston,401,Hamilton,267,01/12/2008,4,2,Away,"",-,228
-2008,Mass.-Boston,401,Saint Michael's,613,01/18/2008,3,1,Home,"",-,148
-2008,Mass.-Boston,401,Norwich,511,01/19/2008,2,3,Home,"",1 OT,309
-2008,Mass.-Boston,401,Mass.-Dartmouth,656,01/22/2008,3,2,Away,"",-,141
-2008,Mass.-Boston,401,Salem St.,621,01/25/2008,1,4,Away,"",-,250
-2008,Mass.-Boston,401,Southern Me.,662,01/26/2008,3,6,Away,"",-,160
-2008,Mass.-Boston,401,Skidmore,642,02/01/2008,3,5,Home,"",-,272
-2008,Mass.-Boston,401,Castleton,123,02/02/2008,3,4,Home,"",-,112
-2008,Mass.-Boston,401,New England Col.,467,02/08/2008,2,5,Away,"",-,275
-2008,Mass.-Boston,401,St. Anselm,593,02/09/2008,2,3,Away,"",-,389
-2008,Mass.-Boston,401,Williams,789,02/15/2008,2,2,Home,"",1 OT,173
-2008,Mass.-Boston,401,Middlebury,420,02/16/2008,4,3,Home,"",-,227
-2008,Mass.-Boston,401,Tufts,717,02/22/2008,13,5,Away,"",-,150
-2008,Mass.-Boston,401,Connecticut Col.,163,02/23/2008,1,6,Away,"",-,367
-2008,Mass.-Boston,401,Babson,45,03/01/2008,4,1,Away,"",-,900
-2008,Mass.-Boston,401,Norwich,511,03/08/2008,2,5,Away,"",-,"2,150"
-2008,Mass.-Dartmouth,656,Becker,26107,11/10/2007,5,0,Away,"",-,132
-2008,Mass.-Dartmouth,656,Stonehill,682,11/14/2007,7,1,Away,"",-,200
-2008,Mass.-Dartmouth,656,Plymouth St.,548,11/17/2007,5,2,Home,"",-,"1,255"
-2008,Mass.-Dartmouth,656,Babson,45,11/20/2007,1,3,Home,"",-,693
-2008,Mass.-Dartmouth,656,Fitchburg St.,227,11/28/2007,3,2,Away,"",-,350
-2008,Mass.-Dartmouth,656,Curry,170,12/01/2007,3,1,Away,"",-,400
-2008,Mass.-Dartmouth,656,Wesleyan (CT),764,12/07/2007,3,5,Away,"",-,250
-2008,Mass.-Dartmouth,656,Connecticut,164,12/11/2007,3,3,Home,"",1 OT,181
-2008,Mass.-Dartmouth,656,Norwich,511,01/04/2008,2,4,Away,"",-,"1,785"
-2008,Mass.-Dartmouth,656,St. Olaf,615,01/05/2008,2,3,Neutral,"Northfield, VT",-,391
-2008,Mass.-Dartmouth,656,Worcester St.,809,01/10/2008,7,1,Home,"",-,161
-2008,Mass.-Dartmouth,656,Assumption,36,01/12/2008,5,1,Away,"",-,115
-2008,Mass.-Dartmouth,656,Salve Regina,623,01/16/2008,3,1,Away,"",-,116
-2008,Mass.-Dartmouth,656,Western New Eng.,775,01/19/2008,2,3,Away,"",-,265
-2008,Mass.-Dartmouth,656,Mass.-Boston,401,01/22/2008,2,3,Home,"",-,141
-2008,Mass.-Dartmouth,656,Southern N.H.,468,01/26/2008,7,0,Home,"",-,205
-2008,Mass.-Dartmouth,656,Suffolk,684,01/30/2008,1,3,Home,"",-,531
-2008,Mass.-Dartmouth,656,Fitchburg St.,227,02/02/2008,6,1,Home,"",-,273
-2008,Mass.-Dartmouth,656,Salve Regina,623,02/06/2008,3,4,Home,"",-,139
-2008,Mass.-Dartmouth,656,Franklin Pierce,241,02/09/2008,4,1,Away,"",-,266
-2008,Mass.-Dartmouth,656,Wentworth Inst.,762,02/13/2008,5,3,Home,"",-,915
-2008,Mass.-Dartmouth,656,Framingham St.,238,02/16/2008,7,2,Home,"",-,229
-2008,Mass.-Dartmouth,656,Johnson & Wales (RI),22626,02/20/2008,5,4,Home,"",-,213
-2008,Mass.-Dartmouth,656,Nichols,484,02/23/2008,3,2,Away,"",-,334
-2008,Mass.-Dartmouth,656,Salve Regina,623,03/01/2008,5,2,Home,"",-,537
-2008,Mass.-Dartmouth,656,Fitchburg St.,227,03/05/2008,5,2,Home,"",-,766
-2008,Mass.-Dartmouth,656,Nichols,484,03/06/2008,5,3,Home,"",-,"1,533"
-2008,Mass.-Dartmouth,656,Trinity (CT),713,03/12/2008,3,7,Home,"",-,"1,542"
-2008,Mass.-Lowell,368,Massachusetts,400,10/19/2007,2,2,Away,"",1 OT,"5,862"
-2008,Mass.-Lowell,368,Ala.-Huntsville,10,10/26/2007,4,1,Home,"",-,"3,245"
-2008,Mass.-Lowell,368,Ala.-Huntsville,10,10/27/2007,3,1,Home,"",-,"1,936"
-2008,Mass.-Lowell,368,Merrimack,410,11/01/2007,1,3,Home,"",-,"2,362"
-2008,Mass.-Lowell,368,Boston U.,68,11/03/2007,4,7,Away,"",-,"5,686"
-2008,Mass.-Lowell,368,New Hampshire,469,11/09/2007,2,2,Away,"",1 OT,"6,501"
-2008,Mass.-Lowell,368,Massachusetts,400,11/10/2007,3,3,Home,"",1 OT,"4,028"
-2008,Mass.-Lowell,368,Providence,556,11/16/2007,2,2,Away,"",1 OT,"2,012"
-2008,Mass.-Lowell,368,Northeastern,500,11/17/2007,1,2,Away,"",-,"2,237"
-2008,Mass.-Lowell,368,Merrimack,410,11/20/2007,3,0,Away,"",-,"1,043"
-2008,Mass.-Lowell,368,Merrimack,410,11/24/2007,6,2,Home,"",-,"2,637"
-2008,Mass.-Lowell,368,New Hampshire,469,11/30/2007,2,3,Away,"",-,"6,501"
-2008,Mass.-Lowell,368,New Hampshire,469,12/01/2007,3,2,Home,"",-,"4,461"
-2008,Mass.-Lowell,368,Boston U.,68,12/07/2007,4,3,Home,"",-,"3,564"
-2008,Mass.-Lowell,368,Bentley,56,12/08/2007,4,1,Home,"",-,"2,673"
-2008,Mass.-Lowell,368,Cornell,167,12/28/2007,3,2,Neutral,"Estero, FL",-,"3,847"
-2008,Mass.-Lowell,368,Maine,380,12/29/2007,6,0,Neutral,"Estero, FL",-,"4,368"
-2008,Mass.-Lowell,368,Providence,556,01/11/2008,3,4,Away,"",1 OT,"1,777"
-2008,Mass.-Lowell,368,Providence,556,01/12/2008,3,2,Home,"",1 OT,"2,071"
-2008,Mass.-Lowell,368,Boston College,67,01/18/2008,4,5,Home,"",-,"5,065"
-2008,Mass.-Lowell,368,Massachusetts,400,01/19/2008,3,1,Home,"",-,"4,115"
-2008,Mass.-Lowell,368,Minn. Duluth,427,01/25/2008,0,1,Home,"",-,"2,684"
-2008,Mass.-Lowell,368,Minn. Duluth,427,01/26/2008,1,4,Home,"",-,"3,259"
-2008,Mass.-Lowell,368,Maine,380,02/01/2008,3,2,Home,"",-,"3,757"
-2008,Mass.-Lowell,368,Vermont,738,02/03/2008,2,3,Away,"",-,"3,703"
-2008,Mass.-Lowell,368,Boston U.,68,02/08/2008,2,6,Home,"",-,"4,074"
-2008,Mass.-Lowell,368,Boston College,67,02/15/2008,3,1,Away,"",-,"4,688"
-2008,Mass.-Lowell,368,Boston College,67,02/16/2008,2,5,Home,"",-,"5,302"
-2008,Mass.-Lowell,368,Vermont,738,02/22/2008,2,3,Home,"",-,"2,591"
-2008,Mass.-Lowell,368,Vermont,738,02/23/2008,0,1,Home,"",-,"2,978"
-2008,Mass.-Lowell,368,Northeastern,500,02/29/2008,5,4,Home,"",1 OT,"3,715"
-2008,Mass.-Lowell,368,Northeastern,500,03/01/2008,3,2,Away,"",-,"2,186"
-2008,Mass.-Lowell,368,Maine,380,03/07/2008,1,4,Away,"",-,"4,896"
-2008,Mass.-Lowell,368,Maine,380,03/08/2008,1,2,Away,"",1 OT,"5,160"
-2008,Mass.-Lowell,368,Boston U.,68,03/14/2008,3,5,Away,"",-,"3,863"
-2008,Mass.-Lowell,368,Boston U.,68,03/15/2008,4,1,Away,"",-,"4,116"
-2008,Mass.-Lowell,368,Boston U.,68,03/16/2008,2,4,Away,"",-,"3,631"
 2008,Massachusetts,400,Clarkson,146,10/12/2007,1,2,Away,"",1 OT,"2,560"
 2008,Massachusetts,400,St. Lawrence,607,10/13/2007,3,1,Away,"",-,"2,240"
 2008,Massachusetts,400,Mass.-Lowell,368,10/19/2007,2,2,Home,"",1 OT,"5,862"
@@ -2081,34 +1952,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2008,Middlebury,420,Williams,789,03/01/2008,6,0,Home,"",-,"2,030"
 2008,Middlebury,420,Amherst,24,03/08/2008,2,1,Neutral,Colby College,-,500
 2008,Middlebury,420,Trinity (CT),713,03/09/2008,2,3,Neutral,Colby College,2 OT,500
-2008,Milwaukee Engr.,20220,St. Norbert,614,01/05/2007,3,6,Away,"",-,"1,635"
-2008,Milwaukee Engr.,20220,Lake Forest,344,10/26/2007,3,2,Home,"",-,792
-2008,Milwaukee Engr.,20220,Lake Forest,344,10/27/2007,3,2,Away,"",1 OT,200
-2008,Milwaukee Engr.,20220,Lawrence,348,11/02/2007,5,6,Away,"",-,448
-2008,Milwaukee Engr.,20220,Lawrence,348,11/03/2007,5,2,Home,"",-,550
-2008,Milwaukee Engr.,20220,Minn.-Crookston,27854,11/09/2007,5,3,Home,"",-,600
-2008,Milwaukee Engr.,20220,Minn.-Crookston,27854,11/10/2007,7,4,Home,"",-,250
-2008,Milwaukee Engr.,20220,Wis.-Superior,804,11/24/2007,0,3,Home,"",-,100
-2008,Milwaukee Engr.,20220,Concordia (WI),1036,11/30/2007,9,3,Away,"",-,362
-2008,Milwaukee Engr.,20220,Concordia (WI),1036,12/01/2007,6,1,Home,"",-,552
-2008,Milwaukee Engr.,20220,Adrian,4,12/07/2007,1,5,Away,"",-,615
-2008,Milwaukee Engr.,20220,Adrian,4,12/08/2007,0,4,Away,"",-,259
-2008,Milwaukee Engr.,20220,St. Norbert,614,01/04/2008,0,6,Home,"",-,467
-2008,Milwaukee Engr.,20220,Marian (WI),1196,01/11/2008,2,3,Away,"",-,168
-2008,Milwaukee Engr.,20220,Marian (WI),1196,01/12/2008,3,4,Home,"",-,400
-2008,Milwaukee Engr.,20220,Northland,1267,01/18/2008,8,2,Away,"",-,104
-2008,Milwaukee Engr.,20220,Northland,1267,01/19/2008,6,3,Away,"",-,150
-2008,Milwaukee Engr.,20220,Finlandia,30032,01/25/2008,6,3,Home,"",-,450
-2008,Milwaukee Engr.,20220,Finlandia,30032,01/26/2008,1,6,Home,"",-,250
-2008,Milwaukee Engr.,20220,Concordia (WI),1036,02/01/2008,4,1,Home,"",-,450
-2008,Milwaukee Engr.,20220,Concordia (WI),1036,02/02/2008,5,4,Away,"",-,110
-2008,Milwaukee Engr.,20220,Adrian,4,02/08/2008,4,7,Home,"",-,150
-2008,Milwaukee Engr.,20220,Adrian,4,02/09/2008,0,5,Home,"",-,250
-2008,Milwaukee Engr.,20220,Marian (WI),1196,02/15/2008,1,4,Home,"",-,350
-2008,Milwaukee Engr.,20220,Marian (WI),1196,02/16/2008,4,3,Away,"",-,205
-2008,Milwaukee Engr.,20220,Lawrence,348,02/23/2008,3,1,Home,"",-,100
-2008,Milwaukee Engr.,20220,Lawrence,348,02/24/2008,4,2,Home,"",-,125
-2008,Milwaukee Engr.,20220,Adrian,4,03/01/2008,3,5,Home,"",-,575
 2008,Minn. Duluth,427,Lake Superior St.,345,10/12/2007,2,2,Home,"",1 OT,"4,014"
 2008,Minn. Duluth,427,Northern Mich.,506,10/13/2007,4,0,Home,"",-,"4,312"
 2008,Minn. Duluth,427,St. Cloud St.,598,10/19/2007,2,1,Home,"",-,"4,809"
@@ -2256,46 +2099,34 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2008,Minnesota,428,Colorado,157,03/21/2008,2,1,Neutral,"St. Paul, Minn.",1 OT,"16,967"
 2008,Minnesota,428,Denver,183,03/22/2008,1,2,Neutral,"St. Paul, Minn.",-,"17,907"
 2008,Minnesota,428,Boston College,67,03/29/2008,2,5,Neutral,"Worcester, Mass.",-,"7,357"
-2008,Neb.-Omaha,464,Ala.-Huntsville,10,10/20/2007,5,1,Home,"",-,"5,541"
-2008,Neb.-Omaha,464,Miami (OH),414,10/26/2007,2,7,Away,"",-,"3,221"
-2008,Neb.-Omaha,464,Miami (OH),414,10/27/2007,2,5,Away,"",-,"2,967"
-2008,Neb.-Omaha,464,Michigan,418,11/02/2007,3,6,Home,"",-,"9,356"
-2008,Neb.-Omaha,464,Michigan,418,11/03/2007,2,3,Home,"",-,"8,047"
-2008,Neb.-Omaha,464,Ohio St.,518,11/08/2007,5,2,Away,"",-,"1,667"
-2008,Neb.-Omaha,464,Ohio St.,518,11/09/2007,5,2,Away,"",-,"3,903"
-2008,Neb.-Omaha,464,Ferris St.,224,11/16/2007,1,5,Home,"",-,"5,720"
-2008,Neb.-Omaha,464,Ferris St.,224,11/18/2007,2,0,Home,"",-,"4,227"
-2008,Neb.-Omaha,464,Alas. Fairbanks,12,11/23/2007,4,3,Home,"",-,"6,022"
-2008,Neb.-Omaha,464,Alas. Fairbanks,12,11/24/2007,4,4,Home,"",1 OT,"5,861"
-2008,Neb.-Omaha,464,Notre Dame,513,11/30/2007,4,5,Away,"",-,"2,626"
-2008,Neb.-Omaha,464,Notre Dame,513,12/01/2007,0,5,Away,"",-,"2,625"
-2008,Neb.-Omaha,464,Lake Superior St.,345,12/07/2007,1,1,Home,"",1 OT,"5,145"
-2008,Neb.-Omaha,464,Lake Superior St.,345,12/08/2007,3,3,Home,"",1 OT,"4,479"
-2008,Neb.-Omaha,464,Union (NY),727,12/14/2007,2,3,Away,"",1 OT,"1,379"
-2008,Neb.-Omaha,464,Union (NY),727,12/15/2007,4,2,Away,"",-,823
-2008,Neb.-Omaha,464,Minn. St. Mankato,383,12/18/2007,6,3,Home,"",-,"3,176"
-2008,Neb.-Omaha,464,Yale,813,12/28/2007,3,6,Home,"",-,"6,702"
-2008,Neb.-Omaha,464,Princeton,554,12/30/2007,3,5,Home,"",-,"6,859"
-2008,Neb.-Omaha,464,Western Mich.,774,01/05/2008,6,3,Away,"",-,"1,986"
-2008,Neb.-Omaha,464,Western Mich.,774,01/06/2008,4,2,Away,"",-,"1,697"
-2008,Neb.-Omaha,464,Miami (OH),414,01/11/2008,3,6,Home,"",-,"7,306"
-2008,Neb.-Omaha,464,Miami (OH),414,01/12/2008,1,4,Home,"",-,"8,932"
-2008,Neb.-Omaha,464,Alas. Fairbanks,12,01/18/2008,3,1,Away,"",-,"3,803"
-2008,Neb.-Omaha,464,Alas. Fairbanks,12,01/19/2008,4,3,Away,"",1 OT,"3,052"
-2008,Neb.-Omaha,464,Michigan St.,416,02/01/2008,5,4,Away,"",1 OT,"5,831"
-2008,Neb.-Omaha,464,Michigan St.,416,02/02/2008,2,4,Away,"",-,"5,775"
-2008,Neb.-Omaha,464,Ohio St.,518,02/08/2008,3,3,Home,"",1 OT,"7,862"
-2008,Neb.-Omaha,464,Ohio St.,518,02/09/2008,5,2,Home,"",-,"10,598"
-2008,Neb.-Omaha,464,Bowling Green,71,02/15/2008,5,3,Home,"",-,"5,197"
-2008,Neb.-Omaha,464,Bowling Green,71,02/16/2008,1,3,Home,"",-,"7,836"
-2008,Neb.-Omaha,464,Northern Mich.,506,02/22/2008,4,6,Away,"",-,"2,585"
-2008,Neb.-Omaha,464,Northern Mich.,506,02/23/2008,3,4,Away,"",1 OT,"2,797"
-2008,Neb.-Omaha,464,Minn. St. Mankato,383,02/26/2008,4,2,Away,"",-,"3,967"
-2008,Neb.-Omaha,464,Alas. Fairbanks,12,03/06/2008,4,3,Home,"",-,"4,034"
-2008,Neb.-Omaha,464,Alas. Fairbanks,12,03/08/2008,3,5,Home,"",-,"6,097"
-2008,Neb.-Omaha,464,Alas. Fairbanks,12,03/09/2008,2,1,Home,"",3 OT,"3,405"
-2008,Neb.-Omaha,464,Michigan,418,03/14/2008,1,10,Away,"",-,"6,211"
-2008,Neb.-Omaha,464,Michigan,418,03/15/2008,1,2,Away,"",-,"6,017"
+2008,MSOE,20220,St. Norbert,614,01/05/2007,3,6,Away,"",-,"1,635"
+2008,MSOE,20220,Lake Forest,344,10/26/2007,3,2,Home,"",-,792
+2008,MSOE,20220,Lake Forest,344,10/27/2007,3,2,Away,"",1 OT,200
+2008,MSOE,20220,Lawrence,348,11/02/2007,5,6,Away,"",-,448
+2008,MSOE,20220,Lawrence,348,11/03/2007,5,2,Home,"",-,550
+2008,MSOE,20220,Minn.-Crookston,27854,11/09/2007,5,3,Home,"",-,600
+2008,MSOE,20220,Minn.-Crookston,27854,11/10/2007,7,4,Home,"",-,250
+2008,MSOE,20220,Wis.-Superior,804,11/24/2007,0,3,Home,"",-,100
+2008,MSOE,20220,Concordia (WI),1036,11/30/2007,9,3,Away,"",-,362
+2008,MSOE,20220,Concordia (WI),1036,12/01/2007,6,1,Home,"",-,552
+2008,MSOE,20220,Adrian,4,12/07/2007,1,5,Away,"",-,615
+2008,MSOE,20220,Adrian,4,12/08/2007,0,4,Away,"",-,259
+2008,MSOE,20220,St. Norbert,614,01/04/2008,0,6,Home,"",-,467
+2008,MSOE,20220,Marian (WI),1196,01/11/2008,2,3,Away,"",-,168
+2008,MSOE,20220,Marian (WI),1196,01/12/2008,3,4,Home,"",-,400
+2008,MSOE,20220,Northland,1267,01/18/2008,8,2,Away,"",-,104
+2008,MSOE,20220,Northland,1267,01/19/2008,6,3,Away,"",-,150
+2008,MSOE,20220,Finlandia,30032,01/25/2008,6,3,Home,"",-,450
+2008,MSOE,20220,Finlandia,30032,01/26/2008,1,6,Home,"",-,250
+2008,MSOE,20220,Concordia (WI),1036,02/01/2008,4,1,Home,"",-,450
+2008,MSOE,20220,Concordia (WI),1036,02/02/2008,5,4,Away,"",-,110
+2008,MSOE,20220,Adrian,4,02/08/2008,4,7,Home,"",-,150
+2008,MSOE,20220,Adrian,4,02/09/2008,0,5,Home,"",-,250
+2008,MSOE,20220,Marian (WI),1196,02/15/2008,1,4,Home,"",-,350
+2008,MSOE,20220,Marian (WI),1196,02/16/2008,4,3,Away,"",-,205
+2008,MSOE,20220,Lawrence,348,02/23/2008,3,1,Home,"",-,100
+2008,MSOE,20220,Lawrence,348,02/24/2008,4,2,Home,"",-,125
+2008,MSOE,20220,Adrian,4,03/01/2008,3,5,Home,"",-,575
 2008,Neumann,1254,SUNY Geneseo,247,10/19/2007,5,4,Home,"",-,432
 2008,Neumann,1254,SUNY Geneseo,247,10/20/2007,3,1,Home,"",-,278
 2008,Neumann,1254,Adrian,4,10/27/2007,3,2,Home,"",1 OT,356
@@ -2721,6 +2552,46 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2008,Ohio St.,518,Northern Mich.,506,03/07/2008,4,3,Away,"",-,"1,788"
 2008,Ohio St.,518,Northern Mich.,506,03/08/2008,2,4,Away,"",-,"2,164"
 2008,Ohio St.,518,Northern Mich.,506,03/09/2008,1,6,Away,"",-,"2,177"
+2008,Omaha,464,Ala.-Huntsville,10,10/20/2007,5,1,Home,"",-,"5,541"
+2008,Omaha,464,Miami (OH),414,10/26/2007,2,7,Away,"",-,"3,221"
+2008,Omaha,464,Miami (OH),414,10/27/2007,2,5,Away,"",-,"2,967"
+2008,Omaha,464,Michigan,418,11/02/2007,3,6,Home,"",-,"9,356"
+2008,Omaha,464,Michigan,418,11/03/2007,2,3,Home,"",-,"8,047"
+2008,Omaha,464,Ohio St.,518,11/08/2007,5,2,Away,"",-,"1,667"
+2008,Omaha,464,Ohio St.,518,11/09/2007,5,2,Away,"",-,"3,903"
+2008,Omaha,464,Ferris St.,224,11/16/2007,1,5,Home,"",-,"5,720"
+2008,Omaha,464,Ferris St.,224,11/18/2007,2,0,Home,"",-,"4,227"
+2008,Omaha,464,Alas. Fairbanks,12,11/23/2007,4,3,Home,"",-,"6,022"
+2008,Omaha,464,Alas. Fairbanks,12,11/24/2007,4,4,Home,"",1 OT,"5,861"
+2008,Omaha,464,Notre Dame,513,11/30/2007,4,5,Away,"",-,"2,626"
+2008,Omaha,464,Notre Dame,513,12/01/2007,0,5,Away,"",-,"2,625"
+2008,Omaha,464,Lake Superior St.,345,12/07/2007,1,1,Home,"",1 OT,"5,145"
+2008,Omaha,464,Lake Superior St.,345,12/08/2007,3,3,Home,"",1 OT,"4,479"
+2008,Omaha,464,Union (NY),727,12/14/2007,2,3,Away,"",1 OT,"1,379"
+2008,Omaha,464,Union (NY),727,12/15/2007,4,2,Away,"",-,823
+2008,Omaha,464,Minn. St. Mankato,383,12/18/2007,6,3,Home,"",-,"3,176"
+2008,Omaha,464,Yale,813,12/28/2007,3,6,Home,"",-,"6,702"
+2008,Omaha,464,Princeton,554,12/30/2007,3,5,Home,"",-,"6,859"
+2008,Omaha,464,Western Mich.,774,01/05/2008,6,3,Away,"",-,"1,986"
+2008,Omaha,464,Western Mich.,774,01/06/2008,4,2,Away,"",-,"1,697"
+2008,Omaha,464,Miami (OH),414,01/11/2008,3,6,Home,"",-,"7,306"
+2008,Omaha,464,Miami (OH),414,01/12/2008,1,4,Home,"",-,"8,932"
+2008,Omaha,464,Alas. Fairbanks,12,01/18/2008,3,1,Away,"",-,"3,803"
+2008,Omaha,464,Alas. Fairbanks,12,01/19/2008,4,3,Away,"",1 OT,"3,052"
+2008,Omaha,464,Michigan St.,416,02/01/2008,5,4,Away,"",1 OT,"5,831"
+2008,Omaha,464,Michigan St.,416,02/02/2008,2,4,Away,"",-,"5,775"
+2008,Omaha,464,Ohio St.,518,02/08/2008,3,3,Home,"",1 OT,"7,862"
+2008,Omaha,464,Ohio St.,518,02/09/2008,5,2,Home,"",-,"10,598"
+2008,Omaha,464,Bowling Green,71,02/15/2008,5,3,Home,"",-,"5,197"
+2008,Omaha,464,Bowling Green,71,02/16/2008,1,3,Home,"",-,"7,836"
+2008,Omaha,464,Northern Mich.,506,02/22/2008,4,6,Away,"",-,"2,585"
+2008,Omaha,464,Northern Mich.,506,02/23/2008,3,4,Away,"",1 OT,"2,797"
+2008,Omaha,464,Minn. St. Mankato,383,02/26/2008,4,2,Away,"",-,"3,967"
+2008,Omaha,464,Alas. Fairbanks,12,03/06/2008,4,3,Home,"",-,"4,034"
+2008,Omaha,464,Alas. Fairbanks,12,03/08/2008,3,5,Home,"",-,"6,097"
+2008,Omaha,464,Alas. Fairbanks,12,03/09/2008,2,1,Home,"",3 OT,"3,405"
+2008,Omaha,464,Michigan,418,03/14/2008,1,10,Away,"",-,"6,211"
+2008,Omaha,464,Michigan,418,03/15/2008,1,2,Away,"",-,"6,017"
 2008,Oswego St.,530,Elmira,213,10/26/2007,1,2,Home,"",-,"2,412"
 2008,Oswego St.,530,Elmira,213,10/27/2007,4,4,Away,"",1 OT,"2,442"
 2008,Oswego St.,530,Plattsburgh St.,547,11/02/2007,2,4,Home,"",-,"2,712"
@@ -3059,6 +2930,58 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2008,Sacred Heart,590,Connecticut,164,03/08/2008,2,3,Home,"",1 OT,331
 2008,Sacred Heart,590,Connecticut,164,03/09/2008,4,1,Home,"",-,348
 2008,Sacred Heart,590,Mercyhurst,408,03/14/2008,1,4,Neutral,"Rochester, NY",-,"1,430"
+2008,Saint John's (MN),602,Wis.-Stevens Point,802,11/02/2007,5,3,Away,"",-,"1,450"
+2008,Saint John's (MN),602,Wis.-Eau Claire,793,11/03/2007,0,1,Away,"",-,337
+2008,Saint John's (MN),602,Lake Forest,344,11/10/2007,4,1,Home,"",-,167
+2008,Saint John's (MN),602,St. Norbert,614,11/11/2007,2,3,Home,"",-,213
+2008,Saint John's (MN),602,Saint Mary's (MN),612,11/16/2007,4,2,Away,"",-,512
+2008,Saint John's (MN),602,Saint Mary's (MN),612,11/17/2007,2,3,Away,"",-,450
+2008,Saint John's (MN),602,Plattsburgh St.,547,11/23/2007,3,4,Away,"",1 OT,"2,132"
+2008,Saint John's (MN),602,Middlebury,420,11/24/2007,3,4,Away,"",-,0
+2008,Saint John's (MN),602,St. Olaf,615,11/30/2007,6,2,Away,"",-,381
+2008,Saint John's (MN),602,St. Olaf,615,12/02/2007,3,3,Home,"",1 OT,209
+2008,Saint John's (MN),602,Bethel (MN),60,12/07/2007,1,2,Away,"",-,895
+2008,Saint John's (MN),602,Bethel (MN),60,12/08/2007,3,3,Home,"",1 OT,253
+2008,Saint John's (MN),602,Gust. Adolphus,266,12/12/2007,5,1,Home,"",-,274
+2008,Saint John's (MN),602,Wis.-River Falls,801,01/10/2008,3,4,Home,"",1 OT,297
+2008,Saint John's (MN),602,Wis.-Stout,803,01/11/2008,4,3,Away,"",-,211
+2008,Saint John's (MN),602,St. Thomas (MN),620,01/18/2008,2,5,Away,"",-,705
+2008,Saint John's (MN),602,St. Thomas (MN),620,01/19/2008,4,3,Home,"",-,"1,321"
+2008,Saint John's (MN),602,Augsburg,38,01/25/2008,6,4,Away,"",-,302
+2008,Saint John's (MN),602,Augsburg,38,01/26/2008,6,0,Home,"",-,231
+2008,Saint John's (MN),602,Gust. Adolphus,266,02/08/2008,3,7,Away,"",-,283
+2008,Saint John's (MN),602,Gust. Adolphus,266,02/10/2008,7,3,Home,"",-,443
+2008,Saint John's (MN),602,Concordia-M'head,161,02/16/2008,4,2,Home,"",-,385
+2008,Saint John's (MN),602,Concordia-M'head,161,02/17/2008,7,1,Home,"",-,274
+2008,Saint John's (MN),602,Hamline,268,02/23/2008,1,4,Away,"",-,401
+2008,Saint John's (MN),602,Hamline,268,02/23/2008,5,6,Home,"",-,379
+2008,Saint John's (MN),602,Gust. Adolphus,266,02/28/2008,5,3,Away,"",-,729
+2008,Saint John's (MN),602,Hamline,268,03/01/2008,2,4,Away,"",-,357
+2008,Saint Mary's (MN),612,Wis.-Superior,804,11/02/2007,4,4,Away,"",1 OT,"1,105"
+2008,Saint Mary's (MN),612,St. Scholastica,618,11/03/2007,4,7,Away,"",-,345
+2008,Saint Mary's (MN),612,Wis.-Eau Claire,793,11/09/2007,4,6,Home,"",-,401
+2008,Saint Mary's (MN),612,Wis.-Stevens Point,802,11/10/2007,1,3,Home,"",-,432
+2008,Saint Mary's (MN),612,Saint John's (MN),602,11/16/2007,2,4,Home,"",-,512
+2008,Saint Mary's (MN),612,Saint John's (MN),602,11/17/2007,3,2,Home,"",-,450
+2008,Saint Mary's (MN),612,Wis.-River Falls,801,11/20/2007,4,4,Away,"",1 OT,543
+2008,Saint Mary's (MN),612,Gust. Adolphus,266,11/30/2007,0,6,Away,"",-,679
+2008,Saint Mary's (MN),612,Gust. Adolphus,266,12/01/2007,5,2,Home,"",-,312
+2008,Saint Mary's (MN),612,Concordia-M'head,161,12/07/2007,14,3,Away,"",-,130
+2008,Saint Mary's (MN),612,Concordia-M'head,161,12/08/2007,7,2,Away,"",-,103
+2008,Saint Mary's (MN),612,Lawrence,348,01/05/2008,5,1,Home,"",-,37
+2008,Saint Mary's (MN),612,St. Norbert,614,01/11/2008,2,3,Away,"",1 OT,937
+2008,Saint Mary's (MN),612,Lake Forest,344,01/12/2008,7,4,Away,"",-,175
+2008,Saint Mary's (MN),612,Hamline,268,01/18/2008,5,8,Away,"",-,212
+2008,Saint Mary's (MN),612,Hamline,268,01/19/2008,1,3,Home,"",-,427
+2008,Saint Mary's (MN),612,Wis.-Stout,803,01/22/2008,4,2,Home,"",-,215
+2008,Saint Mary's (MN),612,St. Olaf,615,02/01/2008,2,5,Away,"",-,222
+2008,Saint Mary's (MN),612,St. Olaf,615,02/02/2008,1,2,Home,"",-,265
+2008,Saint Mary's (MN),612,Bethel (MN),60,02/08/2008,2,6,Away,"",-,897
+2008,Saint Mary's (MN),612,Bethel (MN),60,02/09/2008,5,3,Home,"",-,112
+2008,Saint Mary's (MN),612,St. Thomas (MN),620,02/15/2008,1,5,Home,"",-,105
+2008,Saint Mary's (MN),612,St. Thomas (MN),620,02/16/2008,0,5,Away,"",-,415
+2008,Saint Mary's (MN),612,Augsburg,38,02/22/2008,4,3,Home,"",-,374
+2008,Saint Mary's (MN),612,Augsburg,38,02/23/2008,4,5,Away,"",-,302
 2008,Salem St.,621,Saint Michael's,613,11/16/2007,6,5,Home,"",-,0
 2008,Salem St.,621,Norwich,511,11/17/2007,2,6,Home,"",-,0
 2008,Salem St.,621,Worcester St.,809,11/26/2007,9,2,Away,"",-,0
@@ -3203,33 +3126,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2008,St. Cloud St.,598,Wisconsin,796,03/15/2008,4,3,Home,"",1 OT,"4,270"
 2008,St. Cloud St.,598,Minnesota,428,03/20/2008,2,3,Neutral,"St. Paul, MN",-,"19,232"
 2008,St. Cloud St.,598,Clarkson,146,03/28/2008,1,2,Neutral,"Albany, N.Y.",-,"4,175"
-2008,St. Johns (MN),602,Wis.-Stevens Point,802,11/02/2007,5,3,Away,"",-,"1,450"
-2008,St. Johns (MN),602,Wis.-Eau Claire,793,11/03/2007,0,1,Away,"",-,337
-2008,St. Johns (MN),602,Lake Forest,344,11/10/2007,4,1,Home,"",-,167
-2008,St. Johns (MN),602,St. Norbert,614,11/11/2007,2,3,Home,"",-,213
-2008,St. Johns (MN),602,Saint Mary's (MN),612,11/16/2007,4,2,Away,"",-,512
-2008,St. Johns (MN),602,Saint Mary's (MN),612,11/17/2007,2,3,Away,"",-,450
-2008,St. Johns (MN),602,Plattsburgh St.,547,11/23/2007,3,4,Away,"",1 OT,"2,132"
-2008,St. Johns (MN),602,Middlebury,420,11/24/2007,3,4,Away,"",-,0
-2008,St. Johns (MN),602,St. Olaf,615,11/30/2007,6,2,Away,"",-,381
-2008,St. Johns (MN),602,St. Olaf,615,12/02/2007,3,3,Home,"",1 OT,209
-2008,St. Johns (MN),602,Bethel (MN),60,12/07/2007,1,2,Away,"",-,895
-2008,St. Johns (MN),602,Bethel (MN),60,12/08/2007,3,3,Home,"",1 OT,253
-2008,St. Johns (MN),602,Gust. Adolphus,266,12/12/2007,5,1,Home,"",-,274
-2008,St. Johns (MN),602,Wis.-River Falls,801,01/10/2008,3,4,Home,"",1 OT,297
-2008,St. Johns (MN),602,Wis.-Stout,803,01/11/2008,4,3,Away,"",-,211
-2008,St. Johns (MN),602,St. Thomas (MN),620,01/18/2008,2,5,Away,"",-,705
-2008,St. Johns (MN),602,St. Thomas (MN),620,01/19/2008,4,3,Home,"",-,"1,321"
-2008,St. Johns (MN),602,Augsburg,38,01/25/2008,6,4,Away,"",-,302
-2008,St. Johns (MN),602,Augsburg,38,01/26/2008,6,0,Home,"",-,231
-2008,St. Johns (MN),602,Gust. Adolphus,266,02/08/2008,3,7,Away,"",-,283
-2008,St. Johns (MN),602,Gust. Adolphus,266,02/10/2008,7,3,Home,"",-,443
-2008,St. Johns (MN),602,Concordia-M'head,161,02/16/2008,4,2,Home,"",-,385
-2008,St. Johns (MN),602,Concordia-M'head,161,02/17/2008,7,1,Home,"",-,274
-2008,St. Johns (MN),602,Hamline,268,02/23/2008,1,4,Away,"",-,401
-2008,St. Johns (MN),602,Hamline,268,02/23/2008,5,6,Home,"",-,379
-2008,St. Johns (MN),602,Gust. Adolphus,266,02/28/2008,5,3,Away,"",-,729
-2008,St. Johns (MN),602,Hamline,268,03/01/2008,2,4,Away,"",-,357
 2008,St. Lawrence,607,Clarkson,146,10/07/2007,3,2,Home,"",-,"3,400"
 2008,St. Lawrence,607,Providence,556,10/12/2007,4,1,Home,"",-,"2,254"
 2008,St. Lawrence,607,Massachusetts,400,10/13/2007,1,3,Home,"",-,"2,240"
@@ -3267,31 +3163,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2008,St. Lawrence,607,Colgate,153,03/07/2008,5,2,Away,"",-,816
 2008,St. Lawrence,607,Colgate,153,03/08/2008,2,3,Away,"",-,814
 2008,St. Lawrence,607,Colgate,153,03/09/2008,1,3,Away,"",-,687
-2008,St. Marys (MN),612,Wis.-Superior,804,11/02/2007,4,4,Away,"",1 OT,"1,105"
-2008,St. Marys (MN),612,St. Scholastica,618,11/03/2007,4,7,Away,"",-,345
-2008,St. Marys (MN),612,Wis.-Eau Claire,793,11/09/2007,4,6,Home,"",-,401
-2008,St. Marys (MN),612,Wis.-Stevens Point,802,11/10/2007,1,3,Home,"",-,432
-2008,St. Marys (MN),612,Saint John's (MN),602,11/16/2007,2,4,Home,"",-,512
-2008,St. Marys (MN),612,Saint John's (MN),602,11/17/2007,3,2,Home,"",-,450
-2008,St. Marys (MN),612,Wis.-River Falls,801,11/20/2007,4,4,Away,"",1 OT,543
-2008,St. Marys (MN),612,Gust. Adolphus,266,11/30/2007,0,6,Away,"",-,679
-2008,St. Marys (MN),612,Gust. Adolphus,266,12/01/2007,5,2,Home,"",-,312
-2008,St. Marys (MN),612,Concordia-M'head,161,12/07/2007,14,3,Away,"",-,130
-2008,St. Marys (MN),612,Concordia-M'head,161,12/08/2007,7,2,Away,"",-,103
-2008,St. Marys (MN),612,Lawrence,348,01/05/2008,5,1,Home,"",-,37
-2008,St. Marys (MN),612,St. Norbert,614,01/11/2008,2,3,Away,"",1 OT,937
-2008,St. Marys (MN),612,Lake Forest,344,01/12/2008,7,4,Away,"",-,175
-2008,St. Marys (MN),612,Hamline,268,01/18/2008,5,8,Away,"",-,212
-2008,St. Marys (MN),612,Hamline,268,01/19/2008,1,3,Home,"",-,427
-2008,St. Marys (MN),612,Wis.-Stout,803,01/22/2008,4,2,Home,"",-,215
-2008,St. Marys (MN),612,St. Olaf,615,02/01/2008,2,5,Away,"",-,222
-2008,St. Marys (MN),612,St. Olaf,615,02/02/2008,1,2,Home,"",-,265
-2008,St. Marys (MN),612,Bethel (MN),60,02/08/2008,2,6,Away,"",-,897
-2008,St. Marys (MN),612,Bethel (MN),60,02/09/2008,5,3,Home,"",-,112
-2008,St. Marys (MN),612,St. Thomas (MN),620,02/15/2008,1,5,Home,"",-,105
-2008,St. Marys (MN),612,St. Thomas (MN),620,02/16/2008,0,5,Away,"",-,415
-2008,St. Marys (MN),612,Augsburg,38,02/22/2008,4,3,Home,"",-,374
-2008,St. Marys (MN),612,Augsburg,38,02/23/2008,4,5,Away,"",-,302
 2008,St. Norbert,614,Lawrence,348,10/30/2007,5,0,Home,"",-,"1,248"
 2008,St. Norbert,614,St. Olaf,615,11/02/2007,4,3,Home,"",-,964
 2008,St. Norbert,614,Gust. Adolphus,266,11/03/2007,2,4,Home,"",-,"1,024"
@@ -3564,6 +3435,135 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2008,Tufts,717,Salem St.,621,02/16/2008,3,8,Away,"",-,0
 2008,Tufts,717,Mass.-Boston,401,02/22/2008,5,13,Home,"",-,0
 2008,Tufts,717,Babson,45,02/23/2008,1,6,Home,"",-,0
+2008,UConn,164,American Int'l,22,10/19/2007,4,2,Home,"",-,859
+2008,UConn,164,Massachusetts,400,10/20/2007,3,4,Away,"",-,"3,624"
+2008,UConn,164,Army,725,10/27/2007,1,4,Home,"",-,589
+2008,UConn,164,Sacred Heart,590,11/02/2007,2,4,Away,"",-,651
+2008,UConn,164,Sacred Heart,590,11/03/2007,0,5,Home,"",-,849
+2008,UConn,164,Bentley,56,11/09/2007,2,4,Home,"",-,866
+2008,UConn,164,Bentley,56,11/10/2007,3,2,Away,"",1 OT,515
+2008,UConn,164,Air Force,721,11/16/2007,2,3,Away,"",-,"1,538"
+2008,UConn,164,Air Force,721,11/17/2007,3,2,Away,"",1 OT,"2,136"
+2008,UConn,164,Colgate,153,11/23/2007,1,7,Away,"",-,"1,850"
+2008,UConn,164,Colgate,153,11/24/2007,2,1,Away,"",1 OT,"1,862"
+2008,UConn,164,Holy Cross,285,11/30/2007,1,4,Home,"",-,"1,203"
+2008,UConn,164,Holy Cross,285,12/01/2007,3,3,Away,"",1 OT,881
+2008,UConn,164,American Int'l,22,12/04/2007,1,4,Away,"",-,162
+2008,UConn,164,Army,725,12/29/2007,4,1,Home,"",-,"1,103"
+2008,UConn,164,Ferris St.,224,12/30/2007,0,5,Home,"",-,958
+2008,UConn,164,Yale,813,01/02/2008,1,9,Away,"",-,"2,277"
+2008,UConn,164,Union (NY),727,01/04/2008,1,4,Away,"",-,"1,189"
+2008,UConn,164,Canisius,116,01/11/2008,3,1,Away,"",-,626
+2008,UConn,164,Canisius,116,01/12/2008,0,4,Away,"",-,659
+2008,UConn,164,Mercyhurst,408,01/18/2008,3,3,Home,"",1 OT,820
+2008,UConn,164,Mercyhurst,408,01/19/2008,3,2,Home,"",-,997
+2008,UConn,164,Rochester Inst.,580,01/25/2008,3,0,Home,"",-,870
+2008,UConn,164,Rochester Inst.,580,01/26/2008,1,1,Home,"",1 OT,"1,093"
+2008,UConn,164,Army,725,02/01/2008,1,3,Away,"",-,"1,608"
+2008,UConn,164,Army,725,02/02/2008,0,6,Away,"",-,"2,298"
+2008,UConn,164,Sacred Heart,590,02/08/2008,4,6,Home,"",-,920
+2008,UConn,164,Sacred Heart,590,02/09/2008,0,4,Away,"",-,523
+2008,UConn,164,Bentley,56,02/15/2008,0,6,Away,"",-,435
+2008,UConn,164,Bentley,56,02/16/2008,3,4,Home,"",1 OT,865
+2008,UConn,164,American Int'l,22,02/22/2008,4,2,Home,"",-,583
+2008,UConn,164,American Int'l,22,02/23/2008,4,2,Away,"",-,350
+2008,UConn,164,Holy Cross,285,02/29/2008,3,0,Away,"",-,655
+2008,UConn,164,Holy Cross,285,03/01/2008,4,2,Home,"",-,897
+2008,UConn,164,Sacred Heart,590,03/07/2008,5,6,Away,"",-,343
+2008,UConn,164,Sacred Heart,590,03/08/2008,3,2,Away,"",1 OT,331
+2008,UConn,164,Sacred Heart,590,03/09/2008,1,4,Away,"",-,348
+2008,UMass Boston,401,Colby,151,11/16/2007,3,4,Home,"",-,325
+2008,UMass Boston,401,Bowdoin,69,11/17/2007,1,5,Home,"",-,200
+2008,UMass Boston,401,Southern N.H.,468,11/24/2007,5,8,Neutral,"Hooksett, NH",-,267
+2008,UMass Boston,401,Suffolk,684,11/25/2007,2,1,Neutral,"Hooksett, NH",-,165
+2008,UMass Boston,401,Framingham St.,238,11/27/2007,3,1,Away,"",-,100
+2008,UMass Boston,401,Wesleyan (CT),764,11/30/2007,8,4,Away,"",-,250
+2008,UMass Boston,401,Trinity (CT),713,12/01/2007,0,8,Away,"",-,200
+2008,UMass Boston,401,Babson,45,12/05/2007,1,1,Home,"",1 OT,315
+2008,UMass Boston,401,Suffolk,684,12/28/2007,5,4,Home,"",-,191
+2008,UMass Boston,401,Fitchburg St.,227,12/29/2007,5,4,Home,"",1 OT,166
+2008,UMass Boston,401,Amherst,24,01/11/2008,2,3,Away,"",-,200
+2008,UMass Boston,401,Hamilton,267,01/12/2008,4,2,Away,"",-,228
+2008,UMass Boston,401,Saint Michael's,613,01/18/2008,3,1,Home,"",-,148
+2008,UMass Boston,401,Norwich,511,01/19/2008,2,3,Home,"",1 OT,309
+2008,UMass Boston,401,Mass.-Dartmouth,656,01/22/2008,3,2,Away,"",-,141
+2008,UMass Boston,401,Salem St.,621,01/25/2008,1,4,Away,"",-,250
+2008,UMass Boston,401,Southern Me.,662,01/26/2008,3,6,Away,"",-,160
+2008,UMass Boston,401,Skidmore,642,02/01/2008,3,5,Home,"",-,272
+2008,UMass Boston,401,Castleton,123,02/02/2008,3,4,Home,"",-,112
+2008,UMass Boston,401,New England Col.,467,02/08/2008,2,5,Away,"",-,275
+2008,UMass Boston,401,St. Anselm,593,02/09/2008,2,3,Away,"",-,389
+2008,UMass Boston,401,Williams,789,02/15/2008,2,2,Home,"",1 OT,173
+2008,UMass Boston,401,Middlebury,420,02/16/2008,4,3,Home,"",-,227
+2008,UMass Boston,401,Tufts,717,02/22/2008,13,5,Away,"",-,150
+2008,UMass Boston,401,Connecticut Col.,163,02/23/2008,1,6,Away,"",-,367
+2008,UMass Boston,401,Babson,45,03/01/2008,4,1,Away,"",-,900
+2008,UMass Boston,401,Norwich,511,03/08/2008,2,5,Away,"",-,"2,150"
+2008,UMass Dartmouth,656,Becker,26107,11/10/2007,5,0,Away,"",-,132
+2008,UMass Dartmouth,656,Stonehill,682,11/14/2007,7,1,Away,"",-,200
+2008,UMass Dartmouth,656,Plymouth St.,548,11/17/2007,5,2,Home,"",-,"1,255"
+2008,UMass Dartmouth,656,Babson,45,11/20/2007,1,3,Home,"",-,693
+2008,UMass Dartmouth,656,Fitchburg St.,227,11/28/2007,3,2,Away,"",-,350
+2008,UMass Dartmouth,656,Curry,170,12/01/2007,3,1,Away,"",-,400
+2008,UMass Dartmouth,656,Wesleyan (CT),764,12/07/2007,3,5,Away,"",-,250
+2008,UMass Dartmouth,656,Connecticut,164,12/11/2007,3,3,Home,"",1 OT,181
+2008,UMass Dartmouth,656,Norwich,511,01/04/2008,2,4,Away,"",-,"1,785"
+2008,UMass Dartmouth,656,St. Olaf,615,01/05/2008,2,3,Neutral,"Northfield, VT",-,391
+2008,UMass Dartmouth,656,Worcester St.,809,01/10/2008,7,1,Home,"",-,161
+2008,UMass Dartmouth,656,Assumption,36,01/12/2008,5,1,Away,"",-,115
+2008,UMass Dartmouth,656,Salve Regina,623,01/16/2008,3,1,Away,"",-,116
+2008,UMass Dartmouth,656,Western New Eng.,775,01/19/2008,2,3,Away,"",-,265
+2008,UMass Dartmouth,656,Mass.-Boston,401,01/22/2008,2,3,Home,"",-,141
+2008,UMass Dartmouth,656,Southern N.H.,468,01/26/2008,7,0,Home,"",-,205
+2008,UMass Dartmouth,656,Suffolk,684,01/30/2008,1,3,Home,"",-,531
+2008,UMass Dartmouth,656,Fitchburg St.,227,02/02/2008,6,1,Home,"",-,273
+2008,UMass Dartmouth,656,Salve Regina,623,02/06/2008,3,4,Home,"",-,139
+2008,UMass Dartmouth,656,Franklin Pierce,241,02/09/2008,4,1,Away,"",-,266
+2008,UMass Dartmouth,656,Wentworth Inst.,762,02/13/2008,5,3,Home,"",-,915
+2008,UMass Dartmouth,656,Framingham St.,238,02/16/2008,7,2,Home,"",-,229
+2008,UMass Dartmouth,656,Johnson & Wales (RI),22626,02/20/2008,5,4,Home,"",-,213
+2008,UMass Dartmouth,656,Nichols,484,02/23/2008,3,2,Away,"",-,334
+2008,UMass Dartmouth,656,Salve Regina,623,03/01/2008,5,2,Home,"",-,537
+2008,UMass Dartmouth,656,Fitchburg St.,227,03/05/2008,5,2,Home,"",-,766
+2008,UMass Dartmouth,656,Nichols,484,03/06/2008,5,3,Home,"",-,"1,533"
+2008,UMass Dartmouth,656,Trinity (CT),713,03/12/2008,3,7,Home,"",-,"1,542"
+2008,UMass Lowell,368,Massachusetts,400,10/19/2007,2,2,Away,"",1 OT,"5,862"
+2008,UMass Lowell,368,Ala.-Huntsville,10,10/26/2007,4,1,Home,"",-,"3,245"
+2008,UMass Lowell,368,Ala.-Huntsville,10,10/27/2007,3,1,Home,"",-,"1,936"
+2008,UMass Lowell,368,Merrimack,410,11/01/2007,1,3,Home,"",-,"2,362"
+2008,UMass Lowell,368,Boston U.,68,11/03/2007,4,7,Away,"",-,"5,686"
+2008,UMass Lowell,368,New Hampshire,469,11/09/2007,2,2,Away,"",1 OT,"6,501"
+2008,UMass Lowell,368,Massachusetts,400,11/10/2007,3,3,Home,"",1 OT,"4,028"
+2008,UMass Lowell,368,Providence,556,11/16/2007,2,2,Away,"",1 OT,"2,012"
+2008,UMass Lowell,368,Northeastern,500,11/17/2007,1,2,Away,"",-,"2,237"
+2008,UMass Lowell,368,Merrimack,410,11/20/2007,3,0,Away,"",-,"1,043"
+2008,UMass Lowell,368,Merrimack,410,11/24/2007,6,2,Home,"",-,"2,637"
+2008,UMass Lowell,368,New Hampshire,469,11/30/2007,2,3,Away,"",-,"6,501"
+2008,UMass Lowell,368,New Hampshire,469,12/01/2007,3,2,Home,"",-,"4,461"
+2008,UMass Lowell,368,Boston U.,68,12/07/2007,4,3,Home,"",-,"3,564"
+2008,UMass Lowell,368,Bentley,56,12/08/2007,4,1,Home,"",-,"2,673"
+2008,UMass Lowell,368,Cornell,167,12/28/2007,3,2,Neutral,"Estero, FL",-,"3,847"
+2008,UMass Lowell,368,Maine,380,12/29/2007,6,0,Neutral,"Estero, FL",-,"4,368"
+2008,UMass Lowell,368,Providence,556,01/11/2008,3,4,Away,"",1 OT,"1,777"
+2008,UMass Lowell,368,Providence,556,01/12/2008,3,2,Home,"",1 OT,"2,071"
+2008,UMass Lowell,368,Boston College,67,01/18/2008,4,5,Home,"",-,"5,065"
+2008,UMass Lowell,368,Massachusetts,400,01/19/2008,3,1,Home,"",-,"4,115"
+2008,UMass Lowell,368,Minn. Duluth,427,01/25/2008,0,1,Home,"",-,"2,684"
+2008,UMass Lowell,368,Minn. Duluth,427,01/26/2008,1,4,Home,"",-,"3,259"
+2008,UMass Lowell,368,Maine,380,02/01/2008,3,2,Home,"",-,"3,757"
+2008,UMass Lowell,368,Vermont,738,02/03/2008,2,3,Away,"",-,"3,703"
+2008,UMass Lowell,368,Boston U.,68,02/08/2008,2,6,Home,"",-,"4,074"
+2008,UMass Lowell,368,Boston College,67,02/15/2008,3,1,Away,"",-,"4,688"
+2008,UMass Lowell,368,Boston College,67,02/16/2008,2,5,Home,"",-,"5,302"
+2008,UMass Lowell,368,Vermont,738,02/22/2008,2,3,Home,"",-,"2,591"
+2008,UMass Lowell,368,Vermont,738,02/23/2008,0,1,Home,"",-,"2,978"
+2008,UMass Lowell,368,Northeastern,500,02/29/2008,5,4,Home,"",1 OT,"3,715"
+2008,UMass Lowell,368,Northeastern,500,03/01/2008,3,2,Away,"",-,"2,186"
+2008,UMass Lowell,368,Maine,380,03/07/2008,1,4,Away,"",-,"4,896"
+2008,UMass Lowell,368,Maine,380,03/08/2008,1,2,Away,"",1 OT,"5,160"
+2008,UMass Lowell,368,Boston U.,68,03/14/2008,3,5,Away,"",-,"3,863"
+2008,UMass Lowell,368,Boston U.,68,03/15/2008,4,1,Away,"",-,"4,116"
+2008,UMass Lowell,368,Boston U.,68,03/16/2008,2,4,Away,"",-,"3,631"
 2008,Union (NY),727,Ferris St.,224,10/12/2007,2,0,Home,"",-,"1,412"
 2008,Union (NY),727,Ferris St.,224,10/13/2007,4,1,Home,"",-,"1,862"
 2008,Union (NY),727,Rensselaer,570,10/26/2007,2,3,Neutral,"Albany, NY",-,"4,104"
@@ -3702,32 +3702,32 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2008,Wayne St. (MI),757,Niagara,482,03/08/2008,3,7,Home,"",-,375
 2008,Wayne St. (MI),757,Ala.-Huntsville,10,03/14/2008,4,0,Neutral,Niagara Univ. N.Y.,-,785
 2008,Wayne St. (MI),757,Bemidji St.,54,03/15/2008,1,4,Neutral,Niagara Univ. N.Y.,-,536
-2008,Wentworth Inst.,762,Worcester St.,809,11/06/2007,7,5,Away,"",-,200
-2008,Wentworth Inst.,762,Western New Eng.,775,11/08/2007,5,0,Home,"",-,475
-2008,Wentworth Inst.,762,Hobart,282,11/11/2007,0,6,Home,"",-,150
-2008,Wentworth Inst.,762,Suffolk,684,11/13/2007,3,5,Home,"",-,265
-2008,Wentworth Inst.,762,Franklin Pierce,241,11/17/2007,3,2,Away,"",-,176
-2008,Wentworth Inst.,762,Connecticut Col.,163,11/20/2007,3,1,Away,"",-,225
-2008,Wentworth Inst.,762,U New England,1255,11/27/2007,1,9,Away,"",-,296
-2008,Wentworth Inst.,762,Salem St.,621,12/04/2007,1,3,Away,"",-,500
-2008,Wentworth Inst.,762,Skidmore,642,12/07/2007,0,4,Home,"",-,372
-2008,Wentworth Inst.,762,Norwich,511,12/08/2007,1,7,Away,"",-,"2,011"
-2008,Wentworth Inst.,762,Fredonia St.,242,01/05/2008,1,8,Away,"",-,215
-2008,Wentworth Inst.,762,Fredonia St.,242,01/06/2008,2,7,Away,"",-,392
-2008,Wentworth Inst.,762,Fitchburg St.,227,01/15/2008,3,6,Home,"",-,500
-2008,Wentworth Inst.,762,Assumption,36,01/20/2008,6,0,Home,"",-,187
-2008,Wentworth Inst.,762,Babson,45,01/22/2008,2,5,Home,"",-,222
-2008,Wentworth Inst.,762,Curry,170,01/26/2008,2,4,Away,"",-,350
-2008,Wentworth Inst.,762,Nichols,484,01/27/2008,3,2,Away,"",-,123
-2008,Wentworth Inst.,762,Stonehill,682,01/29/2008,5,3,Away,"",-,124
-2008,Wentworth Inst.,762,Plymouth St.,548,02/02/2008,3,1,Away,"",-,235
-2008,Wentworth Inst.,762,Salve Regina,623,02/10/2008,1,1,Home,"",1 OT,175
-2008,Wentworth Inst.,762,Mass.-Dartmouth,656,02/13/2008,3,5,Away,"",-,915
-2008,Wentworth Inst.,762,Southern N.H.,468,02/16/2008,10,2,Home,"",-,213
-2008,Wentworth Inst.,762,Becker,26107,02/19/2008,9,1,Home,"",-,206
-2008,Wentworth Inst.,762,Framingham St.,238,02/23/2008,5,1,Home,"",-,300
-2008,Wentworth Inst.,762,Johnson & Wales (RI),22626,02/24/2008,6,7,Away,"",-,128
-2008,Wentworth Inst.,762,Suffolk,684,03/02/2008,2,3,Home,"",1 OT,500
+2008,Wentworth,762,Worcester St.,809,11/06/2007,7,5,Away,"",-,200
+2008,Wentworth,762,Western New Eng.,775,11/08/2007,5,0,Home,"",-,475
+2008,Wentworth,762,Hobart,282,11/11/2007,0,6,Home,"",-,150
+2008,Wentworth,762,Suffolk,684,11/13/2007,3,5,Home,"",-,265
+2008,Wentworth,762,Franklin Pierce,241,11/17/2007,3,2,Away,"",-,176
+2008,Wentworth,762,Connecticut Col.,163,11/20/2007,3,1,Away,"",-,225
+2008,Wentworth,762,U New England,1255,11/27/2007,1,9,Away,"",-,296
+2008,Wentworth,762,Salem St.,621,12/04/2007,1,3,Away,"",-,500
+2008,Wentworth,762,Skidmore,642,12/07/2007,0,4,Home,"",-,372
+2008,Wentworth,762,Norwich,511,12/08/2007,1,7,Away,"",-,"2,011"
+2008,Wentworth,762,Fredonia St.,242,01/05/2008,1,8,Away,"",-,215
+2008,Wentworth,762,Fredonia St.,242,01/06/2008,2,7,Away,"",-,392
+2008,Wentworth,762,Fitchburg St.,227,01/15/2008,3,6,Home,"",-,500
+2008,Wentworth,762,Assumption,36,01/20/2008,6,0,Home,"",-,187
+2008,Wentworth,762,Babson,45,01/22/2008,2,5,Home,"",-,222
+2008,Wentworth,762,Curry,170,01/26/2008,2,4,Away,"",-,350
+2008,Wentworth,762,Nichols,484,01/27/2008,3,2,Away,"",-,123
+2008,Wentworth,762,Stonehill,682,01/29/2008,5,3,Away,"",-,124
+2008,Wentworth,762,Plymouth St.,548,02/02/2008,3,1,Away,"",-,235
+2008,Wentworth,762,Salve Regina,623,02/10/2008,1,1,Home,"",1 OT,175
+2008,Wentworth,762,Mass.-Dartmouth,656,02/13/2008,3,5,Away,"",-,915
+2008,Wentworth,762,Southern N.H.,468,02/16/2008,10,2,Home,"",-,213
+2008,Wentworth,762,Becker,26107,02/19/2008,9,1,Home,"",-,206
+2008,Wentworth,762,Framingham St.,238,02/23/2008,5,1,Home,"",-,300
+2008,Wentworth,762,Johnson & Wales (RI),22626,02/24/2008,6,7,Away,"",-,128
+2008,Wentworth,762,Suffolk,684,03/02/2008,2,3,Home,"",1 OT,500
 2008,Wesleyan (CT),764,Hamilton,267,11/16/2007,4,3,Away,"",-,"1,000"
 2008,Wesleyan (CT),764,Amherst,24,11/17/2007,0,4,Away,"",-,75
 2008,Wesleyan (CT),764,Trinity (CT),713,11/24/2007,1,4,Away,"",-,300

@@ -17,7 +17,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2004,151,Colby,14,7,4,25
 2004,154,Colorado Col.,20,16,3,39
 2004,161,Concordia-M'head,5,17,3,25
-2004,164,Connecticut,12,16,7,35
 2004,163,Connecticut Col.,6,17,1,24
 2004,167,Cornell,16,10,6,32
 2004,170,Curry,24,4,1,29
@@ -26,7 +25,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2004,224,Ferris St.,15,20,3,38
 2004,1079,Findlay,11,22,5,38
 2004,227,Fitchburg St.,9,13,3,25
-2004,242,Fredonia St.,13,13,3,29
+2004,242,Fredonia,13,13,3,29
 2004,266,Gust. Adolphus,12,11,3,26
 2004,267,Hamilton,15,9,2,26
 2004,275,Harvard,18,15,3,36
@@ -39,8 +38,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2004,380,Maine,33,8,3,44
 2004,382,Manhattanville,15,5,2,22
 2004,1196,Marian (WI),17,10,0,27
-2004,656,Mass.-Dartmouth,18,8,1,27
-2004,368,Mass.-Lowell,15,18,7,40
 2004,400,Massachusetts,17,14,6,37
 2004,408,Mercyhurst,20,14,2,36
 2004,410,Merrimack,10,20,6,36
@@ -52,7 +49,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2004,427,Minn. Duluth,28,13,4,45
 2004,383,Minn. St. Mankato,10,24,5,39
 2004,428,Minnesota,27,14,3,44
-2004,464,Neb. Omaha,8,26,5,39
 2004,1254,Neumann,3,21,1,25
 2004,467,New England Col.,19,6,2,27
 2004,469,New Hampshire,20,15,6,41
@@ -64,6 +60,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2004,1267,Northland,3,21,2,26
 2004,513,Notre Dame,20,15,4,39
 2004,518,Ohio St.,26,16,0,42
+2004,464,Omaha,8,26,5,39
 2004,530,Oswego St.,19,9,3,31
 2004,547,Plattsburgh St.,23,5,3,31
 2004,548,Plymouth St.,8,15,1,24
@@ -73,14 +70,14 @@ year,team_id,team_name,wins,losses,ties,total_games
 2004,570,Rensselaer,22,15,2,39
 2004,580,Rochester Inst.,13,7,5,25
 2004,590,Sacred Heart,14,17,5,36
+2004,602,Saint John's (MN),22,4,1,27
+2004,612,Saint Mary's (MN),13,11,2,26
 2004,621,Salem St.,12,11,3,26
 2004,623,Salve Regina,8,12,2,22
 2004,642,Skidmore,8,17,1,26
 2004,662,Southern Me.,11,14,1,26
 2004,598,St. Cloud St.,18,16,4,38
-2004,602,Saint John's (MN),22,4,1,27
 2004,607,St. Lawrence,14,21,6,41
-2004,612,Saint Mary's (MN),13,11,2,26
 2004,614,St. Norbert,27,3,2,32
 2004,618,St. Scholastica,6,17,4,27
 2004,620,St. Thomas (MN),17,8,3,28
@@ -89,11 +86,14 @@ year,team_id,team_name,wins,losses,ties,total_games
 2004,247,SUNY Geneseo,14,7,5,26
 2004,552,SUNY Potsdam,11,15,2,28
 2004,713,Trinity (CT),16,9,1,26
+2004,164,UConn,12,16,7,35
+2004,656,UMass Dartmouth,18,8,1,27
+2004,368,UMass Lowell,15,18,7,40
 2004,727,Union (NY),13,17,5,35
 2004,733,Utica,15,10,1,26
 2004,738,Vermont,9,22,4,35
 2004,757,Wayne St. (MI),9,24,3,36
-2004,762,Wentworth Inst.,16,9,4,29
+2004,762,Wentworth,16,9,4,29
 2004,764,Wesleyan (CT),9,10,4,23
 2004,774,Western Mich.,17,18,4,39
 2004,775,Western New Eng.,9,13,3,25

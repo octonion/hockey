@@ -168,43 +168,43 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2012,Alas. Fairbanks,12,Alas. Anchorage,11,02/25/2012,3,1,Home,"",-,"4,595"
 2012,Alas. Fairbanks,12,Lake Superior St.,345,03/02/2012,3,4,Away,"",-,"1,121"
 2012,Alas. Fairbanks,12,Lake Superior St.,345,03/03/2012,0,2,Away,"",-,"1,379"
-2012,American Intl,22,Michigan Tech,417,10/07/2011,3,4,Away,"",-,0
-2012,American Intl,22,Michigan Tech,417,10/08/2011,1,3,Away,"",-,0
-2012,American Intl,22,Holy Cross,285,10/15/2011,1,2,Away,"",-,0
-2012,American Intl,22,Clarkson,146,10/21/2011,2,5,Away,"",-,0
-2012,American Intl,22,Clarkson,146,10/22/2011,0,5,Away,"",-,0
-2012,American Intl,22,Sacred Heart,590,10/28/2011,7,4,Home,"",-,0
-2012,American Intl,22,Union (NY),727,10/29/2011,2,5,Away,"",-,0
-2012,American Intl,22,Robert Morris,579,11/04/2011,0,2,Away,"",-,0
-2012,American Intl,22,Robert Morris,579,11/05/2011,2,0,Away,"",-,0
-2012,American Intl,22,Bentley,56,11/11/2011,1,4,Away,"",-,0
-2012,American Intl,22,Connecticut,164,11/12/2011,2,2,Home,"",1 OT,0
-2012,American Intl,22,Army,725,11/18/2011,3,3,Home,"",1 OT,0
-2012,American Intl,22,Brown,80,11/22/2011,3,0,Away,"",-,0
-2012,American Intl,22,Canisius,116,11/26/2011,1,2,Home,"",-,0
-2012,American Intl,22,Canisius,116,11/27/2011,1,2,Home,"",-,0
-2012,American Intl,22,Air Force,721,12/02/2011,3,8,Home,"",-,0
-2012,American Intl,22,Air Force,721,12/03/2011,3,7,Home,"",-,0
-2012,American Intl,22,Rochester Inst.,580,12/09/2011,1,3,Away,"",-,0
-2012,American Intl,22,Rochester Inst.,580,12/10/2011,2,4,Away,"",-,0
-2012,American Intl,22,Rensselaer,570,01/10/2012,1,3,Away,"",-,0
-2012,American Intl,22,Mercyhurst,408,01/13/2012,3,2,Home,"",-,0
-2012,American Intl,22,Mercyhurst,408,01/14/2012,2,7,Home,"",-,0
-2012,American Intl,22,Niagara,482,01/20/2012,1,4,Away,"",-,0
-2012,American Intl,22,Niagara,482,01/21/2012,1,6,Away,"",-,0
-2012,American Intl,22,Sacred Heart,590,01/27/2012,2,4,Home,"",-,0
-2012,American Intl,22,Sacred Heart,590,01/28/2012,3,2,Away,"",1 OT,0
-2012,American Intl,22,Holy Cross,285,02/03/2012,1,6,Away,"",-,0
-2012,American Intl,22,Holy Cross,285,02/04/2012,0,4,Home,"",-,0
-2012,American Intl,22,Bentley,56,02/10/2012,1,5,Away,"",-,0
-2012,American Intl,22,Bentley,56,02/11/2012,2,3,Home,"",-,0
-2012,American Intl,22,Army,725,02/17/2012,5,2,Home,"",-,0
-2012,American Intl,22,Army,725,02/18/2012,3,2,Away,"",-,0
-2012,American Intl,22,Connecticut,164,02/24/2012,3,3,Home,"",1 OT,0
-2012,American Intl,22,Connecticut,164,02/25/2012,3,5,Away,"",-,0
-2012,American Intl,22,Robert Morris,579,03/02/2012,3,5,Away,"",-,0
-2012,American Intl,22,Robert Morris,579,03/03/2012,7,5,Away,"",-,0
-2012,American Intl,22,Robert Morris,579,03/04/2012,3,4,Away,"",1 OT,0
+2012,American Int'l,22,Michigan Tech,417,10/07/2011,3,4,Away,"",-,0
+2012,American Int'l,22,Michigan Tech,417,10/08/2011,1,3,Away,"",-,0
+2012,American Int'l,22,Holy Cross,285,10/15/2011,1,2,Away,"",-,0
+2012,American Int'l,22,Clarkson,146,10/21/2011,2,5,Away,"",-,0
+2012,American Int'l,22,Clarkson,146,10/22/2011,0,5,Away,"",-,0
+2012,American Int'l,22,Sacred Heart,590,10/28/2011,7,4,Home,"",-,0
+2012,American Int'l,22,Union (NY),727,10/29/2011,2,5,Away,"",-,0
+2012,American Int'l,22,Robert Morris,579,11/04/2011,0,2,Away,"",-,0
+2012,American Int'l,22,Robert Morris,579,11/05/2011,2,0,Away,"",-,0
+2012,American Int'l,22,Bentley,56,11/11/2011,1,4,Away,"",-,0
+2012,American Int'l,22,Connecticut,164,11/12/2011,2,2,Home,"",1 OT,0
+2012,American Int'l,22,Army,725,11/18/2011,3,3,Home,"",1 OT,0
+2012,American Int'l,22,Brown,80,11/22/2011,3,0,Away,"",-,0
+2012,American Int'l,22,Canisius,116,11/26/2011,1,2,Home,"",-,0
+2012,American Int'l,22,Canisius,116,11/27/2011,1,2,Home,"",-,0
+2012,American Int'l,22,Air Force,721,12/02/2011,3,8,Home,"",-,0
+2012,American Int'l,22,Air Force,721,12/03/2011,3,7,Home,"",-,0
+2012,American Int'l,22,Rochester Inst.,580,12/09/2011,1,3,Away,"",-,0
+2012,American Int'l,22,Rochester Inst.,580,12/10/2011,2,4,Away,"",-,0
+2012,American Int'l,22,Rensselaer,570,01/10/2012,1,3,Away,"",-,0
+2012,American Int'l,22,Mercyhurst,408,01/13/2012,3,2,Home,"",-,0
+2012,American Int'l,22,Mercyhurst,408,01/14/2012,2,7,Home,"",-,0
+2012,American Int'l,22,Niagara,482,01/20/2012,1,4,Away,"",-,0
+2012,American Int'l,22,Niagara,482,01/21/2012,1,6,Away,"",-,0
+2012,American Int'l,22,Sacred Heart,590,01/27/2012,2,4,Home,"",-,0
+2012,American Int'l,22,Sacred Heart,590,01/28/2012,3,2,Away,"",1 OT,0
+2012,American Int'l,22,Holy Cross,285,02/03/2012,1,6,Away,"",-,0
+2012,American Int'l,22,Holy Cross,285,02/04/2012,0,4,Home,"",-,0
+2012,American Int'l,22,Bentley,56,02/10/2012,1,5,Away,"",-,0
+2012,American Int'l,22,Bentley,56,02/11/2012,2,3,Home,"",-,0
+2012,American Int'l,22,Army,725,02/17/2012,5,2,Home,"",-,0
+2012,American Int'l,22,Army,725,02/18/2012,3,2,Away,"",-,0
+2012,American Int'l,22,Connecticut,164,02/24/2012,3,3,Home,"",1 OT,0
+2012,American Int'l,22,Connecticut,164,02/25/2012,3,5,Away,"",-,0
+2012,American Int'l,22,Robert Morris,579,03/02/2012,3,5,Away,"",-,0
+2012,American Int'l,22,Robert Morris,579,03/03/2012,7,5,Away,"",-,0
+2012,American Int'l,22,Robert Morris,579,03/04/2012,3,4,Away,"",1 OT,0
 2012,Amherst,24,Hamilton,267,11/18/2011,2,0,Home,"",-,0
 2012,Amherst,24,Westfield St.,777,11/22/2011,8,1,Away,"",-,0
 2012,Amherst,24,Salem St.,621,11/26/2011,5,1,Neutral,"Cape Cod, MA",-,0
@@ -885,95 +885,56 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2012,Colorado Col.,154,Michigan Tech,417,03/03/2012,2,0,Home,"",-,"6,877"
 2012,Colorado Col.,154,Michigan Tech,417,03/09/2012,1,3,Home,"",-,"5,244"
 2012,Colorado Col.,154,Michigan Tech,417,03/10/2012,3,4,Home,"",1 OT,"5,070"
-2012,Concordia (WI),1036,Wis.-Stout,803,10/21/2011,1,6,Away,"",-,500
-2012,Concordia (WI),1036,St. Norbert,614,10/25/2011,0,8,Home,"",-,373
-2012,Concordia (WI),1036,Milwaukee Engr.,20220,10/28/2011,3,7,Home,"",-,234
-2012,Concordia (WI),1036,Milwaukee Engr.,20220,10/29/2011,1,6,Away,"",-,0
-2012,Concordia (WI),1036,Lawrence,348,11/04/2011,2,4,Away,"",-,612
-2012,Concordia (WI),1036,Lawrence,348,11/05/2011,2,2,Home,"",1 OT,312
-2012,Concordia (WI),1036,Lake Forest,344,11/11/2011,3,6,Away,"",-,314
-2012,Concordia (WI),1036,Lake Forest,344,11/12/2011,5,2,Home,"",-,124
-2012,Concordia (WI),1036,Saint John's (MN),602,11/25/2011,2,5,Away,"",-,103
-2012,Concordia (WI),1036,Saint John's (MN),602,11/26/2011,2,2,Away,"",1 OT,119
-2012,Concordia (WI),1036,Adrian,4,12/02/2011,4,9,Home,"",-,398
-2012,Concordia (WI),1036,Adrian,4,12/03/2011,3,5,Home,"",-,197
-2012,Concordia (WI),1036,Gust. Adolphus,266,12/09/2011,3,5,Home,"",-,988
-2012,Concordia (WI),1036,Finlandia,30032,01/13/2012,7,6,Home,"",-,213
-2012,Concordia (WI),1036,Finlandia,30032,01/14/2012,4,5,Home,"",-,220
-2012,Concordia (WI),1036,Northland,1267,01/20/2012,2,6,Away,"",-,60
-2012,Concordia (WI),1036,Northland,1267,01/21/2012,3,3,Away,"",1 OT,0
-2012,Concordia (WI),1036,Lake Forest,344,01/27/2012,2,6,Home,"",-,224
-2012,Concordia (WI),1036,Lake Forest,344,01/28/2012,1,5,Away,"",-,148
-2012,Concordia (WI),1036,Milwaukee Engr.,20220,02/03/2012,1,5,Away,"",-,427
-2012,Concordia (WI),1036,Milwaukee Engr.,20220,02/04/2012,4,7,Home,"",-,489
-2012,Concordia (WI),1036,Adrian,4,02/10/2012,2,9,Away,"",-,721
-2012,Concordia (WI),1036,Adrian,4,02/11/2012,1,5,Away,"",-,579
-2012,Concordia (WI),1036,Marian (WI),1196,02/17/2012,1,5,Home,"",-,309
-2012,Concordia (WI),1036,Marian (WI),1196,02/18/2012,2,6,Away,"",-,259
-2012,Concordia-Mhead,161,Gust. Adolphus,266,10/29/2011,3,2,Neutral,"Blaine, MN",-,0
-2012,Concordia-Mhead,161,Saint John's (MN),602,10/30/2011,2,1,Neutral,"Blaine, MN",-,0
-2012,Concordia-Mhead,161,Wis.-Stout,803,11/04/2011,1,2,Away,"",-,375
-2012,Concordia-Mhead,161,St. Thomas (MN),620,11/05/2011,2,1,Away,"",-,190
-2012,Concordia-Mhead,161,St. Olaf,615,11/11/2011,1,5,Away,"",-,287
-2012,Concordia-Mhead,161,St. Olaf,615,11/12/2011,2,2,Away,"",2 OT,156
-2012,Concordia-Mhead,161,Bethel (MN),60,11/18/2011,2,0,Home,"",-,303
-2012,Concordia-Mhead,161,Bethel (MN),60,11/19/2011,1,0,Home,"",-,183
-2012,Concordia-Mhead,161,Wis.-Superior,804,11/23/2011,1,6,Home,"",-,112
-2012,Concordia-Mhead,161,St. Thomas (MN),620,12/02/2011,3,2,Home,"",-,421
-2012,Concordia-Mhead,161,St. Thomas (MN),620,12/03/2011,2,2,Home,"",2 OT,168
-2012,Concordia-Mhead,161,Northland,1267,12/17/2011,2,2,Away,"",2 OT,231
-2012,Concordia-Mhead,161,Northland,1267,12/18/2011,4,3,Away,"",-,189
-2012,Concordia-Mhead,161,Wis.-Eau Claire,793,01/06/2012,0,3,Home,"",-,168
-2012,Concordia-Mhead,161,Wis.-River Falls,801,01/07/2012,1,3,Home,"",-,144
-2012,Concordia-Mhead,161,Augsburg,38,01/13/2012,1,5,Home,"",-,235
-2012,Concordia-Mhead,161,Augsburg,38,01/14/2012,4,1,Home,"",-,147
-2012,Concordia-Mhead,161,Saint John's (MN),602,01/21/2012,1,2,Away,"",-,224
-2012,Concordia-Mhead,161,Saint John's (MN),602,01/22/2012,1,4,Away,"",-,191
-2012,Concordia-Mhead,161,Gust. Adolphus,266,01/27/2012,4,4,Away,"",2 OT,271
-2012,Concordia-Mhead,161,Gust. Adolphus,266,01/28/2012,0,2,Away,"",-,249
-2012,Concordia-Mhead,161,Hamline,268,02/10/2012,0,1,Away,"",-,500
-2012,Concordia-Mhead,161,Hamline,268,02/11/2012,2,1,Away,"",-,500
-2012,Concordia-Mhead,161,Saint Mary's (MN),612,02/17/2012,1,5,Home,"",-,272
-2012,Concordia-Mhead,161,Saint Mary's (MN),612,02/18/2012,7,0,Home,"",-,114
-2012,Connecticut,164,Bowling Green,71,10/07/2011,1,2,Away,"",-,"1,316"
-2012,Connecticut,164,Bowling Green,71,10/08/2011,4,4,Away,"",1 OT,"1,221"
-2012,Connecticut,164,Army,725,10/14/2011,5,0,Away,"",-,"1,375"
-2012,Connecticut,164,Mass.-Lowell,368,10/18/2011,3,2,Neutral,"Nashua, NH",1 OT,"1,050"
-2012,Connecticut,164,Merrimack,410,10/22/2011,0,5,Away,"",-,"2,489"
-2012,Connecticut,164,Holy Cross,285,10/27/2011,4,2,Home,"",-,728
-2012,Connecticut,164,Mercyhurst,408,11/04/2011,3,4,Away,"",1 OT,975
-2012,Connecticut,164,Mercyhurst,408,11/05/2011,0,2,Away,"",-,838
-2012,Connecticut,164,American Int'l,22,11/12/2011,2,2,Away,"",1 OT,334
-2012,Connecticut,164,Sacred Heart,590,11/16/2011,8,3,Home,"",-,607
-2012,Connecticut,164,Yale,813,11/19/2011,3,5,Away,"",-,"3,386"
-2012,Connecticut,164,Air Force,721,11/25/2011,1,3,Away,"",-,"2,934"
-2012,Connecticut,164,Air Force,721,11/26/2011,3,4,Away,"",-,"2,663"
-2012,Connecticut,164,Rochester Inst.,580,12/02/2011,3,2,Home,"",-,747
-2012,Connecticut,164,Rochester Inst.,580,12/03/2011,1,2,Home,"",-,918
-2012,Connecticut,164,Bentley,56,12/09/2011,2,4,Home,"",-,580
-2012,Connecticut,164,Army,725,12/29/2011,2,0,Home,"",-,"1,587"
-2012,Connecticut,164,Mass.-Lowell,368,12/30/2011,3,4,Home,"",1 OT,"1,425"
-2012,Connecticut,164,Niagara,482,01/06/2012,4,2,Home,"",-,511
-2012,Connecticut,164,Niagara,482,01/07/2012,2,0,Home,"",-,507
-2012,Connecticut,164,Canisius,116,01/14/2012,6,2,Away,"",-,502
-2012,Connecticut,164,Canisius,116,01/15/2012,4,3,Away,"",-,496
-2012,Connecticut,164,Robert Morris,579,01/20/2012,3,4,Home,"",-,584
-2012,Connecticut,164,Robert Morris,579,01/21/2012,1,2,Home,"",-,528
-2012,Connecticut,164,Holy Cross,285,01/27/2012,3,1,Home,"",-,743
-2012,Connecticut,164,Holy Cross,285,01/28/2012,3,0,Away,"",-,"1,472"
-2012,Connecticut,164,Princeton,554,01/31/2012,3,4,Away,"",-,"1,171"
-2012,Connecticut,164,Army,725,02/07/2012,2,4,Home,"",-,505
-2012,Connecticut,164,Sacred Heart,590,02/10/2012,5,5,Home,"",1 OT,"1,024"
-2012,Connecticut,164,Sacred Heart,590,02/12/2012,1,2,Away,"",1 OT,431
-2012,Connecticut,164,Bentley,56,02/17/2012,1,2,Home,"",1 OT,927
-2012,Connecticut,164,Bentley,56,02/18/2012,1,6,Away,"",-,448
-2012,Connecticut,164,American Int'l,22,02/24/2012,3,3,Away,"",1 OT,211
-2012,Connecticut,164,American Int'l,22,02/25/2012,5,3,Home,"",-,750
-2012,Connecticut,164,Canisius,116,03/02/2012,4,3,Home,"",1 OT,479
-2012,Connecticut,164,Canisius,116,03/03/2012,4,0,Home,"",-,351
-2012,Connecticut,164,Air Force,721,03/09/2012,3,4,Away,"",-,"2,529"
-2012,Connecticut,164,Air Force,721,03/10/2012,3,1,Away,"",-,"2,407"
-2012,Connecticut,164,Air Force,721,03/11/2012,3,4,Away,"",-,"1,587"
+2012,Concordia Wisconsin,1036,Wis.-Stout,803,10/21/2011,1,6,Away,"",-,500
+2012,Concordia Wisconsin,1036,St. Norbert,614,10/25/2011,0,8,Home,"",-,373
+2012,Concordia Wisconsin,1036,Milwaukee Engr.,20220,10/28/2011,3,7,Home,"",-,234
+2012,Concordia Wisconsin,1036,Milwaukee Engr.,20220,10/29/2011,1,6,Away,"",-,0
+2012,Concordia Wisconsin,1036,Lawrence,348,11/04/2011,2,4,Away,"",-,612
+2012,Concordia Wisconsin,1036,Lawrence,348,11/05/2011,2,2,Home,"",1 OT,312
+2012,Concordia Wisconsin,1036,Lake Forest,344,11/11/2011,3,6,Away,"",-,314
+2012,Concordia Wisconsin,1036,Lake Forest,344,11/12/2011,5,2,Home,"",-,124
+2012,Concordia Wisconsin,1036,Saint John's (MN),602,11/25/2011,2,5,Away,"",-,103
+2012,Concordia Wisconsin,1036,Saint John's (MN),602,11/26/2011,2,2,Away,"",1 OT,119
+2012,Concordia Wisconsin,1036,Adrian,4,12/02/2011,4,9,Home,"",-,398
+2012,Concordia Wisconsin,1036,Adrian,4,12/03/2011,3,5,Home,"",-,197
+2012,Concordia Wisconsin,1036,Gust. Adolphus,266,12/09/2011,3,5,Home,"",-,988
+2012,Concordia Wisconsin,1036,Finlandia,30032,01/13/2012,7,6,Home,"",-,213
+2012,Concordia Wisconsin,1036,Finlandia,30032,01/14/2012,4,5,Home,"",-,220
+2012,Concordia Wisconsin,1036,Northland,1267,01/20/2012,2,6,Away,"",-,60
+2012,Concordia Wisconsin,1036,Northland,1267,01/21/2012,3,3,Away,"",1 OT,0
+2012,Concordia Wisconsin,1036,Lake Forest,344,01/27/2012,2,6,Home,"",-,224
+2012,Concordia Wisconsin,1036,Lake Forest,344,01/28/2012,1,5,Away,"",-,148
+2012,Concordia Wisconsin,1036,Milwaukee Engr.,20220,02/03/2012,1,5,Away,"",-,427
+2012,Concordia Wisconsin,1036,Milwaukee Engr.,20220,02/04/2012,4,7,Home,"",-,489
+2012,Concordia Wisconsin,1036,Adrian,4,02/10/2012,2,9,Away,"",-,721
+2012,Concordia Wisconsin,1036,Adrian,4,02/11/2012,1,5,Away,"",-,579
+2012,Concordia Wisconsin,1036,Marian (WI),1196,02/17/2012,1,5,Home,"",-,309
+2012,Concordia Wisconsin,1036,Marian (WI),1196,02/18/2012,2,6,Away,"",-,259
+2012,Concordia-M'head,161,Gust. Adolphus,266,10/29/2011,3,2,Neutral,"Blaine, MN",-,0
+2012,Concordia-M'head,161,Saint John's (MN),602,10/30/2011,2,1,Neutral,"Blaine, MN",-,0
+2012,Concordia-M'head,161,Wis.-Stout,803,11/04/2011,1,2,Away,"",-,375
+2012,Concordia-M'head,161,St. Thomas (MN),620,11/05/2011,2,1,Away,"",-,190
+2012,Concordia-M'head,161,St. Olaf,615,11/11/2011,1,5,Away,"",-,287
+2012,Concordia-M'head,161,St. Olaf,615,11/12/2011,2,2,Away,"",2 OT,156
+2012,Concordia-M'head,161,Bethel (MN),60,11/18/2011,2,0,Home,"",-,303
+2012,Concordia-M'head,161,Bethel (MN),60,11/19/2011,1,0,Home,"",-,183
+2012,Concordia-M'head,161,Wis.-Superior,804,11/23/2011,1,6,Home,"",-,112
+2012,Concordia-M'head,161,St. Thomas (MN),620,12/02/2011,3,2,Home,"",-,421
+2012,Concordia-M'head,161,St. Thomas (MN),620,12/03/2011,2,2,Home,"",2 OT,168
+2012,Concordia-M'head,161,Northland,1267,12/17/2011,2,2,Away,"",2 OT,231
+2012,Concordia-M'head,161,Northland,1267,12/18/2011,4,3,Away,"",-,189
+2012,Concordia-M'head,161,Wis.-Eau Claire,793,01/06/2012,0,3,Home,"",-,168
+2012,Concordia-M'head,161,Wis.-River Falls,801,01/07/2012,1,3,Home,"",-,144
+2012,Concordia-M'head,161,Augsburg,38,01/13/2012,1,5,Home,"",-,235
+2012,Concordia-M'head,161,Augsburg,38,01/14/2012,4,1,Home,"",-,147
+2012,Concordia-M'head,161,Saint John's (MN),602,01/21/2012,1,2,Away,"",-,224
+2012,Concordia-M'head,161,Saint John's (MN),602,01/22/2012,1,4,Away,"",-,191
+2012,Concordia-M'head,161,Gust. Adolphus,266,01/27/2012,4,4,Away,"",2 OT,271
+2012,Concordia-M'head,161,Gust. Adolphus,266,01/28/2012,0,2,Away,"",-,249
+2012,Concordia-M'head,161,Hamline,268,02/10/2012,0,1,Away,"",-,500
+2012,Concordia-M'head,161,Hamline,268,02/11/2012,2,1,Away,"",-,500
+2012,Concordia-M'head,161,Saint Mary's (MN),612,02/17/2012,1,5,Home,"",-,272
+2012,Concordia-M'head,161,Saint Mary's (MN),612,02/18/2012,7,0,Home,"",-,114
 2012,Connecticut Col.,163,Wesleyan (CT),764,11/18/2011,1,6,Away,"",-,0
 2012,Connecticut Col.,163,Trinity (CT),713,11/19/2011,5,4,Away,"",-,0
 2012,Connecticut Col.,163,Mass.-Dartmouth,656,11/26/2011,4,6,Home,"",-,0
@@ -1283,32 +1244,32 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2012,Framingham St.,238,Salem St.,621,02/18/2012,2,8,Away,"",-,0
 2012,Framingham St.,238,Mass.-Dartmouth,656,02/21/2012,0,6,Away,"",-,0
 2012,Framingham St.,238,Southern N.H.,468,02/23/2012,5,4,Home,"",1 OT,225
-2012,Fredonia St.,242,Assumption,36,10/21/2011,4,1,Home,"",-,0
-2012,Fredonia St.,242,Assumption,36,10/22/2011,5,1,Home,"",-,0
-2012,Fredonia St.,242,Brockport,78,10/28/2011,4,4,Away,"",-,0
-2012,Fredonia St.,242,SUNY Geneseo,247,10/29/2011,1,2,Away,"",-,0
-2012,Fredonia St.,242,Morrisville St.,30067,11/04/2011,5,1,Away,"",-,0
-2012,Fredonia St.,242,Plattsburgh St.,547,11/11/2011,3,7,Home,"",-,0
-2012,Fredonia St.,242,SUNY Potsdam,552,11/12/2011,9,1,Home,"",-,0
-2012,Fredonia St.,242,Oswego St.,530,11/18/2011,1,4,Home,"",-,0
-2012,Fredonia St.,242,SUNY Cortland,168,11/19/2011,5,5,Home,"",-,0
-2012,Fredonia St.,242,Buffalo St.,85,12/02/2011,3,3,Away,"",-,0
-2012,Fredonia St.,242,Elmira,213,12/03/2011,1,4,Away,"",-,0
-2012,Fredonia St.,242,Johnson & Wales (RI),22626,12/09/2011,3,1,Home,"",-,0
-2012,Fredonia St.,242,Johnson & Wales (RI),22626,12/10/2011,5,2,Home,"",-,0
-2012,Fredonia St.,242,Elmira,213,01/10/2012,1,2,Home,"",-,0
-2012,Fredonia St.,242,Neumann,1254,01/13/2012,2,5,Home,"",-,0
-2012,Fredonia St.,242,Neumann,1254,01/14/2012,3,2,Home,"",-,0
-2012,Fredonia St.,242,Brockport,78,01/20/2012,4,2,Home,"",-,0
-2012,Fredonia St.,242,SUNY Geneseo,247,01/21/2012,4,2,Home,"",-,0
-2012,Fredonia St.,242,Morrisville St.,30067,01/27/2012,5,2,Home,"",-,0
-2012,Fredonia St.,242,Plattsburgh St.,547,02/03/2012,2,3,Away,"",-,0
-2012,Fredonia St.,242,SUNY Potsdam,552,02/04/2012,3,4,Away,"",-,0
-2012,Fredonia St.,242,Oswego St.,530,02/10/2012,2,10,Away,"",-,0
-2012,Fredonia St.,242,SUNY Cortland,168,02/11/2012,3,0,Away,"",-,0
-2012,Fredonia St.,242,Buffalo St.,85,02/17/2012,2,3,Home,"",-,0
-2012,Fredonia St.,242,SUNY Geneseo,247,02/22/2012,4,1,Away,"",-,0
-2012,Fredonia St.,242,Oswego St.,530,02/25/2012,3,8,Away,"",-,0
+2012,Fredonia,242,Assumption,36,10/21/2011,4,1,Home,"",-,0
+2012,Fredonia,242,Assumption,36,10/22/2011,5,1,Home,"",-,0
+2012,Fredonia,242,Brockport,78,10/28/2011,4,4,Away,"",-,0
+2012,Fredonia,242,SUNY Geneseo,247,10/29/2011,1,2,Away,"",-,0
+2012,Fredonia,242,Morrisville St.,30067,11/04/2011,5,1,Away,"",-,0
+2012,Fredonia,242,Plattsburgh St.,547,11/11/2011,3,7,Home,"",-,0
+2012,Fredonia,242,SUNY Potsdam,552,11/12/2011,9,1,Home,"",-,0
+2012,Fredonia,242,Oswego St.,530,11/18/2011,1,4,Home,"",-,0
+2012,Fredonia,242,SUNY Cortland,168,11/19/2011,5,5,Home,"",-,0
+2012,Fredonia,242,Buffalo St.,85,12/02/2011,3,3,Away,"",-,0
+2012,Fredonia,242,Elmira,213,12/03/2011,1,4,Away,"",-,0
+2012,Fredonia,242,Johnson & Wales (RI),22626,12/09/2011,3,1,Home,"",-,0
+2012,Fredonia,242,Johnson & Wales (RI),22626,12/10/2011,5,2,Home,"",-,0
+2012,Fredonia,242,Elmira,213,01/10/2012,1,2,Home,"",-,0
+2012,Fredonia,242,Neumann,1254,01/13/2012,2,5,Home,"",-,0
+2012,Fredonia,242,Neumann,1254,01/14/2012,3,2,Home,"",-,0
+2012,Fredonia,242,Brockport,78,01/20/2012,4,2,Home,"",-,0
+2012,Fredonia,242,SUNY Geneseo,247,01/21/2012,4,2,Home,"",-,0
+2012,Fredonia,242,Morrisville St.,30067,01/27/2012,5,2,Home,"",-,0
+2012,Fredonia,242,Plattsburgh St.,547,02/03/2012,2,3,Away,"",-,0
+2012,Fredonia,242,SUNY Potsdam,552,02/04/2012,3,4,Away,"",-,0
+2012,Fredonia,242,Oswego St.,530,02/10/2012,2,10,Away,"",-,0
+2012,Fredonia,242,SUNY Cortland,168,02/11/2012,3,0,Away,"",-,0
+2012,Fredonia,242,Buffalo St.,85,02/17/2012,2,3,Home,"",-,0
+2012,Fredonia,242,SUNY Geneseo,247,02/22/2012,4,1,Away,"",-,0
+2012,Fredonia,242,Oswego St.,530,02/25/2012,3,8,Away,"",-,0
 2012,Gust. Adolphus,266,Saint John's (MN),602,10/28/2011,3,3,Neutral,"Blaine, Minn.",1 OT,78
 2012,Gust. Adolphus,266,Concordia-M'head,161,10/29/2011,2,3,Neutral,"Blaine, MN",-,0
 2012,Gust. Adolphus,266,St. Norbert,614,11/04/2011,2,2,Away,"",1 OT,898
@@ -1701,97 +1662,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2012,Marian (WI),1196,Concordia (WI),1036,02/17/2012,5,1,Away,"",-,0
 2012,Marian (WI),1196,Concordia (WI),1036,02/18/2012,6,2,Home,"",-,0
 2012,Marian (WI),1196,Milwaukee Engr.,20220,03/03/2012,2,3,Neutral,Adrian,-,0
-2012,Mass.-Boston,401,St. Anselm,593,11/04/2011,1,2,Home,"",-,535
-2012,Mass.-Boston,401,New England Col.,467,11/05/2011,3,4,Home,"",-,163
-2012,Mass.-Boston,401,Mass.-Dartmouth,656,11/12/2011,5,4,Away,"",-,344
-2012,Mass.-Boston,401,Skidmore,642,11/18/2011,0,4,Away,"",-,260
-2012,Mass.-Boston,401,Castleton,123,11/19/2011,3,6,Away,"",-,780
-2012,Mass.-Boston,401,Framingham St.,238,11/22/2011,9,1,Away,"",-,150
-2012,Mass.-Boston,401,Worcester St.,809,11/26/2011,1,1,Neutral,"Hooksett, NH",1 OT,154
-2012,Mass.-Boston,401,U New England,1255,11/27/2011,3,3,Neutral,"Hooksett, NH",1 OT,65
-2012,Mass.-Boston,401,Southern Me.,662,12/02/2011,3,4,Away,"",-,215
-2012,Mass.-Boston,401,U New England,1255,12/03/2011,8,3,Away,"",-,174
-2012,Mass.-Boston,401,Wentworth Inst.,762,12/08/2011,2,0,Away,"",-,165
-2012,Mass.-Boston,401,Southern N.H.,468,01/06/2012,9,0,Home,"",-,189
-2012,Mass.-Boston,401,Tufts,717,01/07/2012,1,2,Home,"",1 OT,125
-2012,Mass.-Boston,401,Saint Michael's,613,01/13/2012,3,1,Home,"",-,181
-2012,Mass.-Boston,401,Norwich,511,01/14/2012,2,1,Home,"",-,315
-2012,Mass.-Boston,401,New England Col.,467,01/20/2012,3,2,Away,"",1 OT,75
-2012,Mass.-Boston,401,St. Anselm,593,01/21/2012,3,2,Away,"",-,318
-2012,Mass.-Boston,401,Babson,45,01/27/2012,3,4,Home,"",1 OT,130
-2012,Mass.-Boston,401,Babson,45,01/28/2012,1,1,Away,"",1 OT,400
-2012,Mass.-Boston,401,Castleton,123,02/03/2012,5,4,Home,"",-,110
-2012,Mass.-Boston,401,Skidmore,642,02/04/2012,2,4,Home,"",-,500
-2012,Mass.-Boston,401,U New England,1255,02/10/2012,4,3,Home,"",-,101
-2012,Mass.-Boston,401,Southern Me.,662,02/11/2012,5,2,Home,"",-,133
-2012,Mass.-Boston,401,Norwich,511,02/17/2012,1,3,Away,"",-,"1,435"
-2012,Mass.-Boston,401,Saint Michael's,613,02/18/2012,5,1,Away,"",-,317
-2012,Mass.-Boston,401,Skidmore,642,02/25/2012,2,3,Away,"",-,580
-2012,Mass.-Dartmouth,656,Becker,26107,11/09/2011,7,3,Away,"",-,343
-2012,Mass.-Dartmouth,656,Mass.-Boston,401,11/12/2011,4,5,Home,"",-,344
-2012,Mass.-Dartmouth,656,Worcester St.,809,11/15/2011,3,1,Away,"",-,150
-2012,Mass.-Dartmouth,656,Salem St.,621,11/19/2011,3,3,Home,"",1 OT,365
-2012,Mass.-Dartmouth,656,Wesleyan (CT),764,11/22/2011,2,5,Home,"",-,295
-2012,Mass.-Dartmouth,656,Connecticut,164,11/26/2011,6,4,Away,"",-,300
-2012,Mass.-Dartmouth,656,Westfield St.,777,12/01/2011,5,2,Home,"",-,300
-2012,Mass.-Dartmouth,656,Fitchburg St.,227,12/03/2011,3,2,Away,"",-,300
-2012,Mass.-Dartmouth,656,Plymouth St.,548,12/08/2011,2,3,Away,"",1 OT,750
-2012,Mass.-Dartmouth,656,Framingham St.,238,12/10/2011,9,4,Home,"",-,250
-2012,Mass.-Dartmouth,656,Babson,45,01/07/2012,2,1,Home,"",1 OT,300
-2012,Mass.-Dartmouth,656,Worcester St.,809,01/12/2012,4,1,Home,"",-,200
-2012,Mass.-Dartmouth,656,Salve Regina,623,01/14/2012,7,2,Away,"",-,55
-2012,Mass.-Dartmouth,656,Salem St.,621,01/17/2012,1,3,Away,"",-,500
-2012,Mass.-Dartmouth,656,Westfield St.,777,01/19/2012,5,3,Away,"",-,60
-2012,Mass.-Dartmouth,656,Fitchburg St.,227,01/21/2012,2,4,Home,"",-,100
-2012,Mass.-Dartmouth,656,Plymouth St.,548,01/26/2012,3,2,Home,"",-,198
-2012,Mass.-Dartmouth,656,Framingham St.,238,01/28/2012,6,2,Away,"",-,150
-2012,Mass.-Dartmouth,656,Stonehill,682,01/31/2012,6,3,Away,"",-,100
-2012,Mass.-Dartmouth,656,Worcester St.,809,02/02/2012,2,3,Away,"",-,355
-2012,Mass.-Dartmouth,656,Salem St.,621,02/09/2012,1,6,Home,"",-,150
-2012,Mass.-Dartmouth,656,Westfield St.,777,02/11/2012,1,1,Home,"",1 OT,190
-2012,Mass.-Dartmouth,656,Fitchburg St.,227,02/16/2012,8,4,Away,"",-,150
-2012,Mass.-Dartmouth,656,Plymouth St.,548,02/18/2012,0,2,Away,"",-,700
-2012,Mass.-Dartmouth,656,Framingham St.,238,02/21/2012,6,0,Home,"",-,174
-2012,Mass.-Dartmouth,656,Westfield St.,777,02/25/2012,4,2,Home,"",-,227
-2012,Mass.-Dartmouth,656,Salem St.,621,02/28/2012,3,4,Away,"",1 OT,500
-2012,Mass.-Lowell,368,Minn. St. Mankato,383,10/14/2011,4,2,Away,"",-,0
-2012,Mass.-Lowell,368,Minn. St. Mankato,383,10/15/2011,4,1,Away,"",-,0
-2012,Mass.-Lowell,368,Connecticut,164,10/18/2011,2,3,Neutral,"Nashua, NH",1 OT,0
-2012,Mass.-Lowell,368,Boston College,67,10/28/2011,2,4,Home,"",-,0
-2012,Mass.-Lowell,368,Boston College,67,10/29/2011,3,6,Away,"",-,0
-2012,Mass.-Lowell,368,Boston U.,68,11/05/2011,7,1,Home,"",-,0
-2012,Mass.-Lowell,368,Maine,380,11/11/2011,5,3,Away,"",-,0
-2012,Mass.-Lowell,368,Maine,380,11/12/2011,4,3,Away,"",-,0
-2012,Mass.-Lowell,368,New Hampshire,469,11/18/2011,0,5,Away,"",-,0
-2012,Mass.-Lowell,368,Massachusetts,400,11/19/2011,4,0,Home,"",-,0
-2012,Mass.-Lowell,368,Ala.-Huntsville,10,11/25/2011,3,0,Home,"",-,0
-2012,Mass.-Lowell,368,New Hampshire,469,12/02/2011,3,2,Home,"",-,0
-2012,Mass.-Lowell,368,New Hampshire,469,12/03/2011,5,3,Away,"",-,0
-2012,Mass.-Lowell,368,Boston College,67,12/09/2011,3,2,Home,"",-,0
-2012,Mass.-Lowell,368,Northeastern,500,12/10/2011,2,3,Away,"",-,0
-2012,Mass.-Lowell,368,Rensselaer,570,12/29/2011,7,2,Neutral,"Storrs, CT",-,0
-2012,Mass.-Lowell,368,Connecticut,164,12/30/2011,4,3,Away,"",-,0
-2012,Mass.-Lowell,368,Vermont,738,01/13/2012,2,3,Away,"",5 OT,0
-2012,Mass.-Lowell,368,Northeastern,500,01/20/2012,4,0,Home,"",-,0
-2012,Mass.-Lowell,368,Northeastern,500,01/21/2012,3,2,Away,"",-,0
-2012,Mass.-Lowell,368,Providence,556,01/24/2012,0,1,Away,"",-,0
-2012,Mass.-Lowell,368,Massachusetts,400,01/27/2012,4,2,Away,"",-,0
-2012,Mass.-Lowell,368,Massachusetts,400,01/28/2012,5,2,Home,"",-,0
-2012,Mass.-Lowell,368,Vermont,738,02/03/2012,3,1,Home,"",-,0
-2012,Mass.-Lowell,368,Vermont,738,02/04/2012,6,4,Home,"",-,0
-2012,Mass.-Lowell,368,Merrimack,410,02/10/2012,3,0,Home,"",-,0
-2012,Mass.-Lowell,368,Maine,380,02/11/2012,1,2,Home,"",-,0
-2012,Mass.-Lowell,368,Boston U.,68,02/17/2012,4,7,Home,"",-,0
-2012,Mass.-Lowell,368,Boston U.,68,02/18/2012,4,2,Away,"",-,0
-2012,Mass.-Lowell,368,Merrimack,410,02/24/2012,2,5,Away,"",-,0
-2012,Mass.-Lowell,368,Merrimack,410,02/25/2012,2,2,Home,"",1 OT,0
-2012,Mass.-Lowell,368,Providence,556,03/02/2012,5,1,Away,"",-,0
-2012,Mass.-Lowell,368,Providence,556,03/03/2012,4,2,Home,"",-,0
-2012,Mass.-Lowell,368,Providence,556,03/08/2012,3,5,Home,"",-,0
-2012,Mass.-Lowell,368,Providence,556,03/09/2012,3,2,Home,"",-,0
-2012,Mass.-Lowell,368,Providence,556,03/11/2012,0,1,Home,"",-,0
-2012,Mass.-Lowell,368,Miami (OH),414,03/23/2012,4,3,Neutral,"Bridgeport, CT",1 OT,0
-2012,Mass.-Lowell,368,Union (NY),727,03/24/2012,2,4,Neutral,"Bridgeport, CT",-,0
 2012,Massachusetts,400,Northeastern,500,10/07/2011,3,3,Away,"",1 OT,"2,340"
 2012,Massachusetts,400,Bentley,56,10/14/2011,5,3,Home,"",-,"4,394"
 2012,Massachusetts,400,Providence,556,10/15/2011,4,6,Away,"",-,"1,512"
@@ -2092,36 +1962,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2012,Middlebury,420,Wesleyan (CT),764,02/25/2012,2,1,Home,"",-,0
 2012,Middlebury,420,Bowdoin,69,03/03/2012,6,3,Neutral,"Amherst, MA",-,0
 2012,Middlebury,420,Amherst,24,03/04/2012,3,4,Away,"",-,0
-2012,Milwaukee Engr.,20220,Concordia (WI),1036,10/28/2011,7,3,Away,"",-,0
-2012,Milwaukee Engr.,20220,Concordia (WI),1036,10/29/2011,6,1,Home,"",-,0
-2012,Milwaukee Engr.,20220,Finlandia,30032,11/04/2011,8,1,Home,"",-,0
-2012,Milwaukee Engr.,20220,Finlandia,30032,11/05/2011,3,2,Home,"",-,0
-2012,Milwaukee Engr.,20220,Adrian,4,11/11/2011,3,1,Home,"",-,0
-2012,Milwaukee Engr.,20220,Adrian,4,11/12/2011,2,3,Home,"",-,0
-2012,Milwaukee Engr.,20220,Saint Mary's (MN),612,11/22/2011,1,2,Away,"",1 OT,0
-2012,Milwaukee Engr.,20220,Saint Mary's (MN),612,11/23/2011,6,0,Away,"",-,0
-2012,Milwaukee Engr.,20220,Lake Forest,344,12/02/2011,9,3,Home,"",-,0
-2012,Milwaukee Engr.,20220,Lake Forest,344,12/03/2011,4,3,Away,"",-,0
-2012,Milwaukee Engr.,20220,Saint John's (MN),602,12/09/2011,3,2,Away,"",1 OT,0
-2012,Milwaukee Engr.,20220,Bethel (MN),60,12/10/2011,1,2,Away,"",-,0
-2012,Milwaukee Engr.,20220,Hamline,268,12/16/2011,2,1,Home,"",-,0
-2012,Milwaukee Engr.,20220,Marian (WI),1196,01/13/2012,2,4,Home,"",-,0
-2012,Milwaukee Engr.,20220,Marian (WI),1196,01/14/2012,3,4,Away,"",-,0
-2012,Milwaukee Engr.,20220,Lawrence,348,01/20/2012,3,2,Away,"",-,0
-2012,Milwaukee Engr.,20220,Lawrence,348,01/21/2012,4,2,Home,"",-,0
-2012,Milwaukee Engr.,20220,Adrian,4,01/27/2012,3,3,Away,"",2 OT,0
-2012,Milwaukee Engr.,20220,Adrian,4,01/28/2012,6,1,Away,"",-,0
-2012,Milwaukee Engr.,20220,Concordia (WI),1036,02/03/2012,5,1,Home,"",-,0
-2012,Milwaukee Engr.,20220,Concordia (WI),1036,02/04/2012,7,4,Away,"",-,0
-2012,Milwaukee Engr.,20220,Lake Forest,344,02/10/2012,4,0,Away,"",-,0
-2012,Milwaukee Engr.,20220,Lake Forest,344,02/11/2012,6,1,Home,"",-,0
-2012,Milwaukee Engr.,20220,Northland,1267,02/17/2012,3,0,Away,"",-,0
-2012,Milwaukee Engr.,20220,Northland,1267,02/18/2012,4,1,Away,"",-,0
-2012,Milwaukee Engr.,20220,Lake Forest,344,02/25/2012,7,2,Home,"",-,0
-2012,Milwaukee Engr.,20220,Lake Forest,344,02/26/2012,4,6,Home,"",-,0
-2012,Milwaukee Engr.,20220,Marian (WI),1196,03/03/2012,3,2,Neutral,Adrian,-,0
-2012,Milwaukee Engr.,20220,Marian (WI),1196,03/04/2012,4,3,Away,"",1 OT,0
-2012,Milwaukee Engr.,20220,Gust. Adolphus,266,03/07/2012,1,3,Away,"",-,0
 2012,Minn. Duluth,427,Notre Dame,513,10/07/2011,4,3,Home,"",-,0
 2012,Minn. Duluth,427,Notre Dame,513,10/08/2011,3,5,Home,"",-,0
 2012,Minn. Duluth,427,Minnesota,428,10/14/2011,4,5,Home,"",1 OT,0
@@ -2269,44 +2109,36 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2012,Morrisville St.,30067,Manhattanville,382,02/11/2012,3,9,Home,"",-,0
 2012,Morrisville St.,30067,SUNY Geneseo,247,02/17/2012,2,3,Home,"",-,0
 2012,Morrisville St.,30067,Brockport,78,02/18/2012,2,1,Home,"",-,0
-2012,Neb.-Omaha,464,Mercyhurst,408,10/07/2011,5,1,Home,"",-,"5,407"
-2012,Neb.-Omaha,464,Colgate,153,10/08/2011,3,4,Home,"",-,"3,831"
-2012,Neb.-Omaha,464,Alas. Anchorage,11,10/14/2011,0,3,Neutral,"Fairbanks, AK",-,"2,108"
-2012,Neb.-Omaha,464,Alas. Fairbanks,12,10/15/2011,1,4,Away,"",-,"2,475"
-2012,Neb.-Omaha,464,Alas. Anchorage,11,10/21/2011,4,1,Home,"",-,"5,894"
-2012,Neb.-Omaha,464,Alas. Anchorage,11,10/22/2011,3,1,Home,"",-,"5,614"
-2012,Neb.-Omaha,464,Wisconsin,796,10/28/2011,5,4,Away,"",-,"9,713"
-2012,Neb.-Omaha,464,Wisconsin,796,10/29/2011,3,6,Away,"",-,"11,207"
-2012,Neb.-Omaha,464,Colorado Col.,154,11/04/2011,7,5,Home,"",-,"7,609"
-2012,Neb.-Omaha,464,Colorado Col.,154,11/05/2011,2,5,Home,"",-,"7,089"
-2012,Neb.-Omaha,464,Bemidji St.,54,11/11/2011,3,3,Away,"",1 OT,"3,393"
-2012,Neb.-Omaha,464,Bemidji St.,54,11/12/2011,5,1,Away,"",-,"3,343"
-2012,Neb.-Omaha,464,Denver,183,11/18/2011,3,7,Away,"",-,"4,260"
-2012,Neb.-Omaha,464,Denver,183,11/19/2011,3,3,Away,"",1 OT,"5,205"
-2012,Neb.-Omaha,464,St. Cloud St.,598,11/26/2011,4,3,Home,"",-,"8,112"
-2012,Neb.-Omaha,464,St. Cloud St.,598,11/27/2011,2,2,Home,"",1 OT,"5,383"
-2012,Neb.-Omaha,464,Ala.-Huntsville,10,12/02/2011,1,3,Neutral,"Nashville, Tenn.",-,957
-2012,Neb.-Omaha,464,Ala.-Huntsville,10,12/03/2011,6,2,Neutral,"Nashville, Tenn.",-,"1,364"
-2012,Neb.-Omaha,464,North Dakota,494,12/09/2011,2,1,Away,"",1 OT,"11,418"
-2012,Neb.-Omaha,464,North Dakota,494,12/10/2011,0,1,Away,"",-,"11,719"
-2012,Neb.-Omaha,464,Quinnipiac,562,12/30/2011,2,2,Home,"",1 OT,"9,117"
-2012,Neb.-Omaha,464,Quinnipiac,562,12/31/2011,4,1,Home,"",-,"6,034"
-2012,Neb.-Omaha,464,Minn. Duluth,427,01/13/2012,2,6,Home,"",-,"16,138"
-2012,Neb.-Omaha,464,Minn. Duluth,427,01/14/2012,3,1,Home,"",-,"8,364"
-2012,Neb.-Omaha,464,Minn. St. Mankato,383,01/20/2012,2,1,Away,"",1 OT,"3,317"
-2012,Neb.-Omaha,464,Minn. St. Mankato,383,01/21/2012,4,5,Away,"",1 OT,"3,834"
-2012,Neb.-Omaha,464,Bemidji St.,54,02/03/2012,1,1,Home,"",1 OT,"9,079"
-2012,Neb.-Omaha,464,Bemidji St.,54,02/04/2012,4,6,Home,"",-,"6,878"
-2012,Neb.-Omaha,464,Michigan Tech,417,02/10/2012,3,3,Away,"",1 OT,"3,454"
-2012,Neb.-Omaha,464,Michigan Tech,417,02/11/2012,4,0,Away,"",-,"3,488"
-2012,Neb.-Omaha,464,Colorado Col.,154,02/17/2012,3,4,Away,"",-,"6,942"
-2012,Neb.-Omaha,464,Colorado Col.,154,02/18/2012,5,3,Away,"",-,"7,321"
-2012,Neb.-Omaha,464,Minnesota,428,02/24/2012,2,3,Home,"",1 OT,"9,180"
-2012,Neb.-Omaha,464,Minnesota,428,02/25/2012,2,3,Home,"",-,"11,772"
-2012,Neb.-Omaha,464,Denver,183,03/02/2012,0,3,Home,"",-,"7,154"
-2012,Neb.-Omaha,464,Denver,183,03/03/2012,2,3,Home,"",1 OT,"8,889"
-2012,Neb.-Omaha,464,St. Cloud St.,598,03/09/2012,0,4,Away,"",-,"2,607"
-2012,Neb.-Omaha,464,St. Cloud St.,598,03/10/2012,1,3,Away,"",-,"2,936"
+2012,MSOE,20220,Concordia (WI),1036,10/28/2011,7,3,Away,"",-,0
+2012,MSOE,20220,Concordia (WI),1036,10/29/2011,6,1,Home,"",-,0
+2012,MSOE,20220,Finlandia,30032,11/04/2011,8,1,Home,"",-,0
+2012,MSOE,20220,Finlandia,30032,11/05/2011,3,2,Home,"",-,0
+2012,MSOE,20220,Adrian,4,11/11/2011,3,1,Home,"",-,0
+2012,MSOE,20220,Adrian,4,11/12/2011,2,3,Home,"",-,0
+2012,MSOE,20220,Saint Mary's (MN),612,11/22/2011,1,2,Away,"",1 OT,0
+2012,MSOE,20220,Saint Mary's (MN),612,11/23/2011,6,0,Away,"",-,0
+2012,MSOE,20220,Lake Forest,344,12/02/2011,9,3,Home,"",-,0
+2012,MSOE,20220,Lake Forest,344,12/03/2011,4,3,Away,"",-,0
+2012,MSOE,20220,Saint John's (MN),602,12/09/2011,3,2,Away,"",1 OT,0
+2012,MSOE,20220,Bethel (MN),60,12/10/2011,1,2,Away,"",-,0
+2012,MSOE,20220,Hamline,268,12/16/2011,2,1,Home,"",-,0
+2012,MSOE,20220,Marian (WI),1196,01/13/2012,2,4,Home,"",-,0
+2012,MSOE,20220,Marian (WI),1196,01/14/2012,3,4,Away,"",-,0
+2012,MSOE,20220,Lawrence,348,01/20/2012,3,2,Away,"",-,0
+2012,MSOE,20220,Lawrence,348,01/21/2012,4,2,Home,"",-,0
+2012,MSOE,20220,Adrian,4,01/27/2012,3,3,Away,"",2 OT,0
+2012,MSOE,20220,Adrian,4,01/28/2012,6,1,Away,"",-,0
+2012,MSOE,20220,Concordia (WI),1036,02/03/2012,5,1,Home,"",-,0
+2012,MSOE,20220,Concordia (WI),1036,02/04/2012,7,4,Away,"",-,0
+2012,MSOE,20220,Lake Forest,344,02/10/2012,4,0,Away,"",-,0
+2012,MSOE,20220,Lake Forest,344,02/11/2012,6,1,Home,"",-,0
+2012,MSOE,20220,Northland,1267,02/17/2012,3,0,Away,"",-,0
+2012,MSOE,20220,Northland,1267,02/18/2012,4,1,Away,"",-,0
+2012,MSOE,20220,Lake Forest,344,02/25/2012,7,2,Home,"",-,0
+2012,MSOE,20220,Lake Forest,344,02/26/2012,4,6,Home,"",-,0
+2012,MSOE,20220,Marian (WI),1196,03/03/2012,3,2,Neutral,Adrian,-,0
+2012,MSOE,20220,Marian (WI),1196,03/04/2012,4,3,Away,"",1 OT,0
+2012,MSOE,20220,Gust. Adolphus,266,03/07/2012,1,3,Away,"",-,0
 2012,Neumann,1254,Curry,170,11/06/2011,5,4,Home,"",-,78
 2012,Neumann,1254,Hobart,282,11/11/2011,5,3,Away,"",-,225
 2012,Neumann,1254,Elmira,213,11/12/2011,2,4,Away,"",-,"1,500"
@@ -2702,6 +2534,44 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2012,Ohio St.,518,Miami (OH),414,02/25/2012,1,5,Home,"",-,"8,404"
 2012,Ohio St.,518,Notre Dame,513,03/02/2012,0,2,Away,"",-,"3,936"
 2012,Ohio St.,518,Notre Dame,513,03/03/2012,2,4,Away,"",-,"4,202"
+2012,Omaha,464,Mercyhurst,408,10/07/2011,5,1,Home,"",-,"5,407"
+2012,Omaha,464,Colgate,153,10/08/2011,3,4,Home,"",-,"3,831"
+2012,Omaha,464,Alas. Anchorage,11,10/14/2011,0,3,Neutral,"Fairbanks, AK",-,"2,108"
+2012,Omaha,464,Alas. Fairbanks,12,10/15/2011,1,4,Away,"",-,"2,475"
+2012,Omaha,464,Alas. Anchorage,11,10/21/2011,4,1,Home,"",-,"5,894"
+2012,Omaha,464,Alas. Anchorage,11,10/22/2011,3,1,Home,"",-,"5,614"
+2012,Omaha,464,Wisconsin,796,10/28/2011,5,4,Away,"",-,"9,713"
+2012,Omaha,464,Wisconsin,796,10/29/2011,3,6,Away,"",-,"11,207"
+2012,Omaha,464,Colorado Col.,154,11/04/2011,7,5,Home,"",-,"7,609"
+2012,Omaha,464,Colorado Col.,154,11/05/2011,2,5,Home,"",-,"7,089"
+2012,Omaha,464,Bemidji St.,54,11/11/2011,3,3,Away,"",1 OT,"3,393"
+2012,Omaha,464,Bemidji St.,54,11/12/2011,5,1,Away,"",-,"3,343"
+2012,Omaha,464,Denver,183,11/18/2011,3,7,Away,"",-,"4,260"
+2012,Omaha,464,Denver,183,11/19/2011,3,3,Away,"",1 OT,"5,205"
+2012,Omaha,464,St. Cloud St.,598,11/26/2011,4,3,Home,"",-,"8,112"
+2012,Omaha,464,St. Cloud St.,598,11/27/2011,2,2,Home,"",1 OT,"5,383"
+2012,Omaha,464,Ala.-Huntsville,10,12/02/2011,1,3,Neutral,"Nashville, Tenn.",-,957
+2012,Omaha,464,Ala.-Huntsville,10,12/03/2011,6,2,Neutral,"Nashville, Tenn.",-,"1,364"
+2012,Omaha,464,North Dakota,494,12/09/2011,2,1,Away,"",1 OT,"11,418"
+2012,Omaha,464,North Dakota,494,12/10/2011,0,1,Away,"",-,"11,719"
+2012,Omaha,464,Quinnipiac,562,12/30/2011,2,2,Home,"",1 OT,"9,117"
+2012,Omaha,464,Quinnipiac,562,12/31/2011,4,1,Home,"",-,"6,034"
+2012,Omaha,464,Minn. Duluth,427,01/13/2012,2,6,Home,"",-,"16,138"
+2012,Omaha,464,Minn. Duluth,427,01/14/2012,3,1,Home,"",-,"8,364"
+2012,Omaha,464,Minn. St. Mankato,383,01/20/2012,2,1,Away,"",1 OT,"3,317"
+2012,Omaha,464,Minn. St. Mankato,383,01/21/2012,4,5,Away,"",1 OT,"3,834"
+2012,Omaha,464,Bemidji St.,54,02/03/2012,1,1,Home,"",1 OT,"9,079"
+2012,Omaha,464,Bemidji St.,54,02/04/2012,4,6,Home,"",-,"6,878"
+2012,Omaha,464,Michigan Tech,417,02/10/2012,3,3,Away,"",1 OT,"3,454"
+2012,Omaha,464,Michigan Tech,417,02/11/2012,4,0,Away,"",-,"3,488"
+2012,Omaha,464,Colorado Col.,154,02/17/2012,3,4,Away,"",-,"6,942"
+2012,Omaha,464,Colorado Col.,154,02/18/2012,5,3,Away,"",-,"7,321"
+2012,Omaha,464,Minnesota,428,02/24/2012,2,3,Home,"",1 OT,"9,180"
+2012,Omaha,464,Minnesota,428,02/25/2012,2,3,Home,"",-,"11,772"
+2012,Omaha,464,Denver,183,03/02/2012,0,3,Home,"",-,"7,154"
+2012,Omaha,464,Denver,183,03/03/2012,2,3,Home,"",1 OT,"8,889"
+2012,Omaha,464,St. Cloud St.,598,03/09/2012,0,4,Away,"",-,"2,607"
+2012,Omaha,464,St. Cloud St.,598,03/10/2012,1,3,Away,"",-,"2,936"
 2012,Oswego St.,530,Elmira,213,10/21/2011,7,3,Away,"",-,"1,554"
 2012,Oswego St.,530,Elmira,213,10/22/2011,6,2,Home,"",-,"3,000"
 2012,Oswego St.,530,SUNY Cortland,168,10/28/2011,6,0,Away,"",-,"1,248"
@@ -2929,8 +2799,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2012,Rensselaer,570,Dartmouth,172,02/11/2012,2,1,Away,"",-,0
 2012,Rensselaer,570,Quinnipiac,562,02/17/2012,1,3,Home,"",-,0
 2012,Rensselaer,570,Princeton,554,02/18/2012,2,6,Home,"",-,0
-2012,Rensselaer,570,Colgate,153,02/24/2012,4,2,Away,"",-,0
 2012,Rensselaer,570,Cornell,167,02/24/2012,2,1,Away,"",1 OT,0
+2012,Rensselaer,570,Colgate,153,02/24/2012,4,2,Away,"",-,0
 2012,Rensselaer,570,Clarkson,146,03/02/2012,5,1,Away,"",-,0
 2012,Rensselaer,570,Clarkson,146,03/03/2012,3,4,Away,"",1 OT,0
 2012,Rensselaer,570,Clarkson,146,03/04/2012,4,1,Away,"",-,0
@@ -3051,6 +2921,57 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2012,Sacred Heart,590,Bentley,56,03/02/2012,3,5,Away,"",-,745
 2012,Sacred Heart,590,Bentley,56,03/03/2012,4,2,Away,"",-,654
 2012,Sacred Heart,590,Bentley,56,03/04/2012,0,5,Away,"",-,621
+2012,Saint John's (MN),602,Gust. Adolphus,266,10/28/2011,3,3,Neutral,"Blaine, Minn.",1 OT,78
+2012,Saint John's (MN),602,Concordia-M'head,161,10/30/2011,1,2,Neutral,"Blaine, Minn.",-,0
+2012,Saint John's (MN),602,Wis.-Stout,803,11/05/2011,7,3,Away,"",-,400
+2012,Saint John's (MN),602,St. Thomas (MN),620,11/11/2011,3,5,Home,"",-,811
+2012,Saint John's (MN),602,St. Thomas (MN),620,11/12/2011,4,5,Away,"",-,470
+2012,Saint John's (MN),602,Augsburg,38,11/18/2011,2,3,Away,"",-,174
+2012,Saint John's (MN),602,Augsburg,38,11/19/2011,5,3,Home,"",-,108
+2012,Saint John's (MN),602,Concordia (WI),1036,11/25/2011,5,2,Home,"",-,103
+2012,Saint John's (MN),602,Concordia (WI),1036,11/26/2011,2,2,Home,"",1 OT,119
+2012,Saint John's (MN),602,Milwaukee Engr.,20220,12/09/2011,2,3,Neutral,"St. Cloud, Minn.",1 OT,468
+2012,Saint John's (MN),602,St. Thomas (MN),620,12/10/2011,3,5,Neutral,"Wacnoia, Minn.",-,725
+2012,Saint John's (MN),602,Wis.-River Falls,801,01/06/2012,0,3,Neutral,"Alexandria, Minn.",-,243
+2012,Saint John's (MN),602,Wis.-Eau Claire,793,01/07/2012,1,4,Neutral,"Buffalo, Minn.",-,402
+2012,Saint John's (MN),602,Gust. Adolphus,266,01/13/2012,3,4,Home,"",-,306
+2012,Saint John's (MN),602,Gust. Adolphus,266,01/14/2012,4,3,Away,"",-,561
+2012,Saint John's (MN),602,Concordia-M'head,161,01/21/2012,2,1,Home,"",-,224
+2012,Saint John's (MN),602,Concordia-M'head,161,01/22/2012,4,1,Home,"",-,191
+2012,Saint John's (MN),602,Hamline,268,01/26/2012,4,1,Home,"",-,166
+2012,Saint John's (MN),602,Hamline,268,01/27/2012,1,5,Away,"",-,415
+2012,Saint John's (MN),602,Saint Mary's (MN),612,02/03/2012,3,2,Away,"",-,317
+2012,Saint John's (MN),602,Saint Mary's (MN),612,02/04/2012,3,2,Away,"",-,143
+2012,Saint John's (MN),602,St. Olaf,615,02/10/2012,6,3,Away,"",-,455
+2012,Saint John's (MN),602,St. Olaf,615,02/11/2012,1,2,Home,"",-,466
+2012,Saint John's (MN),602,Bethel (MN),60,02/16/2012,4,1,Home,"",-,391
+2012,Saint John's (MN),602,Bethel (MN),60,02/17/2012,4,7,Away,"",-,725
+2012,Saint John's (MN),602,Gust. Adolphus,266,02/25/2012,1,3,Away,"",-,879
+2012,Saint Mary's (MN),612,St. Thomas (MN),620,10/29/2011,2,3,Neutral,"Blaine, Minn.",-,144
+2012,Saint Mary's (MN),612,St. Olaf,615,10/30/2011,2,3,Neutral,"Blaine, Minn.",-,211
+2012,Saint Mary's (MN),612,St. Scholastica,618,11/04/2011,2,4,Away,"",-,314
+2012,Saint Mary's (MN),612,Wis.-Superior,804,11/05/2011,3,4,Away,"",-,734
+2012,Saint Mary's (MN),612,Hamline,268,11/11/2011,4,6,Away,"",-,765
+2012,Saint Mary's (MN),612,Hamline,268,11/12/2011,3,4,Home,"",1 OT,437
+2012,Saint Mary's (MN),612,Milwaukee Engr.,20220,11/22/2011,2,1,Home,"",1 OT,163
+2012,Saint Mary's (MN),612,Milwaukee Engr.,20220,11/23/2011,0,6,Home,"",-,111
+2012,Saint Mary's (MN),612,St. Olaf,615,12/02/2011,2,5,Away,"",-,315
+2012,Saint Mary's (MN),612,St. Olaf,615,12/03/2011,2,1,Home,"",-,312
+2012,Saint Mary's (MN),612,Marian (WI),1196,12/09/2011,4,2,Home,"",-,471
+2012,Saint Mary's (MN),612,Wis.-Stevens Point,802,01/06/2012,2,3,Home,"",-,255
+2012,Saint Mary's (MN),612,St. Norbert,614,01/07/2012,3,2,Home,"",-,177
+2012,Saint Mary's (MN),612,Bethel (MN),60,01/13/2012,3,5,Away,"",-,557
+2012,Saint Mary's (MN),612,Bethel (MN),60,01/14/2012,2,2,Home,"",1 OT,131
+2012,Saint Mary's (MN),612,St. Thomas (MN),620,01/20/2012,2,4,Home,"",-,311
+2012,Saint Mary's (MN),612,St. Thomas (MN),620,01/21/2012,2,4,Away,"",-,315
+2012,Saint Mary's (MN),612,Augsburg,38,01/27/2012,2,3,Home,"",-,221
+2012,Saint Mary's (MN),612,Augsburg,38,01/28/2012,4,5,Away,"",1 OT,225
+2012,Saint Mary's (MN),612,Saint John's (MN),602,02/03/2012,2,3,Home,"",-,317
+2012,Saint Mary's (MN),612,Saint John's (MN),602,02/04/2012,2,3,Home,"",-,143
+2012,Saint Mary's (MN),612,Gust. Adolphus,266,02/10/2012,4,4,Away,"",1 OT,529
+2012,Saint Mary's (MN),612,Gust. Adolphus,266,02/11/2012,1,4,Home,"",-,223
+2012,Saint Mary's (MN),612,Concordia-M'head,161,02/17/2012,5,1,Away,"",-,272
+2012,Saint Mary's (MN),612,Concordia-M'head,161,02/18/2012,0,7,Away,"",-,114
 2012,Salem St.,621,Wentworth Inst.,762,11/07/2011,4,3,Away,"",-,0
 2012,Salem St.,621,Fitchburg St.,227,11/17/2011,6,4,Home,"",-,0
 2012,Salem St.,621,Mass.-Dartmouth,656,11/19/2011,3,3,Away,"",-,0
@@ -3196,32 +3117,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2012,St. Cloud St.,598,Neb. Omaha,464,03/09/2012,4,0,Home,"",-,"2,607"
 2012,St. Cloud St.,598,Neb. Omaha,464,03/10/2012,3,1,Home,"",-,"2,936"
 2012,St. Cloud St.,598,North Dakota,494,03/15/2012,1,4,Neutral,"St. Paul, MN",-,"15,133"
-2012,St. Johns (MN),602,Gust. Adolphus,266,10/28/2011,3,3,Neutral,"Blaine, Minn.",1 OT,78
-2012,St. Johns (MN),602,Concordia-M'head,161,10/30/2011,1,2,Neutral,"Blaine, Minn.",-,0
-2012,St. Johns (MN),602,Wis.-Stout,803,11/05/2011,7,3,Away,"",-,400
-2012,St. Johns (MN),602,St. Thomas (MN),620,11/11/2011,3,5,Home,"",-,811
-2012,St. Johns (MN),602,St. Thomas (MN),620,11/12/2011,4,5,Away,"",-,470
-2012,St. Johns (MN),602,Augsburg,38,11/18/2011,2,3,Away,"",-,174
-2012,St. Johns (MN),602,Augsburg,38,11/19/2011,5,3,Home,"",-,108
-2012,St. Johns (MN),602,Concordia (WI),1036,11/25/2011,5,2,Home,"",-,103
-2012,St. Johns (MN),602,Concordia (WI),1036,11/26/2011,2,2,Home,"",1 OT,119
-2012,St. Johns (MN),602,Milwaukee Engr.,20220,12/09/2011,2,3,Neutral,"St. Cloud, Minn.",1 OT,468
-2012,St. Johns (MN),602,St. Thomas (MN),620,12/10/2011,3,5,Neutral,"Wacnoia, Minn.",-,725
-2012,St. Johns (MN),602,Wis.-River Falls,801,01/06/2012,0,3,Neutral,"Alexandria, Minn.",-,243
-2012,St. Johns (MN),602,Wis.-Eau Claire,793,01/07/2012,1,4,Neutral,"Buffalo, Minn.",-,402
-2012,St. Johns (MN),602,Gust. Adolphus,266,01/13/2012,3,4,Home,"",-,306
-2012,St. Johns (MN),602,Gust. Adolphus,266,01/14/2012,4,3,Away,"",-,561
-2012,St. Johns (MN),602,Concordia-M'head,161,01/21/2012,2,1,Home,"",-,224
-2012,St. Johns (MN),602,Concordia-M'head,161,01/22/2012,4,1,Home,"",-,191
-2012,St. Johns (MN),602,Hamline,268,01/26/2012,4,1,Home,"",-,166
-2012,St. Johns (MN),602,Hamline,268,01/27/2012,1,5,Away,"",-,415
-2012,St. Johns (MN),602,Saint Mary's (MN),612,02/03/2012,3,2,Away,"",-,317
-2012,St. Johns (MN),602,Saint Mary's (MN),612,02/04/2012,3,2,Away,"",-,143
-2012,St. Johns (MN),602,St. Olaf,615,02/10/2012,6,3,Away,"",-,455
-2012,St. Johns (MN),602,St. Olaf,615,02/11/2012,1,2,Home,"",-,466
-2012,St. Johns (MN),602,Bethel (MN),60,02/16/2012,4,1,Home,"",-,391
-2012,St. Johns (MN),602,Bethel (MN),60,02/17/2012,4,7,Away,"",-,725
-2012,St. Johns (MN),602,Gust. Adolphus,266,02/25/2012,1,3,Away,"",-,879
 2012,St. Lawrence,607,Ferris St.,224,10/07/2011,2,4,Home,"",-,"1,606"
 2012,St. Lawrence,607,Ferris St.,224,10/08/2011,1,5,Home,"",-,985
 2012,St. Lawrence,607,Michigan,418,10/13/2011,3,10,Away,"",-,"5,263"
@@ -3258,31 +3153,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2012,St. Lawrence,607,Dartmouth,172,02/25/2012,3,1,Away,"",-,"3,601"
 2012,St. Lawrence,607,Dartmouth,172,03/02/2012,3,6,Home,"",-,"1,429"
 2012,St. Lawrence,607,Dartmouth,172,03/03/2012,1,4,Home,"",-,"1,368"
-2012,St. Marys (MN),612,St. Thomas (MN),620,10/29/2011,2,3,Neutral,"Blaine, Minn.",-,144
-2012,St. Marys (MN),612,St. Olaf,615,10/30/2011,2,3,Neutral,"Blaine, Minn.",-,211
-2012,St. Marys (MN),612,St. Scholastica,618,11/04/2011,2,4,Away,"",-,314
-2012,St. Marys (MN),612,Wis.-Superior,804,11/05/2011,3,4,Away,"",-,734
-2012,St. Marys (MN),612,Hamline,268,11/11/2011,4,6,Away,"",-,765
-2012,St. Marys (MN),612,Hamline,268,11/12/2011,3,4,Home,"",1 OT,437
-2012,St. Marys (MN),612,Milwaukee Engr.,20220,11/22/2011,2,1,Home,"",1 OT,163
-2012,St. Marys (MN),612,Milwaukee Engr.,20220,11/23/2011,0,6,Home,"",-,111
-2012,St. Marys (MN),612,St. Olaf,615,12/02/2011,2,5,Away,"",-,315
-2012,St. Marys (MN),612,St. Olaf,615,12/03/2011,2,1,Home,"",-,312
-2012,St. Marys (MN),612,Marian (WI),1196,12/09/2011,4,2,Home,"",-,471
-2012,St. Marys (MN),612,Wis.-Stevens Point,802,01/06/2012,2,3,Home,"",-,255
-2012,St. Marys (MN),612,St. Norbert,614,01/07/2012,3,2,Home,"",-,177
-2012,St. Marys (MN),612,Bethel (MN),60,01/13/2012,3,5,Away,"",-,557
-2012,St. Marys (MN),612,Bethel (MN),60,01/14/2012,2,2,Home,"",1 OT,131
-2012,St. Marys (MN),612,St. Thomas (MN),620,01/20/2012,2,4,Home,"",-,311
-2012,St. Marys (MN),612,St. Thomas (MN),620,01/21/2012,2,4,Away,"",-,315
-2012,St. Marys (MN),612,Augsburg,38,01/27/2012,2,3,Home,"",-,221
-2012,St. Marys (MN),612,Augsburg,38,01/28/2012,4,5,Away,"",1 OT,225
-2012,St. Marys (MN),612,Saint John's (MN),602,02/03/2012,2,3,Home,"",-,317
-2012,St. Marys (MN),612,Saint John's (MN),602,02/04/2012,2,3,Home,"",-,143
-2012,St. Marys (MN),612,Gust. Adolphus,266,02/10/2012,4,4,Away,"",1 OT,529
-2012,St. Marys (MN),612,Gust. Adolphus,266,02/11/2012,1,4,Home,"",-,223
-2012,St. Marys (MN),612,Concordia-M'head,161,02/17/2012,5,1,Away,"",-,272
-2012,St. Marys (MN),612,Concordia-M'head,161,02/18/2012,0,7,Away,"",-,114
 2012,St. Norbert,614,Concordia (WI),1036,10/25/2011,8,0,Away,"",-,373
 2012,St. Norbert,614,Wis.-Stevens Point,802,10/28/2011,1,5,Away,"",-,"1,268"
 2012,St. Norbert,614,Wis.-Stevens Point,802,10/29/2011,4,1,Home,"",-,"1,625"
@@ -3571,6 +3441,136 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2012,U New England,1255,St. Anselm,593,02/17/2012,5,7,Home,"",-,0
 2012,U New England,1255,New England Col.,467,02/18/2012,4,2,Home,"",-,0
 2012,U New England,1255,Norwich,511,02/25/2012,0,5,Away,"",-,0
+2012,UConn,164,Bowling Green,71,10/07/2011,1,2,Away,"",-,"1,316"
+2012,UConn,164,Bowling Green,71,10/08/2011,4,4,Away,"",1 OT,"1,221"
+2012,UConn,164,Army,725,10/14/2011,5,0,Away,"",-,"1,375"
+2012,UConn,164,Mass.-Lowell,368,10/18/2011,3,2,Neutral,"Nashua, NH",1 OT,"1,050"
+2012,UConn,164,Merrimack,410,10/22/2011,0,5,Away,"",-,"2,489"
+2012,UConn,164,Holy Cross,285,10/27/2011,4,2,Home,"",-,728
+2012,UConn,164,Mercyhurst,408,11/04/2011,3,4,Away,"",1 OT,975
+2012,UConn,164,Mercyhurst,408,11/05/2011,0,2,Away,"",-,838
+2012,UConn,164,American Int'l,22,11/12/2011,2,2,Away,"",1 OT,334
+2012,UConn,164,Sacred Heart,590,11/16/2011,8,3,Home,"",-,607
+2012,UConn,164,Yale,813,11/19/2011,3,5,Away,"",-,"3,386"
+2012,UConn,164,Air Force,721,11/25/2011,1,3,Away,"",-,"2,934"
+2012,UConn,164,Air Force,721,11/26/2011,3,4,Away,"",-,"2,663"
+2012,UConn,164,Rochester Inst.,580,12/02/2011,3,2,Home,"",-,747
+2012,UConn,164,Rochester Inst.,580,12/03/2011,1,2,Home,"",-,918
+2012,UConn,164,Bentley,56,12/09/2011,2,4,Home,"",-,580
+2012,UConn,164,Army,725,12/29/2011,2,0,Home,"",-,"1,587"
+2012,UConn,164,Mass.-Lowell,368,12/30/2011,3,4,Home,"",1 OT,"1,425"
+2012,UConn,164,Niagara,482,01/06/2012,4,2,Home,"",-,511
+2012,UConn,164,Niagara,482,01/07/2012,2,0,Home,"",-,507
+2012,UConn,164,Canisius,116,01/14/2012,6,2,Away,"",-,502
+2012,UConn,164,Canisius,116,01/15/2012,4,3,Away,"",-,496
+2012,UConn,164,Robert Morris,579,01/20/2012,3,4,Home,"",-,584
+2012,UConn,164,Robert Morris,579,01/21/2012,1,2,Home,"",-,528
+2012,UConn,164,Holy Cross,285,01/27/2012,3,1,Home,"",-,743
+2012,UConn,164,Holy Cross,285,01/28/2012,3,0,Away,"",-,"1,472"
+2012,UConn,164,Princeton,554,01/31/2012,3,4,Away,"",-,"1,171"
+2012,UConn,164,Army,725,02/07/2012,2,4,Home,"",-,505
+2012,UConn,164,Sacred Heart,590,02/10/2012,5,5,Home,"",1 OT,"1,024"
+2012,UConn,164,Sacred Heart,590,02/12/2012,1,2,Away,"",1 OT,431
+2012,UConn,164,Bentley,56,02/17/2012,1,2,Home,"",1 OT,927
+2012,UConn,164,Bentley,56,02/18/2012,1,6,Away,"",-,448
+2012,UConn,164,American Int'l,22,02/24/2012,3,3,Away,"",1 OT,211
+2012,UConn,164,American Int'l,22,02/25/2012,5,3,Home,"",-,750
+2012,UConn,164,Canisius,116,03/02/2012,4,3,Home,"",1 OT,479
+2012,UConn,164,Canisius,116,03/03/2012,4,0,Home,"",-,351
+2012,UConn,164,Air Force,721,03/09/2012,3,4,Away,"",-,"2,529"
+2012,UConn,164,Air Force,721,03/10/2012,3,1,Away,"",-,"2,407"
+2012,UConn,164,Air Force,721,03/11/2012,3,4,Away,"",-,"1,587"
+2012,UMass Boston,401,St. Anselm,593,11/04/2011,1,2,Home,"",-,535
+2012,UMass Boston,401,New England Col.,467,11/05/2011,3,4,Home,"",-,163
+2012,UMass Boston,401,Mass.-Dartmouth,656,11/12/2011,5,4,Away,"",-,344
+2012,UMass Boston,401,Skidmore,642,11/18/2011,0,4,Away,"",-,260
+2012,UMass Boston,401,Castleton,123,11/19/2011,3,6,Away,"",-,780
+2012,UMass Boston,401,Framingham St.,238,11/22/2011,9,1,Away,"",-,150
+2012,UMass Boston,401,Worcester St.,809,11/26/2011,1,1,Neutral,"Hooksett, NH",1 OT,154
+2012,UMass Boston,401,U New England,1255,11/27/2011,3,3,Neutral,"Hooksett, NH",1 OT,65
+2012,UMass Boston,401,Southern Me.,662,12/02/2011,3,4,Away,"",-,215
+2012,UMass Boston,401,U New England,1255,12/03/2011,8,3,Away,"",-,174
+2012,UMass Boston,401,Wentworth Inst.,762,12/08/2011,2,0,Away,"",-,165
+2012,UMass Boston,401,Southern N.H.,468,01/06/2012,9,0,Home,"",-,189
+2012,UMass Boston,401,Tufts,717,01/07/2012,1,2,Home,"",1 OT,125
+2012,UMass Boston,401,Saint Michael's,613,01/13/2012,3,1,Home,"",-,181
+2012,UMass Boston,401,Norwich,511,01/14/2012,2,1,Home,"",-,315
+2012,UMass Boston,401,New England Col.,467,01/20/2012,3,2,Away,"",1 OT,75
+2012,UMass Boston,401,St. Anselm,593,01/21/2012,3,2,Away,"",-,318
+2012,UMass Boston,401,Babson,45,01/27/2012,3,4,Home,"",1 OT,130
+2012,UMass Boston,401,Babson,45,01/28/2012,1,1,Away,"",1 OT,400
+2012,UMass Boston,401,Castleton,123,02/03/2012,5,4,Home,"",-,110
+2012,UMass Boston,401,Skidmore,642,02/04/2012,2,4,Home,"",-,500
+2012,UMass Boston,401,U New England,1255,02/10/2012,4,3,Home,"",-,101
+2012,UMass Boston,401,Southern Me.,662,02/11/2012,5,2,Home,"",-,133
+2012,UMass Boston,401,Norwich,511,02/17/2012,1,3,Away,"",-,"1,435"
+2012,UMass Boston,401,Saint Michael's,613,02/18/2012,5,1,Away,"",-,317
+2012,UMass Boston,401,Skidmore,642,02/25/2012,2,3,Away,"",-,580
+2012,UMass Dartmouth,656,Becker,26107,11/09/2011,7,3,Away,"",-,343
+2012,UMass Dartmouth,656,Mass.-Boston,401,11/12/2011,4,5,Home,"",-,344
+2012,UMass Dartmouth,656,Worcester St.,809,11/15/2011,3,1,Away,"",-,150
+2012,UMass Dartmouth,656,Salem St.,621,11/19/2011,3,3,Home,"",1 OT,365
+2012,UMass Dartmouth,656,Wesleyan (CT),764,11/22/2011,2,5,Home,"",-,295
+2012,UMass Dartmouth,656,Connecticut,164,11/26/2011,6,4,Away,"",-,300
+2012,UMass Dartmouth,656,Westfield St.,777,12/01/2011,5,2,Home,"",-,300
+2012,UMass Dartmouth,656,Fitchburg St.,227,12/03/2011,3,2,Away,"",-,300
+2012,UMass Dartmouth,656,Plymouth St.,548,12/08/2011,2,3,Away,"",1 OT,750
+2012,UMass Dartmouth,656,Framingham St.,238,12/10/2011,9,4,Home,"",-,250
+2012,UMass Dartmouth,656,Babson,45,01/07/2012,2,1,Home,"",1 OT,300
+2012,UMass Dartmouth,656,Worcester St.,809,01/12/2012,4,1,Home,"",-,200
+2012,UMass Dartmouth,656,Salve Regina,623,01/14/2012,7,2,Away,"",-,55
+2012,UMass Dartmouth,656,Salem St.,621,01/17/2012,1,3,Away,"",-,500
+2012,UMass Dartmouth,656,Westfield St.,777,01/19/2012,5,3,Away,"",-,60
+2012,UMass Dartmouth,656,Fitchburg St.,227,01/21/2012,2,4,Home,"",-,100
+2012,UMass Dartmouth,656,Plymouth St.,548,01/26/2012,3,2,Home,"",-,198
+2012,UMass Dartmouth,656,Framingham St.,238,01/28/2012,6,2,Away,"",-,150
+2012,UMass Dartmouth,656,Stonehill,682,01/31/2012,6,3,Away,"",-,100
+2012,UMass Dartmouth,656,Worcester St.,809,02/02/2012,2,3,Away,"",-,355
+2012,UMass Dartmouth,656,Salem St.,621,02/09/2012,1,6,Home,"",-,150
+2012,UMass Dartmouth,656,Westfield St.,777,02/11/2012,1,1,Home,"",1 OT,190
+2012,UMass Dartmouth,656,Fitchburg St.,227,02/16/2012,8,4,Away,"",-,150
+2012,UMass Dartmouth,656,Plymouth St.,548,02/18/2012,0,2,Away,"",-,700
+2012,UMass Dartmouth,656,Framingham St.,238,02/21/2012,6,0,Home,"",-,174
+2012,UMass Dartmouth,656,Westfield St.,777,02/25/2012,4,2,Home,"",-,227
+2012,UMass Dartmouth,656,Salem St.,621,02/28/2012,3,4,Away,"",1 OT,500
+2012,UMass Lowell,368,Minn. St. Mankato,383,10/14/2011,4,2,Away,"",-,0
+2012,UMass Lowell,368,Minn. St. Mankato,383,10/15/2011,4,1,Away,"",-,0
+2012,UMass Lowell,368,Connecticut,164,10/18/2011,2,3,Neutral,"Nashua, NH",1 OT,0
+2012,UMass Lowell,368,Boston College,67,10/28/2011,2,4,Home,"",-,0
+2012,UMass Lowell,368,Boston College,67,10/29/2011,3,6,Away,"",-,0
+2012,UMass Lowell,368,Boston U.,68,11/05/2011,7,1,Home,"",-,0
+2012,UMass Lowell,368,Maine,380,11/11/2011,5,3,Away,"",-,0
+2012,UMass Lowell,368,Maine,380,11/12/2011,4,3,Away,"",-,0
+2012,UMass Lowell,368,New Hampshire,469,11/18/2011,0,5,Away,"",-,0
+2012,UMass Lowell,368,Massachusetts,400,11/19/2011,4,0,Home,"",-,0
+2012,UMass Lowell,368,Ala.-Huntsville,10,11/25/2011,3,0,Home,"",-,0
+2012,UMass Lowell,368,New Hampshire,469,12/02/2011,3,2,Home,"",-,0
+2012,UMass Lowell,368,New Hampshire,469,12/03/2011,5,3,Away,"",-,0
+2012,UMass Lowell,368,Boston College,67,12/09/2011,3,2,Home,"",-,0
+2012,UMass Lowell,368,Northeastern,500,12/10/2011,2,3,Away,"",-,0
+2012,UMass Lowell,368,Rensselaer,570,12/29/2011,7,2,Neutral,"Storrs, CT",-,0
+2012,UMass Lowell,368,Connecticut,164,12/30/2011,4,3,Away,"",-,0
+2012,UMass Lowell,368,Vermont,738,01/13/2012,2,3,Away,"",5 OT,0
+2012,UMass Lowell,368,Northeastern,500,01/20/2012,4,0,Home,"",-,0
+2012,UMass Lowell,368,Northeastern,500,01/21/2012,3,2,Away,"",-,0
+2012,UMass Lowell,368,Providence,556,01/24/2012,0,1,Away,"",-,0
+2012,UMass Lowell,368,Massachusetts,400,01/27/2012,4,2,Away,"",-,0
+2012,UMass Lowell,368,Massachusetts,400,01/28/2012,5,2,Home,"",-,0
+2012,UMass Lowell,368,Vermont,738,02/03/2012,3,1,Home,"",-,0
+2012,UMass Lowell,368,Vermont,738,02/04/2012,6,4,Home,"",-,0
+2012,UMass Lowell,368,Merrimack,410,02/10/2012,3,0,Home,"",-,0
+2012,UMass Lowell,368,Maine,380,02/11/2012,1,2,Home,"",-,0
+2012,UMass Lowell,368,Boston U.,68,02/17/2012,4,7,Home,"",-,0
+2012,UMass Lowell,368,Boston U.,68,02/18/2012,4,2,Away,"",-,0
+2012,UMass Lowell,368,Merrimack,410,02/24/2012,2,5,Away,"",-,0
+2012,UMass Lowell,368,Merrimack,410,02/25/2012,2,2,Home,"",1 OT,0
+2012,UMass Lowell,368,Providence,556,03/02/2012,5,1,Away,"",-,0
+2012,UMass Lowell,368,Providence,556,03/03/2012,4,2,Home,"",-,0
+2012,UMass Lowell,368,Providence,556,03/08/2012,3,5,Home,"",-,0
+2012,UMass Lowell,368,Providence,556,03/09/2012,3,2,Home,"",-,0
+2012,UMass Lowell,368,Providence,556,03/11/2012,0,1,Home,"",-,0
+2012,UMass Lowell,368,Miami (OH),414,03/23/2012,4,3,Neutral,"Bridgeport, CT",1 OT,0
+2012,UMass Lowell,368,Union (NY),727,03/24/2012,2,4,Neutral,"Bridgeport, CT",-,0
 2012,Union (NY),727,Army,725,10/08/2011,8,1,Away,"",-,"1,439"
 2012,Union (NY),727,Western Mich.,774,10/14/2011,2,2,Home,"",1 OT,"1,318"
 2012,Union (NY),727,Western Mich.,774,10/15/2011,3,3,Home,"",1 OT,"1,623"
@@ -3672,35 +3672,35 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2012,Vermont,738,Boston U.,68,02/25/2012,2,3,Home,"",1 OT,"3,726"
 2012,Vermont,738,Boston College,67,03/02/2012,1,5,Away,"",-,"5,527"
 2012,Vermont,738,Boston College,67,03/03/2012,0,4,Away,"",-,"6,340"
-2012,Wentworth Inst.,762,Salem St.,621,11/07/2011,3,4,Home,"",-,335
-2012,Wentworth Inst.,762,Franklin Pierce,241,11/11/2011,5,2,Neutral,"Fitchburg, Mass.",-,200
-2012,Wentworth Inst.,762,Fitchburg St.,227,11/12/2011,2,0,Away,"",-,200
-2012,Wentworth Inst.,762,Western New Eng.,775,11/17/2011,1,2,Away,"",-,187
-2012,Wentworth Inst.,762,Johnson & Wales (RI),22626,11/20/2011,2,2,Home,"",1 OT,215
-2012,Wentworth Inst.,762,Stonehill,682,11/22/2011,5,3,Away,"",-,82
-2012,Wentworth Inst.,762,Wesleyan (CT),764,11/26/2011,1,4,Away,"",-,300
-2012,Wentworth Inst.,762,Trinity (CT),713,11/27/2011,4,3,Away,"",-,100
-2012,Wentworth Inst.,762,Suffolk,684,12/01/2011,5,1,Home,"",-,175
-2012,Wentworth Inst.,762,Nichols,484,12/04/2011,9,5,Away,"",-,107
-2012,Wentworth Inst.,762,Mass.-Boston,401,12/08/2011,0,2,Home,"",-,165
-2012,Wentworth Inst.,762,Bowdoin,69,01/03/2012,3,2,Home,"",1 OT,105
-2012,Wentworth Inst.,762,Plymouth St.,548,01/07/2012,5,2,Away,"",-,525
-2012,Wentworth Inst.,762,Plymouth St.,548,01/08/2012,3,1,Away,"",-,325
-2012,Wentworth Inst.,762,Becker,26107,01/13/2012,6,3,Away,"",-,152
-2012,Wentworth Inst.,762,Williams,789,01/17/2012,2,8,Away,"",-,"1,000"
-2012,Wentworth Inst.,762,Curry,170,01/21/2012,2,4,Away,"",-,300
-2012,Wentworth Inst.,762,Western New Eng.,775,01/26/2012,4,1,Home,"",-,148
-2012,Wentworth Inst.,762,Salve Regina,623,01/29/2012,6,3,Home,"",-,325
-2012,Wentworth Inst.,762,Nichols,484,02/02/2012,3,1,Home,"",-,135
-2012,Wentworth Inst.,762,Johnson & Wales (RI),22626,02/04/2012,6,3,Away,"",-,117
-2012,Wentworth Inst.,762,Becker,26107,02/09/2012,3,2,Home,"",-,165
-2012,Wentworth Inst.,762,Suffolk,684,02/11/2012,8,2,Away,"",-,150
-2012,Wentworth Inst.,762,Curry,170,02/16/2012,5,3,Home,"",-,500
-2012,Wentworth Inst.,762,Salve Regina,623,02/18/2012,5,2,Away,"",-,178
-2012,Wentworth Inst.,762,Western New Eng.,775,02/29/2012,5,3,Home,"",-,315
-2012,Wentworth Inst.,762,Curry,170,03/03/2012,1,0,Home,"",1 OT,300
-2012,Wentworth Inst.,762,Plymouth St.,548,03/07/2012,3,1,Away,"",-,900
-2012,Wentworth Inst.,762,Norwich,511,03/10/2012,0,3,Away,"",-,"1,677"
+2012,Wentworth,762,Salem St.,621,11/07/2011,3,4,Home,"",-,335
+2012,Wentworth,762,Franklin Pierce,241,11/11/2011,5,2,Neutral,"Fitchburg, Mass.",-,200
+2012,Wentworth,762,Fitchburg St.,227,11/12/2011,2,0,Away,"",-,200
+2012,Wentworth,762,Western New Eng.,775,11/17/2011,1,2,Away,"",-,187
+2012,Wentworth,762,Johnson & Wales (RI),22626,11/20/2011,2,2,Home,"",1 OT,215
+2012,Wentworth,762,Stonehill,682,11/22/2011,5,3,Away,"",-,82
+2012,Wentworth,762,Wesleyan (CT),764,11/26/2011,1,4,Away,"",-,300
+2012,Wentworth,762,Trinity (CT),713,11/27/2011,4,3,Away,"",-,100
+2012,Wentworth,762,Suffolk,684,12/01/2011,5,1,Home,"",-,175
+2012,Wentworth,762,Nichols,484,12/04/2011,9,5,Away,"",-,107
+2012,Wentworth,762,Mass.-Boston,401,12/08/2011,0,2,Home,"",-,165
+2012,Wentworth,762,Bowdoin,69,01/03/2012,3,2,Home,"",1 OT,105
+2012,Wentworth,762,Plymouth St.,548,01/07/2012,5,2,Away,"",-,525
+2012,Wentworth,762,Plymouth St.,548,01/08/2012,3,1,Away,"",-,325
+2012,Wentworth,762,Becker,26107,01/13/2012,6,3,Away,"",-,152
+2012,Wentworth,762,Williams,789,01/17/2012,2,8,Away,"",-,"1,000"
+2012,Wentworth,762,Curry,170,01/21/2012,2,4,Away,"",-,300
+2012,Wentworth,762,Western New Eng.,775,01/26/2012,4,1,Home,"",-,148
+2012,Wentworth,762,Salve Regina,623,01/29/2012,6,3,Home,"",-,325
+2012,Wentworth,762,Nichols,484,02/02/2012,3,1,Home,"",-,135
+2012,Wentworth,762,Johnson & Wales (RI),22626,02/04/2012,6,3,Away,"",-,117
+2012,Wentworth,762,Becker,26107,02/09/2012,3,2,Home,"",-,165
+2012,Wentworth,762,Suffolk,684,02/11/2012,8,2,Away,"",-,150
+2012,Wentworth,762,Curry,170,02/16/2012,5,3,Home,"",-,500
+2012,Wentworth,762,Salve Regina,623,02/18/2012,5,2,Away,"",-,178
+2012,Wentworth,762,Western New Eng.,775,02/29/2012,5,3,Home,"",-,315
+2012,Wentworth,762,Curry,170,03/03/2012,1,0,Home,"",1 OT,300
+2012,Wentworth,762,Plymouth St.,548,03/07/2012,3,1,Away,"",-,900
+2012,Wentworth,762,Norwich,511,03/10/2012,0,3,Away,"",-,"1,677"
 2012,Wesleyan (CT),764,Connecticut Col.,163,11/18/2011,6,1,Home,"",-,0
 2012,Wesleyan (CT),764,Tufts,717,11/19/2011,2,3,Home,"",-,0
 2012,Wesleyan (CT),764,Mass.-Dartmouth,656,11/22/2011,5,2,Away,"",-,0

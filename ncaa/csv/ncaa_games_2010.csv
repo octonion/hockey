@@ -171,39 +171,39 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2010,Alas. Fairbanks,12,Northern Mich.,506,03/12/2010,3,4,Away,"",-,"2,723"
 2010,Alas. Fairbanks,12,Northern Mich.,506,03/13/2010,1,5,Away,"",-,"3,294"
 2010,Alas. Fairbanks,12,Boston College,67,03/27/2010,1,3,Neutral,"Worcester, MA",-,"6,572"
-2010,American Intl,22,Union (NY),727,10/23/2009,2,4,Away,"",-,"1,359"
-2010,American Intl,22,Rensselaer,570,10/24/2009,2,3,Away,"",-,"4,048"
-2010,American Intl,22,Sacred Heart,590,10/27/2009,3,5,Away,"",-,441
-2010,American Intl,22,Holy Cross,285,10/30/2009,3,0,Home,"",-,207
-2010,American Intl,22,Holy Cross,285,10/31/2009,4,4,Away,"",1 OT,901
-2010,American Intl,22,Connecticut,164,11/06/2009,1,3,Away,"",-,701
-2010,American Intl,22,Connecticut,164,11/07/2009,1,4,Away,"",-,574
-2010,American Intl,22,Army,725,11/13/2009,1,2,Away,"",-,"1,587"
-2010,American Intl,22,Army,725,11/14/2009,2,0,Home,"",-,307
-2010,American Intl,22,Canisius,116,11/20/2009,0,7,Home,"",-,268
-2010,American Intl,22,Canisius,116,11/21/2009,0,4,Home,"",-,217
-2010,American Intl,22,Mercyhurst,408,11/27/2009,2,8,Home,"",-,207
-2010,American Intl,22,Mercyhurst,408,11/28/2009,0,2,Home,"",-,237
-2010,American Intl,22,Air Force,721,12/04/2009,3,5,Away,"",-,"2,073"
-2010,American Intl,22,Air Force,721,12/05/2009,2,6,Away,"",-,"2,361"
-2010,American Intl,22,Brown,80,12/08/2009,2,5,Away,"",-,713
-2010,American Intl,22,Quinnipiac,562,12/12/2009,2,5,Away,"",-,"2,403"
-2010,American Intl,22,Mercyhurst,408,01/08/2010,2,7,Away,"",-,689
-2010,American Intl,22,Mercyhurst,408,01/09/2010,3,5,Away,"",-,674
-2010,American Intl,22,Holy Cross,285,01/15/2010,1,1,Away,"",1 OT,878
-2010,American Intl,22,Holy Cross,285,01/16/2010,1,0,Home,"",-,208
-2010,American Intl,22,Rochester Inst.,580,01/22/2010,3,5,Home,"",-,234
-2010,American Intl,22,Rochester Inst.,580,01/23/2010,0,4,Home,"",-,210
-2010,American Intl,22,Sacred Heart,590,01/26/2010,1,6,Home,"",-,203
-2010,American Intl,22,Bentley,56,02/05/2010,6,5,Home,"",-,237
-2010,American Intl,22,Bentley,56,02/06/2010,3,2,Home,"",1 OT,218
-2010,American Intl,22,Sacred Heart,590,02/12/2010,1,4,Home,"",-,212
-2010,American Intl,22,Sacred Heart,590,02/13/2010,3,4,Away,"",-,459
-2010,American Intl,22,Canisius,116,02/20/2010,2,2,Away,"",1 OT,626
-2010,American Intl,22,Canisius,116,02/21/2010,3,5,Away,"",-,763
-2010,American Intl,22,Army,725,02/26/2010,6,8,Home,"",-,361
-2010,American Intl,22,Army,725,02/27/2010,2,2,Away,"",1 OT,"2,309"
-2010,American Intl,22,Holy Cross,285,03/05/2010,2,4,Away,"",-,381
+2010,American Int'l,22,Union (NY),727,10/23/2009,2,4,Away,"",-,"1,359"
+2010,American Int'l,22,Rensselaer,570,10/24/2009,2,3,Away,"",-,"4,048"
+2010,American Int'l,22,Sacred Heart,590,10/27/2009,3,5,Away,"",-,441
+2010,American Int'l,22,Holy Cross,285,10/30/2009,3,0,Home,"",-,207
+2010,American Int'l,22,Holy Cross,285,10/31/2009,4,4,Away,"",1 OT,901
+2010,American Int'l,22,Connecticut,164,11/06/2009,1,3,Away,"",-,701
+2010,American Int'l,22,Connecticut,164,11/07/2009,1,4,Away,"",-,574
+2010,American Int'l,22,Army,725,11/13/2009,1,2,Away,"",-,"1,587"
+2010,American Int'l,22,Army,725,11/14/2009,2,0,Home,"",-,307
+2010,American Int'l,22,Canisius,116,11/20/2009,0,7,Home,"",-,268
+2010,American Int'l,22,Canisius,116,11/21/2009,0,4,Home,"",-,217
+2010,American Int'l,22,Mercyhurst,408,11/27/2009,2,8,Home,"",-,207
+2010,American Int'l,22,Mercyhurst,408,11/28/2009,0,2,Home,"",-,237
+2010,American Int'l,22,Air Force,721,12/04/2009,3,5,Away,"",-,"2,073"
+2010,American Int'l,22,Air Force,721,12/05/2009,2,6,Away,"",-,"2,361"
+2010,American Int'l,22,Brown,80,12/08/2009,2,5,Away,"",-,713
+2010,American Int'l,22,Quinnipiac,562,12/12/2009,2,5,Away,"",-,"2,403"
+2010,American Int'l,22,Mercyhurst,408,01/08/2010,2,7,Away,"",-,689
+2010,American Int'l,22,Mercyhurst,408,01/09/2010,3,5,Away,"",-,674
+2010,American Int'l,22,Holy Cross,285,01/15/2010,1,1,Away,"",1 OT,878
+2010,American Int'l,22,Holy Cross,285,01/16/2010,1,0,Home,"",-,208
+2010,American Int'l,22,Rochester Inst.,580,01/22/2010,3,5,Home,"",-,234
+2010,American Int'l,22,Rochester Inst.,580,01/23/2010,0,4,Home,"",-,210
+2010,American Int'l,22,Sacred Heart,590,01/26/2010,1,6,Home,"",-,203
+2010,American Int'l,22,Bentley,56,02/05/2010,6,5,Home,"",-,237
+2010,American Int'l,22,Bentley,56,02/06/2010,3,2,Home,"",1 OT,218
+2010,American Int'l,22,Sacred Heart,590,02/12/2010,1,4,Home,"",-,212
+2010,American Int'l,22,Sacred Heart,590,02/13/2010,3,4,Away,"",-,459
+2010,American Int'l,22,Canisius,116,02/20/2010,2,2,Away,"",1 OT,626
+2010,American Int'l,22,Canisius,116,02/21/2010,3,5,Away,"",-,763
+2010,American Int'l,22,Army,725,02/26/2010,6,8,Home,"",-,361
+2010,American Int'l,22,Army,725,02/27/2010,2,2,Away,"",1 OT,"2,309"
+2010,American Int'l,22,Holy Cross,285,03/05/2010,2,4,Away,"",-,381
 2010,Amherst,24,Wesleyan (CT),764,11/20/2009,6,3,Home,"",-,250
 2010,Amherst,24,Trinity (CT),713,11/21/2009,0,2,Home,"",-,225
 2010,Amherst,24,Connecticut Col.,163,11/28/2009,3,1,Neutral,"Middletown, CT",-,200
@@ -317,8 +317,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2010,Babson,45,Amherst,24,02/19/2010,2,4,Away,"",-,0
 2010,Babson,45,Hamilton,267,02/20/2010,3,4,Away,"",1 OT,0
 2010,Babson,45,Mass.-Boston,401,02/27/2010,4,2,Home,"",-,0
-2010,Babson,45,Skidmore,642,03/05/2010,3,0,Neutral,"Norwich, CT",-,0
 2010,Babson,45,Norwich,511,03/05/2010,1,4,Away,"",-,0
+2010,Babson,45,Skidmore,642,03/05/2010,3,0,Neutral,"Norwich, CT",-,0
 2010,Becker,26107,Wentworth Inst.,762,11/02/2009,1,3,Home,"",-,0
 2010,Becker,26107,Stonehill,682,11/06/2009,3,3,Home,"",2 OT,0
 2010,Becker,26107,Suffolk,684,11/07/2009,3,2,Home,"",-,0
@@ -873,67 +873,31 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2010,Colorado Col.,154,Minn. Duluth,427,03/12/2010,2,3,Away,"",1 OT,"3,461"
 2010,Colorado Col.,154,Minn. Duluth,427,03/13/2010,5,3,Away,"",-,"3,956"
 2010,Colorado Col.,154,Minn. Duluth,427,03/14/2010,0,4,Away,"",-,"3,402"
-2010,Concordia-Mhead,161,St. Olaf,615,10/31/2009,2,5,Neutral,"Bloomington, Minn.",-,211
-2010,Concordia-Mhead,161,Hamline,268,11/01/2009,1,2,Neutral,"Bloomington, Minn.",-,198
-2010,Concordia-Mhead,161,Wis.-Superior,804,11/06/2009,2,7,Away,"",-,678
-2010,Concordia-Mhead,161,St. Scholastica,618,11/07/2009,3,4,Away,"",-,636
-2010,Concordia-Mhead,161,Saint Mary's (MN),612,11/13/2009,6,3,Home,"",-,275
-2010,Concordia-Mhead,161,Saint Mary's (MN),612,11/14/2009,1,3,Home,"",-,225
-2010,Concordia-Mhead,161,St. Olaf,615,11/20/2009,3,3,Away,"",1 OT,213
-2010,Concordia-Mhead,161,St. Olaf,615,11/21/2009,1,1,Away,"",1 OT,189
-2010,Concordia-Mhead,161,Northland,1267,11/23/2009,9,3,Home,"",-,107
-2010,Concordia-Mhead,161,Buffalo St.,85,11/27/2009,2,3,Neutral,"Adrian, Mich.",-,100
-2010,Concordia-Mhead,161,Adrian,4,11/28/2009,1,3,Away,"",-,559
-2010,Concordia-Mhead,161,Bethel (MN),60,12/04/2009,4,1,Home,"",-,323
-2010,Concordia-Mhead,161,Bethel (MN),60,12/05/2009,1,2,Home,"",1 OT,228
-2010,Concordia-Mhead,161,St. Norbert,614,01/08/2010,2,4,Home,"",-,212
-2010,Concordia-Mhead,161,Wis.-Stevens Point,802,01/09/2010,1,7,Home,"",-,191
-2010,Concordia-Mhead,161,St. Thomas (MN),620,01/15/2010,5,4,Home,"",-,417
-2010,Concordia-Mhead,161,St. Thomas (MN),620,01/16/2010,4,4,Home,"",1 OT,243
-2010,Concordia-Mhead,161,Augsburg,38,01/22/2010,1,4,Home,"",-,217
-2010,Concordia-Mhead,161,Augsburg,38,01/23/2010,5,1,Home,"",-,207
-2010,Concordia-Mhead,161,Saint John's (MN),602,01/30/2010,2,7,Away,"",-,262
-2010,Concordia-Mhead,161,Saint John's (MN),602,01/31/2010,1,1,Away,"",1 OT,232
-2010,Concordia-Mhead,161,Gust. Adolphus,266,02/05/2010,1,5,Away,"",-,276
-2010,Concordia-Mhead,161,Gust. Adolphus,266,02/06/2010,0,2,Away,"",-,247
-2010,Concordia-Mhead,161,Hamline,268,02/19/2010,2,2,Away,"",1 OT,327
-2010,Concordia-Mhead,161,Hamline,268,02/20/2010,0,3,Away,"",-,418
-2010,Connecticut,164,Ferris St.,224,10/16/2009,1,2,Away,"",-,"1,844"
-2010,Connecticut,164,Ferris St.,224,10/17/2009,1,6,Away,"",-,"1,091"
-2010,Connecticut,164,Bentley,56,10/23/2009,3,4,Away,"",-,567
-2010,Connecticut,164,Merrimack,410,10/25/2009,1,4,Away,"",-,794
-2010,Connecticut,164,Rochester Inst.,580,10/30/2009,2,6,Away,"",-,"1,839"
-2010,Connecticut,164,Rochester Inst.,580,10/31/2009,0,7,Away,"",-,"1,457"
-2010,Connecticut,164,American Int'l,22,11/06/2009,3,1,Home,"",-,701
-2010,Connecticut,164,American Int'l,22,11/07/2009,4,1,Home,"",-,574
-2010,Connecticut,164,Canisius,116,11/14/2009,4,4,Away,"",1 OT,638
-2010,Connecticut,164,Canisius,116,11/15/2009,0,1,Away,"",-,516
-2010,Connecticut,164,Air Force,721,11/20/2009,2,2,Home,"",1 OT,625
-2010,Connecticut,164,Air Force,721,11/21/2009,1,3,Home,"",-,728
-2010,Connecticut,164,Holy Cross,285,11/24/2009,0,5,Away,"",-,551
-2010,Connecticut,164,Brown,80,11/28/2009,1,8,Away,"",-,670
-2010,Connecticut,164,Mercyhurst,408,12/04/2009,0,5,Away,"",-,986
-2010,Connecticut,164,Mercyhurst,408,12/05/2009,1,3,Away,"",-,746
-2010,Connecticut,164,Bentley,56,12/29/2009,1,4,Home,"",-,"1,467"
-2010,Connecticut,164,Union (NY),727,12/30/2009,0,7,Home,"",-,0
-2010,Connecticut,164,Air Force,721,01/08/2010,1,2,Away,"",-,"2,721"
-2010,Connecticut,164,Air Force,721,01/09/2010,2,2,Away,"",1 OT,"3,031"
-2010,Connecticut,164,Rochester Inst.,580,01/15/2010,0,4,Home,"",-,581
-2010,Connecticut,164,Rochester Inst.,580,01/16/2010,2,1,Home,"",-,735
-2010,Connecticut,164,Army,725,01/22/2010,0,5,Away,"",-,"2,529"
-2010,Connecticut,164,Army,725,01/23/2010,2,1,Away,"",-,"2,508"
-2010,Connecticut,164,Princeton,554,01/25/2010,1,8,Away,"",-,"1,070"
-2010,Connecticut,164,Sacred Heart,590,01/29/2010,3,4,Home,"",1 OT,754
-2010,Connecticut,164,Canisius,116,02/05/2010,1,3,Home,"",-,621
-2010,Connecticut,164,Canisius,116,02/06/2010,2,5,Home,"",-,542
-2010,Connecticut,164,Holy Cross,285,02/09/2010,2,3,Away,"",-,611
-2010,Connecticut,164,Bentley,56,02/19/2010,4,1,Home,"",-,719
-2010,Connecticut,164,Bentley,56,02/20/2010,2,4,Away,"",-,723
-2010,Connecticut,164,Mercyhurst,408,02/26/2010,1,5,Home,"",-,606
-2010,Connecticut,164,Mercyhurst,408,02/27/2010,3,2,Home,"",1 OT,708
-2010,Connecticut,164,Bentley,56,03/06/2010,2,1,Away,"",-,402
-2010,Connecticut,164,Rochester Inst.,580,03/12/2010,3,4,Away,"",1 OT,"1,415"
-2010,Connecticut,164,Rochester Inst.,580,03/13/2010,1,4,Away,"",-,"1,659"
+2010,Concordia-M'head,161,St. Olaf,615,10/31/2009,2,5,Neutral,"Bloomington, Minn.",-,211
+2010,Concordia-M'head,161,Hamline,268,11/01/2009,1,2,Neutral,"Bloomington, Minn.",-,198
+2010,Concordia-M'head,161,Wis.-Superior,804,11/06/2009,2,7,Away,"",-,678
+2010,Concordia-M'head,161,St. Scholastica,618,11/07/2009,3,4,Away,"",-,636
+2010,Concordia-M'head,161,Saint Mary's (MN),612,11/13/2009,6,3,Home,"",-,275
+2010,Concordia-M'head,161,Saint Mary's (MN),612,11/14/2009,1,3,Home,"",-,225
+2010,Concordia-M'head,161,St. Olaf,615,11/20/2009,3,3,Away,"",1 OT,213
+2010,Concordia-M'head,161,St. Olaf,615,11/21/2009,1,1,Away,"",1 OT,189
+2010,Concordia-M'head,161,Northland,1267,11/23/2009,9,3,Home,"",-,107
+2010,Concordia-M'head,161,Buffalo St.,85,11/27/2009,2,3,Neutral,"Adrian, Mich.",-,100
+2010,Concordia-M'head,161,Adrian,4,11/28/2009,1,3,Away,"",-,559
+2010,Concordia-M'head,161,Bethel (MN),60,12/04/2009,4,1,Home,"",-,323
+2010,Concordia-M'head,161,Bethel (MN),60,12/05/2009,1,2,Home,"",1 OT,228
+2010,Concordia-M'head,161,St. Norbert,614,01/08/2010,2,4,Home,"",-,212
+2010,Concordia-M'head,161,Wis.-Stevens Point,802,01/09/2010,1,7,Home,"",-,191
+2010,Concordia-M'head,161,St. Thomas (MN),620,01/15/2010,5,4,Home,"",-,417
+2010,Concordia-M'head,161,St. Thomas (MN),620,01/16/2010,4,4,Home,"",1 OT,243
+2010,Concordia-M'head,161,Augsburg,38,01/22/2010,1,4,Home,"",-,217
+2010,Concordia-M'head,161,Augsburg,38,01/23/2010,5,1,Home,"",-,207
+2010,Concordia-M'head,161,Saint John's (MN),602,01/30/2010,2,7,Away,"",-,262
+2010,Concordia-M'head,161,Saint John's (MN),602,01/31/2010,1,1,Away,"",1 OT,232
+2010,Concordia-M'head,161,Gust. Adolphus,266,02/05/2010,1,5,Away,"",-,276
+2010,Concordia-M'head,161,Gust. Adolphus,266,02/06/2010,0,2,Away,"",-,247
+2010,Concordia-M'head,161,Hamline,268,02/19/2010,2,2,Away,"",1 OT,327
+2010,Concordia-M'head,161,Hamline,268,02/20/2010,0,3,Away,"",-,418
 2010,Connecticut Col.,163,Williams,789,11/20/2009,2,3,Home,"",1 OT,600
 2010,Connecticut Col.,163,Middlebury,420,11/21/2009,3,5,Home,"",-,400
 2010,Connecticut Col.,163,Amherst,24,11/28/2009,1,3,Neutral,"Middletown, CT",-,0
@@ -1239,32 +1203,32 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2010,Framingham St.,238,Salem St.,621,02/18/2010,2,9,Home,"",-,175
 2010,Framingham St.,238,Plymouth St.,548,02/20/2010,5,8,Home,"",-,175
 2010,Framingham St.,238,Mass.-Dartmouth,656,02/25/2010,3,6,Away,"",-,0
-2010,Fredonia St.,242,Lebanon Valley,351,10/23/2009,7,0,Away,"",-,200
-2010,Fredonia St.,242,Lebanon Valley,351,10/24/2009,6,1,Away,"",-,190
-2010,Fredonia St.,242,SUNY Cortland,168,10/30/2009,5,7,Home,"",-,303
-2010,Fredonia St.,242,Oswego St.,530,10/31/2009,4,7,Home,"",-,281
-2010,Fredonia St.,242,Buffalo St.,85,11/06/2009,4,2,Away,"",-,354
-2010,Fredonia St.,242,Elmira,213,11/07/2009,3,4,Away,"",-,"1,204"
-2010,Fredonia St.,242,SUNY Geneseo,247,11/13/2009,5,0,Away,"",-,"1,630"
-2010,Fredonia St.,242,Brockport,78,11/14/2009,5,3,Away,"",-,"1,500"
-2010,Fredonia St.,242,SUNY Potsdam,552,11/20/2009,6,5,Home,"",-,271
-2010,Fredonia St.,242,Plattsburgh St.,547,11/21/2009,2,10,Home,"",-,211
-2010,Fredonia St.,242,Morrisville St.,30067,12/05/2009,5,2,Away,"",-,325
-2010,Fredonia St.,242,Johnson & Wales (RI),22626,12/11/2009,4,2,Home,"",-,291
-2010,Fredonia St.,242,Johnson & Wales (RI),22626,12/12/2009,7,1,Home,"",-,278
-2010,Fredonia St.,242,Westfield St.,777,01/08/2010,5,2,Home,"",-,175
-2010,Fredonia St.,242,Westfield St.,777,01/09/2010,8,0,Home,"",-,98
-2010,Fredonia St.,242,Western New Eng.,775,01/15/2010,4,2,Home,"",-,207
-2010,Fredonia St.,242,Western New Eng.,775,01/16/2010,7,1,Home,"",-,185
-2010,Fredonia St.,242,SUNY Cortland,168,01/22/2010,5,0,Away,"",-,189
-2010,Fredonia St.,242,Oswego St.,530,01/23/2010,1,3,Away,"",-,"1,690"
-2010,Fredonia St.,242,Buffalo St.,85,01/29/2010,5,3,Home,"",-,222
-2010,Fredonia St.,242,SUNY Geneseo,247,02/05/2010,3,3,Home,"",2 OT,585
-2010,Fredonia St.,242,Brockport,78,02/06/2010,3,3,Home,"",2 OT,588
-2010,Fredonia St.,242,SUNY Potsdam,552,02/12/2010,10,6,Away,"",-,600
-2010,Fredonia St.,242,Plattsburgh St.,547,02/13/2010,1,4,Away,"",-,"1,711"
-2010,Fredonia St.,242,Morrisville St.,30067,02/20/2010,7,1,Home,"",-,"1,108"
-2010,Fredonia St.,242,Morrisville St.,30067,02/21/2010,2,3,Home,"",-,821
+2010,Fredonia,242,Lebanon Valley,351,10/23/2009,7,0,Away,"",-,200
+2010,Fredonia,242,Lebanon Valley,351,10/24/2009,6,1,Away,"",-,190
+2010,Fredonia,242,SUNY Cortland,168,10/30/2009,5,7,Home,"",-,303
+2010,Fredonia,242,Oswego St.,530,10/31/2009,4,7,Home,"",-,281
+2010,Fredonia,242,Buffalo St.,85,11/06/2009,4,2,Away,"",-,354
+2010,Fredonia,242,Elmira,213,11/07/2009,3,4,Away,"",-,"1,204"
+2010,Fredonia,242,SUNY Geneseo,247,11/13/2009,5,0,Away,"",-,"1,630"
+2010,Fredonia,242,Brockport,78,11/14/2009,5,3,Away,"",-,"1,500"
+2010,Fredonia,242,SUNY Potsdam,552,11/20/2009,6,5,Home,"",-,271
+2010,Fredonia,242,Plattsburgh St.,547,11/21/2009,2,10,Home,"",-,211
+2010,Fredonia,242,Morrisville St.,30067,12/05/2009,5,2,Away,"",-,325
+2010,Fredonia,242,Johnson & Wales (RI),22626,12/11/2009,4,2,Home,"",-,291
+2010,Fredonia,242,Johnson & Wales (RI),22626,12/12/2009,7,1,Home,"",-,278
+2010,Fredonia,242,Westfield St.,777,01/08/2010,5,2,Home,"",-,175
+2010,Fredonia,242,Westfield St.,777,01/09/2010,8,0,Home,"",-,98
+2010,Fredonia,242,Western New Eng.,775,01/15/2010,4,2,Home,"",-,207
+2010,Fredonia,242,Western New Eng.,775,01/16/2010,7,1,Home,"",-,185
+2010,Fredonia,242,SUNY Cortland,168,01/22/2010,5,0,Away,"",-,189
+2010,Fredonia,242,Oswego St.,530,01/23/2010,1,3,Away,"",-,"1,690"
+2010,Fredonia,242,Buffalo St.,85,01/29/2010,5,3,Home,"",-,222
+2010,Fredonia,242,SUNY Geneseo,247,02/05/2010,3,3,Home,"",2 OT,585
+2010,Fredonia,242,Brockport,78,02/06/2010,3,3,Home,"",2 OT,588
+2010,Fredonia,242,SUNY Potsdam,552,02/12/2010,10,6,Away,"",-,600
+2010,Fredonia,242,Plattsburgh St.,547,02/13/2010,1,4,Away,"",-,"1,711"
+2010,Fredonia,242,Morrisville St.,30067,02/20/2010,7,1,Home,"",-,"1,108"
+2010,Fredonia,242,Morrisville St.,30067,02/21/2010,2,3,Home,"",-,821
 2010,Gust. Adolphus,266,Bethel (MN),60,10/31/2009,4,3,Neutral,"Bloomington, MN",-,0
 2010,Gust. Adolphus,266,Augsburg,38,11/01/2009,3,5,Neutral,"Bloomington, MN",-,0
 2010,Gust. Adolphus,266,Wis.-River Falls,801,11/06/2009,3,2,Away,"",-,0
@@ -1681,97 +1645,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2010,Marian (WI),1196,Northland,1267,02/21/2010,11,2,Home,"",-,153
 2010,Marian (WI),1196,Lake Forest,344,03/05/2010,4,3,Neutral,"Adrian, MI",-,185
 2010,Marian (WI),1196,Adrian,4,03/06/2010,2,3,Away,"",-,988
-2010,Mass.-Boston,401,Bowdoin,69,11/20/2009,3,5,Home,"",-,0
-2010,Mass.-Boston,401,Colby,151,11/21/2009,4,3,Home,"",-,0
-2010,Mass.-Boston,401,Framingham St.,238,11/24/2009,8,3,Away,"",-,0
-2010,Mass.-Boston,401,Stonehill,682,11/28/2009,7,2,Neutral,"Manchester, NH",-,0
-2010,Mass.-Boston,401,Trinity (CT),713,12/04/2009,4,4,Away,"",2 OT,0
-2010,Mass.-Boston,401,Wesleyan (CT),764,12/05/2009,1,4,Away,"",-,0
-2010,Mass.-Boston,401,Babson,45,12/09/2009,5,4,Home,"",1 OT,0
-2010,Mass.-Boston,401,Johnson & Wales (RI),22626,12/29/2009,3,1,Home,"",-,0
-2010,Mass.-Boston,401,Suffolk,684,12/30/2009,1,2,Home,"",-,0
-2010,Mass.-Boston,401,Connecticut Col.,163,01/08/2010,2,5,Away,"",-,0
-2010,Mass.-Boston,401,Adrian,4,01/09/2010,2,1,Away,"",-,0
-2010,Mass.-Boston,401,Castleton,123,01/15/2010,2,4,Home,"",-,0
-2010,Mass.-Boston,401,Skidmore,642,01/16/2010,2,3,Home,"",1 OT,0
-2010,Mass.-Boston,401,Mass.-Dartmouth,656,01/19/2010,5,0,Away,"",-,0
-2010,Mass.-Boston,401,Southern Me.,662,01/22/2010,4,7,Away,"",-,0
-2010,Mass.-Boston,401,U New England,1255,01/23/2010,5,4,Away,"",-,0
-2010,Mass.-Boston,401,Norwich,511,01/29/2010,0,2,Home,"",-,0
-2010,Mass.-Boston,401,Saint Michael's,613,01/30/2010,7,2,Home,"",-,0
-2010,Mass.-Boston,401,St. Anselm,593,02/05/2010,1,5,Away,"",-,0
-2010,Mass.-Boston,401,New England Col.,467,02/06/2010,3,4,Away,"",1 OT,0
-2010,Mass.-Boston,401,Middlebury,420,02/12/2010,1,5,Home,"",-,0
-2010,Mass.-Boston,401,Williams,789,02/13/2010,4,3,Home,"",-,0
-2010,Mass.-Boston,401,Hamilton,267,02/19/2010,2,6,Away,"",-,0
-2010,Mass.-Boston,401,Amherst,24,02/20/2010,1,1,Away,"",2 OT,0
-2010,Mass.-Boston,401,Babson,45,02/27/2010,2,4,Away,"",-,0
-2010,Mass.-Dartmouth,656,Becker,26107,11/11/2009,5,3,Away,"",-,318
-2010,Mass.-Dartmouth,656,Suffolk,684,11/14/2009,8,0,Home,"",-,351
-2010,Mass.-Dartmouth,656,Salem St.,621,11/17/2009,2,3,Away,"",-,125
-2010,Mass.-Dartmouth,656,Westfield St.,777,11/19/2009,2,2,Home,"",1 OT,388
-2010,Mass.-Dartmouth,656,Plymouth St.,548,11/21/2009,0,3,Away,"",-,250
-2010,Mass.-Dartmouth,656,Babson,45,11/24/2009,5,3,Home,"",-,168
-2010,Mass.-Dartmouth,656,Worcester St.,809,12/03/2009,3,5,Away,"",-,50
-2010,Mass.-Dartmouth,656,Stonehill,682,12/08/2009,1,4,Away,"",-,132
-2010,Mass.-Dartmouth,656,Framingham St.,238,12/10/2009,6,2,Home,"",-,177
-2010,Mass.-Dartmouth,656,Fitchburg St.,227,12/12/2009,3,5,Home,"",-,111
-2010,Mass.-Dartmouth,656,Salve Regina,623,01/09/2010,6,2,Away,"",-,103
-2010,Mass.-Dartmouth,656,Westfield St.,777,01/12/2010,3,7,Away,"",-,100
-2010,Mass.-Dartmouth,656,Salem St.,621,01/14/2010,0,3,Home,"",-,244
-2010,Mass.-Dartmouth,656,Mass.-Boston,401,01/19/2010,0,5,Home,"",-,195
-2010,Mass.-Dartmouth,656,Plymouth St.,548,01/21/2010,5,6,Home,"",1 OT,109
-2010,Mass.-Dartmouth,656,Worcester St.,809,01/23/2010,2,3,Home,"",-,111
-2010,Mass.-Dartmouth,656,Southern N.H.,468,01/28/2010,6,3,Home,"",-,105
-2010,Mass.-Dartmouth,656,Framingham St.,238,01/30/2010,5,2,Away,"",-,100
-2010,Mass.-Dartmouth,656,Fitchburg St.,227,02/04/2010,1,3,Away,"",-,300
-2010,Mass.-Dartmouth,656,Salem St.,621,02/06/2010,2,4,Away,"",-,500
-2010,Mass.-Dartmouth,656,Westfield St.,777,02/11/2010,2,5,Home,"",-,171
-2010,Mass.-Dartmouth,656,Plymouth St.,548,02/13/2010,2,4,Away,"",-,213
-2010,Mass.-Dartmouth,656,Worcester St.,809,02/18/2010,8,4,Away,"",-,150
-2010,Mass.-Dartmouth,656,Framingham St.,238,02/25/2010,6,3,Home,"",-,141
-2010,Mass.-Dartmouth,656,Fitchburg St.,227,02/27/2010,6,3,Home,"",-,206
-2010,Mass.-Dartmouth,656,Westfield St.,777,03/02/2010,4,3,Away,"",-,300
-2010,Mass.-Dartmouth,656,Fitchburg St.,227,03/04/2010,2,3,Away,"",-,624
-2010,Mass.-Lowell,368,St. Lawrence,607,10/09/2009,3,0,Away,"",-,0
-2010,Mass.-Lowell,368,Neb. Omaha,464,10/10/2009,3,4,Away,"",-,"5,714"
-2010,Mass.-Lowell,368,Colgate,153,10/23/2009,5,3,Home,"",-,"5,619"
-2010,Mass.-Lowell,368,Northeastern,500,10/24/2009,3,1,Home,"",-,"4,049"
-2010,Mass.-Lowell,368,Boston U.,68,10/30/2009,4,5,Home,"",1 OT,"5,496"
-2010,Mass.-Lowell,368,Boston U.,68,10/31/2009,3,2,Away,"",-,"4,792"
-2010,Mass.-Lowell,368,Vermont,738,11/06/2009,3,3,Away,"",1 OT,"4,003"
-2010,Mass.-Lowell,368,New Hampshire,469,11/08/2009,6,3,Home,"",-,"4,027"
-2010,Mass.-Lowell,368,Ala.-Huntsville,10,11/13/2009,3,1,Away,"",-,"2,406"
-2010,Mass.-Lowell,368,Ala.-Huntsville,10,11/14/2009,4,0,Away,"",-,"1,992"
-2010,Mass.-Lowell,368,Merrimack,410,11/21/2009,6,3,Home,"",-,"4,735"
-2010,Mass.-Lowell,368,Providence,556,11/24/2009,2,4,Away,"",-,"1,165"
-2010,Mass.-Lowell,368,Maine,380,11/27/2009,1,3,Home,"",-,"4,752"
-2010,Mass.-Lowell,368,New Hampshire,469,12/03/2009,1,2,Away,"",-,"5,831"
-2010,Mass.-Lowell,368,Massachusetts,400,12/05/2009,5,3,Home,"",-,"3,457"
-2010,Mass.-Lowell,368,Princeton,554,12/11/2009,4,1,Home,"",-,"3,808"
-2010,Mass.-Lowell,368,Princeton,554,12/12/2009,2,3,Home,"",-,"2,697"
-2010,Mass.-Lowell,368,Holy Cross,285,01/02/2010,3,0,Neutral,"Hanover, NH",-,0
-2010,Mass.-Lowell,368,Northeastern,500,01/03/2010,1,2,Neutral,"Hanover, NH",-,"2,066"
-2010,Mass.-Lowell,368,New Hampshire,469,01/08/2010,2,2,Away,"",1 OT,"5,137"
-2010,Mass.-Lowell,368,Northeastern,500,01/09/2010,6,5,Away,"",1 OT,"2,560"
-2010,Mass.-Lowell,368,Massachusetts,400,01/15/2010,2,3,Away,"",-,"3,445"
-2010,Mass.-Lowell,368,Massachusetts,400,01/16/2010,1,2,Home,"",-,"4,688"
-2010,Mass.-Lowell,368,Merrimack,410,01/22/2010,5,4,Home,"",-,"4,511"
-2010,Mass.-Lowell,368,Boston College,67,01/23/2010,3,1,Home,"",-,"5,711"
-2010,Mass.-Lowell,368,Northeastern,500,01/29/2010,1,2,Away,"",-,"2,666"
-2010,Mass.-Lowell,368,Boston U.,68,02/05/2010,2,3,Home,"",-,"5,296"
-2010,Mass.-Lowell,368,Merrimack,410,02/06/2010,1,3,Away,"",-,"2,473"
-2010,Mass.-Lowell,368,Boston College,67,02/12/2010,4,1,Home,"",-,"4,915"
-2010,Mass.-Lowell,368,Boston College,67,02/13/2010,1,2,Away,"",-,"5,715"
-2010,Mass.-Lowell,368,Maine,380,02/19/2010,4,8,Away,"",-,"4,597"
-2010,Mass.-Lowell,368,Maine,380,02/20/2010,4,2,Away,"",-,"4,691"
-2010,Mass.-Lowell,368,Providence,556,02/26/2010,4,0,Home,"",-,"4,348"
-2010,Mass.-Lowell,368,Providence,556,02/27/2010,2,2,Away,"",1 OT,"1,144"
-2010,Mass.-Lowell,368,Vermont,738,03/05/2010,5,2,Home,"",-,"5,058"
-2010,Mass.-Lowell,368,Vermont,738,03/06/2010,1,1,Home,"",1 OT,"6,121"
-2010,Mass.-Lowell,368,Maine,380,03/12/2010,2,1,Away,"",-,"3,000"
-2010,Mass.-Lowell,368,Maine,380,03/13/2010,0,2,Away,"",-,"3,343"
-2010,Mass.-Lowell,368,Maine,380,03/14/2010,2,3,Away,"",1 OT,"3,020"
 2010,Massachusetts,400,Rensselaer,570,10/08/2009,5,2,Home,"",-,"3,127"
 2010,Massachusetts,400,Boston U.,68,10/16/2009,3,2,Home,"",-,"8,123"
 2010,Massachusetts,400,Maine,380,10/23/2009,5,3,Home,"",-,"6,582"
@@ -2074,34 +1947,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2010,Middlebury,420,Trinity (CT),713,03/06/2010,4,2,Neutral,Bowdoin,-,550
 2010,Middlebury,420,Bowdoin,69,03/07/2010,3,2,Away,"",-,"2,300"
 2010,Middlebury,420,Plattsburgh St.,547,03/13/2010,2,3,Home,"",1 OT,"2,600"
-2010,Milwaukee Engr.,20220,Concordia (WI),1036,10/30/2009,9,1,Home,"",-,0
-2010,Milwaukee Engr.,20220,Concordia (WI),1036,10/31/2009,5,1,Away,"",-,0
-2010,Milwaukee Engr.,20220,Northland,1267,11/06/2009,4,2,Away,"",-,0
-2010,Milwaukee Engr.,20220,Northland,1267,11/07/2009,5,1,Away,"",-,0
-2010,Milwaukee Engr.,20220,Marian (WI),1196,11/13/2009,1,3,Home,"",-,0
-2010,Milwaukee Engr.,20220,Marian (WI),1196,11/14/2009,3,4,Away,"",-,0
-2010,Milwaukee Engr.,20220,Lake Forest,344,12/04/2009,2,3,Away,"",-,0
-2010,Milwaukee Engr.,20220,Lake Forest,344,12/05/2009,9,1,Home,"",-,0
-2010,Milwaukee Engr.,20220,St. Thomas (MN),620,12/11/2009,2,3,Away,"",-,0
-2010,Milwaukee Engr.,20220,St. Thomas (MN),620,12/12/2009,2,2,Away,"",-,0
-2010,Milwaukee Engr.,20220,Elmira,213,01/02/2010,2,3,Away,"",-,0
-2010,Milwaukee Engr.,20220,Central Conn. St.,127,01/03/2010,1,2,Away,"",1 OT,0
-2010,Milwaukee Engr.,20220,Lake Forest,344,01/08/2010,4,1,Home,"",-,0
-2010,Milwaukee Engr.,20220,Adrian,4,01/15/2010,1,7,Home,"",-,0
-2010,Milwaukee Engr.,20220,Adrian,4,01/16/2010,2,5,Home,"",-,0
-2010,Milwaukee Engr.,20220,Finlandia,30032,01/22/2010,4,2,Home,"",-,0
-2010,Milwaukee Engr.,20220,Finlandia,30032,01/23/2010,6,2,Home,"",-,0
-2010,Milwaukee Engr.,20220,Lawrence,348,01/29/2010,5,0,Home,"",-,0
-2010,Milwaukee Engr.,20220,Lawrence,348,01/30/2010,3,2,Away,"",-,0
-2010,Milwaukee Engr.,20220,Concordia (WI),1036,02/05/2010,4,4,Neutral,Bradley Center,-,0
-2010,Milwaukee Engr.,20220,Concordia (WI),1036,02/06/2010,4,1,Home,"",-,0
-2010,Milwaukee Engr.,20220,Lake Forest,344,02/12/2010,5,4,Home,"",1 OT,0
-2010,Milwaukee Engr.,20220,Lake Forest,344,02/13/2010,4,2,Away,"",-,0
-2010,Milwaukee Engr.,20220,Adrian,4,02/19/2010,4,6,Away,"",-,0
-2010,Milwaukee Engr.,20220,Adrian,4,02/20/2010,2,9,Away,"",-,0
-2010,Milwaukee Engr.,20220,Lake Forest,344,02/27/2010,6,7,Home,"",1 OT,0
-2010,Milwaukee Engr.,20220,Lake Forest,344,02/28/2010,7,3,Home,"",-,0
-2010,Milwaukee Engr.,20220,Lake Forest,344,02/28/2010,1,2,Home,"",1 OT,0
 2010,Minn. Duluth,427,Lake Superior St.,345,10/09/2009,4,3,Home,"",-,"3,869"
 2010,Minn. Duluth,427,Northern Mich.,506,10/11/2009,1,3,Home,"",-,"3,508"
 2010,Minn. Duluth,427,Minn. St. Mankato,383,10/16/2009,5,2,Home,"",-,"4,824"
@@ -2246,48 +2091,34 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2010,Morrisville St.,30067,Fredonia St.,242,02/20/2010,1,7,Away,"",-,"1,108"
 2010,Morrisville St.,30067,Fredonia St.,242,02/23/2010,3,2,Away,"",1 OT,821
 2010,Morrisville St.,30067,Oswego St.,530,02/27/2010,5,8,Away,"",-,"2,282"
-2010,Neb.-Omaha,464,Army,725,10/09/2009,6,4,Home,"",-,"6,092"
-2010,Neb.-Omaha,464,Mass.-Lowell,368,10/10/2009,4,3,Home,"",-,"5,714"
-2010,Neb.-Omaha,464,Colgate,153,10/16/2009,1,1,Away,"",1 OT,567
-2010,Neb.-Omaha,464,Colgate,153,10/17/2009,4,1,Away,"",-,726
-2010,Neb.-Omaha,464,Bowling Green,71,10/30/2009,3,3,Home,"",1 OT,"7,152"
-2010,Neb.-Omaha,464,Bowling Green,71,10/31/2009,3,1,Home,"",-,"4,028"
-2010,Neb.-Omaha,464,Michigan St.,416,11/05/2009,0,3,Away,"",-,"3,903"
-2010,Neb.-Omaha,464,Michigan St.,416,11/06/2009,3,3,Away,"",2 OT,"4,147"
-2010,Neb.-Omaha,464,Lake Superior St.,345,11/13/2009,4,0,Home,"",-,"6,198"
-2010,Neb.-Omaha,464,Lake Superior St.,345,11/14/2009,1,3,Home,"",-,"5,773"
-2010,Neb.-Omaha,464,Northern Mich.,506,11/20/2009,1,5,Away,"",-,"2,471"
-2010,Neb.-Omaha,464,Northern Mich.,506,11/21/2009,3,6,Away,"",-,"2,737"
-2010,Neb.-Omaha,464,Western Mich.,774,11/27/2009,4,3,Home,"",-,"5,070"
-2010,Neb.-Omaha,464,Western Mich.,774,11/28/2009,4,2,Home,"",-,"6,136"
-2010,Neb.-Omaha,464,Ferris St.,224,12/04/2009,0,2,Away,"",-,"1,591"
-2010,Neb.-Omaha,464,Ferris St.,224,12/05/2009,1,3,Away,"",-,"1,058"
-2010,Neb.-Omaha,464,Alas. Fairbanks,12,12/11/2009,3,4,Away,"",-,"2,833"
-2010,Neb.-Omaha,464,Alas. Fairbanks,12,12/12/2009,5,3,Away,"",-,"3,035"
-2010,Neb.-Omaha,464,Minn. St. Mankato,383,12/18/2009,1,1,Away,"",1 OT,"3,123"
-2010,Neb.-Omaha,464,Minn. St. Mankato,383,12/19/2009,2,1,Home,"",1 OT,"5,982"
-2010,Neb.-Omaha,464,Denver,183,01/01/2010,0,7,Away,"",-,"5,250"
-2010,Neb.-Omaha,464,St. Lawrence,607,01/02/2010,2,2,Neutral,"Denver, CO",1 OT,"2,675"
-2010,Neb.-Omaha,464,Alas. Fairbanks,12,01/08/2010,1,3,Home,"",-,"5,609"
-2010,Neb.-Omaha,464,Alas. Fairbanks,12,01/09/2010,2,1,Home,"",-,"7,033"
-2010,Neb.-Omaha,464,Lake Superior St.,345,01/15/2010,1,2,Away,"",-,"2,043"
-2010,Neb.-Omaha,464,Lake Superior St.,345,01/16/2010,4,5,Away,"",1 OT,"2,268"
-2010,Neb.-Omaha,464,Northern Mich.,506,01/22/2010,7,2,Home,"",-,"6,232"
-2010,Neb.-Omaha,464,Northern Mich.,506,01/23/2010,5,3,Home,"",-,"8,165"
-2010,Neb.-Omaha,464,Notre Dame,513,01/29/2010,5,3,Away,"",-,"3,007"
-2010,Neb.-Omaha,464,Notre Dame,513,01/30/2010,2,3,Away,"",-,"2,857"
-2010,Neb.-Omaha,464,Ohio St.,518,02/05/2010,5,5,Home,"",1 OT,"13,417"
-2010,Neb.-Omaha,464,Ohio St.,518,02/06/2010,4,3,Home,"",-,"7,259"
-2010,Neb.-Omaha,464,Michigan,418,02/12/2010,4,3,Home,"",-,"7,264"
-2010,Neb.-Omaha,464,Michigan,418,02/13/2010,4,1,Home,"",-,"10,628"
-2010,Neb.-Omaha,464,Miami (OH),414,02/19/2010,2,6,Away,"",-,"2,964"
-2010,Neb.-Omaha,464,Miami (OH),414,02/20/2010,4,2,Away,"",-,"3,297"
-2010,Neb.-Omaha,464,Bemidji St.,54,02/26/2010,1,3,Home,"",-,"7,031"
-2010,Neb.-Omaha,464,Bemidji St.,54,02/27/2010,3,2,Home,"",-,"8,202"
-2010,Neb.-Omaha,464,Bowling Green,71,03/05/2010,6,1,Home,"",-,"4,779"
-2010,Neb.-Omaha,464,Bowling Green,71,03/06/2010,6,1,Home,"",-,"6,417"
-2010,Neb.-Omaha,464,Ferris St.,224,03/12/2010,1,3,Away,"",-,862
-2010,Neb.-Omaha,464,Ferris St.,224,03/13/2010,2,3,Away,"",1 OT,"1,147"
+2010,MSOE,20220,Concordia (WI),1036,10/30/2009,9,1,Home,"",-,0
+2010,MSOE,20220,Concordia (WI),1036,10/31/2009,5,1,Away,"",-,0
+2010,MSOE,20220,Northland,1267,11/06/2009,4,2,Away,"",-,0
+2010,MSOE,20220,Northland,1267,11/07/2009,5,1,Away,"",-,0
+2010,MSOE,20220,Marian (WI),1196,11/13/2009,1,3,Home,"",-,0
+2010,MSOE,20220,Marian (WI),1196,11/14/2009,3,4,Away,"",-,0
+2010,MSOE,20220,Lake Forest,344,12/04/2009,2,3,Away,"",-,0
+2010,MSOE,20220,Lake Forest,344,12/05/2009,9,1,Home,"",-,0
+2010,MSOE,20220,St. Thomas (MN),620,12/11/2009,2,3,Away,"",-,0
+2010,MSOE,20220,St. Thomas (MN),620,12/12/2009,2,2,Away,"",-,0
+2010,MSOE,20220,Elmira,213,01/02/2010,2,3,Away,"",-,0
+2010,MSOE,20220,Central Conn. St.,127,01/03/2010,1,2,Away,"",1 OT,0
+2010,MSOE,20220,Lake Forest,344,01/08/2010,4,1,Home,"",-,0
+2010,MSOE,20220,Adrian,4,01/15/2010,1,7,Home,"",-,0
+2010,MSOE,20220,Adrian,4,01/16/2010,2,5,Home,"",-,0
+2010,MSOE,20220,Finlandia,30032,01/22/2010,4,2,Home,"",-,0
+2010,MSOE,20220,Finlandia,30032,01/23/2010,6,2,Home,"",-,0
+2010,MSOE,20220,Lawrence,348,01/29/2010,5,0,Home,"",-,0
+2010,MSOE,20220,Lawrence,348,01/30/2010,3,2,Away,"",-,0
+2010,MSOE,20220,Concordia (WI),1036,02/05/2010,4,4,Neutral,Bradley Center,-,0
+2010,MSOE,20220,Concordia (WI),1036,02/06/2010,4,1,Home,"",-,0
+2010,MSOE,20220,Lake Forest,344,02/12/2010,5,4,Home,"",1 OT,0
+2010,MSOE,20220,Lake Forest,344,02/13/2010,4,2,Away,"",-,0
+2010,MSOE,20220,Adrian,4,02/19/2010,4,6,Away,"",-,0
+2010,MSOE,20220,Adrian,4,02/20/2010,2,9,Away,"",-,0
+2010,MSOE,20220,Lake Forest,344,02/27/2010,6,7,Home,"",1 OT,0
+2010,MSOE,20220,Lake Forest,344,02/28/2010,7,3,Home,"",-,0
+2010,MSOE,20220,Lake Forest,344,02/28/2010,1,2,Home,"",1 OT,0
 2010,Neumann,1254,SUNY Geneseo,247,10/23/2009,6,2,Home,"",-,487
 2010,Neumann,1254,SUNY Geneseo,247,10/24/2009,2,0,Home,"",-,228
 2010,Neumann,1254,Utica,733,10/30/2009,4,4,Away,"",2 OT,0
@@ -2696,6 +2527,48 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2010,Ohio St.,518,Miami (OH),414,03/12/2010,2,6,Away,"",-,"3,141"
 2010,Ohio St.,518,Miami (OH),414,03/13/2010,5,4,Away,"",1 OT,"3,058"
 2010,Ohio St.,518,Miami (OH),414,03/14/2010,1,2,Away,"",-,"2,245"
+2010,Omaha,464,Army,725,10/09/2009,6,4,Home,"",-,"6,092"
+2010,Omaha,464,Mass.-Lowell,368,10/10/2009,4,3,Home,"",-,"5,714"
+2010,Omaha,464,Colgate,153,10/16/2009,1,1,Away,"",1 OT,567
+2010,Omaha,464,Colgate,153,10/17/2009,4,1,Away,"",-,726
+2010,Omaha,464,Bowling Green,71,10/30/2009,3,3,Home,"",1 OT,"7,152"
+2010,Omaha,464,Bowling Green,71,10/31/2009,3,1,Home,"",-,"4,028"
+2010,Omaha,464,Michigan St.,416,11/05/2009,0,3,Away,"",-,"3,903"
+2010,Omaha,464,Michigan St.,416,11/06/2009,3,3,Away,"",2 OT,"4,147"
+2010,Omaha,464,Lake Superior St.,345,11/13/2009,4,0,Home,"",-,"6,198"
+2010,Omaha,464,Lake Superior St.,345,11/14/2009,1,3,Home,"",-,"5,773"
+2010,Omaha,464,Northern Mich.,506,11/20/2009,1,5,Away,"",-,"2,471"
+2010,Omaha,464,Northern Mich.,506,11/21/2009,3,6,Away,"",-,"2,737"
+2010,Omaha,464,Western Mich.,774,11/27/2009,4,3,Home,"",-,"5,070"
+2010,Omaha,464,Western Mich.,774,11/28/2009,4,2,Home,"",-,"6,136"
+2010,Omaha,464,Ferris St.,224,12/04/2009,0,2,Away,"",-,"1,591"
+2010,Omaha,464,Ferris St.,224,12/05/2009,1,3,Away,"",-,"1,058"
+2010,Omaha,464,Alas. Fairbanks,12,12/11/2009,3,4,Away,"",-,"2,833"
+2010,Omaha,464,Alas. Fairbanks,12,12/12/2009,5,3,Away,"",-,"3,035"
+2010,Omaha,464,Minn. St. Mankato,383,12/18/2009,1,1,Away,"",1 OT,"3,123"
+2010,Omaha,464,Minn. St. Mankato,383,12/19/2009,2,1,Home,"",1 OT,"5,982"
+2010,Omaha,464,Denver,183,01/01/2010,0,7,Away,"",-,"5,250"
+2010,Omaha,464,St. Lawrence,607,01/02/2010,2,2,Neutral,"Denver, CO",1 OT,"2,675"
+2010,Omaha,464,Alas. Fairbanks,12,01/08/2010,1,3,Home,"",-,"5,609"
+2010,Omaha,464,Alas. Fairbanks,12,01/09/2010,2,1,Home,"",-,"7,033"
+2010,Omaha,464,Lake Superior St.,345,01/15/2010,1,2,Away,"",-,"2,043"
+2010,Omaha,464,Lake Superior St.,345,01/16/2010,4,5,Away,"",1 OT,"2,268"
+2010,Omaha,464,Northern Mich.,506,01/22/2010,7,2,Home,"",-,"6,232"
+2010,Omaha,464,Northern Mich.,506,01/23/2010,5,3,Home,"",-,"8,165"
+2010,Omaha,464,Notre Dame,513,01/29/2010,5,3,Away,"",-,"3,007"
+2010,Omaha,464,Notre Dame,513,01/30/2010,2,3,Away,"",-,"2,857"
+2010,Omaha,464,Ohio St.,518,02/05/2010,5,5,Home,"",1 OT,"13,417"
+2010,Omaha,464,Ohio St.,518,02/06/2010,4,3,Home,"",-,"7,259"
+2010,Omaha,464,Michigan,418,02/12/2010,4,3,Home,"",-,"7,264"
+2010,Omaha,464,Michigan,418,02/13/2010,4,1,Home,"",-,"10,628"
+2010,Omaha,464,Miami (OH),414,02/19/2010,2,6,Away,"",-,"2,964"
+2010,Omaha,464,Miami (OH),414,02/20/2010,4,2,Away,"",-,"3,297"
+2010,Omaha,464,Bemidji St.,54,02/26/2010,1,3,Home,"",-,"7,031"
+2010,Omaha,464,Bemidji St.,54,02/27/2010,3,2,Home,"",-,"8,202"
+2010,Omaha,464,Bowling Green,71,03/05/2010,6,1,Home,"",-,"4,779"
+2010,Omaha,464,Bowling Green,71,03/06/2010,6,1,Home,"",-,"6,417"
+2010,Omaha,464,Ferris St.,224,03/12/2010,1,3,Away,"",-,862
+2010,Omaha,464,Ferris St.,224,03/13/2010,2,3,Away,"",1 OT,"1,147"
 2010,Oswego St.,530,Elmira,213,10/23/2009,7,2,Home,"",-,"2,564"
 2010,Oswego St.,530,Elmira,213,10/24/2009,1,2,Away,"",-,"1,439"
 2010,Oswego St.,530,Buffalo St.,85,10/30/2009,4,1,Away,"",-,730
@@ -3038,6 +2911,56 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2010,Sacred Heart,590,Holy Cross,285,03/13/2010,4,3,Home,"",1 OT,372
 2010,Sacred Heart,590,Air Force,721,03/19/2010,2,1,Neutral,"Rochester, NY",-,"1,803"
 2010,Sacred Heart,590,Rochester Inst.,580,03/20/2010,1,6,Neutral,"Rochester, NY",-,"3,298"
+2010,Saint John's (MN),602,Saint Mary's (MN),612,10/31/2009,4,0,Neutral,"Bloomington, Minn.",-,173
+2010,Saint John's (MN),602,St. Thomas (MN),620,11/01/2009,1,1,Neutral,"Bloomington, Minn.",1 OT,313
+2010,Saint John's (MN),602,St. Scholastica,618,11/06/2009,3,1,Away,"",-,713
+2010,Saint John's (MN),602,Wis.-Superior,804,11/07/2009,3,6,Away,"",-,667
+2010,Saint John's (MN),602,Bethel (MN),60,11/13/2009,3,5,Away,"",-,523
+2010,Saint John's (MN),602,Bethel (MN),60,11/14/2009,1,3,Home,"",-,512
+2010,Saint John's (MN),602,St. Thomas (MN),620,11/20/2009,1,2,Away,"",-,575
+2010,Saint John's (MN),602,St. Thomas (MN),620,11/21/2009,3,0,Neutral,"St. Cloud, Minn.",-,932
+2010,Saint John's (MN),602,Adrian,4,11/27/2009,2,6,Away,"",-,410
+2010,Saint John's (MN),602,Buffalo St.,85,11/28/2009,5,4,Neutral,"Adrian, Mich.",-,140
+2010,Saint John's (MN),602,Augsburg,38,12/04/2009,2,3,Home,"",-,266
+2010,Saint John's (MN),602,Augsburg,38,12/05/2009,1,3,Away,"",-,172
+2010,Saint John's (MN),602,Finlandia,30032,12/13/2009,7,3,Home,"",-,179
+2010,Saint John's (MN),602,Wis.-Stevens Point,802,01/08/2010,3,3,Neutral,"St. Cloud, Minn.",1 OT,303
+2010,Saint John's (MN),602,St. Norbert,614,01/09/2010,1,4,Neutral,"St. Cloud, Minn.",-,290
+2010,Saint John's (MN),602,Gust. Adolphus,266,01/22/2010,3,3,Away,"",1 OT,507
+2010,Saint John's (MN),602,Gust. Adolphus,266,01/24/2010,4,6,Neutral,"St. Paul, Minn.",-,"1,132"
+2010,Saint John's (MN),602,Concordia-M'head,161,01/30/2010,7,2,Home,"",-,262
+2010,Saint John's (MN),602,Concordia-M'head,161,01/31/2010,1,1,Home,"",1 OT,232
+2010,Saint John's (MN),602,Hamline,268,02/04/2010,4,5,Home,"",-,131
+2010,Saint John's (MN),602,Hamline,268,02/06/2010,2,5,Away,"",-,387
+2010,Saint John's (MN),602,Saint Mary's (MN),612,02/12/2010,5,2,Away,"",-,411
+2010,Saint John's (MN),602,Saint Mary's (MN),612,02/13/2010,4,0,Away,"",-,297
+2010,Saint John's (MN),602,St. Olaf,615,02/19/2010,5,3,Home,"",-,449
+2010,Saint John's (MN),602,St. Olaf,615,02/20/2010,3,8,Away,"",-,307
+2010,Saint Mary's (MN),612,St. Thomas (MN),620,10/30/2009,2,4,Neutral,"Bloomington, Minn.",-,254
+2010,Saint Mary's (MN),612,Saint John's (MN),602,10/31/2009,0,4,Neutral,"Bloomington, Minn.",-,173
+2010,Saint Mary's (MN),612,Wis.-Stout,803,11/06/2009,1,6,Away,"",-,950
+2010,Saint Mary's (MN),612,St. Olaf,615,11/07/2009,2,5,Away,"",-,176
+2010,Saint Mary's (MN),612,Concordia-M'head,161,11/13/2009,3,6,Away,"",-,275
+2010,Saint Mary's (MN),612,Concordia-M'head,161,11/14/2009,3,1,Away,"",-,225
+2010,Saint Mary's (MN),612,Hamline,268,11/20/2009,1,5,Away,"",-,264
+2010,Saint Mary's (MN),612,Hamline,268,11/21/2009,2,3,Home,"",-,318
+2010,Saint Mary's (MN),612,Wis.-River Falls,801,12/04/2009,0,7,Away,"",-,875
+2010,Saint Mary's (MN),612,Nichols,484,01/02/2010,4,4,Away,"",1 OT,150
+2010,Saint Mary's (MN),612,Wesleyan (CT),764,01/03/2010,3,5,Neutral,"Harrisville, R.I.",-,88
+2010,Saint Mary's (MN),612,Wis.-Eau Claire,793,01/08/2010,2,4,Home,"",-,437
+2010,Saint Mary's (MN),612,Wis.-River Falls,801,01/09/2010,3,4,Home,"",1 OT,378
+2010,Saint Mary's (MN),612,St. Olaf,615,01/15/2010,2,5,Away,"",-,217
+2010,Saint Mary's (MN),612,St. Olaf,615,01/16/2010,1,4,Home,"",-,321
+2010,Saint Mary's (MN),612,Bethel (MN),60,01/22/2010,4,5,Away,"",-,437
+2010,Saint Mary's (MN),612,Bethel (MN),60,01/23/2010,1,9,Home,"",-,291
+2010,Saint Mary's (MN),612,St. Thomas (MN),620,01/29/2010,3,4,Home,"",-,411
+2010,Saint Mary's (MN),612,St. Thomas (MN),620,01/30/2010,1,4,Away,"",-,249
+2010,Saint Mary's (MN),612,Augsburg,38,02/05/2010,4,5,Home,"",-,371
+2010,Saint Mary's (MN),612,Augsburg,38,02/06/2010,2,4,Away,"",-,156
+2010,Saint Mary's (MN),612,Saint John's (MN),602,02/12/2010,2,5,Home,"",-,411
+2010,Saint Mary's (MN),612,Saint John's (MN),602,02/13/2010,0,4,Home,"",-,297
+2010,Saint Mary's (MN),612,Gust. Adolphus,266,02/19/2010,1,5,Away,"",-,479
+2010,Saint Mary's (MN),612,Gust. Adolphus,266,02/20/2010,0,6,Home,"",-,117
 2010,Salem St.,621,Mass.-Dartmouth,656,11/17/2009,3,2,Home,"",-,175
 2010,Salem St.,621,Plymouth St.,548,11/19/2009,5,2,Home,"",-,450
 2010,Salem St.,621,Fitchburg St.,227,11/21/2009,4,3,Away,"",-,0
@@ -3187,31 +3110,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2010,St. Cloud St.,598,North Dakota,494,03/20/2010,3,5,Neutral,"St. Paul, MN",-,"16,414"
 2010,St. Cloud St.,598,Northern Mich.,506,03/26/2010,4,3,Neutral,"St. Paul, Minn.",2 OT,"6,500"
 2010,St. Cloud St.,598,Wisconsin,796,03/27/2010,3,5,Neutral,"St. Paul, Minn.",-,"7,182"
-2010,St. Johns (MN),602,Saint Mary's (MN),612,10/31/2009,4,0,Neutral,"Bloomington, Minn.",-,173
-2010,St. Johns (MN),602,St. Thomas (MN),620,11/01/2009,1,1,Neutral,"Bloomington, Minn.",1 OT,313
-2010,St. Johns (MN),602,St. Scholastica,618,11/06/2009,3,1,Away,"",-,713
-2010,St. Johns (MN),602,Wis.-Superior,804,11/07/2009,3,6,Away,"",-,667
-2010,St. Johns (MN),602,Bethel (MN),60,11/13/2009,3,5,Away,"",-,523
-2010,St. Johns (MN),602,Bethel (MN),60,11/14/2009,1,3,Home,"",-,512
-2010,St. Johns (MN),602,St. Thomas (MN),620,11/20/2009,1,2,Away,"",-,575
-2010,St. Johns (MN),602,St. Thomas (MN),620,11/21/2009,3,0,Neutral,"St. Cloud, Minn.",-,932
-2010,St. Johns (MN),602,Adrian,4,11/27/2009,2,6,Away,"",-,410
-2010,St. Johns (MN),602,Buffalo St.,85,11/28/2009,5,4,Neutral,"Adrian, Mich.",-,140
-2010,St. Johns (MN),602,Augsburg,38,12/04/2009,2,3,Home,"",-,266
-2010,St. Johns (MN),602,Augsburg,38,12/05/2009,1,3,Away,"",-,172
-2010,St. Johns (MN),602,Finlandia,30032,12/13/2009,7,3,Home,"",-,179
-2010,St. Johns (MN),602,Wis.-Stevens Point,802,01/08/2010,3,3,Neutral,"St. Cloud, Minn.",1 OT,303
-2010,St. Johns (MN),602,St. Norbert,614,01/09/2010,1,4,Neutral,"St. Cloud, Minn.",-,290
-2010,St. Johns (MN),602,Gust. Adolphus,266,01/22/2010,3,3,Away,"",1 OT,507
-2010,St. Johns (MN),602,Gust. Adolphus,266,01/24/2010,4,6,Neutral,"St. Paul, Minn.",-,"1,132"
-2010,St. Johns (MN),602,Concordia-M'head,161,01/30/2010,7,2,Home,"",-,262
-2010,St. Johns (MN),602,Concordia-M'head,161,01/31/2010,1,1,Home,"",1 OT,232
-2010,St. Johns (MN),602,Hamline,268,02/04/2010,4,5,Home,"",-,131
-2010,St. Johns (MN),602,Hamline,268,02/06/2010,2,5,Away,"",-,387
-2010,St. Johns (MN),602,Saint Mary's (MN),612,02/12/2010,5,2,Away,"",-,411
-2010,St. Johns (MN),602,Saint Mary's (MN),612,02/13/2010,4,0,Away,"",-,297
-2010,St. Johns (MN),602,St. Olaf,615,02/19/2010,5,3,Home,"",-,449
-2010,St. Johns (MN),602,St. Olaf,615,02/20/2010,3,8,Away,"",-,307
 2010,St. Lawrence,607,Mass.-Lowell,368,10/09/2009,0,3,Neutral,"Omaha, NE",-,400
 2010,St. Lawrence,607,Army,725,10/10/2009,5,2,Neutral,"Omaha, NE",-,"5,700"
 2010,St. Lawrence,607,Rochester Inst.,580,10/16/2009,3,1,Home,"",-,"1,655"
@@ -3254,31 +3152,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2010,St. Lawrence,607,Colgate,153,03/13/2010,4,3,Away,"",-,"1,122"
 2010,St. Lawrence,607,Union (NY),727,03/19/2010,1,3,Neutral,"Albany, N.Y.",-,0
 2010,St. Lawrence,607,Brown,80,03/20/2010,0,3,Neutral,"Albany, N.Y.",-,0
-2010,St. Marys (MN),612,St. Thomas (MN),620,10/30/2009,2,4,Neutral,"Bloomington, Minn.",-,254
-2010,St. Marys (MN),612,Saint John's (MN),602,10/31/2009,0,4,Neutral,"Bloomington, Minn.",-,173
-2010,St. Marys (MN),612,Wis.-Stout,803,11/06/2009,1,6,Away,"",-,950
-2010,St. Marys (MN),612,St. Olaf,615,11/07/2009,2,5,Away,"",-,176
-2010,St. Marys (MN),612,Concordia-M'head,161,11/13/2009,3,6,Away,"",-,275
-2010,St. Marys (MN),612,Concordia-M'head,161,11/14/2009,3,1,Away,"",-,225
-2010,St. Marys (MN),612,Hamline,268,11/20/2009,1,5,Away,"",-,264
-2010,St. Marys (MN),612,Hamline,268,11/21/2009,2,3,Home,"",-,318
-2010,St. Marys (MN),612,Wis.-River Falls,801,12/04/2009,0,7,Away,"",-,875
-2010,St. Marys (MN),612,Nichols,484,01/02/2010,4,4,Away,"",1 OT,150
-2010,St. Marys (MN),612,Wesleyan (CT),764,01/03/2010,3,5,Neutral,"Harrisville, R.I.",-,88
-2010,St. Marys (MN),612,Wis.-Eau Claire,793,01/08/2010,2,4,Home,"",-,437
-2010,St. Marys (MN),612,Wis.-River Falls,801,01/09/2010,3,4,Home,"",1 OT,378
-2010,St. Marys (MN),612,St. Olaf,615,01/15/2010,2,5,Away,"",-,217
-2010,St. Marys (MN),612,St. Olaf,615,01/16/2010,1,4,Home,"",-,321
-2010,St. Marys (MN),612,Bethel (MN),60,01/22/2010,4,5,Away,"",-,437
-2010,St. Marys (MN),612,Bethel (MN),60,01/23/2010,1,9,Home,"",-,291
-2010,St. Marys (MN),612,St. Thomas (MN),620,01/29/2010,3,4,Home,"",-,411
-2010,St. Marys (MN),612,St. Thomas (MN),620,01/30/2010,1,4,Away,"",-,249
-2010,St. Marys (MN),612,Augsburg,38,02/05/2010,4,5,Home,"",-,371
-2010,St. Marys (MN),612,Augsburg,38,02/06/2010,2,4,Away,"",-,156
-2010,St. Marys (MN),612,Saint John's (MN),602,02/12/2010,2,5,Home,"",-,411
-2010,St. Marys (MN),612,Saint John's (MN),602,02/13/2010,0,4,Home,"",-,297
-2010,St. Marys (MN),612,Gust. Adolphus,266,02/19/2010,1,5,Away,"",-,479
-2010,St. Marys (MN),612,Gust. Adolphus,266,02/20/2010,0,6,Home,"",-,117
 2010,St. Norbert,614,Lake Forest,344,10/27/2009,8,1,Home,"",-,"1,125"
 2010,St. Norbert,614,Wis.-Stout,803,10/30/2009,2,0,Away,"",-,"1,200"
 2010,St. Norbert,614,Wis.-Stout,803,10/31/2009,4,1,Away,"",-,950
@@ -3569,6 +3442,133 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2010,U New England,1255,Trinity (CT),713,02/19/2010,1,3,Home,"",-,273
 2010,U New England,1255,Wesleyan (CT),764,02/20/2010,6,1,Home,"",-,114
 2010,U New England,1255,Norwich,511,02/27/2010,1,8,Away,"",-,"2,023"
+2010,UConn,164,Ferris St.,224,10/16/2009,1,2,Away,"",-,"1,844"
+2010,UConn,164,Ferris St.,224,10/17/2009,1,6,Away,"",-,"1,091"
+2010,UConn,164,Bentley,56,10/23/2009,3,4,Away,"",-,567
+2010,UConn,164,Merrimack,410,10/25/2009,1,4,Away,"",-,794
+2010,UConn,164,Rochester Inst.,580,10/30/2009,2,6,Away,"",-,"1,839"
+2010,UConn,164,Rochester Inst.,580,10/31/2009,0,7,Away,"",-,"1,457"
+2010,UConn,164,American Int'l,22,11/06/2009,3,1,Home,"",-,701
+2010,UConn,164,American Int'l,22,11/07/2009,4,1,Home,"",-,574
+2010,UConn,164,Canisius,116,11/14/2009,4,4,Away,"",1 OT,638
+2010,UConn,164,Canisius,116,11/15/2009,0,1,Away,"",-,516
+2010,UConn,164,Air Force,721,11/20/2009,2,2,Home,"",1 OT,625
+2010,UConn,164,Air Force,721,11/21/2009,1,3,Home,"",-,728
+2010,UConn,164,Holy Cross,285,11/24/2009,0,5,Away,"",-,551
+2010,UConn,164,Brown,80,11/28/2009,1,8,Away,"",-,670
+2010,UConn,164,Mercyhurst,408,12/04/2009,0,5,Away,"",-,986
+2010,UConn,164,Mercyhurst,408,12/05/2009,1,3,Away,"",-,746
+2010,UConn,164,Bentley,56,12/29/2009,1,4,Home,"",-,"1,467"
+2010,UConn,164,Union (NY),727,12/30/2009,0,7,Home,"",-,0
+2010,UConn,164,Air Force,721,01/08/2010,1,2,Away,"",-,"2,721"
+2010,UConn,164,Air Force,721,01/09/2010,2,2,Away,"",1 OT,"3,031"
+2010,UConn,164,Rochester Inst.,580,01/15/2010,0,4,Home,"",-,581
+2010,UConn,164,Rochester Inst.,580,01/16/2010,2,1,Home,"",-,735
+2010,UConn,164,Army,725,01/22/2010,0,5,Away,"",-,"2,529"
+2010,UConn,164,Army,725,01/23/2010,2,1,Away,"",-,"2,508"
+2010,UConn,164,Princeton,554,01/25/2010,1,8,Away,"",-,"1,070"
+2010,UConn,164,Sacred Heart,590,01/29/2010,3,4,Home,"",1 OT,754
+2010,UConn,164,Canisius,116,02/05/2010,1,3,Home,"",-,621
+2010,UConn,164,Canisius,116,02/06/2010,2,5,Home,"",-,542
+2010,UConn,164,Holy Cross,285,02/09/2010,2,3,Away,"",-,611
+2010,UConn,164,Bentley,56,02/19/2010,4,1,Home,"",-,719
+2010,UConn,164,Bentley,56,02/20/2010,2,4,Away,"",-,723
+2010,UConn,164,Mercyhurst,408,02/26/2010,1,5,Home,"",-,606
+2010,UConn,164,Mercyhurst,408,02/27/2010,3,2,Home,"",1 OT,708
+2010,UConn,164,Bentley,56,03/06/2010,2,1,Away,"",-,402
+2010,UConn,164,Rochester Inst.,580,03/12/2010,3,4,Away,"",1 OT,"1,415"
+2010,UConn,164,Rochester Inst.,580,03/13/2010,1,4,Away,"",-,"1,659"
+2010,UMass Boston,401,Bowdoin,69,11/20/2009,3,5,Home,"",-,0
+2010,UMass Boston,401,Colby,151,11/21/2009,4,3,Home,"",-,0
+2010,UMass Boston,401,Framingham St.,238,11/24/2009,8,3,Away,"",-,0
+2010,UMass Boston,401,Stonehill,682,11/28/2009,7,2,Neutral,"Manchester, NH",-,0
+2010,UMass Boston,401,Trinity (CT),713,12/04/2009,4,4,Away,"",2 OT,0
+2010,UMass Boston,401,Wesleyan (CT),764,12/05/2009,1,4,Away,"",-,0
+2010,UMass Boston,401,Babson,45,12/09/2009,5,4,Home,"",1 OT,0
+2010,UMass Boston,401,Johnson & Wales (RI),22626,12/29/2009,3,1,Home,"",-,0
+2010,UMass Boston,401,Suffolk,684,12/30/2009,1,2,Home,"",-,0
+2010,UMass Boston,401,Connecticut Col.,163,01/08/2010,2,5,Away,"",-,0
+2010,UMass Boston,401,Adrian,4,01/09/2010,2,1,Away,"",-,0
+2010,UMass Boston,401,Castleton,123,01/15/2010,2,4,Home,"",-,0
+2010,UMass Boston,401,Skidmore,642,01/16/2010,2,3,Home,"",1 OT,0
+2010,UMass Boston,401,Mass.-Dartmouth,656,01/19/2010,5,0,Away,"",-,0
+2010,UMass Boston,401,Southern Me.,662,01/22/2010,4,7,Away,"",-,0
+2010,UMass Boston,401,U New England,1255,01/23/2010,5,4,Away,"",-,0
+2010,UMass Boston,401,Norwich,511,01/29/2010,0,2,Home,"",-,0
+2010,UMass Boston,401,Saint Michael's,613,01/30/2010,7,2,Home,"",-,0
+2010,UMass Boston,401,St. Anselm,593,02/05/2010,1,5,Away,"",-,0
+2010,UMass Boston,401,New England Col.,467,02/06/2010,3,4,Away,"",1 OT,0
+2010,UMass Boston,401,Middlebury,420,02/12/2010,1,5,Home,"",-,0
+2010,UMass Boston,401,Williams,789,02/13/2010,4,3,Home,"",-,0
+2010,UMass Boston,401,Hamilton,267,02/19/2010,2,6,Away,"",-,0
+2010,UMass Boston,401,Amherst,24,02/20/2010,1,1,Away,"",2 OT,0
+2010,UMass Boston,401,Babson,45,02/27/2010,2,4,Away,"",-,0
+2010,UMass Dartmouth,656,Becker,26107,11/11/2009,5,3,Away,"",-,318
+2010,UMass Dartmouth,656,Suffolk,684,11/14/2009,8,0,Home,"",-,351
+2010,UMass Dartmouth,656,Salem St.,621,11/17/2009,2,3,Away,"",-,125
+2010,UMass Dartmouth,656,Westfield St.,777,11/19/2009,2,2,Home,"",1 OT,388
+2010,UMass Dartmouth,656,Plymouth St.,548,11/21/2009,0,3,Away,"",-,250
+2010,UMass Dartmouth,656,Babson,45,11/24/2009,5,3,Home,"",-,168
+2010,UMass Dartmouth,656,Worcester St.,809,12/03/2009,3,5,Away,"",-,50
+2010,UMass Dartmouth,656,Stonehill,682,12/08/2009,1,4,Away,"",-,132
+2010,UMass Dartmouth,656,Framingham St.,238,12/10/2009,6,2,Home,"",-,177
+2010,UMass Dartmouth,656,Fitchburg St.,227,12/12/2009,3,5,Home,"",-,111
+2010,UMass Dartmouth,656,Salve Regina,623,01/09/2010,6,2,Away,"",-,103
+2010,UMass Dartmouth,656,Westfield St.,777,01/12/2010,3,7,Away,"",-,100
+2010,UMass Dartmouth,656,Salem St.,621,01/14/2010,0,3,Home,"",-,244
+2010,UMass Dartmouth,656,Mass.-Boston,401,01/19/2010,0,5,Home,"",-,195
+2010,UMass Dartmouth,656,Plymouth St.,548,01/21/2010,5,6,Home,"",1 OT,109
+2010,UMass Dartmouth,656,Worcester St.,809,01/23/2010,2,3,Home,"",-,111
+2010,UMass Dartmouth,656,Southern N.H.,468,01/28/2010,6,3,Home,"",-,105
+2010,UMass Dartmouth,656,Framingham St.,238,01/30/2010,5,2,Away,"",-,100
+2010,UMass Dartmouth,656,Fitchburg St.,227,02/04/2010,1,3,Away,"",-,300
+2010,UMass Dartmouth,656,Salem St.,621,02/06/2010,2,4,Away,"",-,500
+2010,UMass Dartmouth,656,Westfield St.,777,02/11/2010,2,5,Home,"",-,171
+2010,UMass Dartmouth,656,Plymouth St.,548,02/13/2010,2,4,Away,"",-,213
+2010,UMass Dartmouth,656,Worcester St.,809,02/18/2010,8,4,Away,"",-,150
+2010,UMass Dartmouth,656,Framingham St.,238,02/25/2010,6,3,Home,"",-,141
+2010,UMass Dartmouth,656,Fitchburg St.,227,02/27/2010,6,3,Home,"",-,206
+2010,UMass Dartmouth,656,Westfield St.,777,03/02/2010,4,3,Away,"",-,300
+2010,UMass Dartmouth,656,Fitchburg St.,227,03/04/2010,2,3,Away,"",-,624
+2010,UMass Lowell,368,St. Lawrence,607,10/09/2009,3,0,Away,"",-,0
+2010,UMass Lowell,368,Neb. Omaha,464,10/10/2009,3,4,Away,"",-,"5,714"
+2010,UMass Lowell,368,Colgate,153,10/23/2009,5,3,Home,"",-,"5,619"
+2010,UMass Lowell,368,Northeastern,500,10/24/2009,3,1,Home,"",-,"4,049"
+2010,UMass Lowell,368,Boston U.,68,10/30/2009,4,5,Home,"",1 OT,"5,496"
+2010,UMass Lowell,368,Boston U.,68,10/31/2009,3,2,Away,"",-,"4,792"
+2010,UMass Lowell,368,Vermont,738,11/06/2009,3,3,Away,"",1 OT,"4,003"
+2010,UMass Lowell,368,New Hampshire,469,11/08/2009,6,3,Home,"",-,"4,027"
+2010,UMass Lowell,368,Ala.-Huntsville,10,11/13/2009,3,1,Away,"",-,"2,406"
+2010,UMass Lowell,368,Ala.-Huntsville,10,11/14/2009,4,0,Away,"",-,"1,992"
+2010,UMass Lowell,368,Merrimack,410,11/21/2009,6,3,Home,"",-,"4,735"
+2010,UMass Lowell,368,Providence,556,11/24/2009,2,4,Away,"",-,"1,165"
+2010,UMass Lowell,368,Maine,380,11/27/2009,1,3,Home,"",-,"4,752"
+2010,UMass Lowell,368,New Hampshire,469,12/03/2009,1,2,Away,"",-,"5,831"
+2010,UMass Lowell,368,Massachusetts,400,12/05/2009,5,3,Home,"",-,"3,457"
+2010,UMass Lowell,368,Princeton,554,12/11/2009,4,1,Home,"",-,"3,808"
+2010,UMass Lowell,368,Princeton,554,12/12/2009,2,3,Home,"",-,"2,697"
+2010,UMass Lowell,368,Holy Cross,285,01/02/2010,3,0,Neutral,"Hanover, NH",-,0
+2010,UMass Lowell,368,Northeastern,500,01/03/2010,1,2,Neutral,"Hanover, NH",-,"2,066"
+2010,UMass Lowell,368,New Hampshire,469,01/08/2010,2,2,Away,"",1 OT,"5,137"
+2010,UMass Lowell,368,Northeastern,500,01/09/2010,6,5,Away,"",1 OT,"2,560"
+2010,UMass Lowell,368,Massachusetts,400,01/15/2010,2,3,Away,"",-,"3,445"
+2010,UMass Lowell,368,Massachusetts,400,01/16/2010,1,2,Home,"",-,"4,688"
+2010,UMass Lowell,368,Merrimack,410,01/22/2010,5,4,Home,"",-,"4,511"
+2010,UMass Lowell,368,Boston College,67,01/23/2010,3,1,Home,"",-,"5,711"
+2010,UMass Lowell,368,Northeastern,500,01/29/2010,1,2,Away,"",-,"2,666"
+2010,UMass Lowell,368,Boston U.,68,02/05/2010,2,3,Home,"",-,"5,296"
+2010,UMass Lowell,368,Merrimack,410,02/06/2010,1,3,Away,"",-,"2,473"
+2010,UMass Lowell,368,Boston College,67,02/12/2010,4,1,Home,"",-,"4,915"
+2010,UMass Lowell,368,Boston College,67,02/13/2010,1,2,Away,"",-,"5,715"
+2010,UMass Lowell,368,Maine,380,02/19/2010,4,8,Away,"",-,"4,597"
+2010,UMass Lowell,368,Maine,380,02/20/2010,4,2,Away,"",-,"4,691"
+2010,UMass Lowell,368,Providence,556,02/26/2010,4,0,Home,"",-,"4,348"
+2010,UMass Lowell,368,Providence,556,02/27/2010,2,2,Away,"",1 OT,"1,144"
+2010,UMass Lowell,368,Vermont,738,03/05/2010,5,2,Home,"",-,"5,058"
+2010,UMass Lowell,368,Vermont,738,03/06/2010,1,1,Home,"",1 OT,"6,121"
+2010,UMass Lowell,368,Maine,380,03/12/2010,2,1,Away,"",-,"3,000"
+2010,UMass Lowell,368,Maine,380,03/13/2010,0,2,Away,"",-,"3,343"
+2010,UMass Lowell,368,Maine,380,03/14/2010,2,3,Away,"",1 OT,"3,020"
 2010,Union (NY),727,Maine,380,10/09/2009,4,1,Home,"",-,"1,803"
 2010,Union (NY),727,Maine,380,10/10/2009,6,3,Home,"",-,"1,864"
 2010,Union (NY),727,St. Cloud St.,598,10/16/2009,3,3,Away,"",1 OT,"6,171"
@@ -3673,32 +3673,32 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2010,Vermont,738,New Hampshire,469,03/14/2010,1,0,Away,"",1 OT,"2,531"
 2010,Vermont,738,Boston College,67,03/19/2010,0,3,Neutral,"Boston, Mass.",-,"12,544"
 2010,Vermont,738,Wisconsin,796,03/26/2010,2,3,Neutral,"St. Paul, Minn.",-,"7,281"
-2010,Wentworth Inst.,762,Becker,26107,11/02/2009,3,1,Away,"",-,137
-2010,Wentworth Inst.,762,Franklin Pierce,241,11/09/2009,5,1,Home,"",-,205
-2010,Wentworth Inst.,762,Worcester St.,809,11/13/2009,9,4,Neutral,"Fitchburg, MA",-,150
-2010,Wentworth Inst.,762,Fitchburg St.,227,11/14/2009,3,3,Away,"",2 OT,375
-2010,Wentworth Inst.,762,Johnson & Wales (RI),22626,11/18/2009,4,2,Home,"",-,250
-2010,Wentworth Inst.,762,Western New Eng.,775,11/21/2009,6,2,Away,"",-,225
-2010,Wentworth Inst.,762,Nichols,484,12/02/2009,4,2,Away,"",-,204
-2010,Wentworth Inst.,762,Suffolk,684,12/04/2009,4,3,Home,"",-,225
-2010,Wentworth Inst.,762,Hamilton,267,01/02/2010,3,7,Neutral,"Burlington, VT",-,75
-2010,Wentworth Inst.,762,Saint Michael's,613,01/03/2010,6,3,Away,"",-,100
-2010,Wentworth Inst.,762,Plymouth St.,548,01/09/2010,5,3,Away,"",-,137
-2010,Wentworth Inst.,762,Plymouth St.,548,01/10/2010,6,2,Away,"",-,100
-2010,Wentworth Inst.,762,Hobart,282,01/15/2010,2,0,Away,"",-,100
-2010,Wentworth Inst.,762,Hobart,282,01/16/2010,4,2,Away,"",-,100
-2010,Wentworth Inst.,762,Curry,170,01/21/2010,2,6,Away,"",-,400
-2010,Wentworth Inst.,762,Salve Regina,623,01/25/2010,10,3,Home,"",-,163
-2010,Wentworth Inst.,762,Stonehill,682,01/28/2010,5,2,Away,"",-,173
-2010,Wentworth Inst.,762,Western New Eng.,775,01/31/2010,3,1,Home,"",-,217
-2010,Wentworth Inst.,762,Johnson & Wales (RI),22626,02/03/2010,5,3,Away,"",-,75
-2010,Wentworth Inst.,762,Nichols,484,02/07/2010,6,1,Home,"",-,175
-2010,Wentworth Inst.,762,Suffolk,684,02/11/2010,2,4,Away,"",-,250
-2010,Wentworth Inst.,762,Becker,26107,02/12/2010,1,2,Home,"",-,216
-2010,Wentworth Inst.,762,Salve Regina,623,02/17/2010,10,4,Away,"",-,111
-2010,Wentworth Inst.,762,Curry,170,02/21/2010,4,2,Home,"",-,476
-2010,Wentworth Inst.,762,Salve Regina,623,02/27/2010,10,7,Home,"",-,210
-2010,Wentworth Inst.,762,Johnson & Wales (RI),22626,03/03/2010,3,5,Home,"",-,235
+2010,Wentworth,762,Becker,26107,11/02/2009,3,1,Away,"",-,137
+2010,Wentworth,762,Franklin Pierce,241,11/09/2009,5,1,Home,"",-,205
+2010,Wentworth,762,Worcester St.,809,11/13/2009,9,4,Neutral,"Fitchburg, MA",-,150
+2010,Wentworth,762,Fitchburg St.,227,11/14/2009,3,3,Away,"",2 OT,375
+2010,Wentworth,762,Johnson & Wales (RI),22626,11/18/2009,4,2,Home,"",-,250
+2010,Wentworth,762,Western New Eng.,775,11/21/2009,6,2,Away,"",-,225
+2010,Wentworth,762,Nichols,484,12/02/2009,4,2,Away,"",-,204
+2010,Wentworth,762,Suffolk,684,12/04/2009,4,3,Home,"",-,225
+2010,Wentworth,762,Hamilton,267,01/02/2010,3,7,Neutral,"Burlington, VT",-,75
+2010,Wentworth,762,Saint Michael's,613,01/03/2010,6,3,Away,"",-,100
+2010,Wentworth,762,Plymouth St.,548,01/09/2010,5,3,Away,"",-,137
+2010,Wentworth,762,Plymouth St.,548,01/10/2010,6,2,Away,"",-,100
+2010,Wentworth,762,Hobart,282,01/15/2010,2,0,Away,"",-,100
+2010,Wentworth,762,Hobart,282,01/16/2010,4,2,Away,"",-,100
+2010,Wentworth,762,Curry,170,01/21/2010,2,6,Away,"",-,400
+2010,Wentworth,762,Salve Regina,623,01/25/2010,10,3,Home,"",-,163
+2010,Wentworth,762,Stonehill,682,01/28/2010,5,2,Away,"",-,173
+2010,Wentworth,762,Western New Eng.,775,01/31/2010,3,1,Home,"",-,217
+2010,Wentworth,762,Johnson & Wales (RI),22626,02/03/2010,5,3,Away,"",-,75
+2010,Wentworth,762,Nichols,484,02/07/2010,6,1,Home,"",-,175
+2010,Wentworth,762,Suffolk,684,02/11/2010,2,4,Away,"",-,250
+2010,Wentworth,762,Becker,26107,02/12/2010,1,2,Home,"",-,216
+2010,Wentworth,762,Salve Regina,623,02/17/2010,10,4,Away,"",-,111
+2010,Wentworth,762,Curry,170,02/21/2010,4,2,Home,"",-,476
+2010,Wentworth,762,Salve Regina,623,02/27/2010,10,7,Home,"",-,210
+2010,Wentworth,762,Johnson & Wales (RI),22626,03/03/2010,3,5,Home,"",-,235
 2010,Wesleyan (CT),764,Amherst,24,11/20/2009,3,6,Away,"",-,250
 2010,Wesleyan (CT),764,Hamilton,267,11/21/2009,6,8,Away,"",-,110
 2010,Wesleyan (CT),764,Trinity (CT),713,11/28/2009,3,2,Home,"",-,350

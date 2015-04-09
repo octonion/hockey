@@ -25,7 +25,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2006,153,Colgate,20,13,6,39
 2006,154,Colorado Col.,24,16,1,41
 2006,161,Concordia-M'head,5,18,2,25
-2006,164,Connecticut,11,23,2,36
 2006,163,Connecticut Col.,4,19,1,24
 2006,167,Cornell,22,9,4,35
 2006,170,Curry,16,11,1,28
@@ -35,7 +34,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2006,224,Ferris St.,17,15,8,40
 2006,227,Fitchburg St.,14,11,1,26
 2006,238,Framingham St.,5,17,1,23
-2006,242,Fredonia St.,17,9,3,29
+2006,242,Fredonia,17,9,3,29
 2006,266,Gust. Adolphus,14,11,1,26
 2006,267,Hamilton,11,12,3,26
 2006,268,Hamline,4,18,3,25
@@ -50,9 +49,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2006,380,Maine,28,12,2,42
 2006,382,Manhattanville,20,5,2,27
 2006,1196,Marian (WI),14,12,1,27
-2006,401,Mass.-Boston,0,23,3,26
-2006,656,Mass.-Dartmouth,25,5,0,30
-2006,368,Mass.-Lowell,14,20,2,36
 2006,400,Massachusetts,13,21,2,36
 2006,408,Mercyhurst,22,13,1,36
 2006,410,Merrimack,6,23,5,34
@@ -61,11 +57,10 @@ year,team_id,team_name,wins,losses,ties,total_games
 2006,416,Michigan St.,25,12,8,45
 2006,417,Michigan Tech,7,25,6,38
 2006,420,Middlebury,26,2,2,30
-2006,20220,Milwaukee Engr.,21,5,1,27
 2006,427,Minn. Duluth,11,25,4,40
 2006,383,Minn. St. Mankato,17,18,4,39
 2006,428,Minnesota,27,9,5,41
-2006,464,Neb. Omaha,20,15,6,41
+2006,20220,MSOE,21,5,1,27
 2006,1254,Neumann,14,10,1,25
 2006,467,New England Col.,19,6,3,28
 2006,469,New Hampshire,20,13,7,40
@@ -78,6 +73,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2006,511,Norwich,22,5,2,29
 2006,513,Notre Dame,13,19,4,36
 2006,518,Ohio St.,15,19,5,39
+2006,464,Omaha,20,15,6,41
 2006,530,Oswego St.,18,7,2,27
 2006,547,Plattsburgh St.,19,12,1,32
 2006,548,Plymouth St.,16,9,1,26
@@ -88,14 +84,14 @@ year,team_id,team_name,wins,losses,ties,total_games
 2006,579,Robert Morris,12,20,3,35
 2006,580,Rochester Inst.,6,22,2,30
 2006,590,Sacred Heart,21,12,2,35
+2006,602,Saint John's (MN),16,7,3,26
+2006,612,Saint Mary's (MN),9,14,1,24
 2006,621,Salem St.,11,11,4,26
 2006,623,Salve Regina,9,12,3,24
 2006,642,Skidmore,6,18,1,25
 2006,662,Southern Me.,12,13,2,27
 2006,598,St. Cloud St.,22,16,4,42
-2006,602,Saint John's (MN),16,7,3,26
 2006,607,St. Lawrence,21,17,2,40
-2006,612,Saint Mary's (MN),9,14,1,24
 2006,614,St. Norbert,25,5,2,32
 2006,615,St. Olaf,12,10,5,27
 2006,618,St. Scholastica,15,10,2,27
@@ -106,11 +102,15 @@ year,team_id,team_name,wins,losses,ties,total_games
 2006,552,SUNY Potsdam,7,15,4,26
 2006,713,Trinity (CT),13,10,3,26
 2006,717,Tufts,9,12,3,24
+2006,164,UConn,11,23,2,36
+2006,401,UMass Boston,0,23,3,26
+2006,656,UMass Dartmouth,25,5,0,30
+2006,368,UMass Lowell,14,20,2,36
 2006,727,Union (NY),16,16,6,38
 2006,733,Utica,13,11,3,27
 2006,738,Vermont,18,14,6,38
 2006,757,Wayne St. (MI),6,23,6,35
-2006,762,Wentworth Inst.,14,12,0,26
+2006,762,Wentworth,14,12,0,26
 2006,764,Wesleyan (CT),7,13,4,24
 2006,774,Western Mich.,10,24,6,40
 2006,775,Western New Eng.,4,16,3,23

@@ -143,40 +143,40 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2004,Alas. Fairbanks,12,Alas. Anchorage,11,03/06/2004,6,4,Away,"",-,"5,816"
 2004,Alas. Fairbanks,12,Northern Mich.,506,03/12/2004,1,3,Home,"",-,"4,389"
 2004,Alas. Fairbanks,12,Northern Mich.,506,03/13/2004,2,3,Home,"",-,"4,389"
-2004,American Intl,22,Quinnipiac,562,10/10/2003,2,3,Away,"",1 OT,"1,017"
-2004,American Intl,22,Bentley,56,10/11/2003,3,6,Neutral,"Northford, Conn.",-,217
-2004,American Intl,22,Army,725,10/18/2003,1,2,Away,"",-,"1,605"
-2004,American Intl,22,Union (NY),727,10/19/2003,3,6,Away,"",-,"1,564"
-2004,American Intl,22,Air Force,721,10/24/2003,1,5,Away,"",-,921
-2004,American Intl,22,Air Force,721,10/25/2003,1,5,Away,"",-,866
-2004,American Intl,22,Holy Cross,285,11/07/2003,2,5,Away,"",-,"1,073"
-2004,American Intl,22,Holy Cross,285,11/08/2003,2,3,Away,"",-,712
-2004,American Intl,22,Connecticut,164,11/14/2003,2,2,Home,"",1 OT,275
-2004,American Intl,22,Connecticut,164,11/15/2003,4,7,Away,"",-,"1,003"
-2004,American Intl,22,Army,725,11/23/2003,4,1,Home,"",-,225
-2004,American Intl,22,Bentley,56,11/25/2003,3,2,Home,"",1 OT,65
-2004,American Intl,22,Canisius,116,12/05/2003,2,5,Home,"",-,125
-2004,American Intl,22,Mercyhurst,408,12/06/2003,0,9,Home,"",-,22
-2004,American Intl,22,Wayne St. (MI),757,12/12/2003,5,3,Home,"",-,182
-2004,American Intl,22,Wayne St. (MI),757,12/13/2003,2,3,Home,"",-,125
-2004,American Intl,22,Army,725,01/09/2004,2,5,Away,"",-,"1,527"
-2004,American Intl,22,Army,725,01/10/2004,2,2,Home,"",1 OT,125
-2004,American Intl,22,Mercyhurst,408,01/16/2004,3,4,Away,"",-,678
-2004,American Intl,22,Mercyhurst,408,01/17/2004,3,4,Away,"",-,692
-2004,American Intl,22,Bentley,56,01/23/2004,1,2,Away,"",-,600
-2004,American Intl,22,Bentley,56,01/24/2004,2,4,Home,"",-,175
-2004,American Intl,22,Quinnipiac,562,02/07/2004,4,2,Home,"",-,125
-2004,American Intl,22,Quinnipiac,562,02/10/2004,1,1,Away,"",1 OT,756
-2004,American Intl,22,Sacred Heart,590,02/13/2004,0,4,Home,"",-,150
-2004,American Intl,22,Sacred Heart,590,02/14/2004,1,8,Away,"",-,305
-2004,American Intl,22,Quinnipiac,562,02/20/2004,1,6,Home,"",-,227
-2004,American Intl,22,Holy Cross,285,02/24/2004,0,1,Home,"",-,175
-2004,American Intl,22,Canisius,116,02/27/2004,2,4,Away,"",-,526
-2004,American Intl,22,Canisius,116,02/28/2004,3,6,Away,"",-,645
-2004,American Intl,22,Connecticut,164,03/05/2004,1,6,Away,"",-,"1,018"
-2004,American Intl,22,Sacred Heart,590,03/06/2004,4,4,Home,"",1 OT,271
-2004,American Intl,22,Army,725,03/12/2004,4,3,Away,"",-,"1,030"
-2004,American Intl,22,Holy Cross,285,03/13/2004,0,5,Neutral,"West Point, N.Y.",-,918
+2004,American Int'l,22,Quinnipiac,562,10/10/2003,2,3,Away,"",1 OT,"1,017"
+2004,American Int'l,22,Bentley,56,10/11/2003,3,6,Neutral,"Northford, Conn.",-,217
+2004,American Int'l,22,Army,725,10/18/2003,1,2,Away,"",-,"1,605"
+2004,American Int'l,22,Union (NY),727,10/19/2003,3,6,Away,"",-,"1,564"
+2004,American Int'l,22,Air Force,721,10/24/2003,1,5,Away,"",-,921
+2004,American Int'l,22,Air Force,721,10/25/2003,1,5,Away,"",-,866
+2004,American Int'l,22,Holy Cross,285,11/07/2003,2,5,Away,"",-,"1,073"
+2004,American Int'l,22,Holy Cross,285,11/08/2003,2,3,Away,"",-,712
+2004,American Int'l,22,Connecticut,164,11/14/2003,2,2,Home,"",1 OT,275
+2004,American Int'l,22,Connecticut,164,11/15/2003,4,7,Away,"",-,"1,003"
+2004,American Int'l,22,Army,725,11/23/2003,4,1,Home,"",-,225
+2004,American Int'l,22,Bentley,56,11/25/2003,3,2,Home,"",1 OT,65
+2004,American Int'l,22,Canisius,116,12/05/2003,2,5,Home,"",-,125
+2004,American Int'l,22,Mercyhurst,408,12/06/2003,0,9,Home,"",-,22
+2004,American Int'l,22,Wayne St. (MI),757,12/12/2003,5,3,Home,"",-,182
+2004,American Int'l,22,Wayne St. (MI),757,12/13/2003,2,3,Home,"",-,125
+2004,American Int'l,22,Army,725,01/09/2004,2,5,Away,"",-,"1,527"
+2004,American Int'l,22,Army,725,01/10/2004,2,2,Home,"",1 OT,125
+2004,American Int'l,22,Mercyhurst,408,01/16/2004,3,4,Away,"",-,678
+2004,American Int'l,22,Mercyhurst,408,01/17/2004,3,4,Away,"",-,692
+2004,American Int'l,22,Bentley,56,01/23/2004,1,2,Away,"",-,600
+2004,American Int'l,22,Bentley,56,01/24/2004,2,4,Home,"",-,175
+2004,American Int'l,22,Quinnipiac,562,02/07/2004,4,2,Home,"",-,125
+2004,American Int'l,22,Quinnipiac,562,02/10/2004,1,1,Away,"",1 OT,756
+2004,American Int'l,22,Sacred Heart,590,02/13/2004,0,4,Home,"",-,150
+2004,American Int'l,22,Sacred Heart,590,02/14/2004,1,8,Away,"",-,305
+2004,American Int'l,22,Quinnipiac,562,02/20/2004,1,6,Home,"",-,227
+2004,American Int'l,22,Holy Cross,285,02/24/2004,0,1,Home,"",-,175
+2004,American Int'l,22,Canisius,116,02/27/2004,2,4,Away,"",-,526
+2004,American Int'l,22,Canisius,116,02/28/2004,3,6,Away,"",-,645
+2004,American Int'l,22,Connecticut,164,03/05/2004,1,6,Away,"",-,"1,018"
+2004,American Int'l,22,Sacred Heart,590,03/06/2004,4,4,Home,"",1 OT,271
+2004,American Int'l,22,Army,725,03/12/2004,4,3,Away,"",-,"1,030"
+2004,American Int'l,22,Holy Cross,285,03/13/2004,0,5,Neutral,"West Point, N.Y.",-,918
 2004,Amherst,24,Mass.-Boston,401,11/21/2003,4,0,Home,"",-,150
 2004,Amherst,24,Babson,45,11/22/2003,3,3,Home,"",1 OT,110
 2004,Amherst,24,Wentworth Inst.,762,11/25/2003,4,2,Home,"",-,75
@@ -549,66 +549,31 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2004,Colorado Col.,154,Denver,183,03/12/2004,4,3,Away,"",-,"4,391"
 2004,Colorado Col.,154,Denver,183,03/13/2004,6,1,Away,"",-,"4,732"
 2004,Colorado Col.,154,Alas. Anchorage,11,03/18/2004,1,4,Neutral,"St. Paul, Minnesota",-,"12,713"
-2004,Concordia-Mhead,161,Wis.-Stout,803,11/07/2003,6,2,Home,"",-,700
-2004,Concordia-Mhead,161,Wis.-River Falls,801,11/08/2003,1,3,Home,"",-,450
-2004,Concordia-Mhead,161,St. Scholastica,618,11/14/2003,0,5,Away,"",-,276
-2004,Concordia-Mhead,161,Wis.-Superior,804,11/15/2003,2,12,Away,"",-,793
-2004,Concordia-Mhead,161,Wis.-Stevens Point,802,11/21/2003,4,8,Home,"",-,650
-2004,Concordia-Mhead,161,Wis.-Eau Claire,793,11/22/2003,2,4,Home,"",-,450
-2004,Concordia-Mhead,161,Minn.-Crookston,27854,11/26/2003,2,4,Home,"",-,150
-2004,Concordia-Mhead,161,St. Thomas (MN),620,12/05/2003,1,4,Home,"",-,400
-2004,Concordia-Mhead,161,St. Thomas (MN),620,12/06/2003,2,6,Home,"",-,150
-2004,Concordia-Mhead,161,Wis.-Superior,804,01/07/2004,3,4,Home,"",-,250
-2004,Concordia-Mhead,161,Augsburg,38,01/09/2004,3,3,Home,"",1 OT,300
-2004,Concordia-Mhead,161,Augsburg,38,01/10/2004,5,7,Home,"",-,400
-2004,Concordia-Mhead,161,Minn.-Crookston,27854,01/14/2004,5,5,Away,"",1 OT,297
-2004,Concordia-Mhead,161,Saint John's (MN),602,01/16/2004,2,4,Away,"",-,324
-2004,Concordia-Mhead,161,Saint John's (MN),602,01/17/2004,1,8,Away,"",-,360
-2004,Concordia-Mhead,161,Gust. Adolphus,266,01/23/2004,1,1,Away,"",1 OT,500
-2004,Concordia-Mhead,161,Gust. Adolphus,266,01/24/2004,2,4,Away,"",-,350
-2004,Concordia-Mhead,161,Hamline,268,02/06/2004,4,3,Away,"",-,228
-2004,Concordia-Mhead,161,Hamline,268,02/07/2004,2,1,Away,"",-,220
-2004,Concordia-Mhead,161,Saint Mary's (MN),612,02/13/2004,3,4,Home,"",-,300
-2004,Concordia-Mhead,161,Saint Mary's (MN),612,02/14/2004,3,2,Home,"",-,150
-2004,Concordia-Mhead,161,St. Olaf,615,02/20/2004,6,4,Away,"",-,361
-2004,Concordia-Mhead,161,St. Olaf,615,02/21/2004,1,3,Away,"",-,218
-2004,Concordia-Mhead,161,Bethel (MN),60,02/27/2004,3,4,Home,"",-,215
-2004,Concordia-Mhead,161,Bethel (MN),60,02/28/2004,2,6,Home,"",-,140
-2004,Connecticut,164,Massachusetts,400,10/09/2003,3,6,Away,"",-,"5,379"
-2004,Connecticut,164,Rensselaer,570,10/17/2003,4,4,Away,"",1 OT,"2,972"
-2004,Connecticut,164,Ala.-Huntsville,10,10/24/2003,4,1,Away,"",-,"2,147"
-2004,Connecticut,164,Ala.-Huntsville,10,10/25/2003,0,6,Away,"",-,"1,481"
-2004,Connecticut,164,Quinnipiac,562,10/31/2003,2,4,Away,"",-,847
-2004,Connecticut,164,Canisius,116,11/07/2003,4,3,Away,"",1 OT,400
-2004,Connecticut,164,Mercyhurst,408,11/08/2003,5,6,Away,"",1 OT,650
-2004,Connecticut,164,American Int'l,22,11/14/2003,2,2,Away,"",1 OT,275
-2004,Connecticut,164,American Int'l,22,11/15/2003,7,4,Home,"",-,"1,003"
-2004,Connecticut,164,Holy Cross,285,11/21/2003,2,4,Home,"",-,537
-2004,Connecticut,164,Quinnipiac,562,11/22/2003,1,1,Home,"",1 OT,506
-2004,Connecticut,164,Bemidji St.,54,11/25/2003,4,3,Home,"",-,331
-2004,Connecticut,164,Bemidji St.,54,11/28/2003,2,7,Home,"",-,600
-2004,Connecticut,164,Holy Cross,285,12/02/2003,2,4,Away,"",-,322
-2004,Connecticut,164,Vermont,738,12/20/2003,3,4,Away,"",1 OT,"2,690"
-2004,Connecticut,164,Bentley,56,12/28/2003,4,4,Home,"",1 OT,"1,089"
-2004,Connecticut,164,Air Force,721,12/29/2003,1,0,Home,"",-,"1,008"
-2004,Connecticut,164,Holy Cross,285,01/09/2004,1,3,Away,"",-,0
-2004,Connecticut,164,Brown,80,01/16/2004,1,1,Away,"",1 OT,"1,297"
-2004,Connecticut,164,Yale,813,01/17/2004,4,6,Away,"",-,"3,486"
-2004,Connecticut,164,Mercyhurst,408,01/23/2004,4,7,Home,"",-,"1,130"
-2004,Connecticut,164,Mercyhurst,408,01/24/2004,2,5,Home,"",-,806
-2004,Connecticut,164,Sacred Heart,590,01/30/2004,2,4,Away,"",-,437
-2004,Connecticut,164,Sacred Heart,590,01/31/2004,5,6,Home,"",-,"1,714"
-2004,Connecticut,164,Bentley,56,02/06/2004,3,2,Away,"",-,400
-2004,Connecticut,164,Bentley,56,02/07/2004,5,3,Away,"",-,350
-2004,Connecticut,164,Canisius,116,02/13/2004,4,1,Home,"",-,561
-2004,Connecticut,164,Canisius,116,02/14/2004,8,3,Home,"",-,583
-2004,Connecticut,164,Army,725,02/20/2004,3,2,Home,"",-,"1,073"
-2004,Connecticut,164,Quinnipiac,562,02/21/2004,2,2,Away,"",1 OT,"1,058"
-2004,Connecticut,164,Sacred Heart,590,02/24/2004,4,4,Away,"",1 OT,312
-2004,Connecticut,164,Army,725,02/27/2004,2,5,Home,"",-,931
-2004,Connecticut,164,American Int'l,22,03/05/2004,6,1,Home,"",-,"1,018"
-2004,Connecticut,164,Army,725,03/06/2004,9,6,Away,"",-,"2,329"
-2004,Connecticut,164,Sacred Heart,590,03/13/2004,0,3,Neutral,"WEST POINT, N.Y.",-,"1,000"
+2004,Concordia-M'head,161,Wis.-Stout,803,11/07/2003,6,2,Home,"",-,700
+2004,Concordia-M'head,161,Wis.-River Falls,801,11/08/2003,1,3,Home,"",-,450
+2004,Concordia-M'head,161,St. Scholastica,618,11/14/2003,0,5,Away,"",-,276
+2004,Concordia-M'head,161,Wis.-Superior,804,11/15/2003,2,12,Away,"",-,793
+2004,Concordia-M'head,161,Wis.-Stevens Point,802,11/21/2003,4,8,Home,"",-,650
+2004,Concordia-M'head,161,Wis.-Eau Claire,793,11/22/2003,2,4,Home,"",-,450
+2004,Concordia-M'head,161,Minn.-Crookston,27854,11/26/2003,2,4,Home,"",-,150
+2004,Concordia-M'head,161,St. Thomas (MN),620,12/05/2003,1,4,Home,"",-,400
+2004,Concordia-M'head,161,St. Thomas (MN),620,12/06/2003,2,6,Home,"",-,150
+2004,Concordia-M'head,161,Wis.-Superior,804,01/07/2004,3,4,Home,"",-,250
+2004,Concordia-M'head,161,Augsburg,38,01/09/2004,3,3,Home,"",1 OT,300
+2004,Concordia-M'head,161,Augsburg,38,01/10/2004,5,7,Home,"",-,400
+2004,Concordia-M'head,161,Minn.-Crookston,27854,01/14/2004,5,5,Away,"",1 OT,297
+2004,Concordia-M'head,161,Saint John's (MN),602,01/16/2004,2,4,Away,"",-,324
+2004,Concordia-M'head,161,Saint John's (MN),602,01/17/2004,1,8,Away,"",-,360
+2004,Concordia-M'head,161,Gust. Adolphus,266,01/23/2004,1,1,Away,"",1 OT,500
+2004,Concordia-M'head,161,Gust. Adolphus,266,01/24/2004,2,4,Away,"",-,350
+2004,Concordia-M'head,161,Hamline,268,02/06/2004,4,3,Away,"",-,228
+2004,Concordia-M'head,161,Hamline,268,02/07/2004,2,1,Away,"",-,220
+2004,Concordia-M'head,161,Saint Mary's (MN),612,02/13/2004,3,4,Home,"",-,300
+2004,Concordia-M'head,161,Saint Mary's (MN),612,02/14/2004,3,2,Home,"",-,150
+2004,Concordia-M'head,161,St. Olaf,615,02/20/2004,6,4,Away,"",-,361
+2004,Concordia-M'head,161,St. Olaf,615,02/21/2004,1,3,Away,"",-,218
+2004,Concordia-M'head,161,Bethel (MN),60,02/27/2004,3,4,Home,"",-,215
+2004,Concordia-M'head,161,Bethel (MN),60,02/28/2004,2,6,Home,"",-,140
 2004,Connecticut Col.,163,Saint Michael's,613,11/21/2003,6,4,Home,"",-,327
 2004,Connecticut Col.,163,Norwich,511,11/22/2003,3,4,Home,"",-,300
 2004,Connecticut Col.,163,Salve Regina,623,11/29/2003,4,1,Neutral,"Middletown, CT",-,300
@@ -854,35 +819,35 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2004,Fitchburg St.,227,Salve Regina,623,02/21/2004,4,1,Home,"",-,0
 2004,Fitchburg St.,227,Framingham St.,238,02/24/2004,1,1,Away,"",1 OT,0
 2004,Fitchburg St.,227,Wentworth Inst.,762,03/01/2004,2,8,Away,"",-,0
-2004,Fredonia St.,242,SUNY Cortland,168,10/24/2003,5,3,Home,"",-,263
-2004,Fredonia St.,242,SUNY Potsdam,552,10/25/2003,4,3,Home,"",-,114
-2004,Fredonia St.,242,Hobart,282,10/31/2003,2,2,Home,"",1 OT,125
-2004,Fredonia St.,242,Johnson & Wales (RI),22626,11/01/2003,13,3,Home,"",-,91
-2004,Fredonia St.,242,SUNY Potsdam,552,11/07/2003,5,2,Away,"",-,0
-2004,Fredonia St.,242,Plattsburgh St.,547,11/08/2003,2,4,Away,"",-,"1,734"
-2004,Fredonia St.,242,SUNY Cortland,168,11/14/2003,2,6,Home,"",-,546
-2004,Fredonia St.,242,Oswego St.,530,11/15/2003,1,2,Home,"",-,981
-2004,Fredonia St.,242,Buffalo St.,85,11/19/2003,5,0,Home,"",-,459
-2004,Fredonia St.,242,Brockport,78,12/05/2003,4,2,Away,"",-,193
-2004,Fredonia St.,242,SUNY Geneseo,247,12/06/2003,1,4,Away,"",-,500
-2004,Fredonia St.,242,Neumann,1254,12/12/2003,3,2,Away,"",-,90
-2004,Fredonia St.,242,Neumann,1254,12/13/2003,7,0,Away,"",-,73
-2004,Fredonia St.,242,Framingham St.,238,01/09/2004,4,1,Away,"",-,100
-2004,Fredonia St.,242,Plymouth St.,548,01/10/2004,1,3,Away,"",-,110
-2004,Fredonia St.,242,Rochester Inst.,580,01/16/2004,3,3,Home,"",1 OT,325
-2004,Fredonia St.,242,Utica,733,01/17/2004,0,2,Home,"",-,227
-2004,Fredonia St.,242,Utica,733,01/23/2004,6,7,Away,"",-,0
-2004,Fredonia St.,242,SUNY Potsdam,552,01/30/2004,3,4,Home,"",-,581
-2004,Fredonia St.,242,Plattsburgh St.,547,01/31/2004,2,5,Home,"",-,714
-2004,Fredonia St.,242,SUNY Cortland,168,02/06/2004,1,2,Away,"",1 OT,300
-2004,Fredonia St.,242,Oswego St.,530,02/07/2004,4,8,Away,"",-,"1,236"
-2004,Fredonia St.,242,Brockport,78,02/13/2004,6,1,Home,"",-,499
-2004,Fredonia St.,242,SUNY Geneseo,247,02/14/2004,2,1,Home,"",-,771
-2004,Fredonia St.,242,Buffalo St.,85,02/17/2004,4,0,Away,"",-,342
-2004,Fredonia St.,242,SUNY Geneseo,247,02/20/2004,5,3,Away,"",-,0
-2004,Fredonia St.,242,SUNY Geneseo,247,02/21/2004,3,3,Away,"",1 OT,"1,756"
-2004,Fredonia St.,242,Plattsburgh St.,547,02/27/2004,1,8,Away,"",-,"1,239"
-2004,Fredonia St.,242,Plattsburgh St.,547,02/28/2004,2,8,Away,"",-,"1,426"
+2004,Fredonia,242,SUNY Cortland,168,10/24/2003,5,3,Home,"",-,263
+2004,Fredonia,242,SUNY Potsdam,552,10/25/2003,4,3,Home,"",-,114
+2004,Fredonia,242,Hobart,282,10/31/2003,2,2,Home,"",1 OT,125
+2004,Fredonia,242,Johnson & Wales (RI),22626,11/01/2003,13,3,Home,"",-,91
+2004,Fredonia,242,SUNY Potsdam,552,11/07/2003,5,2,Away,"",-,0
+2004,Fredonia,242,Plattsburgh St.,547,11/08/2003,2,4,Away,"",-,"1,734"
+2004,Fredonia,242,SUNY Cortland,168,11/14/2003,2,6,Home,"",-,546
+2004,Fredonia,242,Oswego St.,530,11/15/2003,1,2,Home,"",-,981
+2004,Fredonia,242,Buffalo St.,85,11/19/2003,5,0,Home,"",-,459
+2004,Fredonia,242,Brockport,78,12/05/2003,4,2,Away,"",-,193
+2004,Fredonia,242,SUNY Geneseo,247,12/06/2003,1,4,Away,"",-,500
+2004,Fredonia,242,Neumann,1254,12/12/2003,3,2,Away,"",-,90
+2004,Fredonia,242,Neumann,1254,12/13/2003,7,0,Away,"",-,73
+2004,Fredonia,242,Framingham St.,238,01/09/2004,4,1,Away,"",-,100
+2004,Fredonia,242,Plymouth St.,548,01/10/2004,1,3,Away,"",-,110
+2004,Fredonia,242,Rochester Inst.,580,01/16/2004,3,3,Home,"",1 OT,325
+2004,Fredonia,242,Utica,733,01/17/2004,0,2,Home,"",-,227
+2004,Fredonia,242,Utica,733,01/23/2004,6,7,Away,"",-,0
+2004,Fredonia,242,SUNY Potsdam,552,01/30/2004,3,4,Home,"",-,581
+2004,Fredonia,242,Plattsburgh St.,547,01/31/2004,2,5,Home,"",-,714
+2004,Fredonia,242,SUNY Cortland,168,02/06/2004,1,2,Away,"",1 OT,300
+2004,Fredonia,242,Oswego St.,530,02/07/2004,4,8,Away,"",-,"1,236"
+2004,Fredonia,242,Brockport,78,02/13/2004,6,1,Home,"",-,499
+2004,Fredonia,242,SUNY Geneseo,247,02/14/2004,2,1,Home,"",-,771
+2004,Fredonia,242,Buffalo St.,85,02/17/2004,4,0,Away,"",-,342
+2004,Fredonia,242,SUNY Geneseo,247,02/20/2004,5,3,Away,"",-,0
+2004,Fredonia,242,SUNY Geneseo,247,02/21/2004,3,3,Away,"",1 OT,"1,756"
+2004,Fredonia,242,Plattsburgh St.,547,02/27/2004,1,8,Away,"",-,"1,239"
+2004,Fredonia,242,Plattsburgh St.,547,02/28/2004,2,8,Away,"",-,"1,426"
 2004,Gust. Adolphus,266,St. Scholastica,618,11/07/2003,2,3,Away,"",-,346
 2004,Gust. Adolphus,266,Wis.-Superior,804,11/08/2003,0,6,Away,"",-,942
 2004,Gust. Adolphus,266,Wis.-Stevens Point,802,11/14/2003,4,3,Away,"",-,"1,126"
@@ -1246,73 +1211,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2004,Marian (WI),1196,Minn.-Crookston,27854,02/14/2004,3,2,Away,"",-,167
 2004,Marian (WI),1196,Lawrence,348,02/28/2004,5,1,Home,"",-,413
 2004,Marian (WI),1196,Minn.-Crookston,27854,02/29/2004,0,3,Home,"",-,391
-2004,Mass.-Dartmouth,656,Scranton,633,11/08/2003,3,0,Away,"",-,100
-2004,Mass.-Dartmouth,656,Lebanon Valley,351,11/09/2003,1,4,Away,"",-,100
-2004,Mass.-Dartmouth,656,Fitchburg St.,227,11/14/2003,5,2,Away,"",-,100
-2004,Mass.-Dartmouth,656,Assumption,36,11/15/2003,6,4,Home,"",-,100
-2004,Mass.-Dartmouth,656,Stonehill,682,11/19/2003,5,2,Away,"",-,100
-2004,Mass.-Dartmouth,656,Plymouth St.,548,11/22/2003,4,2,Home,"",-,100
-2004,Mass.-Dartmouth,656,Worcester St.,809,11/25/2003,3,1,Home,"",-,100
-2004,Mass.-Dartmouth,656,Trinity (CT),713,11/29/2003,2,10,Away,"",-,100
-2004,Mass.-Dartmouth,656,SUNY Cortland,168,11/30/2003,4,8,Neutral,Amherst College,-,100
-2004,Mass.-Dartmouth,656,Tufts,717,12/02/2003,9,8,Away,"",-,100
-2004,Mass.-Dartmouth,656,Connecticut Col.,163,12/10/2003,5,4,Home,"",1 OT,100
-2004,Mass.-Dartmouth,656,Southern Me.,662,12/13/2003,4,7,Home,"",-,100
-2004,Mass.-Dartmouth,656,Assumption,36,01/10/2004,8,6,Away,"",-,100
-2004,Mass.-Dartmouth,656,Curry,170,01/15/2004,3,11,Away,"",-,100
-2004,Mass.-Dartmouth,656,Western New Eng.,775,01/17/2004,3,4,Away,"",-,100
-2004,Mass.-Dartmouth,656,Mass.-Boston,401,01/20/2004,9,4,Home,"",-,100
-2004,Mass.-Dartmouth,656,Southern N.H.,468,01/24/2004,3,2,Home,"",1 OT,100
-2004,Mass.-Dartmouth,656,Suffolk,684,01/28/2004,7,3,Home,"",-,100
-2004,Mass.-Dartmouth,656,Fitchburg St.,227,01/31/2004,9,2,Home,"",-,100
-2004,Mass.-Dartmouth,656,Salve Regina,623,02/04/2004,4,3,Home,"",-,100
-2004,Mass.-Dartmouth,656,Franklin Pierce,241,02/07/2004,6,1,Away,"",-,100
-2004,Mass.-Dartmouth,656,Wentworth Inst.,762,02/11/2004,2,2,Home,"",1 OT,100
-2004,Mass.-Dartmouth,656,Framingham St.,238,02/14/2004,2,3,Away,"",-,100
-2004,Mass.-Dartmouth,656,Nichols,484,02/18/2004,5,3,Away,"",-,100
-2004,Mass.-Dartmouth,656,Johnson & Wales (RI),22626,02/21/2004,10,4,Home,"",-,100
-2004,Mass.-Dartmouth,656,Framingham St.,238,02/29/2004,5,1,Away,"",-,100
-2004,Mass.-Dartmouth,656,Curry,170,03/06/2004,3,8,Away,"",-,100
-2004,Mass.-Lowell,368,Massachusetts,400,10/11/2003,2,3,Home,"",-,"2,134"
-2004,Mass.-Lowell,368,Miami (OH),414,10/17/2003,4,4,Neutral,"Anchorage, Alaska",1 OT,"2,532"
-2004,Mass.-Lowell,368,Alas. Anchorage,11,10/18/2003,0,1,Away,"",-,"5,101"
-2004,Mass.-Lowell,368,Niagara,482,10/24/2003,6,1,Neutral,"Buffalo, N.Y.",-,0
-2004,Mass.-Lowell,368,Canisius,116,10/25/2003,2,2,Neutral,"Buffalo, N.Y.",1 OT,"1,911"
-2004,Mass.-Lowell,368,Northeastern,500,10/31/2003,5,2,Away,"",-,"1,118"
-2004,Mass.-Lowell,368,Northeastern,500,11/01/2003,5,2,Home,"",-,"2,198"
-2004,Mass.-Lowell,368,Boston College,67,11/05/2003,1,4,Away,"",-,"5,859"
-2004,Mass.-Lowell,368,Bentley,56,11/11/2003,5,2,Home,"",-,"2,253"
-2004,Mass.-Lowell,368,Maine,380,11/16/2003,0,4,Away,"",-,"5,410"
-2004,Mass.-Lowell,368,Boston U.,68,11/21/2003,3,1,Away,"",-,"3,271"
-2004,Mass.-Lowell,368,Boston U.,68,11/22/2003,3,3,Home,"",1 OT,"2,762"
-2004,Mass.-Lowell,368,New Hampshire,469,11/25/2003,5,4,Away,"",-,"6,501"
-2004,Mass.-Lowell,368,Rensselaer,570,11/28/2003,1,2,Home,"",-,"2,373"
-2004,Mass.-Lowell,368,St. Lawrence,607,12/05/2003,4,5,Away,"",-,"2,120"
-2004,Mass.-Lowell,368,Clarkson,146,12/06/2003,4,2,Away,"",-,"2,125"
-2004,Mass.-Lowell,368,Niagara,482,12/14/2003,5,6,Home,"",-,"1,465"
-2004,Mass.-Lowell,368,Ferris St.,224,12/27/2003,4,7,Neutral,"Madison,WI",-,0
-2004,Mass.-Lowell,368,Union (NY),727,12/28/2003,5,3,Neutral,"Madison, Wis.",-,0
-2004,Mass.-Lowell,368,Massachusetts,400,01/03/2004,3,0,Home,"",-,"2,338"
-2004,Mass.-Lowell,368,Massachusetts,400,01/04/2004,1,0,Away,"",-,"2,974"
-2004,Mass.-Lowell,368,Michigan St.,416,01/09/2004,0,2,Away,"",-,"6,552"
-2004,Mass.-Lowell,368,Michigan St.,416,01/10/2004,3,2,Away,"",-,"6,576"
-2004,Mass.-Lowell,368,Merrimack,410,01/16/2004,4,3,Away,"",1 OT,"1,471"
-2004,Mass.-Lowell,368,Merrimack,410,01/17/2004,0,3,Home,"",-,"2,590"
-2004,Mass.-Lowell,368,Brown,80,01/24/2004,2,3,Home,"",-,"2,110"
-2004,Mass.-Lowell,368,Boston U.,68,01/30/2004,2,1,Home,"",-,"4,113"
-2004,Mass.-Lowell,368,Providence,556,01/31/2004,2,3,Away,"",-,"1,362"
-2004,Mass.-Lowell,368,Northeastern,500,02/06/2004,1,1,Away,"",1 OT,"1,674"
-2004,Mass.-Lowell,368,Providence,556,02/08/2004,2,4,Home,"",-,"2,542"
-2004,Mass.-Lowell,368,New Hampshire,469,02/13/2004,3,3,Home,"",1 OT,"5,690"
-2004,Mass.-Lowell,368,New Hampshire,469,02/14/2004,3,3,Away,"",1 OT,"6,501"
-2004,Mass.-Lowell,368,Boston College,67,02/20/2004,1,4,Away,"",-,"7,884"
-2004,Mass.-Lowell,368,Boston College,67,02/21/2004,0,5,Home,"",-,"5,328"
-2004,Mass.-Lowell,368,Maine,380,02/26/2004,3,2,Home,"",-,"2,751"
-2004,Mass.-Lowell,368,Maine,380,02/28/2004,0,4,Home,"",-,"4,153"
-2004,Mass.-Lowell,368,Merrimack,410,03/04/2004,3,3,Home,"",1 OT,"2,522"
-2004,Mass.-Lowell,368,Providence,556,03/06/2004,4,3,Away,"",-,"1,857"
-2004,Mass.-Lowell,368,Massachusetts,400,03/11/2004,3,6,Away,"",-,"3,544"
-2004,Mass.-Lowell,368,Massachusetts,400,03/12/2004,1,3,Away,"",-,"3,884"
 2004,Massachusetts,400,Connecticut,164,10/09/2003,6,3,Home,"",-,"5,379"
 2004,Massachusetts,400,Mass.-Lowell,368,10/11/2003,3,2,Away,"",-,"2,134"
 2004,Massachusetts,400,St. Lawrence,607,10/18/2003,5,1,Home,"",-,"2,972"
@@ -1744,45 +1642,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2004,Minnesota,428,North Dakota,494,03/20/2004,5,4,Neutral,"St. Paul, Minnesota",-,"19,306"
 2004,Minnesota,428,Notre Dame,513,03/27/2004,5,2,Neutral,"Grand Rapids, MI",-,"5,325"
 2004,Minnesota,428,Minn. Duluth,427,03/28/2004,1,3,Neutral,"Grand Rapids, MI",-,"3,206"
-2004,Neb.-Omaha,464,Wisconsin,796,10/10/2003,3,4,Home,"",1 OT,"8,934"
-2004,Neb.-Omaha,464,Minnesota,428,10/11/2003,3,7,Home,"",-,"6,347"
-2004,Neb.-Omaha,464,Western Mich.,774,10/17/2003,1,5,Away,"",-,"2,819"
-2004,Neb.-Omaha,464,Western Mich.,774,10/18/2003,2,2,Away,"",1 OT,"2,570"
-2004,Neb.-Omaha,464,Notre Dame,513,10/30/2003,2,4,Away,"",-,"1,455"
-2004,Neb.-Omaha,464,Notre Dame,513,10/31/2003,0,2,Away,"",-,"1,968"
-2004,Neb.-Omaha,464,Lake Superior St.,345,11/07/2003,7,1,Home,"",-,"7,332"
-2004,Neb.-Omaha,464,Lake Superior St.,345,11/08/2003,1,4,Home,"",-,"7,560"
-2004,Neb.-Omaha,464,Northern Mich.,506,11/14/2003,2,1,Home,"",-,"8,817"
-2004,Neb.-Omaha,464,Northern Mich.,506,11/15/2003,2,4,Home,"",-,"7,486"
-2004,Neb.-Omaha,464,Ferris St.,224,11/21/2003,4,1,Away,"",-,"1,784"
-2004,Neb.-Omaha,464,Ferris St.,224,11/22/2003,0,4,Away,"",-,"1,674"
-2004,Neb.-Omaha,464,Massachusetts,400,11/28/2003,7,2,Home,"",-,"7,901"
-2004,Neb.-Omaha,464,Massachusetts,400,11/29/2003,1,1,Home,"",1 OT,"8,414"
-2004,Neb.-Omaha,464,Alas. Fairbanks,12,12/05/2003,2,5,Away,"",-,"3,503"
-2004,Neb.-Omaha,464,Alas. Fairbanks,12,12/06/2003,1,4,Away,"",-,"3,596"
-2004,Neb.-Omaha,464,Michigan,418,12/12/2003,1,2,Home,"",-,"9,180"
-2004,Neb.-Omaha,464,Michigan,418,12/13/2003,3,3,Home,"",1 OT,"10,034"
-2004,Neb.-Omaha,464,Yale,813,12/27/2003,5,2,Neutral,"Denver, Colo.",-,"5,265"
-2004,Neb.-Omaha,464,Denver,183,12/28/2003,3,6,Away,"",-,"4,657"
-2004,Neb.-Omaha,464,Ferris St.,224,01/07/2004,2,5,Home,"",-,"7,034"
-2004,Neb.-Omaha,464,Ferris St.,224,01/08/2004,6,1,Home,"",-,"7,486"
-2004,Neb.-Omaha,464,Western Mich.,774,01/16/2004,4,5,Home,"",-,"8,934"
-2004,Neb.-Omaha,464,Western Mich.,774,01/17/2004,2,3,Home,"",-,"9,471"
-2004,Neb.-Omaha,464,Miami (OH),414,01/23/2004,2,2,Away,"",1 OT,"2,551"
-2004,Neb.-Omaha,464,Miami (OH),414,01/24/2004,1,7,Away,"",-,"2,318"
-2004,Neb.-Omaha,464,Bowling Green,71,02/06/2004,3,3,Home,"",1 OT,"8,727"
-2004,Neb.-Omaha,464,Bowling Green,71,02/07/2004,1,3,Home,"",-,"9,115"
-2004,Neb.-Omaha,464,Ohio St.,518,02/13/2004,1,3,Away,"",-,"5,511"
-2004,Neb.-Omaha,464,Ohio St.,518,02/14/2004,3,4,Away,"",-,"4,601"
-2004,Neb.-Omaha,464,Michigan St.,416,02/20/2004,0,3,Away,"",-,"6,576"
-2004,Neb.-Omaha,464,Michigan St.,416,02/21/2004,0,5,Away,"",-,"6,678"
-2004,Neb.-Omaha,464,Alas. Fairbanks,12,02/27/2004,0,1,Home,"",-,"8,061"
-2004,Neb.-Omaha,464,Alas. Fairbanks,12,02/28/2004,7,4,Home,"",-,"8,538"
-2004,Neb.-Omaha,464,Minn. St. Mankato,383,03/02/2004,3,5,Home,"",-,"6,134"
-2004,Neb.-Omaha,464,Minn. St. Mankato,383,03/06/2004,1,9,Away,"",-,"3,051"
-2004,Neb.-Omaha,464,Michigan,418,03/12/2004,0,2,Away,"",-,"6,518"
-2004,Neb.-Omaha,464,Michigan,418,03/13/2004,3,1,Away,"",-,"6,504"
-2004,Neb.-Omaha,464,Michigan,418,03/14/2004,2,5,Away,"",-,"5,873"
 2004,Neumann,1254,SUNY Geneseo,247,10/18/2003,1,5,Away,"",-,350
 2004,Neumann,1254,Abilene Christian,2,10/24/2003,5,3,Home,"",-,352
 2004,Neumann,1254,Brockport,78,10/25/2003,6,7,Home,"",-,202
@@ -2161,6 +2020,45 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2004,Ohio St.,518,Miami (OH),414,03/19/2004,4,3,Neutral,"Detroit, Mich.",1 OT,"11,651"
 2004,Ohio St.,518,Michigan,418,03/20/2004,4,2,Neutral,"Detroit, Mich.",-,"17,895"
 2004,Ohio St.,518,Wisconsin,796,03/26/2004,0,1,Neutral,"Albany, NY",1 OT,"5,223"
+2004,Omaha,464,Wisconsin,796,10/10/2003,3,4,Home,"",1 OT,"8,934"
+2004,Omaha,464,Minnesota,428,10/11/2003,3,7,Home,"",-,"6,347"
+2004,Omaha,464,Western Mich.,774,10/17/2003,1,5,Away,"",-,"2,819"
+2004,Omaha,464,Western Mich.,774,10/18/2003,2,2,Away,"",1 OT,"2,570"
+2004,Omaha,464,Notre Dame,513,10/30/2003,2,4,Away,"",-,"1,455"
+2004,Omaha,464,Notre Dame,513,10/31/2003,0,2,Away,"",-,"1,968"
+2004,Omaha,464,Lake Superior St.,345,11/07/2003,7,1,Home,"",-,"7,332"
+2004,Omaha,464,Lake Superior St.,345,11/08/2003,1,4,Home,"",-,"7,560"
+2004,Omaha,464,Northern Mich.,506,11/14/2003,2,1,Home,"",-,"8,817"
+2004,Omaha,464,Northern Mich.,506,11/15/2003,2,4,Home,"",-,"7,486"
+2004,Omaha,464,Ferris St.,224,11/21/2003,4,1,Away,"",-,"1,784"
+2004,Omaha,464,Ferris St.,224,11/22/2003,0,4,Away,"",-,"1,674"
+2004,Omaha,464,Massachusetts,400,11/28/2003,7,2,Home,"",-,"7,901"
+2004,Omaha,464,Massachusetts,400,11/29/2003,1,1,Home,"",1 OT,"8,414"
+2004,Omaha,464,Alas. Fairbanks,12,12/05/2003,2,5,Away,"",-,"3,503"
+2004,Omaha,464,Alas. Fairbanks,12,12/06/2003,1,4,Away,"",-,"3,596"
+2004,Omaha,464,Michigan,418,12/12/2003,1,2,Home,"",-,"9,180"
+2004,Omaha,464,Michigan,418,12/13/2003,3,3,Home,"",1 OT,"10,034"
+2004,Omaha,464,Yale,813,12/27/2003,5,2,Neutral,"Denver, Colo.",-,"5,265"
+2004,Omaha,464,Denver,183,12/28/2003,3,6,Away,"",-,"4,657"
+2004,Omaha,464,Ferris St.,224,01/07/2004,2,5,Home,"",-,"7,034"
+2004,Omaha,464,Ferris St.,224,01/08/2004,6,1,Home,"",-,"7,486"
+2004,Omaha,464,Western Mich.,774,01/16/2004,4,5,Home,"",-,"8,934"
+2004,Omaha,464,Western Mich.,774,01/17/2004,2,3,Home,"",-,"9,471"
+2004,Omaha,464,Miami (OH),414,01/23/2004,2,2,Away,"",1 OT,"2,551"
+2004,Omaha,464,Miami (OH),414,01/24/2004,1,7,Away,"",-,"2,318"
+2004,Omaha,464,Bowling Green,71,02/06/2004,3,3,Home,"",1 OT,"8,727"
+2004,Omaha,464,Bowling Green,71,02/07/2004,1,3,Home,"",-,"9,115"
+2004,Omaha,464,Ohio St.,518,02/13/2004,1,3,Away,"",-,"5,511"
+2004,Omaha,464,Ohio St.,518,02/14/2004,3,4,Away,"",-,"4,601"
+2004,Omaha,464,Michigan St.,416,02/20/2004,0,3,Away,"",-,"6,576"
+2004,Omaha,464,Michigan St.,416,02/21/2004,0,5,Away,"",-,"6,678"
+2004,Omaha,464,Alas. Fairbanks,12,02/27/2004,0,1,Home,"",-,"8,061"
+2004,Omaha,464,Alas. Fairbanks,12,02/28/2004,7,4,Home,"",-,"8,538"
+2004,Omaha,464,Minn. St. Mankato,383,03/02/2004,3,5,Home,"",-,"6,134"
+2004,Omaha,464,Minn. St. Mankato,383,03/06/2004,1,9,Away,"",-,"3,051"
+2004,Omaha,464,Michigan,418,03/12/2004,0,2,Away,"",-,"6,518"
+2004,Omaha,464,Michigan,418,03/13/2004,3,1,Away,"",-,"6,504"
+2004,Omaha,464,Michigan,418,03/14/2004,2,5,Away,"",-,"5,873"
 2004,Oswego St.,530,Utica,733,10/18/2003,5,3,Home,"",-,"2,412"
 2004,Oswego St.,530,Utica,733,10/25/2003,6,2,Away,"",-,"1,431"
 2004,Oswego St.,530,Elmira,213,10/31/2003,6,4,Home,"",-,819
@@ -2450,6 +2348,59 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2004,Sacred Heart,590,Connecticut,164,03/13/2004,3,0,Neutral,"WEST POINT, N.Y.",-,"1,000"
 2004,Sacred Heart,590,Mercyhurst,408,03/14/2004,3,2,Neutral,"WEST POINT, N.Y.",-,842
 2004,Sacred Heart,590,Holy Cross,285,03/20/2004,0,4,Neutral,"WEST POINT, N.Y.",-,"1,428"
+2004,Saint John's (MN),602,Lawrence,348,11/21/2003,7,2,Away,"",-,321
+2004,Saint John's (MN),602,Lawrence,348,11/22/2003,10,4,Away,"",-,125
+2004,Saint John's (MN),602,Wis.-Stout,803,11/25/2003,3,4,Home,"",-,369
+2004,Saint John's (MN),602,Northland,1267,12/06/2003,10,1,Home,"",-,417
+2004,Saint John's (MN),602,Northland,1267,12/07/2003,5,2,Home,"",-,352
+2004,Saint John's (MN),602,Minn.-Crookston,27854,12/12/2003,5,1,Away,"",-,216
+2004,Saint John's (MN),602,Minn.-Crookston,27854,12/13/2003,3,3,Away,"",1 OT,125
+2004,Saint John's (MN),602,Oswego St.,530,01/02/2004,5,3,Neutral,"Northfield, Vt.",-,500
+2004,Saint John's (MN),602,Norwich,511,01/03/2004,1,4,Away,"",-,"2,000"
+2004,Saint John's (MN),602,Gust. Adolphus,266,01/10/2004,0,3,Home,"",-,267
+2004,Saint John's (MN),602,Gust. Adolphus,266,01/11/2004,4,3,Away,"",-,350
+2004,Saint John's (MN),602,Concordia-M'head,161,01/16/2004,4,2,Home,"",-,324
+2004,Saint John's (MN),602,Concordia-M'head,161,01/17/2004,8,1,Home,"",-,360
+2004,Saint John's (MN),602,Hamline,268,01/23/2004,4,3,Away,"",1 OT,225
+2004,Saint John's (MN),602,Hamline,268,01/24/2004,5,0,Home,"",-,290
+2004,Saint John's (MN),602,Saint Mary's (MN),612,01/30/2004,4,1,Away,"",-,799
+2004,Saint John's (MN),602,Saint Mary's (MN),612,01/31/2004,4,3,Away,"",-,898
+2004,Saint John's (MN),602,St. Olaf,615,02/06/2004,3,2,Away,"",-,250
+2004,Saint John's (MN),602,St. Olaf,615,02/07/2004,4,1,Home,"",-,505
+2004,Saint John's (MN),602,Bethel (MN),60,02/13/2004,4,1,Away,"",-,267
+2004,Saint John's (MN),602,Bethel (MN),60,02/14/2004,6,1,Home,"",-,322
+2004,Saint John's (MN),602,St. Thomas (MN),620,02/20/2004,4,1,Away,"",-,"1,347"
+2004,Saint John's (MN),602,St. Thomas (MN),620,02/21/2004,1,0,Home,"",-,"1,270"
+2004,Saint John's (MN),602,Augsburg,38,02/27/2004,4,0,Away,"",-,365
+2004,Saint John's (MN),602,Augsburg,38,02/28/2004,4,0,Home,"",-,215
+2004,Saint John's (MN),602,St. Olaf,615,03/04/2004,5,0,Home,"",-,340
+2004,Saint John's (MN),602,St. Thomas (MN),620,03/07/2004,3,4,Home,"",1 OT,"1,250"
+2004,Saint Mary's (MN),612,St. Norbert,614,11/07/2003,1,5,Away,"",-,"1,266"
+2004,Saint Mary's (MN),612,Lake Forest,344,11/08/2003,5,5,Away,"",1 OT,318
+2004,Saint Mary's (MN),612,Wis.-Stout,803,11/14/2003,6,5,Home,"",-,817
+2004,Saint Mary's (MN),612,Wis.-River Falls,801,11/15/2003,2,4,Away,"",-,723
+2004,Saint Mary's (MN),612,Wis.-Superior,804,11/21/2003,3,2,Home,"",1 OT,817
+2004,Saint Mary's (MN),612,St. Scholastica,618,11/22/2003,4,2,Home,"",-,679
+2004,Saint Mary's (MN),612,Wis.-Eau Claire,793,11/25/2003,2,5,Home,"",-,417
+2004,Saint Mary's (MN),612,St. Olaf,615,12/05/2003,3,5,Away,"",-,320
+2004,Saint Mary's (MN),612,St. Olaf,615,12/06/2003,6,1,Home,"",-,812
+2004,Saint Mary's (MN),612,Milwaukee Engr.,20220,01/02/2004,6,1,Home,"",-,400
+2004,Saint Mary's (MN),612,Milwaukee Engr.,20220,01/03/2004,6,1,Home,"",-,218
+2004,Saint Mary's (MN),612,Bethel (MN),60,01/09/2004,4,1,Away,"",-,0
+2004,Saint Mary's (MN),612,Bethel (MN),60,01/10/2004,5,4,Home,"",-,799
+2004,Saint Mary's (MN),612,St. Thomas (MN),620,01/16/2004,4,6,Home,"",-,910
+2004,Saint Mary's (MN),612,St. Thomas (MN),620,01/17/2004,3,4,Away,"",-,770
+2004,Saint Mary's (MN),612,Augsburg,38,01/23/2004,3,2,Home,"",-,791
+2004,Saint Mary's (MN),612,Augsburg,38,01/24/2004,5,0,Away,"",-,291
+2004,Saint Mary's (MN),612,Saint John's (MN),602,01/30/2004,1,4,Home,"",-,799
+2004,Saint Mary's (MN),612,Saint John's (MN),602,01/31/2004,3,4,Home,"",-,898
+2004,Saint Mary's (MN),612,Gust. Adolphus,266,02/06/2004,3,3,Away,"",1 OT,125
+2004,Saint Mary's (MN),612,Gust. Adolphus,266,02/07/2004,4,1,Home,"",-,918
+2004,Saint Mary's (MN),612,Concordia-M'head,161,02/13/2004,4,3,Away,"",-,300
+2004,Saint Mary's (MN),612,Concordia-M'head,161,02/14/2004,2,3,Away,"",-,150
+2004,Saint Mary's (MN),612,Hamline,268,02/20/2004,4,1,Home,"",-,0
+2004,Saint Mary's (MN),612,Hamline,268,02/21/2004,2,3,Away,"",-,287
+2004,Saint Mary's (MN),612,St. Olaf,615,03/02/2004,3,5,Home,"",-,798
 2004,Salem St.,621,Wesleyan (CT),764,11/21/2003,4,2,Home,"",-,0
 2004,Salem St.,621,Trinity (CT),713,11/22/2003,4,3,Home,"",-,0
 2004,Salem St.,621,Southern Me.,662,11/25/2003,5,6,Away,"",-,0
@@ -2588,33 +2539,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2004,St. Cloud St.,598,Minnesota,428,03/06/2004,2,4,Away,"",-,"10,100"
 2004,St. Cloud St.,598,Minnesota,428,03/12/2004,1,6,Away,"",-,"10,042"
 2004,St. Cloud St.,598,Minnesota,428,03/13/2004,3,7,Away,"",-,"10,052"
-2004,St. Johns (MN),602,Lawrence,348,11/21/2003,7,2,Away,"",-,321
-2004,St. Johns (MN),602,Lawrence,348,11/22/2003,10,4,Away,"",-,125
-2004,St. Johns (MN),602,Wis.-Stout,803,11/25/2003,3,4,Home,"",-,369
-2004,St. Johns (MN),602,Northland,1267,12/06/2003,10,1,Home,"",-,417
-2004,St. Johns (MN),602,Northland,1267,12/07/2003,5,2,Home,"",-,352
-2004,St. Johns (MN),602,Minn.-Crookston,27854,12/12/2003,5,1,Away,"",-,216
-2004,St. Johns (MN),602,Minn.-Crookston,27854,12/13/2003,3,3,Away,"",1 OT,125
-2004,St. Johns (MN),602,Oswego St.,530,01/02/2004,5,3,Neutral,"Northfield, Vt.",-,500
-2004,St. Johns (MN),602,Norwich,511,01/03/2004,1,4,Away,"",-,"2,000"
-2004,St. Johns (MN),602,Gust. Adolphus,266,01/10/2004,0,3,Home,"",-,267
-2004,St. Johns (MN),602,Gust. Adolphus,266,01/11/2004,4,3,Away,"",-,350
-2004,St. Johns (MN),602,Concordia-M'head,161,01/16/2004,4,2,Home,"",-,324
-2004,St. Johns (MN),602,Concordia-M'head,161,01/17/2004,8,1,Home,"",-,360
-2004,St. Johns (MN),602,Hamline,268,01/23/2004,4,3,Away,"",1 OT,225
-2004,St. Johns (MN),602,Hamline,268,01/24/2004,5,0,Home,"",-,290
-2004,St. Johns (MN),602,Saint Mary's (MN),612,01/30/2004,4,1,Away,"",-,799
-2004,St. Johns (MN),602,Saint Mary's (MN),612,01/31/2004,4,3,Away,"",-,898
-2004,St. Johns (MN),602,St. Olaf,615,02/06/2004,3,2,Away,"",-,250
-2004,St. Johns (MN),602,St. Olaf,615,02/07/2004,4,1,Home,"",-,505
-2004,St. Johns (MN),602,Bethel (MN),60,02/13/2004,4,1,Away,"",-,267
-2004,St. Johns (MN),602,Bethel (MN),60,02/14/2004,6,1,Home,"",-,322
-2004,St. Johns (MN),602,St. Thomas (MN),620,02/20/2004,4,1,Away,"",-,"1,347"
-2004,St. Johns (MN),602,St. Thomas (MN),620,02/21/2004,1,0,Home,"",-,"1,270"
-2004,St. Johns (MN),602,Augsburg,38,02/27/2004,4,0,Away,"",-,365
-2004,St. Johns (MN),602,Augsburg,38,02/28/2004,4,0,Home,"",-,215
-2004,St. Johns (MN),602,St. Olaf,615,03/04/2004,5,0,Home,"",-,340
-2004,St. Johns (MN),602,St. Thomas (MN),620,03/07/2004,3,4,Home,"",1 OT,"1,250"
 2004,St. Lawrence,607,Miami (OH),414,10/03/2003,3,1,Neutral,"Dayton, Ohio",-,"2,268"
 2004,St. Lawrence,607,Denver,183,10/04/2003,0,3,Neutral,"Dayton, Ohio",-,"2,610"
 2004,St. Lawrence,607,Wayne St. (MI),757,10/10/2003,4,4,Home,"",1 OT,"2,650"
@@ -2656,32 +2580,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2004,St. Lawrence,607,Colgate,153,03/12/2004,2,1,Away,"",-,"2,156"
 2004,St. Lawrence,607,Colgate,153,03/13/2004,0,1,Away,"",-,"2,173"
 2004,St. Lawrence,607,Colgate,153,03/14/2004,1,2,Away,"",-,"2,039"
-2004,St. Marys (MN),612,St. Norbert,614,11/07/2003,1,5,Away,"",-,"1,266"
-2004,St. Marys (MN),612,Lake Forest,344,11/08/2003,5,5,Away,"",1 OT,318
-2004,St. Marys (MN),612,Wis.-Stout,803,11/14/2003,6,5,Home,"",-,817
-2004,St. Marys (MN),612,Wis.-River Falls,801,11/15/2003,2,4,Away,"",-,723
-2004,St. Marys (MN),612,Wis.-Superior,804,11/21/2003,3,2,Home,"",1 OT,817
-2004,St. Marys (MN),612,St. Scholastica,618,11/22/2003,4,2,Home,"",-,679
-2004,St. Marys (MN),612,Wis.-Eau Claire,793,11/25/2003,2,5,Home,"",-,417
-2004,St. Marys (MN),612,St. Olaf,615,12/05/2003,3,5,Away,"",-,320
-2004,St. Marys (MN),612,St. Olaf,615,12/06/2003,6,1,Home,"",-,812
-2004,St. Marys (MN),612,Milwaukee Engr.,20220,01/02/2004,6,1,Home,"",-,400
-2004,St. Marys (MN),612,Milwaukee Engr.,20220,01/03/2004,6,1,Home,"",-,218
-2004,St. Marys (MN),612,Bethel (MN),60,01/09/2004,4,1,Away,"",-,0
-2004,St. Marys (MN),612,Bethel (MN),60,01/10/2004,5,4,Home,"",-,799
-2004,St. Marys (MN),612,St. Thomas (MN),620,01/16/2004,4,6,Home,"",-,910
-2004,St. Marys (MN),612,St. Thomas (MN),620,01/17/2004,3,4,Away,"",-,770
-2004,St. Marys (MN),612,Augsburg,38,01/23/2004,3,2,Home,"",-,791
-2004,St. Marys (MN),612,Augsburg,38,01/24/2004,5,0,Away,"",-,291
-2004,St. Marys (MN),612,Saint John's (MN),602,01/30/2004,1,4,Home,"",-,799
-2004,St. Marys (MN),612,Saint John's (MN),602,01/31/2004,3,4,Home,"",-,898
-2004,St. Marys (MN),612,Gust. Adolphus,266,02/06/2004,3,3,Away,"",1 OT,125
-2004,St. Marys (MN),612,Gust. Adolphus,266,02/07/2004,4,1,Home,"",-,918
-2004,St. Marys (MN),612,Concordia-M'head,161,02/13/2004,4,3,Away,"",-,300
-2004,St. Marys (MN),612,Concordia-M'head,161,02/14/2004,2,3,Away,"",-,150
-2004,St. Marys (MN),612,Hamline,268,02/20/2004,4,1,Home,"",-,0
-2004,St. Marys (MN),612,Hamline,268,02/21/2004,2,3,Away,"",-,287
-2004,St. Marys (MN),612,St. Olaf,615,03/02/2004,3,5,Home,"",-,798
 2004,St. Norbert,614,Marian (WI),1196,10/28/2003,4,2,Home,"",-,857
 2004,St. Norbert,614,Rochester Inst.,580,10/31/2003,4,4,Away,"",1 OT,"1,000"
 2004,St. Norbert,614,Rochester Inst.,580,11/01/2003,4,2,Away,"",-,"1,000"
@@ -2900,6 +2798,108 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2004,Trinity (CT),713,Amherst,24,02/28/2004,3,0,Home,"",-,0
 2004,Trinity (CT),713,Colby,151,03/06/2004,4,2,Neutral,Middlebury,-,0
 2004,Trinity (CT),713,Middlebury,420,03/07/2004,2,6,Away,"",-,0
+2004,UConn,164,Massachusetts,400,10/09/2003,3,6,Away,"",-,"5,379"
+2004,UConn,164,Rensselaer,570,10/17/2003,4,4,Away,"",1 OT,"2,972"
+2004,UConn,164,Ala.-Huntsville,10,10/24/2003,4,1,Away,"",-,"2,147"
+2004,UConn,164,Ala.-Huntsville,10,10/25/2003,0,6,Away,"",-,"1,481"
+2004,UConn,164,Quinnipiac,562,10/31/2003,2,4,Away,"",-,847
+2004,UConn,164,Canisius,116,11/07/2003,4,3,Away,"",1 OT,400
+2004,UConn,164,Mercyhurst,408,11/08/2003,5,6,Away,"",1 OT,650
+2004,UConn,164,American Int'l,22,11/14/2003,2,2,Away,"",1 OT,275
+2004,UConn,164,American Int'l,22,11/15/2003,7,4,Home,"",-,"1,003"
+2004,UConn,164,Holy Cross,285,11/21/2003,2,4,Home,"",-,537
+2004,UConn,164,Quinnipiac,562,11/22/2003,1,1,Home,"",1 OT,506
+2004,UConn,164,Bemidji St.,54,11/25/2003,4,3,Home,"",-,331
+2004,UConn,164,Bemidji St.,54,11/28/2003,2,7,Home,"",-,600
+2004,UConn,164,Holy Cross,285,12/02/2003,2,4,Away,"",-,322
+2004,UConn,164,Vermont,738,12/20/2003,3,4,Away,"",1 OT,"2,690"
+2004,UConn,164,Bentley,56,12/28/2003,4,4,Home,"",1 OT,"1,089"
+2004,UConn,164,Air Force,721,12/29/2003,1,0,Home,"",-,"1,008"
+2004,UConn,164,Holy Cross,285,01/09/2004,1,3,Away,"",-,0
+2004,UConn,164,Brown,80,01/16/2004,1,1,Away,"",1 OT,"1,297"
+2004,UConn,164,Yale,813,01/17/2004,4,6,Away,"",-,"3,486"
+2004,UConn,164,Mercyhurst,408,01/23/2004,4,7,Home,"",-,"1,130"
+2004,UConn,164,Mercyhurst,408,01/24/2004,2,5,Home,"",-,806
+2004,UConn,164,Sacred Heart,590,01/30/2004,2,4,Away,"",-,437
+2004,UConn,164,Sacred Heart,590,01/31/2004,5,6,Home,"",-,"1,714"
+2004,UConn,164,Bentley,56,02/06/2004,3,2,Away,"",-,400
+2004,UConn,164,Bentley,56,02/07/2004,5,3,Away,"",-,350
+2004,UConn,164,Canisius,116,02/13/2004,4,1,Home,"",-,561
+2004,UConn,164,Canisius,116,02/14/2004,8,3,Home,"",-,583
+2004,UConn,164,Army,725,02/20/2004,3,2,Home,"",-,"1,073"
+2004,UConn,164,Quinnipiac,562,02/21/2004,2,2,Away,"",1 OT,"1,058"
+2004,UConn,164,Sacred Heart,590,02/24/2004,4,4,Away,"",1 OT,312
+2004,UConn,164,Army,725,02/27/2004,2,5,Home,"",-,931
+2004,UConn,164,American Int'l,22,03/05/2004,6,1,Home,"",-,"1,018"
+2004,UConn,164,Army,725,03/06/2004,9,6,Away,"",-,"2,329"
+2004,UConn,164,Sacred Heart,590,03/13/2004,0,3,Neutral,"WEST POINT, N.Y.",-,"1,000"
+2004,UMass Dartmouth,656,Scranton,633,11/08/2003,3,0,Away,"",-,100
+2004,UMass Dartmouth,656,Lebanon Valley,351,11/09/2003,1,4,Away,"",-,100
+2004,UMass Dartmouth,656,Fitchburg St.,227,11/14/2003,5,2,Away,"",-,100
+2004,UMass Dartmouth,656,Assumption,36,11/15/2003,6,4,Home,"",-,100
+2004,UMass Dartmouth,656,Stonehill,682,11/19/2003,5,2,Away,"",-,100
+2004,UMass Dartmouth,656,Plymouth St.,548,11/22/2003,4,2,Home,"",-,100
+2004,UMass Dartmouth,656,Worcester St.,809,11/25/2003,3,1,Home,"",-,100
+2004,UMass Dartmouth,656,Trinity (CT),713,11/29/2003,2,10,Away,"",-,100
+2004,UMass Dartmouth,656,SUNY Cortland,168,11/30/2003,4,8,Neutral,Amherst College,-,100
+2004,UMass Dartmouth,656,Tufts,717,12/02/2003,9,8,Away,"",-,100
+2004,UMass Dartmouth,656,Connecticut Col.,163,12/10/2003,5,4,Home,"",1 OT,100
+2004,UMass Dartmouth,656,Southern Me.,662,12/13/2003,4,7,Home,"",-,100
+2004,UMass Dartmouth,656,Assumption,36,01/10/2004,8,6,Away,"",-,100
+2004,UMass Dartmouth,656,Curry,170,01/15/2004,3,11,Away,"",-,100
+2004,UMass Dartmouth,656,Western New Eng.,775,01/17/2004,3,4,Away,"",-,100
+2004,UMass Dartmouth,656,Mass.-Boston,401,01/20/2004,9,4,Home,"",-,100
+2004,UMass Dartmouth,656,Southern N.H.,468,01/24/2004,3,2,Home,"",1 OT,100
+2004,UMass Dartmouth,656,Suffolk,684,01/28/2004,7,3,Home,"",-,100
+2004,UMass Dartmouth,656,Fitchburg St.,227,01/31/2004,9,2,Home,"",-,100
+2004,UMass Dartmouth,656,Salve Regina,623,02/04/2004,4,3,Home,"",-,100
+2004,UMass Dartmouth,656,Franklin Pierce,241,02/07/2004,6,1,Away,"",-,100
+2004,UMass Dartmouth,656,Wentworth Inst.,762,02/11/2004,2,2,Home,"",1 OT,100
+2004,UMass Dartmouth,656,Framingham St.,238,02/14/2004,2,3,Away,"",-,100
+2004,UMass Dartmouth,656,Nichols,484,02/18/2004,5,3,Away,"",-,100
+2004,UMass Dartmouth,656,Johnson & Wales (RI),22626,02/21/2004,10,4,Home,"",-,100
+2004,UMass Dartmouth,656,Framingham St.,238,02/29/2004,5,1,Away,"",-,100
+2004,UMass Dartmouth,656,Curry,170,03/06/2004,3,8,Away,"",-,100
+2004,UMass Lowell,368,Massachusetts,400,10/11/2003,2,3,Home,"",-,"2,134"
+2004,UMass Lowell,368,Miami (OH),414,10/17/2003,4,4,Neutral,"Anchorage, Alaska",1 OT,"2,532"
+2004,UMass Lowell,368,Alas. Anchorage,11,10/18/2003,0,1,Away,"",-,"5,101"
+2004,UMass Lowell,368,Niagara,482,10/24/2003,6,1,Neutral,"Buffalo, N.Y.",-,0
+2004,UMass Lowell,368,Canisius,116,10/25/2003,2,2,Neutral,"Buffalo, N.Y.",1 OT,"1,911"
+2004,UMass Lowell,368,Northeastern,500,10/31/2003,5,2,Away,"",-,"1,118"
+2004,UMass Lowell,368,Northeastern,500,11/01/2003,5,2,Home,"",-,"2,198"
+2004,UMass Lowell,368,Boston College,67,11/05/2003,1,4,Away,"",-,"5,859"
+2004,UMass Lowell,368,Bentley,56,11/11/2003,5,2,Home,"",-,"2,253"
+2004,UMass Lowell,368,Maine,380,11/16/2003,0,4,Away,"",-,"5,410"
+2004,UMass Lowell,368,Boston U.,68,11/21/2003,3,1,Away,"",-,"3,271"
+2004,UMass Lowell,368,Boston U.,68,11/22/2003,3,3,Home,"",1 OT,"2,762"
+2004,UMass Lowell,368,New Hampshire,469,11/25/2003,5,4,Away,"",-,"6,501"
+2004,UMass Lowell,368,Rensselaer,570,11/28/2003,1,2,Home,"",-,"2,373"
+2004,UMass Lowell,368,St. Lawrence,607,12/05/2003,4,5,Away,"",-,"2,120"
+2004,UMass Lowell,368,Clarkson,146,12/06/2003,4,2,Away,"",-,"2,125"
+2004,UMass Lowell,368,Niagara,482,12/14/2003,5,6,Home,"",-,"1,465"
+2004,UMass Lowell,368,Ferris St.,224,12/27/2003,4,7,Neutral,"Madison,WI",-,0
+2004,UMass Lowell,368,Union (NY),727,12/28/2003,5,3,Neutral,"Madison, Wis.",-,0
+2004,UMass Lowell,368,Massachusetts,400,01/03/2004,3,0,Home,"",-,"2,338"
+2004,UMass Lowell,368,Massachusetts,400,01/04/2004,1,0,Away,"",-,"2,974"
+2004,UMass Lowell,368,Michigan St.,416,01/09/2004,0,2,Away,"",-,"6,552"
+2004,UMass Lowell,368,Michigan St.,416,01/10/2004,3,2,Away,"",-,"6,576"
+2004,UMass Lowell,368,Merrimack,410,01/16/2004,4,3,Away,"",1 OT,"1,471"
+2004,UMass Lowell,368,Merrimack,410,01/17/2004,0,3,Home,"",-,"2,590"
+2004,UMass Lowell,368,Brown,80,01/24/2004,2,3,Home,"",-,"2,110"
+2004,UMass Lowell,368,Boston U.,68,01/30/2004,2,1,Home,"",-,"4,113"
+2004,UMass Lowell,368,Providence,556,01/31/2004,2,3,Away,"",-,"1,362"
+2004,UMass Lowell,368,Northeastern,500,02/06/2004,1,1,Away,"",1 OT,"1,674"
+2004,UMass Lowell,368,Providence,556,02/08/2004,2,4,Home,"",-,"2,542"
+2004,UMass Lowell,368,New Hampshire,469,02/13/2004,3,3,Home,"",1 OT,"5,690"
+2004,UMass Lowell,368,New Hampshire,469,02/14/2004,3,3,Away,"",1 OT,"6,501"
+2004,UMass Lowell,368,Boston College,67,02/20/2004,1,4,Away,"",-,"7,884"
+2004,UMass Lowell,368,Boston College,67,02/21/2004,0,5,Home,"",-,"5,328"
+2004,UMass Lowell,368,Maine,380,02/26/2004,3,2,Home,"",-,"2,751"
+2004,UMass Lowell,368,Maine,380,02/28/2004,0,4,Home,"",-,"4,153"
+2004,UMass Lowell,368,Merrimack,410,03/04/2004,3,3,Home,"",1 OT,"2,522"
+2004,UMass Lowell,368,Providence,556,03/06/2004,4,3,Away,"",-,"1,857"
+2004,UMass Lowell,368,Massachusetts,400,03/11/2004,3,6,Away,"",-,"3,544"
+2004,UMass Lowell,368,Massachusetts,400,03/12/2004,1,3,Away,"",-,"3,884"
 2004,Union (NY),727,Merrimack,410,10/18/2003,3,1,Home,"",-,"1,981"
 2004,Union (NY),727,American Int'l,22,10/19/2003,6,3,Home,"",-,"1,564"
 2004,Union (NY),727,Bowling Green,71,10/24/2003,3,1,Away,"",-,"2,073"
@@ -3032,35 +3032,35 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2004,Wayne St. (MI),757,Air Force,721,03/06/2004,1,3,Home,"",-,832
 2004,Wayne St. (MI),757,Ala.-Huntsville,10,03/12/2004,5,3,Neutral,"Kearney, NE",-,"1,048"
 2004,Wayne St. (MI),757,Niagara,482,03/13/2004,1,2,Neutral,"Kearney, NE",-,"1,098"
-2004,Wentworth Inst.,762,Western New Eng.,775,11/04/2003,2,0,Home,"",-,375
-2004,Wentworth Inst.,762,Stonehill,682,11/08/2003,3,2,Away,"",-,377
-2004,Wentworth Inst.,762,Worcester St.,809,11/12/2003,2,0,Away,"",-,150
-2004,Wentworth Inst.,762,Suffolk,684,11/18/2003,8,3,Home,"",-,300
-2004,Wentworth Inst.,762,Assumption,36,11/22/2003,6,1,Home,"",-,400
-2004,Wentworth Inst.,762,Amherst,24,11/25/2003,2,4,Away,"",-,75
-2004,Wentworth Inst.,762,New England Col.,467,12/03/2003,2,6,Away,"",-,300
-2004,Wentworth Inst.,762,Utica,733,12/05/2003,2,6,Home,"",-,225
-2004,Wentworth Inst.,762,Elmira,213,12/06/2003,1,3,Home,"",-,125
-2004,Wentworth Inst.,762,Salem St.,621,01/03/2004,4,4,Away,"",1 OT,500
-2004,Wentworth Inst.,762,Wesleyan (CT),764,01/06/2004,2,2,Home,"",1 OT,300
-2004,Wentworth Inst.,762,SUNY Geneseo,247,01/09/2004,2,3,Home,"",1 OT,200
-2004,Wentworth Inst.,762,Brockport,78,01/10/2004,3,0,Home,"",-,225
-2004,Wentworth Inst.,762,Fitchburg St.,227,01/14/2004,6,2,Away,"",-,150
-2004,Wentworth Inst.,762,Plattsburgh St.,547,01/17/2004,1,2,Home,"",-,350
-2004,Wentworth Inst.,762,Franklin Pierce,241,01/21/2004,8,2,Away,"",-,100
-2004,Wentworth Inst.,762,Curry,170,01/24/2004,2,7,Away,"",-,300
-2004,Wentworth Inst.,762,Salve Regina,623,01/28/2004,4,3,Home,"",-,325
-2004,Wentworth Inst.,762,Plymouth St.,548,01/31/2004,6,4,Away,"",-,170
-2004,Wentworth Inst.,762,Nichols,484,02/03/2004,7,1,Away,"",-,71
-2004,Wentworth Inst.,762,Lebanon Valley,351,02/07/2004,2,4,Home,"",-,525
-2004,Wentworth Inst.,762,Mass.-Dartmouth,656,02/11/2004,2,2,Away,"",-,160
-2004,Wentworth Inst.,762,Southern N.H.,468,02/15/2004,6,1,Home,"",-,250
-2004,Wentworth Inst.,762,Framingham St.,238,02/21/2004,7,1,Home,"",-,300
-2004,Wentworth Inst.,762,Johnson & Wales (RI),22626,02/22/2004,2,2,Away,"",1 OT,200
-2004,Wentworth Inst.,762,Fitchburg St.,227,02/28/2004,8,2,Home,"",-,330
-2004,Wentworth Inst.,762,Lebanon Valley,351,03/06/2004,6,4,Neutral,"Boston, Mass.",-,700
-2004,Wentworth Inst.,762,Curry,170,03/07/2004,5,4,Neutral,"Boston, Mass.",-,385
-2004,Wentworth Inst.,762,Middlebury,420,03/13/2004,1,9,Away,"",-,"2,419"
+2004,Wentworth,762,Western New Eng.,775,11/04/2003,2,0,Home,"",-,375
+2004,Wentworth,762,Stonehill,682,11/08/2003,3,2,Away,"",-,377
+2004,Wentworth,762,Worcester St.,809,11/12/2003,2,0,Away,"",-,150
+2004,Wentworth,762,Suffolk,684,11/18/2003,8,3,Home,"",-,300
+2004,Wentworth,762,Assumption,36,11/22/2003,6,1,Home,"",-,400
+2004,Wentworth,762,Amherst,24,11/25/2003,2,4,Away,"",-,75
+2004,Wentworth,762,New England Col.,467,12/03/2003,2,6,Away,"",-,300
+2004,Wentworth,762,Utica,733,12/05/2003,2,6,Home,"",-,225
+2004,Wentworth,762,Elmira,213,12/06/2003,1,3,Home,"",-,125
+2004,Wentworth,762,Salem St.,621,01/03/2004,4,4,Away,"",1 OT,500
+2004,Wentworth,762,Wesleyan (CT),764,01/06/2004,2,2,Home,"",1 OT,300
+2004,Wentworth,762,SUNY Geneseo,247,01/09/2004,2,3,Home,"",1 OT,200
+2004,Wentworth,762,Brockport,78,01/10/2004,3,0,Home,"",-,225
+2004,Wentworth,762,Fitchburg St.,227,01/14/2004,6,2,Away,"",-,150
+2004,Wentworth,762,Plattsburgh St.,547,01/17/2004,1,2,Home,"",-,350
+2004,Wentworth,762,Franklin Pierce,241,01/21/2004,8,2,Away,"",-,100
+2004,Wentworth,762,Curry,170,01/24/2004,2,7,Away,"",-,300
+2004,Wentworth,762,Salve Regina,623,01/28/2004,4,3,Home,"",-,325
+2004,Wentworth,762,Plymouth St.,548,01/31/2004,6,4,Away,"",-,170
+2004,Wentworth,762,Nichols,484,02/03/2004,7,1,Away,"",-,71
+2004,Wentworth,762,Lebanon Valley,351,02/07/2004,2,4,Home,"",-,525
+2004,Wentworth,762,Mass.-Dartmouth,656,02/11/2004,2,2,Away,"",-,160
+2004,Wentworth,762,Southern N.H.,468,02/15/2004,6,1,Home,"",-,250
+2004,Wentworth,762,Framingham St.,238,02/21/2004,7,1,Home,"",-,300
+2004,Wentworth,762,Johnson & Wales (RI),22626,02/22/2004,2,2,Away,"",1 OT,200
+2004,Wentworth,762,Fitchburg St.,227,02/28/2004,8,2,Home,"",-,330
+2004,Wentworth,762,Lebanon Valley,351,03/06/2004,6,4,Neutral,"Boston, Mass.",-,700
+2004,Wentworth,762,Curry,170,03/07/2004,5,4,Neutral,"Boston, Mass.",-,385
+2004,Wentworth,762,Middlebury,420,03/13/2004,1,9,Away,"",-,"2,419"
 2004,Wesleyan (CT),764,Salem St.,621,11/21/2003,2,4,Away,"",-,500
 2004,Wesleyan (CT),764,Southern Me.,662,11/22/2003,3,0,Away,"",-,194
 2004,Wesleyan (CT),764,Nichols,484,11/24/2003,3,0,Home,"",-,250

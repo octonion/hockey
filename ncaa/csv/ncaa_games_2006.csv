@@ -140,38 +140,38 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2006,Alas. Fairbanks,12,Michigan St.,416,03/10/2006,2,1,Away,"",-,"4,410"
 2006,Alas. Fairbanks,12,Michigan St.,416,03/11/2006,1,6,Away,"",-,"4,863"
 2006,Alas. Fairbanks,12,Michigan St.,416,03/12/2006,4,7,Away,"",-,"3,734"
-2006,American Intl,22,Quinnipiac,562,10/21/2005,4,6,Home,"",-,266
-2006,American Intl,22,Quinnipiac,562,10/22/2005,0,5,Away,"",-,"1,027"
-2006,American Intl,22,Mercyhurst,408,11/04/2005,1,4,Home,"",-,189
-2006,American Intl,22,Mercyhurst,408,11/05/2005,3,9,Home,"",-,215
-2006,American Intl,22,Sacred Heart,590,11/11/2005,4,6,Home,"",-,350
-2006,American Intl,22,Sacred Heart,590,11/12/2005,1,8,Away,"",-,324
-2006,American Intl,22,Holy Cross,285,11/18/2005,1,1,Away,"",1 OT,"1,071"
-2006,American Intl,22,Holy Cross,285,11/19/2005,1,2,Home,"",-,175
-2006,American Intl,22,Rochester Inst.,580,11/26/2005,0,5,Home,"",-,217
-2006,American Intl,22,Connecticut,164,12/02/2005,5,2,Away,"",-,0
-2006,American Intl,22,Connecticut,164,12/03/2005,1,2,Home,"",-,222
-2006,American Intl,22,Army,725,12/08/2005,2,2,Away,"",1 OT,"1,160"
-2006,American Intl,22,Bentley,56,12/10/2005,1,2,Home,"",-,197
-2006,American Intl,22,Canisius,116,01/06/2006,2,1,Home,"",-,157
-2006,American Intl,22,Canisius,116,01/07/2006,5,2,Home,"",-,165
-2006,American Intl,22,Bentley,56,01/13/2006,3,7,Away,"",-,365
-2006,American Intl,22,Bentley,56,01/14/2006,2,1,Home,"",-,181
-2006,American Intl,22,Army,725,01/17/2006,0,2,Home,"",-,211
-2006,American Intl,22,Mercyhurst,408,01/20/2006,2,7,Away,"",-,780
-2006,American Intl,22,Mercyhurst,408,01/21/2006,1,7,Away,"",-,"1,018"
-2006,American Intl,22,Holy Cross,285,01/27/2006,5,7,Home,"",-,226
-2006,American Intl,22,Holy Cross,285,01/28/2006,2,5,Away,"",-,"1,158"
-2006,American Intl,22,Bentley,56,02/07/2006,3,3,Away,"",1 OT,183
-2006,American Intl,22,Connecticut,164,02/10/2006,7,5,Home,"",-,190
-2006,American Intl,22,Connecticut,164,02/11/2006,0,6,Away,"",-,604
-2006,American Intl,22,Sacred Heart,590,02/17/2006,1,4,Away,"",-,443
-2006,American Intl,22,Sacred Heart,590,02/18/2006,2,2,Home,"",1 OT,171
-2006,American Intl,22,Canisius,116,02/24/2006,0,3,Away,"",-,282
-2006,American Intl,22,Canisius,116,02/25/2006,2,2,Away,"",1 OT,415
-2006,American Intl,22,Army,725,03/03/2006,3,6,Home,"",-,277
-2006,American Intl,22,Army,725,03/04/2006,4,2,Away,"",-,"2,274"
-2006,American Intl,22,Holy Cross,285,03/11/2006,1,3,Away,"",-,"1,008"
+2006,American Int'l,22,Quinnipiac,562,10/21/2005,4,6,Home,"",-,266
+2006,American Int'l,22,Quinnipiac,562,10/22/2005,0,5,Away,"",-,"1,027"
+2006,American Int'l,22,Mercyhurst,408,11/04/2005,1,4,Home,"",-,189
+2006,American Int'l,22,Mercyhurst,408,11/05/2005,3,9,Home,"",-,215
+2006,American Int'l,22,Sacred Heart,590,11/11/2005,4,6,Home,"",-,350
+2006,American Int'l,22,Sacred Heart,590,11/12/2005,1,8,Away,"",-,324
+2006,American Int'l,22,Holy Cross,285,11/18/2005,1,1,Away,"",1 OT,"1,071"
+2006,American Int'l,22,Holy Cross,285,11/19/2005,1,2,Home,"",-,175
+2006,American Int'l,22,Rochester Inst.,580,11/26/2005,0,5,Home,"",-,217
+2006,American Int'l,22,Connecticut,164,12/02/2005,5,2,Away,"",-,0
+2006,American Int'l,22,Connecticut,164,12/03/2005,1,2,Home,"",-,222
+2006,American Int'l,22,Army,725,12/08/2005,2,2,Away,"",1 OT,"1,160"
+2006,American Int'l,22,Bentley,56,12/10/2005,1,2,Home,"",-,197
+2006,American Int'l,22,Canisius,116,01/06/2006,2,1,Home,"",-,157
+2006,American Int'l,22,Canisius,116,01/07/2006,5,2,Home,"",-,165
+2006,American Int'l,22,Bentley,56,01/13/2006,3,7,Away,"",-,365
+2006,American Int'l,22,Bentley,56,01/14/2006,2,1,Home,"",-,181
+2006,American Int'l,22,Army,725,01/17/2006,0,2,Home,"",-,211
+2006,American Int'l,22,Mercyhurst,408,01/20/2006,2,7,Away,"",-,780
+2006,American Int'l,22,Mercyhurst,408,01/21/2006,1,7,Away,"",-,"1,018"
+2006,American Int'l,22,Holy Cross,285,01/27/2006,5,7,Home,"",-,226
+2006,American Int'l,22,Holy Cross,285,01/28/2006,2,5,Away,"",-,"1,158"
+2006,American Int'l,22,Bentley,56,02/07/2006,3,3,Away,"",1 OT,183
+2006,American Int'l,22,Connecticut,164,02/10/2006,7,5,Home,"",-,190
+2006,American Int'l,22,Connecticut,164,02/11/2006,0,6,Away,"",-,604
+2006,American Int'l,22,Sacred Heart,590,02/17/2006,1,4,Away,"",-,443
+2006,American Int'l,22,Sacred Heart,590,02/18/2006,2,2,Home,"",1 OT,171
+2006,American Int'l,22,Canisius,116,02/24/2006,0,3,Away,"",-,282
+2006,American Int'l,22,Canisius,116,02/25/2006,2,2,Away,"",1 OT,415
+2006,American Int'l,22,Army,725,03/03/2006,3,6,Home,"",-,277
+2006,American Int'l,22,Army,725,03/04/2006,4,2,Away,"",-,"2,274"
+2006,American Int'l,22,Holy Cross,285,03/11/2006,1,3,Away,"",-,"1,008"
 2006,Amherst,24,Wesleyan (CT),764,11/18/2005,3,1,Home,"",-,400
 2006,Amherst,24,Trinity (CT),713,11/19/2005,1,2,Home,"",-,200
 2006,Amherst,24,Connecticut Col.,163,11/26/2005,7,4,Neutral,"Middletown, CT",-,250
@@ -814,67 +814,31 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2006,Colorado Col.,154,St. Cloud St.,598,03/11/2006,3,2,Home,"",-,"6,829"
 2006,Colorado Col.,154,St. Cloud St.,598,03/12/2006,1,3,Home,"",-,"6,011"
 2006,Colorado Col.,154,Cornell,167,03/25/2006,2,3,Neutral,"Green Bay, Wis.",-,"7,859"
-2006,Concordia-Mhead,161,Northland,1267,11/04/2005,6,1,Home,"",-,185
-2006,Concordia-Mhead,161,Northland,1267,11/05/2005,9,1,Home,"",-,64
-2006,Concordia-Mhead,161,Minn.-Crookston,27854,11/08/2005,4,3,Away,"",-,450
-2006,Concordia-Mhead,161,Minn.-Crookston,27854,11/15/2005,5,4,Home,"",1 OT,201
-2006,Concordia-Mhead,161,St. John's (NY),603,11/18/2005,1,12,Away,"",-,540
-2006,Concordia-Mhead,161,St. John's (NY),603,11/19/2005,0,7,Away,"",-,211
-2006,Concordia-Mhead,161,Wis.-Superior,804,11/25/2005,4,3,Neutral,"Blaine, Minn.",1 OT,125
-2006,Concordia-Mhead,161,St. Scholastica,618,11/26/2005,3,6,Neutral,"Blaine, Minn.",-,200
-2006,Concordia-Mhead,161,Gust. Adolphus,266,12/02/2005,0,7,Away,"",-,474
-2006,Concordia-Mhead,161,Gust. Adolphus,266,12/03/2005,1,7,Away,"",-,217
-2006,Concordia-Mhead,161,Wis.-Stevens Point,802,01/06/2006,3,3,Home,"",1 OT,222
-2006,Concordia-Mhead,161,Wis.-Eau Claire,793,01/07/2006,3,5,Home,"",-,182
-2006,Concordia-Mhead,161,Wis.-Stout,803,01/10/2006,1,4,Home,"",-,156
-2006,Concordia-Mhead,161,Hamline,268,01/20/2006,0,7,Away,"",-,253
-2006,Concordia-Mhead,161,Hamline,268,01/21/2006,3,6,Away,"",-,200
-2006,Concordia-Mhead,161,Saint Mary's (MN),612,01/27/2006,0,7,Home,"",-,223
-2006,Concordia-Mhead,161,Saint Mary's (MN),612,01/28/2006,2,7,Home,"",-,175
-2006,Concordia-Mhead,161,St. Olaf,615,02/03/2006,2,3,Away,"",-,301
-2006,Concordia-Mhead,161,St. Olaf,615,02/04/2006,0,4,Away,"",-,336
-2006,Concordia-Mhead,161,Bethel (MN),60,02/10/2006,5,7,Home,"",-,105
-2006,Concordia-Mhead,161,Bethel (MN),60,02/11/2006,2,9,Home,"",-,120
-2006,Concordia-Mhead,161,St. Thomas (MN),620,02/17/2006,2,2,Home,"",1 OT,143
-2006,Concordia-Mhead,161,St. Thomas (MN),620,02/18/2006,1,9,Home,"",-,143
-2006,Concordia-Mhead,161,Augsburg,38,02/24/2006,3,11,Home,"",-,112
-2006,Concordia-Mhead,161,Augsburg,38,02/25/2006,2,10,Home,"",-,63
-2006,Connecticut,164,Union (NY),727,10/15/2005,4,4,Away,"",1 OT,"1,612"
-2006,Connecticut,164,Merrimack,410,10/21/2005,1,3,Away,"",-,"1,327"
-2006,Connecticut,164,Merrimack,410,10/22/2005,2,1,Away,"",-,"1,427"
-2006,Connecticut,164,Mercyhurst,408,10/28/2005,2,5,Away,"",-,"1,400"
-2006,Connecticut,164,Mercyhurst,408,10/29/2005,3,5,Away,"",-,"1,335"
-2006,Connecticut,164,Holy Cross,285,11/04/2005,1,4,Home,"",-,"1,227"
-2006,Connecticut,164,Holy Cross,285,11/05/2005,3,2,Away,"",-,"1,157"
-2006,Connecticut,164,Canisius,116,11/18/2005,9,3,Away,"",-,175
-2006,Connecticut,164,Canisius,116,11/19/2005,3,4,Away,"",1 OT,257
-2006,Connecticut,164,Army,725,11/26/2005,1,2,Home,"",-,712
-2006,Connecticut,164,American Int'l,22,12/02/2005,2,5,Home,"",-,0
-2006,Connecticut,164,American Int'l,22,12/03/2005,2,1,Away,"",-,222
-2006,Connecticut,164,Sacred Heart,590,12/08/2005,2,1,Away,"",-,424
-2006,Connecticut,164,Sacred Heart,590,12/09/2005,3,2,Home,"",-,605
-2006,Connecticut,164,Army,725,12/29/2005,3,0,Home,"",-,"1,139"
-2006,Connecticut,164,Bowling Green,71,12/30/2005,2,9,Home,"",-,984
-2006,Connecticut,164,Bentley,56,01/06/2006,1,3,Home,"",-,714
-2006,Connecticut,164,Bentley,56,01/07/2006,1,4,Away,"",-,213
-2006,Connecticut,164,Brown,80,01/10/2006,1,4,Away,"",-,613
-2006,Connecticut,164,Mercyhurst,408,01/13/2006,3,6,Home,"",-,585
-2006,Connecticut,164,Mercyhurst,408,01/14/2006,3,4,Home,"",1 OT,541
-2006,Connecticut,164,Holy Cross,285,01/19/2006,2,5,Away,"",-,778
-2006,Connecticut,164,Holy Cross,285,01/24/2006,3,5,Home,"",-,798
-2006,Connecticut,164,Canisius,116,01/27/2006,0,5,Home,"",-,809
-2006,Connecticut,164,Canisius,116,01/28/2006,2,5,Home,"",-,715
-2006,Connecticut,164,Yale,813,02/05/2006,3,4,Away,"",-,"3,155"
-2006,Connecticut,164,American Int'l,22,02/10/2006,5,7,Away,"",-,190
-2006,Connecticut,164,American Int'l,22,02/11/2006,6,0,Home,"",-,604
-2006,Connecticut,164,Army,725,02/17/2006,5,4,Away,"",-,"1,909"
-2006,Connecticut,164,Army,725,02/18/2006,3,3,Away,"",1 OT,"2,664"
-2006,Connecticut,164,Bentley,56,02/24/2006,3,6,Away,"",-,332
-2006,Connecticut,164,Bentley,56,02/25/2006,1,4,Home,"",-,610
-2006,Connecticut,164,Sacred Heart,590,03/03/2006,3,8,Away,"",-,488
-2006,Connecticut,164,Sacred Heart,590,03/04/2006,4,3,Home,"",-,823
-2006,Connecticut,164,Sacred Heart,590,03/11/2006,4,1,Away,"",-,472
-2006,Connecticut,164,Holy Cross,285,03/17/2006,1,4,Away,"",-,0
+2006,Concordia-M'head,161,Northland,1267,11/04/2005,6,1,Home,"",-,185
+2006,Concordia-M'head,161,Northland,1267,11/05/2005,9,1,Home,"",-,64
+2006,Concordia-M'head,161,Minn.-Crookston,27854,11/08/2005,4,3,Away,"",-,450
+2006,Concordia-M'head,161,Minn.-Crookston,27854,11/15/2005,5,4,Home,"",1 OT,201
+2006,Concordia-M'head,161,St. John's (NY),603,11/18/2005,1,12,Away,"",-,540
+2006,Concordia-M'head,161,St. John's (NY),603,11/19/2005,0,7,Away,"",-,211
+2006,Concordia-M'head,161,Wis.-Superior,804,11/25/2005,4,3,Neutral,"Blaine, Minn.",1 OT,125
+2006,Concordia-M'head,161,St. Scholastica,618,11/26/2005,3,6,Neutral,"Blaine, Minn.",-,200
+2006,Concordia-M'head,161,Gust. Adolphus,266,12/02/2005,0,7,Away,"",-,474
+2006,Concordia-M'head,161,Gust. Adolphus,266,12/03/2005,1,7,Away,"",-,217
+2006,Concordia-M'head,161,Wis.-Stevens Point,802,01/06/2006,3,3,Home,"",1 OT,222
+2006,Concordia-M'head,161,Wis.-Eau Claire,793,01/07/2006,3,5,Home,"",-,182
+2006,Concordia-M'head,161,Wis.-Stout,803,01/10/2006,1,4,Home,"",-,156
+2006,Concordia-M'head,161,Hamline,268,01/20/2006,0,7,Away,"",-,253
+2006,Concordia-M'head,161,Hamline,268,01/21/2006,3,6,Away,"",-,200
+2006,Concordia-M'head,161,Saint Mary's (MN),612,01/27/2006,0,7,Home,"",-,223
+2006,Concordia-M'head,161,Saint Mary's (MN),612,01/28/2006,2,7,Home,"",-,175
+2006,Concordia-M'head,161,St. Olaf,615,02/03/2006,2,3,Away,"",-,301
+2006,Concordia-M'head,161,St. Olaf,615,02/04/2006,0,4,Away,"",-,336
+2006,Concordia-M'head,161,Bethel (MN),60,02/10/2006,5,7,Home,"",-,105
+2006,Concordia-M'head,161,Bethel (MN),60,02/11/2006,2,9,Home,"",-,120
+2006,Concordia-M'head,161,St. Thomas (MN),620,02/17/2006,2,2,Home,"",1 OT,143
+2006,Concordia-M'head,161,St. Thomas (MN),620,02/18/2006,1,9,Home,"",-,143
+2006,Concordia-M'head,161,Augsburg,38,02/24/2006,3,11,Home,"",-,112
+2006,Concordia-M'head,161,Augsburg,38,02/25/2006,2,10,Home,"",-,63
 2006,Connecticut Col.,163,Williams,789,11/18/2005,6,7,Home,"",-,400
 2006,Connecticut Col.,163,Middlebury,420,11/19/2005,1,7,Home,"",-,350
 2006,Connecticut Col.,163,Amherst,24,11/26/2005,4,7,Neutral,"Middletown, CT",-,250
@@ -1152,35 +1116,35 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2006,Framingham St.,238,Mass.-Dartmouth,656,02/11/2006,2,3,Away,"",-,125
 2006,Framingham St.,238,Western New Eng.,775,02/16/2006,1,4,Home,"",-,125
 2006,Framingham St.,238,Wentworth Inst.,762,02/20/2006,2,5,Away,"",-,75
-2006,Fredonia St.,242,SUNY Cortland,168,10/21/2005,3,2,Home,"",-,"1,024"
-2006,Fredonia St.,242,Brockport,78,10/22/2005,3,0,Home,"",-,"1,024"
-2006,Fredonia St.,242,St. Norbert,614,10/28/2005,2,6,Away,"",-,0
-2006,Fredonia St.,242,Marian (WI),1196,10/29/2005,8,1,Away,"",-,0
-2006,Fredonia St.,242,SUNY Cortland,168,11/04/2005,2,2,Away,"",1 OT,0
-2006,Fredonia St.,242,Oswego St.,530,11/05/2005,2,6,Away,"",-,0
-2006,Fredonia St.,242,Brockport,78,11/11/2005,4,1,Home,"",-,980
-2006,Fredonia St.,242,SUNY Geneseo,247,11/12/2005,6,1,Home,"",-,"1,024"
-2006,Fredonia St.,242,Buffalo St.,85,11/16/2005,4,3,Home,"",-,828
-2006,Fredonia St.,242,SUNY Potsdam,552,12/02/2005,3,3,Away,"",1 OT,0
-2006,Fredonia St.,242,Plattsburgh St.,547,12/03/2005,1,4,Away,"",-,0
-2006,Fredonia St.,242,Neumann,1254,12/09/2005,2,3,Away,"",-,0
-2006,Fredonia St.,242,Neumann,1254,12/10/2005,4,7,Away,"",-,0
-2006,Fredonia St.,242,Johnson & Wales (RI),22626,01/06/2006,7,1,Home,"",-,586
-2006,Fredonia St.,242,Johnson & Wales (RI),22626,01/07/2006,5,1,Home,"",-,308
-2006,Fredonia St.,242,Utica,733,01/10/2006,2,3,Away,"",-,0
-2006,Fredonia St.,242,Utica,733,01/14/2006,5,3,Home,"",-,678
-2006,Fredonia St.,242,Rochester Inst.,580,01/17/2006,3,5,Away,"",-,0
-2006,Fredonia St.,242,Buffalo St.,85,01/20/2006,2,1,Away,"",-,0
-2006,Fredonia St.,242,SUNY Cortland,168,01/27/2006,4,2,Home,"",-,958
-2006,Fredonia St.,242,Oswego St.,530,01/28/2006,5,5,Home,"",1 OT,"1,200"
-2006,Fredonia St.,242,Brockport,78,02/03/2006,3,1,Away,"",-,0
-2006,Fredonia St.,242,SUNY Geneseo,247,02/04/2006,1,3,Away,"",-,0
-2006,Fredonia St.,242,SUNY Potsdam,552,02/10/2006,8,4,Home,"",-,758
-2006,Fredonia St.,242,Plattsburgh St.,547,02/11/2006,4,3,Home,"",-,"1,080"
-2006,Fredonia St.,242,SUNY Potsdam,552,02/17/2006,7,2,Home,"",-,678
-2006,Fredonia St.,242,SUNY Potsdam,552,02/18/2006,5,3,Home,"",-,892
-2006,Fredonia St.,242,SUNY Geneseo,247,02/24/2006,3,4,Away,"",-,0
-2006,Fredonia St.,242,SUNY Geneseo,247,02/25/2006,5,2,Away,"",-,0
+2006,Fredonia,242,SUNY Cortland,168,10/21/2005,3,2,Home,"",-,"1,024"
+2006,Fredonia,242,Brockport,78,10/22/2005,3,0,Home,"",-,"1,024"
+2006,Fredonia,242,St. Norbert,614,10/28/2005,2,6,Away,"",-,0
+2006,Fredonia,242,Marian (WI),1196,10/29/2005,8,1,Away,"",-,0
+2006,Fredonia,242,SUNY Cortland,168,11/04/2005,2,2,Away,"",1 OT,0
+2006,Fredonia,242,Oswego St.,530,11/05/2005,2,6,Away,"",-,0
+2006,Fredonia,242,Brockport,78,11/11/2005,4,1,Home,"",-,980
+2006,Fredonia,242,SUNY Geneseo,247,11/12/2005,6,1,Home,"",-,"1,024"
+2006,Fredonia,242,Buffalo St.,85,11/16/2005,4,3,Home,"",-,828
+2006,Fredonia,242,SUNY Potsdam,552,12/02/2005,3,3,Away,"",1 OT,0
+2006,Fredonia,242,Plattsburgh St.,547,12/03/2005,1,4,Away,"",-,0
+2006,Fredonia,242,Neumann,1254,12/09/2005,2,3,Away,"",-,0
+2006,Fredonia,242,Neumann,1254,12/10/2005,4,7,Away,"",-,0
+2006,Fredonia,242,Johnson & Wales (RI),22626,01/06/2006,7,1,Home,"",-,586
+2006,Fredonia,242,Johnson & Wales (RI),22626,01/07/2006,5,1,Home,"",-,308
+2006,Fredonia,242,Utica,733,01/10/2006,2,3,Away,"",-,0
+2006,Fredonia,242,Utica,733,01/14/2006,5,3,Home,"",-,678
+2006,Fredonia,242,Rochester Inst.,580,01/17/2006,3,5,Away,"",-,0
+2006,Fredonia,242,Buffalo St.,85,01/20/2006,2,1,Away,"",-,0
+2006,Fredonia,242,SUNY Cortland,168,01/27/2006,4,2,Home,"",-,958
+2006,Fredonia,242,Oswego St.,530,01/28/2006,5,5,Home,"",1 OT,"1,200"
+2006,Fredonia,242,Brockport,78,02/03/2006,3,1,Away,"",-,0
+2006,Fredonia,242,SUNY Geneseo,247,02/04/2006,1,3,Away,"",-,0
+2006,Fredonia,242,SUNY Potsdam,552,02/10/2006,8,4,Home,"",-,758
+2006,Fredonia,242,Plattsburgh St.,547,02/11/2006,4,3,Home,"",-,"1,080"
+2006,Fredonia,242,SUNY Potsdam,552,02/17/2006,7,2,Home,"",-,678
+2006,Fredonia,242,SUNY Potsdam,552,02/18/2006,5,3,Home,"",-,892
+2006,Fredonia,242,SUNY Geneseo,247,02/24/2006,3,4,Away,"",-,0
+2006,Fredonia,242,SUNY Geneseo,247,02/25/2006,5,2,Away,"",-,0
 2006,Gust. Adolphus,266,Wis.-Stout,803,11/04/2005,7,4,Home,"",-,797
 2006,Gust. Adolphus,266,Wis.-River Falls,801,11/05/2005,4,3,Away,"",-,"1,091"
 2006,Gust. Adolphus,266,St. Scholastica,618,11/11/2005,7,6,Away,"",-,378
@@ -1598,98 +1562,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2006,Marian (WI),1196,Lawrence,348,02/18/2006,7,3,Home,"",-,70
 2006,Marian (WI),1196,Finlandia,30032,03/04/2006,3,2,Neutral,"Appleton, WI",-,0
 2006,Marian (WI),1196,Milwaukee Engr.,20220,03/05/2006,2,5,Neutral,"Appleton, WI",-,0
-2006,Mass.-Boston,401,Bowdoin,69,11/18/2005,0,7,Home,"",-,236
-2006,Mass.-Boston,401,Colby,151,11/19/2005,1,4,Home,"",-,185
-2006,Mass.-Boston,401,Wentworth Inst.,762,11/22/2005,2,4,Away,"",-,0
-2006,Mass.-Boston,401,Framingham St.,238,11/29/2005,2,2,Away,"",1 OT,0
-2006,Mass.-Boston,401,Trinity (CT),713,12/02/2005,0,4,Away,"",-,0
-2006,Mass.-Boston,401,Wesleyan (CT),764,12/03/2005,2,7,Away,"",-,0
-2006,Mass.-Boston,401,Babson,45,12/07/2005,0,7,Home,"",-,184
-2006,Mass.-Boston,401,Western New Eng.,775,12/10/2005,1,4,Away,"",-,0
-2006,Mass.-Boston,401,Southern N.H.,468,12/28/2005,2,5,Home,"",-,279
-2006,Mass.-Boston,401,Connecticut Col.,163,12/29/2005,2,6,Home,"",-,268
-2006,Mass.-Boston,401,Hamilton,267,01/06/2006,2,7,Away,"",-,0
-2006,Mass.-Boston,401,Amherst,24,01/07/2006,2,5,Away,"",-,0
-2006,Mass.-Boston,401,Norwich,511,01/13/2006,1,7,Home,"",-,254
-2006,Mass.-Boston,401,Saint Michael's,613,01/14/2006,2,4,Home,"",-,112
-2006,Mass.-Boston,401,Mass.-Dartmouth,656,01/17/2006,0,6,Away,"",-,0
-2006,Mass.-Boston,401,Southern Me.,662,01/20/2006,1,7,Away,"",-,0
-2006,Mass.-Boston,401,Salem St.,621,01/21/2006,1,6,Away,"",-,0
-2006,Mass.-Boston,401,Castleton,123,01/27/2006,1,1,Home,"",1 OT,214
-2006,Mass.-Boston,401,Skidmore,642,01/28/2006,5,8,Home,"",-,205
-2006,Mass.-Boston,401,St. Anselm,593,02/03/2006,3,5,Away,"",-,0
-2006,Mass.-Boston,401,New England Col.,467,02/04/2006,1,4,Away,"",-,0
-2006,Mass.-Boston,401,Middlebury,420,02/10/2006,1,9,Home,"",-,303
-2006,Mass.-Boston,401,Williams,789,02/11/2006,0,5,Home,"",-,111
-2006,Mass.-Boston,401,Connecticut Col.,163,02/17/2006,4,5,Away,"",-,0
-2006,Mass.-Boston,401,Tufts,717,02/18/2006,2,2,Away,"",1 OT,0
-2006,Mass.-Boston,401,Norwich,511,02/25/2006,1,8,Away,"",-,0
-2006,Mass.-Dartmouth,656,Lebanon Valley,351,11/11/2005,2,1,Away,"",-,243
-2006,Mass.-Dartmouth,656,Lebanon Valley,351,11/12/2005,1,2,Away,"",-,151
-2006,Mass.-Dartmouth,656,Stonehill,682,11/16/2005,3,0,Away,"",-,459
-2006,Mass.-Dartmouth,656,Plymouth St.,548,11/19/2005,2,3,Home,"",1 OT,225
-2006,Mass.-Dartmouth,656,Worcester St.,809,11/22/2005,10,3,Home,"",-,171
-2006,Mass.-Dartmouth,656,Fitchburg St.,227,11/30/2005,4,5,Away,"",1 OT,300
-2006,Mass.-Dartmouth,656,Curry,170,12/03/2005,2,1,Away,"",-,300
-2006,Mass.-Dartmouth,656,Tufts,717,12/07/2005,2,3,Away,"",-,150
-2006,Mass.-Dartmouth,656,Southern Me.,662,12/10/2005,3,1,Home,"",-,225
-2006,Mass.-Dartmouth,656,Connecticut Col.,163,12/14/2005,4,2,Home,"",-,247
-2006,Mass.-Dartmouth,656,Connecticut Col.,163,12/28/2005,4,1,Neutral,"Boston, MA",-,392
-2006,Mass.-Dartmouth,656,Southern N.H.,468,12/29/2005,5,1,Neutral,"Boston, MA",-,291
-2006,Mass.-Dartmouth,656,Assumption,36,01/07/2006,6,4,Away,"",-,125
-2006,Mass.-Dartmouth,656,Wesleyan (CT),764,01/10/2006,3,0,Away,"",-,150
-2006,Mass.-Dartmouth,656,Western New Eng.,775,01/14/2006,7,2,Away,"",-,134
-2006,Mass.-Dartmouth,656,Mass.-Boston,401,01/17/2006,6,0,Home,"",-,117
-2006,Mass.-Dartmouth,656,Southern N.H.,468,01/21/2006,5,1,Home,"",-,250
-2006,Mass.-Dartmouth,656,Suffolk,684,01/25/2006,8,0,Home,"",-,177
-2006,Mass.-Dartmouth,656,Fitchburg St.,227,01/28/2006,3,2,Home,"",1 OT,212
-2006,Mass.-Dartmouth,656,Salve Regina,623,02/01/2006,4,3,Home,"",-,199
-2006,Mass.-Dartmouth,656,Franklin Pierce,241,02/04/2006,6,1,Away,"",-,122
-2006,Mass.-Dartmouth,656,Wentworth Inst.,762,02/08/2006,6,0,Home,"",-,211
-2006,Mass.-Dartmouth,656,Framingham St.,238,02/11/2006,3,2,Home,"",-,205
-2006,Mass.-Dartmouth,656,Johnson & Wales (RI),22626,02/15/2006,6,1,Home,"",-,233
-2006,Mass.-Dartmouth,656,Nichols,484,02/18/2006,5,0,Away,"",-,125
-2006,Mass.-Dartmouth,656,Salve Regina,623,02/25/2006,3,2,Home,"",-,841
-2006,Mass.-Dartmouth,656,Nichols,484,03/01/2006,6,2,Home,"",-,914
-2006,Mass.-Dartmouth,656,Curry,170,03/04/2006,3,1,Home,"",-,"1,437"
-2006,Mass.-Dartmouth,656,SUNY Geneseo,247,03/08/2006,8,2,Away,"",-,"1,520"
-2006,Mass.-Dartmouth,656,Middlebury,420,03/11/2006,1,3,Away,"",-,"2,429"
-2006,Mass.-Lowell,368,Colgate,153,10/07/2005,2,6,Away,"",-,"1,685"
-2006,Mass.-Lowell,368,Rensselaer,570,10/09/2005,5,3,Home,"",-,"1,571"
-2006,Mass.-Lowell,368,Boston U.,68,10/15/2005,1,3,Away,"",-,"6,058"
-2006,Mass.-Lowell,368,Providence,556,10/21/2005,0,3,Away,"",-,"1,519"
-2006,Mass.-Lowell,368,Providence,556,10/22/2005,0,4,Home,"",-,"1,698"
-2006,Mass.-Lowell,368,Boston U.,68,10/28/2005,7,4,Home,"",-,"4,362"
-2006,Mass.-Lowell,368,Union (NY),727,10/29/2005,3,4,Home,"",-,"1,701"
-2006,Mass.-Lowell,368,Merrimack,410,11/02/2005,3,1,Away,"",-,"1,045"
-2006,Mass.-Lowell,368,Maine,380,11/11/2005,2,9,Home,"",-,"3,140"
-2006,Mass.-Lowell,368,New Hampshire,469,11/18/2005,2,3,Away,"",-,"6,501"
-2006,Mass.-Lowell,368,New Hampshire,469,11/19/2005,6,3,Home,"",-,"4,018"
-2006,Mass.-Lowell,368,St. Lawrence,607,12/02/2005,2,4,Away,"",-,"2,350"
-2006,Mass.-Lowell,368,Vermont,738,12/03/2005,2,5,Away,"",-,"4,003"
-2006,Mass.-Lowell,368,New Hampshire,469,12/10/2005,1,4,Away,"",-,"6,501"
-2006,Mass.-Lowell,368,Dartmouth,172,12/11/2005,3,2,Home,"",-,"1,966"
-2006,Mass.-Lowell,368,Canisius,116,12/29/2005,5,4,Neutral,"Minneapolis, Minn.",-,750
-2006,Mass.-Lowell,368,Minnesota,428,12/30/2005,4,5,Away,"",-,"9,927"
-2006,Mass.-Lowell,368,Maine,380,01/06/2006,0,4,Away,"",-,"5,001"
-2006,Mass.-Lowell,368,Maine,380,01/07/2006,2,6,Away,"",-,"5,059"
-2006,Mass.-Lowell,368,Massachusetts,400,01/13/2006,6,2,Home,"",-,"2,323"
-2006,Mass.-Lowell,368,Providence,556,01/15/2006,4,3,Away,"",1 OT,"2,011"
-2006,Mass.-Lowell,368,Northeastern,500,01/20/2006,2,1,Away,"",-,"2,286"
-2006,Mass.-Lowell,368,Northeastern,500,01/21/2006,2,2,Home,"",1 OT,"3,939"
-2006,Mass.-Lowell,368,Massachusetts,400,01/27/2006,3,2,Away,"",-,"2,880"
-2006,Mass.-Lowell,368,Boston College,67,01/28/2006,3,4,Home,"",1 OT,"5,986"
-2006,Mass.-Lowell,368,Boston U.,68,02/03/2006,1,5,Home,"",-,"2,733"
-2006,Mass.-Lowell,368,Massachusetts,400,02/04/2006,2,5,Home,"",-,"2,705"
-2006,Mass.-Lowell,368,Northeastern,500,02/10/2006,4,6,Away,"",-,"2,340"
-2006,Mass.-Lowell,368,Merrimack,410,02/17/2006,2,2,Away,"",1 OT,917
-2006,Mass.-Lowell,368,Merrimack,410,02/18/2006,5,2,Home,"",-,"2,426"
-2006,Mass.-Lowell,368,Boston College,67,02/23/2006,0,6,Away,"",-,"5,408"
-2006,Mass.-Lowell,368,Boston College,67,02/25/2006,6,3,Home,"",-,"3,878"
-2006,Mass.-Lowell,368,Vermont,738,03/03/2006,3,2,Home,"",-,"3,593"
-2006,Mass.-Lowell,368,Vermont,738,03/04/2006,5,2,Home,"",-,"2,721"
-2006,Mass.-Lowell,368,Maine,380,03/10/2006,3,4,Away,"",1 OT,"4,339"
-2006,Mass.-Lowell,368,Maine,380,03/11/2006,3,4,Away,"",-,"4,508"
 2006,Massachusetts,400,St. Lawrence,607,10/14/2005,1,2,Away,"",-,"2,140"
 2006,Massachusetts,400,Clarkson,146,10/15/2005,4,2,Away,"",-,"2,452"
 2006,Massachusetts,400,Holy Cross,285,10/21/2005,2,3,Home,"",-,"4,708"
@@ -1989,33 +1861,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2006,Middlebury,420,Mass.-Dartmouth,656,03/11/2006,3,1,Home,"",-,"2,429"
 2006,Middlebury,420,Elmira,213,03/18/2006,2,1,Away,"",-,"2,554"
 2006,Middlebury,420,St. Norbert,614,03/19/2006,3,0,Neutral,"Elmira, NY",-,"1,474"
-2006,Milwaukee Engr.,20220,Lake Forest,344,10/23/2005,1,4,Home,"",-,692
-2006,Milwaukee Engr.,20220,Lake Forest,344,10/24/2005,3,2,Away,"",-,0
-2006,Milwaukee Engr.,20220,Marian (WI),1196,11/04/2005,2,3,Home,"",-,677
-2006,Milwaukee Engr.,20220,Marian (WI),1196,11/05/2005,5,1,Away,"",-,0
-2006,Milwaukee Engr.,20220,Minn.-Crookston,27854,11/11/2005,7,3,Away,"",-,0
-2006,Milwaukee Engr.,20220,Minn.-Crookston,27854,11/12/2005,5,4,Away,"",1 OT,0
-2006,Milwaukee Engr.,20220,Babson,45,11/26/2005,3,2,Away,"",-,0
-2006,Milwaukee Engr.,20220,Hobart,282,11/27/2005,1,5,Neutral,Babson,-,0
-2006,Milwaukee Engr.,20220,Northland,1267,12/02/2005,4,1,Away,"",-,0
-2006,Milwaukee Engr.,20220,Northland,1267,12/03/2005,9,0,Away,"",-,0
-2006,Milwaukee Engr.,20220,Lawrence,348,12/10/2005,8,3,Home,"",-,627
-2006,Milwaukee Engr.,20220,Lawrence,348,12/11/2005,8,1,Away,"",-,0
-2006,Milwaukee Engr.,20220,St. Norbert,614,01/07/2006,2,4,Home,"",-,"1,127"
-2006,Milwaukee Engr.,20220,Finlandia,30032,01/13/2006,7,1,Away,"",-,0
-2006,Milwaukee Engr.,20220,Finlandia,30032,01/14/2006,3,3,Away,"",1 OT,0
-2006,Milwaukee Engr.,20220,Minn.-Crookston,27854,01/20/2006,9,2,Home,"",-,413
-2006,Milwaukee Engr.,20220,Minn.-Crookston,27854,01/21/2006,11,2,Home,"",-,500
-2006,Milwaukee Engr.,20220,Marian (WI),1196,01/27/2006,4,3,Away,"",-,0
-2006,Milwaukee Engr.,20220,Marian (WI),1196,01/28/2006,3,2,Home,"",-,540
-2006,Milwaukee Engr.,20220,Northland,1267,02/03/2006,6,0,Home,"",-,617
-2006,Milwaukee Engr.,20220,Northland,1267,02/04/2006,5,1,Home,"",-,673
-2006,Milwaukee Engr.,20220,Lawrence,348,02/10/2006,10,2,Away,"",-,0
-2006,Milwaukee Engr.,20220,Lawrence,348,02/11/2006,5,2,Home,"",-,424
-2006,Milwaukee Engr.,20220,Finlandia,30032,02/17/2006,5,2,Home,"",-,505
-2006,Milwaukee Engr.,20220,Finlandia,30032,02/18/2006,5,6,Home,"",-,495
-2006,Milwaukee Engr.,20220,Lawrence,348,03/04/2006,8,1,Neutral,"Appleton, WI",-,0
-2006,Milwaukee Engr.,20220,Marian (WI),1196,03/05/2006,5,2,Neutral,"Appleton, WI",-,0
 2006,Minn. Duluth,427,Bemidji St.,54,10/07/2005,2,3,Home,"",-,"5,294"
 2006,Minn. Duluth,427,Bemidji St.,54,10/08/2005,1,5,Home,"",-,"5,161"
 2006,Minn. Duluth,427,Vermont,738,10/21/2005,1,5,Away,"",-,"4,035"
@@ -2136,47 +1981,33 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2006,Minnesota,428,St. Cloud St.,598,03/17/2006,7,8,Neutral,"St. Paul, Minn.",1 OT,"19,353"
 2006,Minnesota,428,Wisconsin,796,03/18/2006,0,4,Neutral,"St. Paul, Minn.",-,"16,134"
 2006,Minnesota,428,Holy Cross,285,03/24/2006,3,4,Neutral,"Grand Forks, N.D.",1 OT,"11,153"
-2006,Neb.-Omaha,464,Army,725,10/14/2005,3,2,Home,"",-,"4,772"
-2006,Neb.-Omaha,464,New Hampshire,469,10/15/2005,5,3,Home,"",-,"3,444"
-2006,Neb.-Omaha,464,Miami (OH),414,10/21/2005,3,6,Home,"",-,"4,225"
-2006,Neb.-Omaha,464,Miami (OH),414,10/22/2005,2,3,Home,"",-,"4,124"
-2006,Neb.-Omaha,464,Bowling Green,71,11/04/2005,3,7,Away,"",-,"2,004"
-2006,Neb.-Omaha,464,Bowling Green,71,11/05/2005,3,4,Away,"",-,"1,857"
-2006,Neb.-Omaha,464,Michigan St.,416,11/11/2005,7,4,Away,"",-,"4,962"
-2006,Neb.-Omaha,464,Michigan St.,416,11/12/2005,3,2,Away,"",1 OT,"5,069"
-2006,Neb.-Omaha,464,Alas. Fairbanks,12,11/18/2005,4,2,Home,"",-,"5,317"
-2006,Neb.-Omaha,464,Alas. Fairbanks,12,11/19/2005,3,4,Home,"",-,"5,975"
-2006,Neb.-Omaha,464,Minn. St. Mankato,383,11/22/2005,3,6,Home,"",-,"4,378"
-2006,Neb.-Omaha,464,Providence,556,11/25/2005,4,2,Neutral,"Troy, NY",-,0
-2006,Neb.-Omaha,464,Holy Cross,285,11/26/2005,6,1,Neutral,"Troy, NY",-,"2,846"
-2006,Neb.-Omaha,464,Ferris St.,224,12/02/2005,5,2,Home,"",-,"4,356"
-2006,Neb.-Omaha,464,Ferris St.,224,12/04/2005,5,3,Home,"",-,"3,388"
-2006,Neb.-Omaha,464,Michigan,418,12/09/2005,2,4,Away,"",-,"6,685"
-2006,Neb.-Omaha,464,Michigan,418,12/10/2005,3,7,Away,"",-,"6,631"
-2006,Neb.-Omaha,464,Ala.-Huntsville,10,12/29/2005,8,5,Home,"",-,"4,414"
-2006,Neb.-Omaha,464,Yale,813,12/31/2005,3,2,Home,"",1 OT,"4,202"
-2006,Neb.-Omaha,464,Minn. St. Mankato,383,01/03/2006,2,5,Away,"",-,"2,587"
-2006,Neb.-Omaha,464,Notre Dame,513,01/06/2006,1,4,Home,"",-,"6,366"
-2006,Neb.-Omaha,464,Notre Dame,513,01/07/2006,2,2,Home,"",1 OT,"7,624"
-2006,Neb.-Omaha,464,Ohio St.,518,01/13/2006,2,0,Away,"",-,"7,375"
-2006,Neb.-Omaha,464,Ohio St.,518,01/14/2006,2,2,Away,"",1 OT,"5,811"
-2006,Neb.-Omaha,464,Michigan St.,416,01/20/2006,3,4,Home,"",1 OT,"5,692"
-2006,Neb.-Omaha,464,Michigan St.,416,01/21/2006,3,2,Home,"",-,"7,375"
-2006,Neb.-Omaha,464,Alas. Fairbanks,12,01/27/2006,4,1,Away,"",-,"3,379"
-2006,Neb.-Omaha,464,Alas. Fairbanks,12,01/28/2006,3,3,Away,"",1 OT,"3,534"
-2006,Neb.-Omaha,464,Lake Superior St.,345,02/03/2006,8,0,Home,"",-,"6,553"
-2006,Neb.-Omaha,464,Lake Superior St.,345,02/04/2006,2,2,Home,"",1 OT,"6,809"
-2006,Neb.-Omaha,464,Northern Mich.,506,02/10/2006,2,1,Away,"",-,"2,644"
-2006,Neb.-Omaha,464,Northern Mich.,506,02/11/2006,8,3,Away,"",-,"2,933"
-2006,Neb.-Omaha,464,Michigan,418,02/17/2006,4,3,Home,"",-,"7,954"
-2006,Neb.-Omaha,464,Michigan,418,02/18/2006,4,4,Home,"",1 OT,"8,152"
-2006,Neb.-Omaha,464,Western Mich.,774,02/24/2006,5,5,Away,"",1 OT,"2,249"
-2006,Neb.-Omaha,464,Western Mich.,774,02/25/2006,3,6,Away,"",-,"2,395"
-2006,Neb.-Omaha,464,Bowling Green,71,03/03/2006,4,2,Home,"",-,"5,182"
-2006,Neb.-Omaha,464,Bowling Green,71,03/04/2006,4,2,Home,"",-,"6,016"
-2006,Neb.-Omaha,464,Northern Mich.,506,03/10/2006,1,4,Away,"",-,"2,131"
-2006,Neb.-Omaha,464,Northern Mich.,506,03/11/2006,2,3,Away,"",-,"2,417"
-2006,Neb.-Omaha,464,Boston U.,68,03/24/2006,2,9,Neutral,"Worcester, Mass.",-,0
+2006,MSOE,20220,Lake Forest,344,10/23/2005,1,4,Home,"",-,692
+2006,MSOE,20220,Lake Forest,344,10/24/2005,3,2,Away,"",-,0
+2006,MSOE,20220,Marian (WI),1196,11/04/2005,2,3,Home,"",-,677
+2006,MSOE,20220,Marian (WI),1196,11/05/2005,5,1,Away,"",-,0
+2006,MSOE,20220,Minn.-Crookston,27854,11/11/2005,7,3,Away,"",-,0
+2006,MSOE,20220,Minn.-Crookston,27854,11/12/2005,5,4,Away,"",1 OT,0
+2006,MSOE,20220,Babson,45,11/26/2005,3,2,Away,"",-,0
+2006,MSOE,20220,Hobart,282,11/27/2005,1,5,Neutral,Babson,-,0
+2006,MSOE,20220,Northland,1267,12/02/2005,4,1,Away,"",-,0
+2006,MSOE,20220,Northland,1267,12/03/2005,9,0,Away,"",-,0
+2006,MSOE,20220,Lawrence,348,12/10/2005,8,3,Home,"",-,627
+2006,MSOE,20220,Lawrence,348,12/11/2005,8,1,Away,"",-,0
+2006,MSOE,20220,St. Norbert,614,01/07/2006,2,4,Home,"",-,"1,127"
+2006,MSOE,20220,Finlandia,30032,01/13/2006,7,1,Away,"",-,0
+2006,MSOE,20220,Finlandia,30032,01/14/2006,3,3,Away,"",1 OT,0
+2006,MSOE,20220,Minn.-Crookston,27854,01/20/2006,9,2,Home,"",-,413
+2006,MSOE,20220,Minn.-Crookston,27854,01/21/2006,11,2,Home,"",-,500
+2006,MSOE,20220,Marian (WI),1196,01/27/2006,4,3,Away,"",-,0
+2006,MSOE,20220,Marian (WI),1196,01/28/2006,3,2,Home,"",-,540
+2006,MSOE,20220,Northland,1267,02/03/2006,6,0,Home,"",-,617
+2006,MSOE,20220,Northland,1267,02/04/2006,5,1,Home,"",-,673
+2006,MSOE,20220,Lawrence,348,02/10/2006,10,2,Away,"",-,0
+2006,MSOE,20220,Lawrence,348,02/11/2006,5,2,Home,"",-,424
+2006,MSOE,20220,Finlandia,30032,02/17/2006,5,2,Home,"",-,505
+2006,MSOE,20220,Finlandia,30032,02/18/2006,5,6,Home,"",-,495
+2006,MSOE,20220,Lawrence,348,03/04/2006,8,1,Neutral,"Appleton, WI",-,0
+2006,MSOE,20220,Marian (WI),1196,03/05/2006,5,2,Neutral,"Appleton, WI",-,0
 2006,Neumann,1254,SUNY Geneseo,247,10/28/2005,1,2,Home,"",-,503
 2006,Neumann,1254,SUNY Geneseo,247,10/29/2005,2,3,Home,"",-,453
 2006,Neumann,1254,SUNY Cortland,168,11/01/2005,6,3,Away,"",-,0
@@ -2583,6 +2414,47 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2006,Ohio St.,518,Northern Mich.,506,02/25/2006,2,4,Away,"",-,"3,768"
 2006,Ohio St.,518,Ferris St.,224,03/03/2006,0,3,Away,"",-,"1,265"
 2006,Ohio St.,518,Ferris St.,224,03/04/2006,1,2,Away,"",-,"1,548"
+2006,Omaha,464,Army,725,10/14/2005,3,2,Home,"",-,"4,772"
+2006,Omaha,464,New Hampshire,469,10/15/2005,5,3,Home,"",-,"3,444"
+2006,Omaha,464,Miami (OH),414,10/21/2005,3,6,Home,"",-,"4,225"
+2006,Omaha,464,Miami (OH),414,10/22/2005,2,3,Home,"",-,"4,124"
+2006,Omaha,464,Bowling Green,71,11/04/2005,3,7,Away,"",-,"2,004"
+2006,Omaha,464,Bowling Green,71,11/05/2005,3,4,Away,"",-,"1,857"
+2006,Omaha,464,Michigan St.,416,11/11/2005,7,4,Away,"",-,"4,962"
+2006,Omaha,464,Michigan St.,416,11/12/2005,3,2,Away,"",1 OT,"5,069"
+2006,Omaha,464,Alas. Fairbanks,12,11/18/2005,4,2,Home,"",-,"5,317"
+2006,Omaha,464,Alas. Fairbanks,12,11/19/2005,3,4,Home,"",-,"5,975"
+2006,Omaha,464,Minn. St. Mankato,383,11/22/2005,3,6,Home,"",-,"4,378"
+2006,Omaha,464,Providence,556,11/25/2005,4,2,Neutral,"Troy, NY",-,0
+2006,Omaha,464,Holy Cross,285,11/26/2005,6,1,Neutral,"Troy, NY",-,"2,846"
+2006,Omaha,464,Ferris St.,224,12/02/2005,5,2,Home,"",-,"4,356"
+2006,Omaha,464,Ferris St.,224,12/04/2005,5,3,Home,"",-,"3,388"
+2006,Omaha,464,Michigan,418,12/09/2005,2,4,Away,"",-,"6,685"
+2006,Omaha,464,Michigan,418,12/10/2005,3,7,Away,"",-,"6,631"
+2006,Omaha,464,Ala.-Huntsville,10,12/29/2005,8,5,Home,"",-,"4,414"
+2006,Omaha,464,Yale,813,12/31/2005,3,2,Home,"",1 OT,"4,202"
+2006,Omaha,464,Minn. St. Mankato,383,01/03/2006,2,5,Away,"",-,"2,587"
+2006,Omaha,464,Notre Dame,513,01/06/2006,1,4,Home,"",-,"6,366"
+2006,Omaha,464,Notre Dame,513,01/07/2006,2,2,Home,"",1 OT,"7,624"
+2006,Omaha,464,Ohio St.,518,01/13/2006,2,0,Away,"",-,"7,375"
+2006,Omaha,464,Ohio St.,518,01/14/2006,2,2,Away,"",1 OT,"5,811"
+2006,Omaha,464,Michigan St.,416,01/20/2006,3,4,Home,"",1 OT,"5,692"
+2006,Omaha,464,Michigan St.,416,01/21/2006,3,2,Home,"",-,"7,375"
+2006,Omaha,464,Alas. Fairbanks,12,01/27/2006,4,1,Away,"",-,"3,379"
+2006,Omaha,464,Alas. Fairbanks,12,01/28/2006,3,3,Away,"",1 OT,"3,534"
+2006,Omaha,464,Lake Superior St.,345,02/03/2006,8,0,Home,"",-,"6,553"
+2006,Omaha,464,Lake Superior St.,345,02/04/2006,2,2,Home,"",1 OT,"6,809"
+2006,Omaha,464,Northern Mich.,506,02/10/2006,2,1,Away,"",-,"2,644"
+2006,Omaha,464,Northern Mich.,506,02/11/2006,8,3,Away,"",-,"2,933"
+2006,Omaha,464,Michigan,418,02/17/2006,4,3,Home,"",-,"7,954"
+2006,Omaha,464,Michigan,418,02/18/2006,4,4,Home,"",1 OT,"8,152"
+2006,Omaha,464,Western Mich.,774,02/24/2006,5,5,Away,"",1 OT,"2,249"
+2006,Omaha,464,Western Mich.,774,02/25/2006,3,6,Away,"",-,"2,395"
+2006,Omaha,464,Bowling Green,71,03/03/2006,4,2,Home,"",-,"5,182"
+2006,Omaha,464,Bowling Green,71,03/04/2006,4,2,Home,"",-,"6,016"
+2006,Omaha,464,Northern Mich.,506,03/10/2006,1,4,Away,"",-,"2,131"
+2006,Omaha,464,Northern Mich.,506,03/11/2006,2,3,Away,"",-,"2,417"
+2006,Omaha,464,Boston U.,68,03/24/2006,2,9,Neutral,"Worcester, Mass.",-,0
 2006,Oswego St.,530,Utica,733,10/16/2005,4,1,Away,"",-,0
 2006,Oswego St.,530,Utica,733,10/17/2005,2,5,Home,"",-,"2,144"
 2006,Oswego St.,530,Elmira,213,10/23/2005,1,5,Home,"",-,"1,033"
@@ -2911,6 +2783,56 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2006,Sacred Heart,590,Connecticut,164,03/03/2006,8,3,Home,"",-,488
 2006,Sacred Heart,590,Connecticut,164,03/04/2006,3,4,Away,"",-,823
 2006,Sacred Heart,590,Connecticut,164,03/11/2006,1,4,Home,"",-,472
+2006,Saint John's (MN),602,St. Norbert,614,11/04/2005,0,3,Home,"",-,927
+2006,Saint John's (MN),602,Lake Forest,344,11/05/2005,3,2,Home,"",-,421
+2006,Saint John's (MN),602,Wis.-River Falls,801,11/10/2005,2,2,Home,"",1 OT,548
+2006,Saint John's (MN),602,Wis.-Stout,803,11/12/2005,1,2,Away,"",-,500
+2006,Saint John's (MN),602,Concordia-M'head,161,11/18/2005,12,1,Home,"",-,540
+2006,Saint John's (MN),602,Concordia-M'head,161,11/19/2005,7,0,Home,"",-,211
+2006,Saint John's (MN),602,Gust. Adolphus,266,11/23/2005,3,2,Home,"",-,373
+2006,Saint John's (MN),602,Hamline,268,12/02/2005,4,0,Away,"",-,250
+2006,Saint John's (MN),602,Hamline,268,12/03/2005,4,1,Home,"",-,264
+2006,Saint John's (MN),602,Saint Mary's (MN),612,12/09/2005,7,3,Away,"",-,512
+2006,Saint John's (MN),602,Saint Mary's (MN),612,12/10/2005,4,1,Away,"",-,312
+2006,Saint John's (MN),602,Wis.-Eau Claire,793,01/06/2006,2,0,Home,"",-,509
+2006,Saint John's (MN),602,Wis.-Stevens Point,802,01/07/2006,4,1,Home,"",-,487
+2006,Saint John's (MN),602,St. Scholastica,618,01/13/2006,1,3,Away,"",-,213
+2006,Saint John's (MN),602,Wis.-Stevens Point,802,01/14/2006,4,1,Away,"",-,691
+2006,Saint John's (MN),602,St. Olaf,615,01/21/2006,3,5,Home,"",-,602
+2006,Saint John's (MN),602,St. Olaf,615,01/22/2006,1,4,Away,"",-,263
+2006,Saint John's (MN),602,Bethel (MN),60,01/27/2006,6,6,Away,"",1 OT,604
+2006,Saint John's (MN),602,Bethel (MN),60,01/28/2006,5,5,Home,"",1 OT,702
+2006,Saint John's (MN),602,St. Thomas (MN),620,02/02/2006,3,2,Home,"",1 OT,"2,600"
+2006,Saint John's (MN),602,St. Thomas (MN),620,02/03/2006,1,4,Away,"",-,"1,100"
+2006,Saint John's (MN),602,Augsburg,38,02/10/2006,4,1,Away,"",-,240
+2006,Saint John's (MN),602,Augsburg,38,02/11/2006,7,1,Home,"",-,396
+2006,Saint John's (MN),602,Gust. Adolphus,266,02/24/2006,5,2,Away,"",-,468
+2006,Saint John's (MN),602,Gust. Adolphus,266,02/25/2006,4,2,Home,"",-,323
+2006,Saint John's (MN),602,St. Olaf,615,03/02/2006,2,3,Home,"",-,712
+2006,Saint Mary's (MN),612,Wis.-Eau Claire,793,11/04/2005,4,4,Home,"",1 OT,572
+2006,Saint Mary's (MN),612,Wis.-Stevens Point,802,11/05/2005,1,10,Away,"",-,964
+2006,Saint Mary's (MN),612,St. Norbert,614,11/11/2005,3,11,Away,"",-,"1,275"
+2006,Saint Mary's (MN),612,Lake Forest,344,11/12/2005,2,4,Away,"",-,216
+2006,Saint Mary's (MN),612,St. Thomas (MN),620,11/18/2005,1,2,Home,"",-,717
+2006,Saint Mary's (MN),612,St. Thomas (MN),620,11/19/2005,2,3,Away,"",-,345
+2006,Saint Mary's (MN),612,Northland,1267,11/22/2005,6,1,Away,"",-,100
+2006,Saint Mary's (MN),612,Augsburg,38,12/02/2005,2,7,Home,"",-,422
+2006,Saint Mary's (MN),612,Augsburg,38,12/03/2005,6,3,Away,"",-,211
+2006,Saint Mary's (MN),612,Saint John's (MN),602,12/09/2005,3,7,Home,"",-,512
+2006,Saint Mary's (MN),612,Saint John's (MN),602,12/10/2005,1,4,Home,"",-,312
+2006,Saint Mary's (MN),612,St. Scholastica,618,01/07/2006,2,6,Home,"",-,219
+2006,Saint Mary's (MN),612,Wis.-River Falls,801,01/13/2006,1,3,Away,"",-,414
+2006,Saint Mary's (MN),612,Wis.-Stout,803,01/14/2006,3,5,Home,"",-,314
+2006,Saint Mary's (MN),612,Gust. Adolphus,266,01/20/2006,0,4,Away,"",-,404
+2006,Saint Mary's (MN),612,Gust. Adolphus,266,01/21/2006,3,5,Home,"",-,371
+2006,Saint Mary's (MN),612,Concordia-M'head,161,01/27/2006,7,0,Away,"",-,223
+2006,Saint Mary's (MN),612,Concordia-M'head,161,01/28/2006,7,2,Away,"",-,175
+2006,Saint Mary's (MN),612,Hamline,268,02/03/2006,2,1,Away,"",1 OT,250
+2006,Saint Mary's (MN),612,Hamline,268,02/04/2006,3,0,Home,"",-,372
+2006,Saint Mary's (MN),612,St. Olaf,615,02/17/2006,3,2,Away,"",-,472
+2006,Saint Mary's (MN),612,St. Olaf,615,02/18/2006,3,2,Home,"",-,313
+2006,Saint Mary's (MN),612,Bethel (MN),60,02/24/2006,3,5,Away,"",-,834
+2006,Saint Mary's (MN),612,Bethel (MN),60,02/25/2006,3,2,Home,"",1 OT,279
 2006,Salem St.,621,Norwich,511,11/18/2005,1,1,Home,"",1 OT,250
 2006,Salem St.,621,Saint Michael's,613,11/19/2005,3,3,Home,"",1 OT,250
 2006,Salem St.,621,Southern Me.,662,11/22/2005,2,5,Away,"",-,0
@@ -3055,32 +2977,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2006,St. Cloud St.,598,Minn. Duluth,427,03/16/2006,5,1,Neutral,"St. Paul, Minn.",-,"16,312"
 2006,St. Cloud St.,598,Minnesota,428,03/17/2006,8,7,Neutral,"St. Paul, Minn.",1 OT,"19,353"
 2006,St. Cloud St.,598,North Dakota,494,03/18/2006,3,5,Neutral,"St. Paul, Minn.",-,"19,282"
-2006,St. Johns (MN),602,St. Norbert,614,11/04/2005,0,3,Home,"",-,927
-2006,St. Johns (MN),602,Lake Forest,344,11/05/2005,3,2,Home,"",-,421
-2006,St. Johns (MN),602,Wis.-River Falls,801,11/10/2005,2,2,Home,"",1 OT,548
-2006,St. Johns (MN),602,Wis.-Stout,803,11/12/2005,1,2,Away,"",-,500
-2006,St. Johns (MN),602,Concordia-M'head,161,11/18/2005,12,1,Home,"",-,540
-2006,St. Johns (MN),602,Concordia-M'head,161,11/19/2005,7,0,Home,"",-,211
-2006,St. Johns (MN),602,Gust. Adolphus,266,11/23/2005,3,2,Home,"",-,373
-2006,St. Johns (MN),602,Hamline,268,12/02/2005,4,0,Away,"",-,250
-2006,St. Johns (MN),602,Hamline,268,12/03/2005,4,1,Home,"",-,264
-2006,St. Johns (MN),602,Saint Mary's (MN),612,12/09/2005,7,3,Away,"",-,512
-2006,St. Johns (MN),602,Saint Mary's (MN),612,12/10/2005,4,1,Away,"",-,312
-2006,St. Johns (MN),602,Wis.-Eau Claire,793,01/06/2006,2,0,Home,"",-,509
-2006,St. Johns (MN),602,Wis.-Stevens Point,802,01/07/2006,4,1,Home,"",-,487
-2006,St. Johns (MN),602,St. Scholastica,618,01/13/2006,1,3,Away,"",-,213
-2006,St. Johns (MN),602,Wis.-Stevens Point,802,01/14/2006,4,1,Away,"",-,691
-2006,St. Johns (MN),602,St. Olaf,615,01/21/2006,3,5,Home,"",-,602
-2006,St. Johns (MN),602,St. Olaf,615,01/22/2006,1,4,Away,"",-,263
-2006,St. Johns (MN),602,Bethel (MN),60,01/27/2006,6,6,Away,"",1 OT,604
-2006,St. Johns (MN),602,Bethel (MN),60,01/28/2006,5,5,Home,"",1 OT,702
-2006,St. Johns (MN),602,St. Thomas (MN),620,02/02/2006,3,2,Home,"",1 OT,"2,600"
-2006,St. Johns (MN),602,St. Thomas (MN),620,02/03/2006,1,4,Away,"",-,"1,100"
-2006,St. Johns (MN),602,Augsburg,38,02/10/2006,4,1,Away,"",-,240
-2006,St. Johns (MN),602,Augsburg,38,02/11/2006,7,1,Home,"",-,396
-2006,St. Johns (MN),602,Gust. Adolphus,266,02/24/2006,5,2,Away,"",-,468
-2006,St. Johns (MN),602,Gust. Adolphus,266,02/25/2006,4,2,Home,"",-,323
-2006,St. Johns (MN),602,St. Olaf,615,03/02/2006,2,3,Home,"",-,712
 2006,St. Lawrence,607,Wisconsin,796,10/07/2005,2,3,Away,"",1 OT,"10,398"
 2006,St. Lawrence,607,Wisconsin,796,10/08/2005,2,1,Away,"",1 OT,"12,420"
 2006,St. Lawrence,607,Massachusetts,400,10/14/2005,2,1,Home,"",-,"2,140"
@@ -3121,30 +3017,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2006,St. Lawrence,607,Harvard,275,03/10/2006,5,1,Away,"",-,"1,933"
 2006,St. Lawrence,607,Harvard,275,03/11/2006,2,3,Away,"",-,"2,122"
 2006,St. Lawrence,607,Harvard,275,03/12/2006,4,8,Away,"",-,"1,608"
-2006,St. Marys (MN),612,Wis.-Eau Claire,793,11/04/2005,4,4,Home,"",1 OT,572
-2006,St. Marys (MN),612,Wis.-Stevens Point,802,11/05/2005,1,10,Away,"",-,964
-2006,St. Marys (MN),612,St. Norbert,614,11/11/2005,3,11,Away,"",-,"1,275"
-2006,St. Marys (MN),612,Lake Forest,344,11/12/2005,2,4,Away,"",-,216
-2006,St. Marys (MN),612,St. Thomas (MN),620,11/18/2005,1,2,Home,"",-,717
-2006,St. Marys (MN),612,St. Thomas (MN),620,11/19/2005,2,3,Away,"",-,345
-2006,St. Marys (MN),612,Northland,1267,11/22/2005,6,1,Away,"",-,100
-2006,St. Marys (MN),612,Augsburg,38,12/02/2005,2,7,Home,"",-,422
-2006,St. Marys (MN),612,Augsburg,38,12/03/2005,6,3,Away,"",-,211
-2006,St. Marys (MN),612,Saint John's (MN),602,12/09/2005,3,7,Home,"",-,512
-2006,St. Marys (MN),612,Saint John's (MN),602,12/10/2005,1,4,Home,"",-,312
-2006,St. Marys (MN),612,St. Scholastica,618,01/07/2006,2,6,Home,"",-,219
-2006,St. Marys (MN),612,Wis.-River Falls,801,01/13/2006,1,3,Away,"",-,414
-2006,St. Marys (MN),612,Wis.-Stout,803,01/14/2006,3,5,Home,"",-,314
-2006,St. Marys (MN),612,Gust. Adolphus,266,01/20/2006,0,4,Away,"",-,404
-2006,St. Marys (MN),612,Gust. Adolphus,266,01/21/2006,3,5,Home,"",-,371
-2006,St. Marys (MN),612,Concordia-M'head,161,01/27/2006,7,0,Away,"",-,223
-2006,St. Marys (MN),612,Concordia-M'head,161,01/28/2006,7,2,Away,"",-,175
-2006,St. Marys (MN),612,Hamline,268,02/03/2006,2,1,Away,"",1 OT,250
-2006,St. Marys (MN),612,Hamline,268,02/04/2006,3,0,Home,"",-,372
-2006,St. Marys (MN),612,St. Olaf,615,02/17/2006,3,2,Away,"",-,472
-2006,St. Marys (MN),612,St. Olaf,615,02/18/2006,3,2,Home,"",-,313
-2006,St. Marys (MN),612,Bethel (MN),60,02/24/2006,3,5,Away,"",-,834
-2006,St. Marys (MN),612,Bethel (MN),60,02/25/2006,3,2,Home,"",1 OT,279
 2006,St. Norbert,614,Marian (WI),1196,10/25/2005,8,2,Home,"",-,"1,283"
 2006,St. Norbert,614,Fredonia St.,242,10/28/2005,6,2,Home,"",-,"1,164"
 2006,St. Norbert,614,Buffalo St.,85,10/29/2005,6,1,Home,"",-,"1,056"
@@ -3413,6 +3285,134 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2006,Tufts,717,Southern Me.,662,02/11/2006,2,6,Away,"",-,0
 2006,Tufts,717,Babson,45,02/17/2006,2,4,Home,"",-,300
 2006,Tufts,717,Mass.-Boston,401,02/18/2006,2,2,Home,"",1 OT,250
+2006,UConn,164,Union (NY),727,10/15/2005,4,4,Away,"",1 OT,"1,612"
+2006,UConn,164,Merrimack,410,10/21/2005,1,3,Away,"",-,"1,327"
+2006,UConn,164,Merrimack,410,10/22/2005,2,1,Away,"",-,"1,427"
+2006,UConn,164,Mercyhurst,408,10/28/2005,2,5,Away,"",-,"1,400"
+2006,UConn,164,Mercyhurst,408,10/29/2005,3,5,Away,"",-,"1,335"
+2006,UConn,164,Holy Cross,285,11/04/2005,1,4,Home,"",-,"1,227"
+2006,UConn,164,Holy Cross,285,11/05/2005,3,2,Away,"",-,"1,157"
+2006,UConn,164,Canisius,116,11/18/2005,9,3,Away,"",-,175
+2006,UConn,164,Canisius,116,11/19/2005,3,4,Away,"",1 OT,257
+2006,UConn,164,Army,725,11/26/2005,1,2,Home,"",-,712
+2006,UConn,164,American Int'l,22,12/02/2005,2,5,Home,"",-,0
+2006,UConn,164,American Int'l,22,12/03/2005,2,1,Away,"",-,222
+2006,UConn,164,Sacred Heart,590,12/08/2005,2,1,Away,"",-,424
+2006,UConn,164,Sacred Heart,590,12/09/2005,3,2,Home,"",-,605
+2006,UConn,164,Army,725,12/29/2005,3,0,Home,"",-,"1,139"
+2006,UConn,164,Bowling Green,71,12/30/2005,2,9,Home,"",-,984
+2006,UConn,164,Bentley,56,01/06/2006,1,3,Home,"",-,714
+2006,UConn,164,Bentley,56,01/07/2006,1,4,Away,"",-,213
+2006,UConn,164,Brown,80,01/10/2006,1,4,Away,"",-,613
+2006,UConn,164,Mercyhurst,408,01/13/2006,3,6,Home,"",-,585
+2006,UConn,164,Mercyhurst,408,01/14/2006,3,4,Home,"",1 OT,541
+2006,UConn,164,Holy Cross,285,01/19/2006,2,5,Away,"",-,778
+2006,UConn,164,Holy Cross,285,01/24/2006,3,5,Home,"",-,798
+2006,UConn,164,Canisius,116,01/27/2006,0,5,Home,"",-,809
+2006,UConn,164,Canisius,116,01/28/2006,2,5,Home,"",-,715
+2006,UConn,164,Yale,813,02/05/2006,3,4,Away,"",-,"3,155"
+2006,UConn,164,American Int'l,22,02/10/2006,5,7,Away,"",-,190
+2006,UConn,164,American Int'l,22,02/11/2006,6,0,Home,"",-,604
+2006,UConn,164,Army,725,02/17/2006,5,4,Away,"",-,"1,909"
+2006,UConn,164,Army,725,02/18/2006,3,3,Away,"",1 OT,"2,664"
+2006,UConn,164,Bentley,56,02/24/2006,3,6,Away,"",-,332
+2006,UConn,164,Bentley,56,02/25/2006,1,4,Home,"",-,610
+2006,UConn,164,Sacred Heart,590,03/03/2006,3,8,Away,"",-,488
+2006,UConn,164,Sacred Heart,590,03/04/2006,4,3,Home,"",-,823
+2006,UConn,164,Sacred Heart,590,03/11/2006,4,1,Away,"",-,472
+2006,UConn,164,Holy Cross,285,03/17/2006,1,4,Away,"",-,0
+2006,UMass Boston,401,Bowdoin,69,11/18/2005,0,7,Home,"",-,236
+2006,UMass Boston,401,Colby,151,11/19/2005,1,4,Home,"",-,185
+2006,UMass Boston,401,Wentworth Inst.,762,11/22/2005,2,4,Away,"",-,0
+2006,UMass Boston,401,Framingham St.,238,11/29/2005,2,2,Away,"",1 OT,0
+2006,UMass Boston,401,Trinity (CT),713,12/02/2005,0,4,Away,"",-,0
+2006,UMass Boston,401,Wesleyan (CT),764,12/03/2005,2,7,Away,"",-,0
+2006,UMass Boston,401,Babson,45,12/07/2005,0,7,Home,"",-,184
+2006,UMass Boston,401,Western New Eng.,775,12/10/2005,1,4,Away,"",-,0
+2006,UMass Boston,401,Southern N.H.,468,12/28/2005,2,5,Home,"",-,279
+2006,UMass Boston,401,Connecticut Col.,163,12/29/2005,2,6,Home,"",-,268
+2006,UMass Boston,401,Hamilton,267,01/06/2006,2,7,Away,"",-,0
+2006,UMass Boston,401,Amherst,24,01/07/2006,2,5,Away,"",-,0
+2006,UMass Boston,401,Norwich,511,01/13/2006,1,7,Home,"",-,254
+2006,UMass Boston,401,Saint Michael's,613,01/14/2006,2,4,Home,"",-,112
+2006,UMass Boston,401,Mass.-Dartmouth,656,01/17/2006,0,6,Away,"",-,0
+2006,UMass Boston,401,Southern Me.,662,01/20/2006,1,7,Away,"",-,0
+2006,UMass Boston,401,Salem St.,621,01/21/2006,1,6,Away,"",-,0
+2006,UMass Boston,401,Castleton,123,01/27/2006,1,1,Home,"",1 OT,214
+2006,UMass Boston,401,Skidmore,642,01/28/2006,5,8,Home,"",-,205
+2006,UMass Boston,401,St. Anselm,593,02/03/2006,3,5,Away,"",-,0
+2006,UMass Boston,401,New England Col.,467,02/04/2006,1,4,Away,"",-,0
+2006,UMass Boston,401,Middlebury,420,02/10/2006,1,9,Home,"",-,303
+2006,UMass Boston,401,Williams,789,02/11/2006,0,5,Home,"",-,111
+2006,UMass Boston,401,Connecticut Col.,163,02/17/2006,4,5,Away,"",-,0
+2006,UMass Boston,401,Tufts,717,02/18/2006,2,2,Away,"",1 OT,0
+2006,UMass Boston,401,Norwich,511,02/25/2006,1,8,Away,"",-,0
+2006,UMass Dartmouth,656,Lebanon Valley,351,11/11/2005,2,1,Away,"",-,243
+2006,UMass Dartmouth,656,Lebanon Valley,351,11/12/2005,1,2,Away,"",-,151
+2006,UMass Dartmouth,656,Stonehill,682,11/16/2005,3,0,Away,"",-,459
+2006,UMass Dartmouth,656,Plymouth St.,548,11/19/2005,2,3,Home,"",1 OT,225
+2006,UMass Dartmouth,656,Worcester St.,809,11/22/2005,10,3,Home,"",-,171
+2006,UMass Dartmouth,656,Fitchburg St.,227,11/30/2005,4,5,Away,"",1 OT,300
+2006,UMass Dartmouth,656,Curry,170,12/03/2005,2,1,Away,"",-,300
+2006,UMass Dartmouth,656,Tufts,717,12/07/2005,2,3,Away,"",-,150
+2006,UMass Dartmouth,656,Southern Me.,662,12/10/2005,3,1,Home,"",-,225
+2006,UMass Dartmouth,656,Connecticut Col.,163,12/14/2005,4,2,Home,"",-,247
+2006,UMass Dartmouth,656,Connecticut Col.,163,12/28/2005,4,1,Neutral,"Boston, MA",-,392
+2006,UMass Dartmouth,656,Southern N.H.,468,12/29/2005,5,1,Neutral,"Boston, MA",-,291
+2006,UMass Dartmouth,656,Assumption,36,01/07/2006,6,4,Away,"",-,125
+2006,UMass Dartmouth,656,Wesleyan (CT),764,01/10/2006,3,0,Away,"",-,150
+2006,UMass Dartmouth,656,Western New Eng.,775,01/14/2006,7,2,Away,"",-,134
+2006,UMass Dartmouth,656,Mass.-Boston,401,01/17/2006,6,0,Home,"",-,117
+2006,UMass Dartmouth,656,Southern N.H.,468,01/21/2006,5,1,Home,"",-,250
+2006,UMass Dartmouth,656,Suffolk,684,01/25/2006,8,0,Home,"",-,177
+2006,UMass Dartmouth,656,Fitchburg St.,227,01/28/2006,3,2,Home,"",1 OT,212
+2006,UMass Dartmouth,656,Salve Regina,623,02/01/2006,4,3,Home,"",-,199
+2006,UMass Dartmouth,656,Franklin Pierce,241,02/04/2006,6,1,Away,"",-,122
+2006,UMass Dartmouth,656,Wentworth Inst.,762,02/08/2006,6,0,Home,"",-,211
+2006,UMass Dartmouth,656,Framingham St.,238,02/11/2006,3,2,Home,"",-,205
+2006,UMass Dartmouth,656,Johnson & Wales (RI),22626,02/15/2006,6,1,Home,"",-,233
+2006,UMass Dartmouth,656,Nichols,484,02/18/2006,5,0,Away,"",-,125
+2006,UMass Dartmouth,656,Salve Regina,623,02/25/2006,3,2,Home,"",-,841
+2006,UMass Dartmouth,656,Nichols,484,03/01/2006,6,2,Home,"",-,914
+2006,UMass Dartmouth,656,Curry,170,03/04/2006,3,1,Home,"",-,"1,437"
+2006,UMass Dartmouth,656,SUNY Geneseo,247,03/08/2006,8,2,Away,"",-,"1,520"
+2006,UMass Dartmouth,656,Middlebury,420,03/11/2006,1,3,Away,"",-,"2,429"
+2006,UMass Lowell,368,Colgate,153,10/07/2005,2,6,Away,"",-,"1,685"
+2006,UMass Lowell,368,Rensselaer,570,10/09/2005,5,3,Home,"",-,"1,571"
+2006,UMass Lowell,368,Boston U.,68,10/15/2005,1,3,Away,"",-,"6,058"
+2006,UMass Lowell,368,Providence,556,10/21/2005,0,3,Away,"",-,"1,519"
+2006,UMass Lowell,368,Providence,556,10/22/2005,0,4,Home,"",-,"1,698"
+2006,UMass Lowell,368,Boston U.,68,10/28/2005,7,4,Home,"",-,"4,362"
+2006,UMass Lowell,368,Union (NY),727,10/29/2005,3,4,Home,"",-,"1,701"
+2006,UMass Lowell,368,Merrimack,410,11/02/2005,3,1,Away,"",-,"1,045"
+2006,UMass Lowell,368,Maine,380,11/11/2005,2,9,Home,"",-,"3,140"
+2006,UMass Lowell,368,New Hampshire,469,11/18/2005,2,3,Away,"",-,"6,501"
+2006,UMass Lowell,368,New Hampshire,469,11/19/2005,6,3,Home,"",-,"4,018"
+2006,UMass Lowell,368,St. Lawrence,607,12/02/2005,2,4,Away,"",-,"2,350"
+2006,UMass Lowell,368,Vermont,738,12/03/2005,2,5,Away,"",-,"4,003"
+2006,UMass Lowell,368,New Hampshire,469,12/10/2005,1,4,Away,"",-,"6,501"
+2006,UMass Lowell,368,Dartmouth,172,12/11/2005,3,2,Home,"",-,"1,966"
+2006,UMass Lowell,368,Canisius,116,12/29/2005,5,4,Neutral,"Minneapolis, Minn.",-,750
+2006,UMass Lowell,368,Minnesota,428,12/30/2005,4,5,Away,"",-,"9,927"
+2006,UMass Lowell,368,Maine,380,01/06/2006,0,4,Away,"",-,"5,001"
+2006,UMass Lowell,368,Maine,380,01/07/2006,2,6,Away,"",-,"5,059"
+2006,UMass Lowell,368,Massachusetts,400,01/13/2006,6,2,Home,"",-,"2,323"
+2006,UMass Lowell,368,Providence,556,01/15/2006,4,3,Away,"",1 OT,"2,011"
+2006,UMass Lowell,368,Northeastern,500,01/20/2006,2,1,Away,"",-,"2,286"
+2006,UMass Lowell,368,Northeastern,500,01/21/2006,2,2,Home,"",1 OT,"3,939"
+2006,UMass Lowell,368,Massachusetts,400,01/27/2006,3,2,Away,"",-,"2,880"
+2006,UMass Lowell,368,Boston College,67,01/28/2006,3,4,Home,"",1 OT,"5,986"
+2006,UMass Lowell,368,Boston U.,68,02/03/2006,1,5,Home,"",-,"2,733"
+2006,UMass Lowell,368,Massachusetts,400,02/04/2006,2,5,Home,"",-,"2,705"
+2006,UMass Lowell,368,Northeastern,500,02/10/2006,4,6,Away,"",-,"2,340"
+2006,UMass Lowell,368,Merrimack,410,02/17/2006,2,2,Away,"",1 OT,917
+2006,UMass Lowell,368,Merrimack,410,02/18/2006,5,2,Home,"",-,"2,426"
+2006,UMass Lowell,368,Boston College,67,02/23/2006,0,6,Away,"",-,"5,408"
+2006,UMass Lowell,368,Boston College,67,02/25/2006,6,3,Home,"",-,"3,878"
+2006,UMass Lowell,368,Vermont,738,03/03/2006,3,2,Home,"",-,"3,593"
+2006,UMass Lowell,368,Vermont,738,03/04/2006,5,2,Home,"",-,"2,721"
+2006,UMass Lowell,368,Maine,380,03/10/2006,3,4,Away,"",1 OT,"4,339"
+2006,UMass Lowell,368,Maine,380,03/11/2006,3,4,Away,"",-,"4,508"
 2006,Union (NY),727,Colorado,157,10/07/2005,1,6,Away,"",-,"6,262"
 2006,Union (NY),727,Air Force,721,10/08/2005,2,9,Neutral,"Colorado Springs, CO",-,"2,318"
 2006,Union (NY),727,Sacred Heart,590,10/14/2005,5,2,Home,"",-,"1,344"
@@ -3551,32 +3551,32 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2006,Wayne St. (MI),757,Air Force,721,03/03/2006,1,3,Home,"",-,560
 2006,Wayne St. (MI),757,Air Force,721,03/04/2006,3,5,Home,"",-,626
 2006,Wayne St. (MI),757,Ala.-Huntsville,10,03/10/2006,1,3,Home,"",-,"1,109"
-2006,Wentworth Inst.,762,Worcester St.,809,11/08/2005,7,2,Away,"",-,150
-2006,Wentworth Inst.,762,Western New Eng.,775,11/10/2005,9,2,Home,"",-,750
-2006,Wentworth Inst.,762,Manhattanville,382,11/12/2005,2,8,Away,"",-,956
-2006,Wentworth Inst.,762,Suffolk,684,11/16/2005,6,5,Home,"",1 OT,500
-2006,Wentworth Inst.,762,Oswego St.,530,11/18/2005,3,4,Away,"",-,982
-2006,Wentworth Inst.,762,Hobart,282,11/19/2005,0,7,Away,"",-,100
-2006,Wentworth Inst.,762,Mass.-Boston,401,11/22/2005,4,2,Home,"",-,325
-2006,Wentworth Inst.,762,Assumption,36,11/26/2005,6,1,Home,"",-,350
-2006,Wentworth Inst.,762,New England Col.,467,11/30/2005,4,6,Away,"",-,350
-2006,Wentworth Inst.,762,Salem St.,621,12/06/2005,6,5,Away,"",-,250
-2006,Wentworth Inst.,762,Norwich,511,12/09/2005,0,10,Away,"",-,"1,200"
-2006,Wentworth Inst.,762,Wesleyan (CT),764,12/10/2005,4,3,Away,"",1 OT,200
-2006,Wentworth Inst.,762,Fitchburg St.,227,01/11/2006,5,1,Away,"",-,100
-2006,Wentworth Inst.,762,Hobart,282,01/13/2006,2,6,Home,"",-,115
-2006,Wentworth Inst.,762,Franklin Pierce,241,01/18/2006,7,0,Away,"",-,129
-2006,Wentworth Inst.,762,Curry,170,01/21/2006,0,11,Away,"",-,200
-2006,Wentworth Inst.,762,Nichols,484,01/22/2006,2,4,Away,"",-,115
-2006,Wentworth Inst.,762,Stonehill,682,01/24/2006,4,6,Away,"",-,339
-2006,Wentworth Inst.,762,Plymouth St.,548,01/28/2006,4,5,Away,"",1 OT,350
-2006,Wentworth Inst.,762,Castleton,123,01/31/2006,2,1,Away,"",-,303
-2006,Wentworth Inst.,762,Salve Regina,623,02/05/2006,7,0,Home,"",-,264
-2006,Wentworth Inst.,762,Mass.-Dartmouth,656,02/08/2006,0,6,Away,"",-,211
-2006,Wentworth Inst.,762,Southern N.H.,468,02/11/2006,7,4,Home,"",-,555
-2006,Wentworth Inst.,762,Johnson & Wales (RI),22626,02/19/2006,7,5,Away,"",-,127
-2006,Wentworth Inst.,762,Framingham St.,238,02/20/2006,5,2,Home,"",-,355
-2006,Wentworth Inst.,762,Nichols,484,02/25/2006,5,6,Away,"",1 OT,86
+2006,Wentworth,762,Worcester St.,809,11/08/2005,7,2,Away,"",-,150
+2006,Wentworth,762,Western New Eng.,775,11/10/2005,9,2,Home,"",-,750
+2006,Wentworth,762,Manhattanville,382,11/12/2005,2,8,Away,"",-,956
+2006,Wentworth,762,Suffolk,684,11/16/2005,6,5,Home,"",1 OT,500
+2006,Wentworth,762,Oswego St.,530,11/18/2005,3,4,Away,"",-,982
+2006,Wentworth,762,Hobart,282,11/19/2005,0,7,Away,"",-,100
+2006,Wentworth,762,Mass.-Boston,401,11/22/2005,4,2,Home,"",-,325
+2006,Wentworth,762,Assumption,36,11/26/2005,6,1,Home,"",-,350
+2006,Wentworth,762,New England Col.,467,11/30/2005,4,6,Away,"",-,350
+2006,Wentworth,762,Salem St.,621,12/06/2005,6,5,Away,"",-,250
+2006,Wentworth,762,Norwich,511,12/09/2005,0,10,Away,"",-,"1,200"
+2006,Wentworth,762,Wesleyan (CT),764,12/10/2005,4,3,Away,"",1 OT,200
+2006,Wentworth,762,Fitchburg St.,227,01/11/2006,5,1,Away,"",-,100
+2006,Wentworth,762,Hobart,282,01/13/2006,2,6,Home,"",-,115
+2006,Wentworth,762,Franklin Pierce,241,01/18/2006,7,0,Away,"",-,129
+2006,Wentworth,762,Curry,170,01/21/2006,0,11,Away,"",-,200
+2006,Wentworth,762,Nichols,484,01/22/2006,2,4,Away,"",-,115
+2006,Wentworth,762,Stonehill,682,01/24/2006,4,6,Away,"",-,339
+2006,Wentworth,762,Plymouth St.,548,01/28/2006,4,5,Away,"",1 OT,350
+2006,Wentworth,762,Castleton,123,01/31/2006,2,1,Away,"",-,303
+2006,Wentworth,762,Salve Regina,623,02/05/2006,7,0,Home,"",-,264
+2006,Wentworth,762,Mass.-Dartmouth,656,02/08/2006,0,6,Away,"",-,211
+2006,Wentworth,762,Southern N.H.,468,02/11/2006,7,4,Home,"",-,555
+2006,Wentworth,762,Johnson & Wales (RI),22626,02/19/2006,7,5,Away,"",-,127
+2006,Wentworth,762,Framingham St.,238,02/20/2006,5,2,Home,"",-,355
+2006,Wentworth,762,Nichols,484,02/25/2006,5,6,Away,"",1 OT,86
 2006,Wesleyan (CT),764,Amherst,24,11/18/2005,1,3,Away,"",-,400
 2006,Wesleyan (CT),764,Hamilton,267,11/19/2005,3,4,Away,"",-,310
 2006,Wesleyan (CT),764,Trinity (CT),713,11/26/2005,6,3,Neutral,"Middletown, CT",-,250

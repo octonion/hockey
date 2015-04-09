@@ -72,38 +72,38 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2003,Alas. Anchorage,11,Alas. Fairbanks,12,03/08/2003,0,5,Away,"",-,"4,486"
 2003,Alas. Anchorage,11,Colorado Col.,154,03/14/2003,3,5,Away,"",-,"5,869"
 2003,Alas. Anchorage,11,Colorado Col.,154,03/15/2003,1,4,Away,"",-,"6,474"
-2003,American Intl,22,Fairfield,220,10/18/2002,4,3,Neutral,"Northford, Conn",-,0
-2003,American Intl,22,Quinnipiac,562,10/19/2002,2,9,Away,"",-,0
-2003,American Intl,22,Mercyhurst,408,10/25/2002,2,8,Away,"",-,0
-2003,American Intl,22,Canisius,116,10/26/2002,6,2,Away,"",-,0
-2003,American Intl,22,Quinnipiac,562,11/08/2002,3,9,Home,"",-,0
-2003,American Intl,22,Iona,310,11/09/2002,2,1,Away,"",-,0
-2003,American Intl,22,Holy Cross,285,11/15/2002,1,4,Home,"",-,0
-2003,American Intl,22,Quinnipiac,562,11/16/2002,2,8,Away,"",-,0
-2003,American Intl,22,Sacred Heart,590,11/22/2002,0,0,Away,"",1 OT,0
-2003,American Intl,22,Sacred Heart,590,11/23/2002,2,4,Home,"",-,0
-2003,American Intl,22,Connecticut,164,12/07/2002,6,5,Away,"",-,0
-2003,American Intl,22,Minn. St. Mankato,383,12/27/2002,3,7,Away,"",-,0
-2003,American Intl,22,Minn. St. Mankato,383,12/28/2002,3,3,Away,"",1 OT,0
-2003,American Intl,22,Army,725,01/03/2003,2,4,Home,"",-,0
-2003,American Intl,22,Army,725,01/04/2003,2,4,Away,"",-,0
-2003,American Intl,22,Wayne St. (MI),757,01/10/2003,2,6,Away,"",-,0
-2003,American Intl,22,Wayne St. (MI),757,01/11/2003,3,4,Away,"",1 OT,0
-2003,American Intl,22,Bentley,56,01/17/2003,5,4,Home,"",1 OT,0
-2003,American Intl,22,Bentley,56,01/18/2003,0,5,Away,"",-,0
-2003,American Intl,22,Mercyhurst,408,01/24/2003,1,5,Home,"",-,0
-2003,American Intl,22,Mercyhurst,408,01/25/2003,2,4,Home,"",-,0
-2003,American Intl,22,Iona,310,01/31/2003,0,3,Home,"",-,0
-2003,American Intl,22,Iona,310,02/01/2003,3,2,Away,"",-,0
-2003,American Intl,22,Holy Cross,285,02/07/2003,3,5,Home,"",-,0
-2003,American Intl,22,Holy Cross,285,02/08/2003,2,8,Away,"",-,0
-2003,American Intl,22,Connecticut,164,02/16/2003,8,3,Home,"",-,0
-2003,American Intl,22,Fairfield,220,02/21/2003,3,0,Away,"",-,0
-2003,American Intl,22,Fairfield,220,02/22/2003,1,5,Away,"",-,0
-2003,American Intl,22,Canisius,116,02/28/2003,3,2,Away,"",-,0
-2003,American Intl,22,Canisius,116,03/02/2003,0,3,Home,"",-,0
-2003,American Intl,22,Quinnipiac,562,03/05/2003,4,3,Home,"",-,0
-2003,American Intl,22,Army,725,03/07/2003,3,4,Away,"",-,0
+2003,American Int'l,22,Fairfield,220,10/18/2002,4,3,Neutral,"Northford, Conn",-,0
+2003,American Int'l,22,Quinnipiac,562,10/19/2002,2,9,Away,"",-,0
+2003,American Int'l,22,Mercyhurst,408,10/25/2002,2,8,Away,"",-,0
+2003,American Int'l,22,Canisius,116,10/26/2002,6,2,Away,"",-,0
+2003,American Int'l,22,Quinnipiac,562,11/08/2002,3,9,Home,"",-,0
+2003,American Int'l,22,Iona,310,11/09/2002,2,1,Away,"",-,0
+2003,American Int'l,22,Holy Cross,285,11/15/2002,1,4,Home,"",-,0
+2003,American Int'l,22,Quinnipiac,562,11/16/2002,2,8,Away,"",-,0
+2003,American Int'l,22,Sacred Heart,590,11/22/2002,0,0,Away,"",1 OT,0
+2003,American Int'l,22,Sacred Heart,590,11/23/2002,2,4,Home,"",-,0
+2003,American Int'l,22,Connecticut,164,12/07/2002,6,5,Away,"",-,0
+2003,American Int'l,22,Minn. St. Mankato,383,12/27/2002,3,7,Away,"",-,0
+2003,American Int'l,22,Minn. St. Mankato,383,12/28/2002,3,3,Away,"",1 OT,0
+2003,American Int'l,22,Army,725,01/03/2003,2,4,Home,"",-,0
+2003,American Int'l,22,Army,725,01/04/2003,2,4,Away,"",-,0
+2003,American Int'l,22,Wayne St. (MI),757,01/10/2003,2,6,Away,"",-,0
+2003,American Int'l,22,Wayne St. (MI),757,01/11/2003,3,4,Away,"",1 OT,0
+2003,American Int'l,22,Bentley,56,01/17/2003,5,4,Home,"",1 OT,0
+2003,American Int'l,22,Bentley,56,01/18/2003,0,5,Away,"",-,0
+2003,American Int'l,22,Mercyhurst,408,01/24/2003,1,5,Home,"",-,0
+2003,American Int'l,22,Mercyhurst,408,01/25/2003,2,4,Home,"",-,0
+2003,American Int'l,22,Iona,310,01/31/2003,0,3,Home,"",-,0
+2003,American Int'l,22,Iona,310,02/01/2003,3,2,Away,"",-,0
+2003,American Int'l,22,Holy Cross,285,02/07/2003,3,5,Home,"",-,0
+2003,American Int'l,22,Holy Cross,285,02/08/2003,2,8,Away,"",-,0
+2003,American Int'l,22,Connecticut,164,02/16/2003,8,3,Home,"",-,0
+2003,American Int'l,22,Fairfield,220,02/21/2003,3,0,Away,"",-,0
+2003,American Int'l,22,Fairfield,220,02/22/2003,1,5,Away,"",-,0
+2003,American Int'l,22,Canisius,116,02/28/2003,3,2,Away,"",-,0
+2003,American Int'l,22,Canisius,116,03/02/2003,0,3,Home,"",-,0
+2003,American Int'l,22,Quinnipiac,562,03/05/2003,4,3,Home,"",-,0
+2003,American Int'l,22,Army,725,03/07/2003,3,4,Away,"",-,0
 2003,Amherst,24,Babson,45,11/22/2002,1,4,Away,"",-,0
 2003,Amherst,24,Mass.-Boston,401,11/23/2002,8,1,Away,"",-,0
 2003,Amherst,24,Wentworth Inst.,762,11/30/2002,0,10,Home,"",-,57
@@ -569,8 +569,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2003,Colgate,153,St. Lawrence,607,03/08/2003,3,2,Home,"",1 OT,0
 2003,Colgate,153,St. Lawrence,607,03/09/2003,5,2,Home,"",-,0
 2003,Colgate,153,Dartmouth,172,03/14/2003,4,3,Away,"",4 OT,0
-2003,Colgate,153,Dartmouth,172,03/15/2003,1,3,Away,"",-,0
 2003,Colgate,153,Dartmouth,172,03/15/2003,2,5,Away,"",-,0
+2003,Colgate,153,Dartmouth,172,03/15/2003,1,3,Away,"",-,0
 2003,Colorado Col.,154,Mass.-Lowell,368,10/11/2002,6,4,Home,"",-,"6,642"
 2003,Colorado Col.,154,Mass.-Lowell,368,10/12/2002,1,4,Home,"",-,"6,081"
 2003,Colorado Col.,154,Maine,380,10/18/2002,3,0,Neutral,"Anchorage, Alaska",-,"4,302"
@@ -613,66 +613,32 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2003,Colorado Col.,154,Minnesota,428,03/22/2003,2,4,Neutral,"St. Paul, Minn.",-,"16,668"
 2003,Colorado Col.,154,Wayne St. (MI),757,03/29/2003,4,2,Neutral,"Ann Arbor, Mich.",-,"6,798"
 2003,Colorado Col.,154,Michigan,418,03/30/2003,3,5,Away,"",-,"6,781"
-2003,Concordia-Mhead,161,Bethel (MN),60,11/01/2002,6,4,Away,"",-,175
-2003,Concordia-Mhead,161,Bethel (MN),60,11/02/2002,4,1,Away,"",-,125
-2003,Concordia-Mhead,161,Minn.-Crookston,27854,11/05/2002,6,1,Home,"",-,775
-2003,Concordia-Mhead,161,St. Thomas (MN),620,11/08/2002,2,4,Away,"",-,150
-2003,Concordia-Mhead,161,St. Thomas (MN),620,11/09/2002,2,1,Away,"",-,200
-2003,Concordia-Mhead,161,Wis.-Stevens Point,802,11/15/2002,3,2,Away,"",-,852
-2003,Concordia-Mhead,161,Wis.-Eau Claire,793,11/16/2002,6,5,Away,"",-,187
-2003,Concordia-Mhead,161,Augsburg,38,11/22/2002,6,4,Away,"",-,300
-2003,Concordia-Mhead,161,Augsburg,38,11/23/2002,1,5,Away,"",-,300
-2003,Concordia-Mhead,161,Wis.-Superior,804,12/06/2002,3,10,Home,"",-,"1,250"
-2003,Concordia-Mhead,161,St. Scholastica,618,12/07/2002,4,3,Home,"",-,775
-2003,Concordia-Mhead,161,Lake Forest,344,01/03/2003,3,7,Away,"",-,112
-2003,Concordia-Mhead,161,St. Norbert,614,01/04/2003,2,5,Away,"",-,835
-2003,Concordia-Mhead,161,Saint John's (MN),602,01/10/2003,3,9,Home,"",-,900
-2003,Concordia-Mhead,161,Saint John's (MN),602,01/11/2003,4,5,Home,"",1 OT,300
-2003,Concordia-Mhead,161,Gust. Adolphus,266,01/17/2003,3,3,Home,"",1 OT,600
-2003,Concordia-Mhead,161,Gust. Adolphus,266,01/18/2003,1,4,Home,"",-,200
-2003,Concordia-Mhead,161,Finlandia,,01/24/2003,3,2,Home,"",-,150
-2003,Concordia-Mhead,161,Finlandia,,01/25/2003,6,3,Home,"",-,100
-2003,Concordia-Mhead,161,Hamline,268,01/31/2003,4,5,Home,"",1 OT,287
-2003,Concordia-Mhead,161,Hamline,268,02/01/2003,6,5,Home,"",-,200
-2003,Concordia-Mhead,161,Saint Mary's (MN),612,02/07/2003,4,3,Away,"",-,933
-2003,Concordia-Mhead,161,Saint Mary's (MN),612,02/08/2003,4,5,Away,"",1 OT,562
-2003,Concordia-Mhead,161,St. Olaf,615,02/14/2003,2,2,Home,"",1 OT,200
-2003,Concordia-Mhead,161,St. Olaf,615,02/15/2003,3,2,Home,"",1 OT,350
-2003,Concordia-Mhead,161,Gust. Adolphus,266,02/27/2003,1,3,Neutral,"Bloomington, MN",-,"1,323"
-2003,Connecticut,164,Northeastern,500,10/11/2002,1,10,Away,"",-,"2,849"
-2003,Connecticut,164,Holy Cross,285,10/13/2002,2,3,Home,"",-,722
-2003,Connecticut,164,Colgate,153,10/19/2002,5,4,Away,"",1 OT,"1,947"
-2003,Connecticut,164,Quinnipiac,562,11/01/2002,4,7,Home,"",-,832
-2003,Connecticut,164,Fairfield,220,11/02/2002,2,2,Away,"",1 OT,457
-2003,Connecticut,164,Canisius,116,11/08/2002,1,3,Home,"",-,905
-2003,Connecticut,164,Mercyhurst,408,11/09/2002,2,6,Home,"",-,989
-2003,Connecticut,164,Sacred Heart,590,11/15/2002,3,6,Neutral,"Bridgeport, CT",-,600
-2003,Connecticut,164,Sacred Heart,590,11/16/2002,3,1,Home,"",-,"1,175"
-2003,Connecticut,164,Holy Cross,285,11/22/2002,3,2,Away,"",-,500
-2003,Connecticut,164,Union (NY),727,11/24/2002,0,8,Away,"",-,"1,196"
-2003,Connecticut,164,New Hampshire,469,11/30/2002,1,3,Away,"",-,"6,009"
-2003,Connecticut,164,Army,725,12/06/2002,3,0,Home,"",-,"1,151"
-2003,Connecticut,164,American Int'l,22,12/07/2002,5,6,Home,"",-,"1,017"
-2003,Connecticut,164,Findlay,1079,12/29/2002,1,4,Home,"",-,"1,202"
-2003,Connecticut,164,Ferris St.,224,12/30/2002,0,5,Home,"",-,808
-2003,Connecticut,164,Mercyhurst,408,01/03/2003,4,4,Away,"",1 OT,300
-2003,Connecticut,164,Mercyhurst,408,01/04/2003,1,3,Away,"",-,286
-2003,Connecticut,164,Fairfield,220,01/10/2003,5,4,Home,"",-,890
-2003,Connecticut,164,Fairfield,220,01/11/2003,2,3,Home,"",1 OT,"1,056"
-2003,Connecticut,164,Canisius,116,01/17/2003,3,3,Away,"",1 OT,515
-2003,Connecticut,164,Canisius,116,01/18/2003,2,5,Away,"",-,728
-2003,Connecticut,164,Army,725,01/24/2003,6,4,Away,"",-,"2,752"
-2003,Connecticut,164,Yale,813,01/25/2003,3,4,Away,"",-,"3,486"
-2003,Connecticut,164,Iona,310,02/07/2003,2,5,Home,"",-,"1,001"
-2003,Connecticut,164,Iona,310,02/08/2003,2,4,Away,"",-,802
-2003,Connecticut,164,Massachusetts,400,02/14/2003,6,8,Away,"",-,"1,918"
-2003,Connecticut,164,American Int'l,22,02/16/2003,3,8,Away,"",-,300
-2003,Connecticut,164,Bentley,56,02/21/2003,1,4,Home,"",-,850
-2003,Connecticut,164,Bentley,56,02/22/2003,5,3,Away,"",-,400
-2003,Connecticut,164,Quinnipiac,562,02/28/2003,5,4,Home,"",-,"1,105"
-2003,Connecticut,164,Quinnipiac,562,03/01/2003,3,4,Neutral,"New York, N.Y.",-,"2,115"
-2003,Connecticut,164,Iona,310,03/06/2003,0,3,Neutral,"Bridgeport, CT",-,517
-2003,Connecticut,164,Canisius,116,03/08/2003,2,5,Home,"",-,"1,305"
+2003,Concordia-M'head,161,Bethel (MN),60,11/01/2002,6,4,Away,"",-,175
+2003,Concordia-M'head,161,Bethel (MN),60,11/02/2002,4,1,Away,"",-,125
+2003,Concordia-M'head,161,Minn.-Crookston,27854,11/05/2002,6,1,Home,"",-,775
+2003,Concordia-M'head,161,St. Thomas (MN),620,11/08/2002,2,4,Away,"",-,150
+2003,Concordia-M'head,161,St. Thomas (MN),620,11/09/2002,2,1,Away,"",-,200
+2003,Concordia-M'head,161,Wis.-Stevens Point,802,11/15/2002,3,2,Away,"",-,852
+2003,Concordia-M'head,161,Wis.-Eau Claire,793,11/16/2002,6,5,Away,"",-,187
+2003,Concordia-M'head,161,Augsburg,38,11/22/2002,6,4,Away,"",-,300
+2003,Concordia-M'head,161,Augsburg,38,11/23/2002,1,5,Away,"",-,300
+2003,Concordia-M'head,161,Wis.-Superior,804,12/06/2002,3,10,Home,"",-,"1,250"
+2003,Concordia-M'head,161,St. Scholastica,618,12/07/2002,4,3,Home,"",-,775
+2003,Concordia-M'head,161,Lake Forest,344,01/03/2003,3,7,Away,"",-,112
+2003,Concordia-M'head,161,St. Norbert,614,01/04/2003,2,5,Away,"",-,835
+2003,Concordia-M'head,161,Saint John's (MN),602,01/10/2003,3,9,Home,"",-,900
+2003,Concordia-M'head,161,Saint John's (MN),602,01/11/2003,4,5,Home,"",1 OT,300
+2003,Concordia-M'head,161,Gust. Adolphus,266,01/17/2003,3,3,Home,"",1 OT,600
+2003,Concordia-M'head,161,Gust. Adolphus,266,01/18/2003,1,4,Home,"",-,200
+2003,Concordia-M'head,161,Finlandia,,01/24/2003,3,2,Home,"",-,150
+2003,Concordia-M'head,161,Finlandia,,01/25/2003,6,3,Home,"",-,100
+2003,Concordia-M'head,161,Hamline,268,01/31/2003,4,5,Home,"",1 OT,287
+2003,Concordia-M'head,161,Hamline,268,02/01/2003,6,5,Home,"",-,200
+2003,Concordia-M'head,161,Saint Mary's (MN),612,02/07/2003,4,3,Away,"",-,933
+2003,Concordia-M'head,161,Saint Mary's (MN),612,02/08/2003,4,5,Away,"",1 OT,562
+2003,Concordia-M'head,161,St. Olaf,615,02/14/2003,2,2,Home,"",1 OT,200
+2003,Concordia-M'head,161,St. Olaf,615,02/15/2003,3,2,Home,"",1 OT,350
+2003,Concordia-M'head,161,Gust. Adolphus,266,02/27/2003,1,3,Neutral,"Bloomington, MN",-,"1,323"
 2003,Connecticut Col.,163,Norwich,511,11/22/2002,2,11,Away,"",-,"2,200"
 2003,Connecticut Col.,163,Saint Michael's,613,11/23/2002,4,3,Away,"",-,"1,000"
 2003,Connecticut Col.,163,Johnson & Wales (RI),22626,11/30/2002,3,4,Home,"",-,225
@@ -806,8 +772,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2003,Fairfield,220,Bentley,56,11/03/2002,3,2,Away,"",-,500
 2003,Fairfield,220,Mercyhurst,408,11/08/2002,1,6,Home,"",-,357
 2003,Fairfield,220,Quinnipiac,562,11/15/2002,3,5,Neutral,Arena at Harbor Yard,-,"2,072"
-2003,Fairfield,220,Holy Cross,285,11/23/2002,3,4,Away,"",-,820
 2003,Fairfield,220,Iona,310,11/23/2002,3,4,Away,"",-,802
+2003,Fairfield,220,Holy Cross,285,11/23/2002,3,4,Away,"",-,820
 2003,Fairfield,220,Iona,310,12/06/2002,1,4,Home,"",-,430
 2003,Fairfield,220,Army,725,12/07/2002,1,3,Home,"",-,423
 2003,Fairfield,220,Air Force,721,12/28/2002,4,5,Home,"",-,434
@@ -865,8 +831,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2003,Framingham St.,238,Southern N.H.,468,11/23/2002,1,5,Home,"",-,0
 2003,Framingham St.,238,Babson,45,11/26/2002,2,13,Home,"",-,0
 2003,Framingham St.,238,Mass. Liberal Arts,486,12/03/2002,2,7,Away,"",-,0
-2003,Framingham St.,238,Curry,170,12/07/2002,1,11,Away,"",-,0
 2003,Framingham St.,238,Fitchburg St.,227,12/07/2002,2,9,Away,"",-,0
+2003,Framingham St.,238,Curry,170,12/07/2002,1,11,Away,"",-,0
 2003,Framingham St.,238,Southern Me.,662,12/12/2002,4,13,Away,"",-,0
 2003,Framingham St.,238,Mass.-Boston,401,01/07/2003,3,3,Away,"",1 OT,0
 2003,Framingham St.,238,Brockport,78,01/11/2003,1,4,Home,"",-,0
@@ -882,32 +848,32 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2003,Framingham St.,238,Western New Eng.,775,02/15/2003,4,6,Away,"",-,0
 2003,Framingham St.,238,Salem St.,621,02/18/2003,0,10,Home,"",-,0
 2003,Framingham St.,238,Wentworth Inst.,762,02/22/2003,0,13,Home,"",-,0
-2003,Fredonia St.,242,SUNY Potsdam,552,10/25/2002,1,4,Away,Potsdam St.,-,0
-2003,Fredonia St.,242,Buffalo St.,85,10/26/2002,4,1,Neutral,Potsdam St.,-,0
-2003,Fredonia St.,242,Hobart,282,11/01/2002,2,3,Neutral,Buffalo St.,-,0
-2003,Fredonia St.,242,Utica,733,11/02/2002,4,1,Neutral,Buffalo St.,-,0
-2003,Fredonia St.,242,Oswego St.,530,11/08/2002,3,2,Home,"",-,592
-2003,Fredonia St.,242,SUNY Cortland,168,11/09/2002,5,1,Home,"",-,553
-2003,Fredonia St.,242,SUNY Geneseo,247,11/15/2002,3,2,Away,"",-,0
-2003,Fredonia St.,242,Brockport,78,11/16/2002,4,2,Away,"",-,0
-2003,Fredonia St.,242,Hobart,282,11/20/2002,1,2,Away,"",-,0
-2003,Fredonia St.,242,Buffalo St.,85,12/03/2002,6,0,Away,"",-,0
-2003,Fredonia St.,242,Plattsburgh St.,547,12/06/2002,5,2,Home,"",-,681
-2003,Fredonia St.,242,SUNY Potsdam,552,12/07/2002,2,1,Home,"",-,473
-2003,Fredonia St.,242,Neumann,1254,12/13/2002,5,1,Home,"",-,341
-2003,Fredonia St.,242,Neumann,1254,12/14/2002,10,0,Home,"",-,389
-2003,Fredonia St.,242,Rochester Inst.,580,01/15/2003,0,4,Away,"",-,0
-2003,Fredonia St.,242,Hobart,282,01/18/2003,1,4,Home,"",-,227
-2003,Fredonia St.,242,Utica,733,01/24/2003,1,4,Away,"",-,0
-2003,Fredonia St.,242,Oswego St.,530,01/31/2003,0,2,Away,"",-,0
-2003,Fredonia St.,242,SUNY Cortland,168,02/01/2003,6,4,Away,"",-,0
-2003,Fredonia St.,242,SUNY Geneseo,247,02/07/2003,2,1,Home,"",-,454
-2003,Fredonia St.,242,Brockport,78,02/08/2003,3,1,Home,"",-,703
-2003,Fredonia St.,242,Plattsburgh St.,547,02/14/2003,1,2,Away,"",-,0
-2003,Fredonia St.,242,SUNY Potsdam,552,02/15/2003,1,2,Away,"",-,0
-2003,Fredonia St.,242,Buffalo St.,85,02/18/2003,2,3,Home,"",-,378
-2003,Fredonia St.,242,Plattsburgh St.,547,02/28/2003,2,3,Home,"",1 OT,553
-2003,Fredonia St.,242,Plattsburgh St.,547,03/01/2003,2,5,Home,"",-,616
+2003,Fredonia,242,SUNY Potsdam,552,10/25/2002,1,4,Away,Potsdam St.,-,0
+2003,Fredonia,242,Buffalo St.,85,10/26/2002,4,1,Neutral,Potsdam St.,-,0
+2003,Fredonia,242,Hobart,282,11/01/2002,2,3,Neutral,Buffalo St.,-,0
+2003,Fredonia,242,Utica,733,11/02/2002,4,1,Neutral,Buffalo St.,-,0
+2003,Fredonia,242,Oswego St.,530,11/08/2002,3,2,Home,"",-,592
+2003,Fredonia,242,SUNY Cortland,168,11/09/2002,5,1,Home,"",-,553
+2003,Fredonia,242,SUNY Geneseo,247,11/15/2002,3,2,Away,"",-,0
+2003,Fredonia,242,Brockport,78,11/16/2002,4,2,Away,"",-,0
+2003,Fredonia,242,Hobart,282,11/20/2002,1,2,Away,"",-,0
+2003,Fredonia,242,Buffalo St.,85,12/03/2002,6,0,Away,"",-,0
+2003,Fredonia,242,Plattsburgh St.,547,12/06/2002,5,2,Home,"",-,681
+2003,Fredonia,242,SUNY Potsdam,552,12/07/2002,2,1,Home,"",-,473
+2003,Fredonia,242,Neumann,1254,12/13/2002,5,1,Home,"",-,341
+2003,Fredonia,242,Neumann,1254,12/14/2002,10,0,Home,"",-,389
+2003,Fredonia,242,Rochester Inst.,580,01/15/2003,0,4,Away,"",-,0
+2003,Fredonia,242,Hobart,282,01/18/2003,1,4,Home,"",-,227
+2003,Fredonia,242,Utica,733,01/24/2003,1,4,Away,"",-,0
+2003,Fredonia,242,Oswego St.,530,01/31/2003,0,2,Away,"",-,0
+2003,Fredonia,242,SUNY Cortland,168,02/01/2003,6,4,Away,"",-,0
+2003,Fredonia,242,SUNY Geneseo,247,02/07/2003,2,1,Home,"",-,454
+2003,Fredonia,242,Brockport,78,02/08/2003,3,1,Home,"",-,703
+2003,Fredonia,242,Plattsburgh St.,547,02/14/2003,1,2,Away,"",-,0
+2003,Fredonia,242,SUNY Potsdam,552,02/15/2003,1,2,Away,"",-,0
+2003,Fredonia,242,Buffalo St.,85,02/18/2003,2,3,Home,"",-,378
+2003,Fredonia,242,Plattsburgh St.,547,02/28/2003,2,3,Home,"",1 OT,553
+2003,Fredonia,242,Plattsburgh St.,547,03/01/2003,2,5,Home,"",-,616
 2003,Gust. Adolphus,266,St. Thomas (MN),620,11/02/2002,2,3,Home,"",-,850
 2003,Gust. Adolphus,266,St. Thomas (MN),620,11/03/2002,1,2,Away,"",-,200
 2003,Gust. Adolphus,266,Augsburg,38,11/09/2002,2,3,Home,"",1 OT,786
@@ -1147,8 +1113,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2003,Maine,380,Massachusetts,400,12/29/2002,8,3,Neutral,"Estero, Fla.",-,"6,004"
 2003,Maine,380,Providence,556,01/03/2003,2,4,Away,"",-,"1,242"
 2003,Maine,380,Mass.-Lowell,368,01/04/2003,5,2,Away,"",-,"3,493"
-2003,Maine,380,Northeastern,500,01/11/2003,3,1,Home,"",-,"4,955"
 2003,Maine,380,Northeastern,500,01/11/2003,7,1,Home,"",-,"4,934"
+2003,Maine,380,Northeastern,500,01/11/2003,3,1,Home,"",-,"4,955"
 2003,Maine,380,Merrimack,410,01/17/2003,5,5,Away,"",1 OT,"2,892"
 2003,Maine,380,Merrimack,410,01/18/2003,2,1,Away,"",-,"2,933"
 2003,Maine,380,Mass.-Lowell,368,01/24/2003,3,2,Home,"",-,"5,441"
@@ -1219,58 +1185,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2003,Marian (WI),1196,Minn.-Crookston,27854,02/15/2003,1,3,Home,"",-,163
 2003,Marian (WI),1196,Lawrence,348,02/22/2003,3,2,Neutral,"Crookston, MN",1 OT,0
 2003,Marian (WI),1196,Minn.-Crookston,27854,02/23/2003,1,2,Away,"",-,0
-2003,Mass. Liberal Arts,486,Lake Superior St.,345,10/18/2002,2,3,Away,"",-,"2,174"
-2003,Mass. Liberal Arts,486,Lake Superior St.,345,10/19/2002,1,3,Away,"",-,"2,751"
-2003,Mass. Liberal Arts,486,American Int'l,22,10/25/2002,8,2,Home,"",-,479
-2003,Mass. Liberal Arts,486,Quinnipiac,562,10/26/2002,3,3,Home,"",1 OT,410
-2003,Mass. Liberal Arts,486,Maine,380,11/01/2002,0,5,Away,"",-,"4,565"
-2003,Mass. Liberal Arts,486,Maine,380,11/02/2002,0,7,Away,"",-,"4,778"
-2003,Mass. Liberal Arts,486,Fairfield,220,11/08/2002,6,1,Away,"",-,357
-2003,Mass. Liberal Arts,486,Connecticut,164,11/09/2002,6,2,Away,"",-,989
-2003,Mass. Liberal Arts,486,Army,725,11/15/2002,5,3,Home,"",-,623
-2003,Mass. Liberal Arts,486,Iona,310,11/16/2002,4,5,Home,"",-1 OT,0
-2003,Mass. Liberal Arts,486,Bridgewater St.,76,01/20/12803,25,60,Away,"",-1 OT,0
-2003,Mass. Liberal Arts,486,Worcester St.,809,01/25/12803,46,71,Away,"",-1 OT,0
-2003,Mass. Liberal Arts,486,Salem St.,621,01/28/12803,36,85,Home,"",-1 OT,0
-2003,Mass. Liberal Arts,486,Fitchburg St.,227,01/30/12803,39,77,Home,"",-1 OT,0
-2003,Mass. Liberal Arts,486,Westfield St.,777,02/01/12803,40,73,Home,"",-1 OT,0
-2003,Mass. Liberal Arts,486,Felician,23157,03/01/12803,74,70,Neutral,"Caldwell, NJ Newman Cent",-1 OT,280
-2003,Mass.-Lowell,368,Colorado Col.,154,10/11/2002,4,6,Away,"",-,"6,642"
-2003,Mass.-Lowell,368,Colorado Col.,154,10/12/2002,4,1,Away,"",-,"6,081"
-2003,Mass.-Lowell,368,Rensselaer,570,10/18/2002,8,4,Away,"",-,"3,452"
-2003,Mass.-Lowell,368,Niagara,482,10/20/2002,4,3,Away,"",-,807
-2003,Mass.-Lowell,368,Providence,556,10/25/2002,5,6,Away,"",1 OT,"1,975"
-2003,Mass.-Lowell,368,Boston College,67,10/26/2002,3,4,Home,"",-,"3,236"
-2003,Mass.-Lowell,368,Union (NY),727,11/01/2002,3,2,Home,"",-,"1,541"
-2003,Mass.-Lowell,368,New Hampshire,469,11/08/2002,3,4,Away,"",-,"6,501"
-2003,Mass.-Lowell,368,New Hampshire,469,11/09/2002,2,6,Home,"",-,"4,861"
-2003,Mass.-Lowell,368,Massachusetts,400,11/15/2002,3,6,Away,"",-,"2,249"
-2003,Mass.-Lowell,368,Massachusetts,400,11/16/2002,3,4,Home,"",-,"2,194"
-2003,Mass.-Lowell,368,Boston U.,68,11/21/2002,2,3,Away,"",-,"2,252"
-2003,Mass.-Lowell,368,St. Lawrence,607,12/06/2002,3,2,Home,"",-,"1,735"
-2003,Mass.-Lowell,368,Clarkson,146,12/07/2002,3,0,Home,"",-,"1,914"
-2003,Mass.-Lowell,368,Vermont,738,12/28/2002,5,0,Neutral,"Hanover, N.H.",-,"2,500"
-2003,Mass.-Lowell,368,Dartmouth,172,12/29/2002,2,10,Away,"",-,"3,537"
-2003,Mass.-Lowell,368,Brown,80,01/03/2003,3,3,Away,"",1 OT,956
-2003,Mass.-Lowell,368,Maine,380,01/04/2003,2,5,Home,"",-,"3,493"
-2003,Mass.-Lowell,368,Merrimack,410,01/07/2003,6,5,Home,"",-,"1,840"
-2003,Mass.-Lowell,368,Boston College,67,01/10/2003,3,6,Away,"",-,"5,509"
-2003,Mass.-Lowell,368,Boston College,67,01/11/2003,1,7,Home,"",-,"4,637"
-2003,Mass.-Lowell,368,Northeastern,500,01/17/2003,1,4,Home,"",-,"2,208"
-2003,Mass.-Lowell,368,Northeastern,500,01/18/2003,3,2,Away,"",1 OT,"1,637"
-2003,Mass.-Lowell,368,Maine,380,01/24/2003,2,3,Away,"",-,"5,441"
-2003,Mass.-Lowell,368,Maine,380,01/25/2003,4,4,Away,"",1 OT,"5,362"
-2003,Mass.-Lowell,368,Merrimack,410,02/04/2003,1,1,Away,"",1 OT,"1,117"
-2003,Mass.-Lowell,368,Providence,556,02/07/2003,1,6,Home,"",-,"1,799"
-2003,Mass.-Lowell,368,Massachusetts,400,02/08/2003,3,2,Away,"",-,"2,867"
-2003,Mass.-Lowell,368,Boston U.,68,02/14/2003,3,5,Home,"",-,"2,230"
-2003,Mass.-Lowell,368,Boston U.,68,02/15/2003,1,2,Away,"",-,"2,952"
-2003,Mass.-Lowell,368,New Hampshire,469,02/21/2003,4,4,Home,"",1 OT,"5,254"
-2003,Mass.-Lowell,368,Merrimack,410,02/25/2003,2,2,Home,"",1 OT,"3,932"
-2003,Mass.-Lowell,368,Providence,556,02/28/2003,1,3,Away,"",-,"2,103"
-2003,Mass.-Lowell,368,Northeastern,500,03/01/2003,4,1,Home,"",-,"3,934"
-2003,Mass.-Lowell,368,New Hampshire,469,03/07/2003,4,8,Away,"",-,"6,501"
-2003,Mass.-Lowell,368,New Hampshire,469,03/08/2003,4,8,Away,"",-,"6,501"
 2003,Massachusetts,400,Boston College,67,10/13/2002,0,6,Home,"",-,"3,092"
 2003,Massachusetts,400,Rensselaer,570,10/20/2002,4,3,Home,"",-,"1,587"
 2003,Massachusetts,400,Neb. Omaha,464,10/27/2002,2,3,Home,"",1 OT,"1,071"
@@ -1308,6 +1222,22 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2003,Massachusetts,400,Maine,380,03/06/2003,5,3,Away,"",-,"3,500"
 2003,Massachusetts,400,Maine,380,03/07/2003,4,2,Away,"",-,"4,100"
 2003,Massachusetts,400,New Hampshire,469,03/14/2003,4,5,Neutral,"Boston, Mass.",-,"17,565"
+2003,MCLA,486,Lake Superior St.,345,10/18/2002,2,3,Away,"",-,"2,174"
+2003,MCLA,486,Lake Superior St.,345,10/19/2002,1,3,Away,"",-,"2,751"
+2003,MCLA,486,American Int'l,22,10/25/2002,8,2,Home,"",-,479
+2003,MCLA,486,Quinnipiac,562,10/26/2002,3,3,Home,"",1 OT,410
+2003,MCLA,486,Maine,380,11/01/2002,0,5,Away,"",-,"4,565"
+2003,MCLA,486,Maine,380,11/02/2002,0,7,Away,"",-,"4,778"
+2003,MCLA,486,Fairfield,220,11/08/2002,6,1,Away,"",-,357
+2003,MCLA,486,Connecticut,164,11/09/2002,6,2,Away,"",-,989
+2003,MCLA,486,Army,725,11/15/2002,5,3,Home,"",-,623
+2003,MCLA,486,Iona,310,11/16/2002,4,5,Home,"",-1 OT,0
+2003,MCLA,486,Bridgewater St.,76,01/20/12803,25,60,Away,"",-1 OT,0
+2003,MCLA,486,Worcester St.,809,01/25/12803,46,71,Away,"",-1 OT,0
+2003,MCLA,486,Salem St.,621,01/28/12803,36,85,Home,"",-1 OT,0
+2003,MCLA,486,Fitchburg St.,227,01/30/12803,39,77,Home,"",-1 OT,0
+2003,MCLA,486,Westfield St.,777,02/01/12803,40,73,Home,"",-1 OT,0
+2003,MCLA,486,Felician,23157,03/01/12803,74,70,Neutral,"Caldwell, NJ Newman Cent",-1 OT,280
 2003,Mercyhurst,408,Lake Superior St.,345,10/18/2002,2,3,Away,"",-,"2,174"
 2003,Mercyhurst,408,Lake Superior St.,345,10/19/2002,1,3,Away,"",-,"2,751"
 2003,Mercyhurst,408,American Int'l,22,10/25/2002,8,2,Home,"",-,479
@@ -2116,6 +2046,59 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2003,Sacred Heart,590,Fairfield,220,03/06/2003,4,3,Home,"",1 OT,0
 2003,Sacred Heart,590,Connecticut,164,03/08/2003,5,2,Away,"",-,"1,305"
 2003,Sacred Heart,590,Bentley,56,03/15/2003,0,2,Home,"",-,557
+2003,Saint John's (MN),602,Augsburg,38,11/01/2002,5,0,Away,"",-,350
+2003,Saint John's (MN),602,Augsburg,38,11/02/2002,6,4,Home,"",-,114
+2003,Saint John's (MN),602,Wis.-Eau Claire,793,11/15/2002,8,1,Away,"",-,100
+2003,Saint John's (MN),602,Wis.-Stevens Point,802,11/16/2002,1,4,Away,"",-,725
+2003,Saint John's (MN),602,Gust. Adolphus,266,11/22/2002,2,1,Away,"",1 OT,725
+2003,Saint John's (MN),602,Gust. Adolphus,266,11/23/2002,6,5,Home,"",-,75
+2003,Saint John's (MN),602,Lawrence,348,11/30/2002,4,2,Home,"",-,165
+2003,Saint John's (MN),602,Lawrence,348,12/01/2002,8,3,Home,"",-,125
+2003,Saint John's (MN),602,St. Scholastica,618,12/06/2002,4,3,Home,"",-,251
+2003,Saint John's (MN),602,Wis.-Superior,804,12/07/2002,2,4,Home,"",-,248
+2003,Saint John's (MN),602,Wis.-River Falls,801,12/14/2002,2,1,Away,"",-,672
+2003,Saint John's (MN),602,St. Norbert,614,01/03/2003,2,11,Away,"",-,"1,174"
+2003,Saint John's (MN),602,Lake Forest,344,01/04/2003,1,6,Away,"",-,114
+2003,Saint John's (MN),602,Concordia-M'head,161,01/10/2003,9,3,Away,"",-,900
+2003,Saint John's (MN),602,Concordia-M'head,161,01/11/2003,5,4,Away,"",1 OT,300
+2003,Saint John's (MN),602,Hamline,268,01/16/2003,5,5,Home,"",1 OT,125
+2003,Saint John's (MN),602,Hamline,268,01/17/2003,3,1,Away,"",-,207
+2003,Saint John's (MN),602,Saint Mary's (MN),612,01/25/2003,5,3,Home,"",-,227
+2003,Saint John's (MN),602,Saint Mary's (MN),612,01/26/2003,3,2,Home,"",-,205
+2003,Saint John's (MN),602,St. Olaf,615,01/31/2003,5,4,Away,"",-,0
+2003,Saint John's (MN),602,St. Olaf,615,02/01/2003,3,4,Home,"",-,215
+2003,Saint John's (MN),602,Bethel (MN),60,02/07/2003,8,1,Away,"",-,130
+2003,Saint John's (MN),602,Bethel (MN),60,02/08/2003,5,6,Home,"",-,211
+2003,Saint John's (MN),602,St. Thomas (MN),620,02/13/2003,3,2,Home,"",1 OT,"1,156"
+2003,Saint John's (MN),602,St. Thomas (MN),620,02/14/2003,3,2,Away,"",-,567
+2003,Saint John's (MN),602,Gust. Adolphus,266,02/28/2003,4,2,Neutral,"Bloomington, MN",-,937
+2003,Saint John's (MN),602,St. Thomas (MN),620,03/01/2003,4,3,Neutral,"Bloomington, MN",1 OT,"1,106"
+2003,Saint John's (MN),602,Wis.-River Falls,801,03/12/2003,0,2,Away,"",-,910
+2003,Saint Mary's (MN),612,Finlandia,,11/01/2002,9,3,Home,"",-,622
+2003,Saint Mary's (MN),612,Finlandia,,11/02/2002,6,3,Home,"",-,513
+2003,Saint Mary's (MN),612,St. Olaf,615,11/08/2002,4,5,Away,"",-,0
+2003,Saint Mary's (MN),612,St. Olaf,615,11/09/2002,4,1,Home,"",-,712
+2003,Saint Mary's (MN),612,St. Scholastica,618,11/15/2002,7,3,Away,"",-,212
+2003,Saint Mary's (MN),612,Wis.-Superior,804,11/16/2002,3,6,Away,"",-,732
+2003,Saint Mary's (MN),612,Bethel (MN),60,11/22/2002,4,2,Home,"",-,611
+2003,Saint Mary's (MN),612,Bethel (MN),60,11/23/2002,4,2,Away,"",-,150
+2003,Saint Mary's (MN),612,Wis.-Stout,803,11/26/2002,6,2,Home,"",-,310
+2003,Saint Mary's (MN),612,Northland,1267,12/03/2002,5,1,Home,"",-,432
+2003,Saint Mary's (MN),612,Wis.-River Falls,801,12/07/2002,4,5,Home,"",-,"1,059"
+2003,Saint Mary's (MN),612,Wis.-Eau Claire,793,01/04/2003,6,2,Away,"",-,108
+2003,Saint Mary's (MN),612,Wis.-Stevens Point,802,01/05/2003,2,2,Away,"",1 OT,364
+2003,Saint Mary's (MN),612,St. Thomas (MN),620,01/10/2003,1,6,Home,"",-,924
+2003,Saint Mary's (MN),612,St. Thomas (MN),620,01/11/2003,0,5,Away,"",-,200
+2003,Saint Mary's (MN),612,Augsburg,38,01/17/2003,3,6,Away,"",-,223
+2003,Saint Mary's (MN),612,Augsburg,38,01/18/2003,2,3,Home,"",-,613
+2003,Saint Mary's (MN),612,Saint John's (MN),602,01/25/2003,3,5,Away,"",-,227
+2003,Saint Mary's (MN),612,Saint John's (MN),602,01/26/2003,2,3,Away,"",-,205
+2003,Saint Mary's (MN),612,Gust. Adolphus,266,01/31/2003,4,3,Home,"",-,717
+2003,Saint Mary's (MN),612,Gust. Adolphus,266,02/01/2003,2,5,Away,"",-,391
+2003,Saint Mary's (MN),612,Concordia-M'head,161,02/07/2003,3,4,Home,"",-,933
+2003,Saint Mary's (MN),612,Concordia-M'head,161,02/08/2003,5,4,Home,"",1 OT,562
+2003,Saint Mary's (MN),612,Hamline,268,02/14/2003,4,7,Home,"",-,317
+2003,Saint Mary's (MN),612,Hamline,268,02/15/2003,5,6,Away,"",-,300
 2003,Skidmore,642,Middlebury,420,11/22/2002,3,4,Away,"",-,"1,855"
 2003,Skidmore,642,Williams,789,11/23/2002,0,5,Away,"",-,500
 2003,Skidmore,642,Salve Regina,623,11/26/2002,6,4,Away,"",-,50
@@ -2204,34 +2187,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2003,St. Cloud St.,598,New Hampshire,469,03/28/2003,2,5,Neutral,"Worcester, Mass.",-,"9,024"
 2003,St. Cloud St.,598,Rensselaer,570,11/02/2003,1,3,Home,"",-,"6,012"
 2003,St. Cloud St.,598,Minn. Duluth,427,11/22/2003,3,2,Away,"",-,"3,922"
-2003,St. Johns (MN),602,Augsburg,38,11/01/2002,5,0,Away,"",-,350
-2003,St. Johns (MN),602,Augsburg,38,11/02/2002,6,4,Home,"",-,114
-2003,St. Johns (MN),602,Wis.-Eau Claire,793,11/15/2002,8,1,Away,"",-,100
-2003,St. Johns (MN),602,Wis.-Stevens Point,802,11/16/2002,1,4,Away,"",-,725
-2003,St. Johns (MN),602,Gust. Adolphus,266,11/22/2002,2,1,Away,"",1 OT,725
-2003,St. Johns (MN),602,Gust. Adolphus,266,11/23/2002,6,5,Home,"",-,75
-2003,St. Johns (MN),602,Lawrence,348,11/30/2002,4,2,Home,"",-,165
-2003,St. Johns (MN),602,Lawrence,348,12/01/2002,8,3,Home,"",-,125
-2003,St. Johns (MN),602,St. Scholastica,618,12/06/2002,4,3,Home,"",-,251
-2003,St. Johns (MN),602,Wis.-Superior,804,12/07/2002,2,4,Home,"",-,248
-2003,St. Johns (MN),602,Wis.-River Falls,801,12/14/2002,2,1,Away,"",-,672
-2003,St. Johns (MN),602,St. Norbert,614,01/03/2003,2,11,Away,"",-,"1,174"
-2003,St. Johns (MN),602,Lake Forest,344,01/04/2003,1,6,Away,"",-,114
-2003,St. Johns (MN),602,Concordia-M'head,161,01/10/2003,9,3,Away,"",-,900
-2003,St. Johns (MN),602,Concordia-M'head,161,01/11/2003,5,4,Away,"",1 OT,300
-2003,St. Johns (MN),602,Hamline,268,01/16/2003,5,5,Home,"",1 OT,125
-2003,St. Johns (MN),602,Hamline,268,01/17/2003,3,1,Away,"",-,207
-2003,St. Johns (MN),602,Saint Mary's (MN),612,01/25/2003,5,3,Home,"",-,227
-2003,St. Johns (MN),602,Saint Mary's (MN),612,01/26/2003,3,2,Home,"",-,205
-2003,St. Johns (MN),602,St. Olaf,615,01/31/2003,5,4,Away,"",-,0
-2003,St. Johns (MN),602,St. Olaf,615,02/01/2003,3,4,Home,"",-,215
-2003,St. Johns (MN),602,Bethel (MN),60,02/07/2003,8,1,Away,"",-,130
-2003,St. Johns (MN),602,Bethel (MN),60,02/08/2003,5,6,Home,"",-,211
-2003,St. Johns (MN),602,St. Thomas (MN),620,02/13/2003,3,2,Home,"",1 OT,"1,156"
-2003,St. Johns (MN),602,St. Thomas (MN),620,02/14/2003,3,2,Away,"",-,567
-2003,St. Johns (MN),602,Gust. Adolphus,266,02/28/2003,4,2,Neutral,"Bloomington, MN",-,937
-2003,St. Johns (MN),602,St. Thomas (MN),620,03/01/2003,4,3,Neutral,"Bloomington, MN",1 OT,"1,106"
-2003,St. Johns (MN),602,Wis.-River Falls,801,03/12/2003,0,2,Away,"",-,910
 2003,St. Lawrence,607,Miami (OH),414,10/11/2002,2,5,Away,"",-,"2,322"
 2003,St. Lawrence,607,Miami (OH),414,10/12/2002,5,3,Away,"",-,"2,403"
 2003,St. Lawrence,607,Michigan Tech,417,10/18/2002,1,7,Home,"",-,"2,378"
@@ -2269,31 +2224,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2003,St. Lawrence,607,Colgate,153,03/07/2003,2,1,Away,"",-,"2,087"
 2003,St. Lawrence,607,Colgate,153,03/08/2003,2,3,Away,"",1 OT,"2,007"
 2003,St. Lawrence,607,Colgate,153,03/09/2003,2,5,Away,"",-,"2,246"
-2003,St. Marys (MN),612,Finlandia,,11/01/2002,9,3,Home,"",-,622
-2003,St. Marys (MN),612,Finlandia,,11/02/2002,6,3,Home,"",-,513
-2003,St. Marys (MN),612,St. Olaf,615,11/08/2002,4,5,Away,"",-,0
-2003,St. Marys (MN),612,St. Olaf,615,11/09/2002,4,1,Home,"",-,712
-2003,St. Marys (MN),612,St. Scholastica,618,11/15/2002,7,3,Away,"",-,212
-2003,St. Marys (MN),612,Wis.-Superior,804,11/16/2002,3,6,Away,"",-,732
-2003,St. Marys (MN),612,Bethel (MN),60,11/22/2002,4,2,Home,"",-,611
-2003,St. Marys (MN),612,Bethel (MN),60,11/23/2002,4,2,Away,"",-,150
-2003,St. Marys (MN),612,Wis.-Stout,803,11/26/2002,6,2,Home,"",-,310
-2003,St. Marys (MN),612,Northland,1267,12/03/2002,5,1,Home,"",-,432
-2003,St. Marys (MN),612,Wis.-River Falls,801,12/07/2002,4,5,Home,"",-,"1,059"
-2003,St. Marys (MN),612,Wis.-Eau Claire,793,01/04/2003,6,2,Away,"",-,108
-2003,St. Marys (MN),612,Wis.-Stevens Point,802,01/05/2003,2,2,Away,"",1 OT,364
-2003,St. Marys (MN),612,St. Thomas (MN),620,01/10/2003,1,6,Home,"",-,924
-2003,St. Marys (MN),612,St. Thomas (MN),620,01/11/2003,0,5,Away,"",-,200
-2003,St. Marys (MN),612,Augsburg,38,01/17/2003,3,6,Away,"",-,223
-2003,St. Marys (MN),612,Augsburg,38,01/18/2003,2,3,Home,"",-,613
-2003,St. Marys (MN),612,Saint John's (MN),602,01/25/2003,3,5,Away,"",-,227
-2003,St. Marys (MN),612,Saint John's (MN),602,01/26/2003,2,3,Away,"",-,205
-2003,St. Marys (MN),612,Gust. Adolphus,266,01/31/2003,4,3,Home,"",-,717
-2003,St. Marys (MN),612,Gust. Adolphus,266,02/01/2003,2,5,Away,"",-,391
-2003,St. Marys (MN),612,Concordia-M'head,161,02/07/2003,3,4,Home,"",-,933
-2003,St. Marys (MN),612,Concordia-M'head,161,02/08/2003,5,4,Home,"",1 OT,562
-2003,St. Marys (MN),612,Hamline,268,02/14/2003,4,7,Home,"",-,317
-2003,St. Marys (MN),612,Hamline,268,02/15/2003,5,6,Away,"",-,300
 2003,St. Norbert,614,Marian (WI),1196,10/22/2002,3,1,Away,"",-,359
 2003,St. Norbert,614,Elmira,213,10/25/2002,6,2,Home,"",-,"1,015"
 2003,St. Norbert,614,Elmira,213,10/26/2002,8,2,Home,"",-,876
@@ -2426,8 +2356,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2003,Suffolk,684,Southern N.H.,468,02/24/2003,2,6,Away,"",-,0
 2003,SUNY Cortland,168,Buffalo St.,85,10/25/2002,4,4,Neutral,"Potsdam, NY",1 OT,200
 2003,SUNY Cortland,168,SUNY Potsdam,552,10/26/2002,1,5,Away,"",-,200
-2003,SUNY Cortland,168,Buffalo St.,85,11/08/2002,5,1,Away,"",-,234
 2003,SUNY Cortland,168,Fredonia St.,242,11/08/2002,1,5,Away,"",-,553
+2003,SUNY Cortland,168,Buffalo St.,85,11/08/2002,5,1,Away,"",-,234
 2003,SUNY Cortland,168,Hobart,282,11/12/2002,5,2,Home,"",-,238
 2003,SUNY Cortland,168,Plattsburgh St.,547,11/15/2002,4,3,Home,"",-,522
 2003,SUNY Cortland,168,SUNY Potsdam,552,11/16/2002,4,8,Home,"",-,336
@@ -2532,6 +2462,76 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2003,Trinity (CT),713,Colby,151,03/07/2003,3,2,Neutral,Middlebury College,1 OT,"2,500"
 2003,Trinity (CT),713,Middlebury,420,03/08/2003,4,2,Away,"",-,"3,000"
 2003,Trinity (CT),713,Norwich,511,03/15/2003,4,5,Away,"",-,"3,000"
+2003,UConn,164,Northeastern,500,10/11/2002,1,10,Away,"",-,"2,849"
+2003,UConn,164,Holy Cross,285,10/13/2002,2,3,Home,"",-,722
+2003,UConn,164,Colgate,153,10/19/2002,5,4,Away,"",1 OT,"1,947"
+2003,UConn,164,Quinnipiac,562,11/01/2002,4,7,Home,"",-,832
+2003,UConn,164,Fairfield,220,11/02/2002,2,2,Away,"",1 OT,457
+2003,UConn,164,Canisius,116,11/08/2002,1,3,Home,"",-,905
+2003,UConn,164,Mercyhurst,408,11/09/2002,2,6,Home,"",-,989
+2003,UConn,164,Sacred Heart,590,11/15/2002,3,6,Neutral,"Bridgeport, CT",-,600
+2003,UConn,164,Sacred Heart,590,11/16/2002,3,1,Home,"",-,"1,175"
+2003,UConn,164,Holy Cross,285,11/22/2002,3,2,Away,"",-,500
+2003,UConn,164,Union (NY),727,11/24/2002,0,8,Away,"",-,"1,196"
+2003,UConn,164,New Hampshire,469,11/30/2002,1,3,Away,"",-,"6,009"
+2003,UConn,164,Army,725,12/06/2002,3,0,Home,"",-,"1,151"
+2003,UConn,164,American Int'l,22,12/07/2002,5,6,Home,"",-,"1,017"
+2003,UConn,164,Findlay,1079,12/29/2002,1,4,Home,"",-,"1,202"
+2003,UConn,164,Ferris St.,224,12/30/2002,0,5,Home,"",-,808
+2003,UConn,164,Mercyhurst,408,01/03/2003,4,4,Away,"",1 OT,300
+2003,UConn,164,Mercyhurst,408,01/04/2003,1,3,Away,"",-,286
+2003,UConn,164,Fairfield,220,01/10/2003,5,4,Home,"",-,890
+2003,UConn,164,Fairfield,220,01/11/2003,2,3,Home,"",1 OT,"1,056"
+2003,UConn,164,Canisius,116,01/17/2003,3,3,Away,"",1 OT,515
+2003,UConn,164,Canisius,116,01/18/2003,2,5,Away,"",-,728
+2003,UConn,164,Army,725,01/24/2003,6,4,Away,"",-,"2,752"
+2003,UConn,164,Yale,813,01/25/2003,3,4,Away,"",-,"3,486"
+2003,UConn,164,Iona,310,02/07/2003,2,5,Home,"",-,"1,001"
+2003,UConn,164,Iona,310,02/08/2003,2,4,Away,"",-,802
+2003,UConn,164,Massachusetts,400,02/14/2003,6,8,Away,"",-,"1,918"
+2003,UConn,164,American Int'l,22,02/16/2003,3,8,Away,"",-,300
+2003,UConn,164,Bentley,56,02/21/2003,1,4,Home,"",-,850
+2003,UConn,164,Bentley,56,02/22/2003,5,3,Away,"",-,400
+2003,UConn,164,Quinnipiac,562,02/28/2003,5,4,Home,"",-,"1,105"
+2003,UConn,164,Quinnipiac,562,03/01/2003,3,4,Neutral,"New York, N.Y.",-,"2,115"
+2003,UConn,164,Iona,310,03/06/2003,0,3,Neutral,"Bridgeport, CT",-,517
+2003,UConn,164,Canisius,116,03/08/2003,2,5,Home,"",-,"1,305"
+2003,UMass Lowell,368,Colorado Col.,154,10/11/2002,4,6,Away,"",-,"6,642"
+2003,UMass Lowell,368,Colorado Col.,154,10/12/2002,4,1,Away,"",-,"6,081"
+2003,UMass Lowell,368,Rensselaer,570,10/18/2002,8,4,Away,"",-,"3,452"
+2003,UMass Lowell,368,Niagara,482,10/20/2002,4,3,Away,"",-,807
+2003,UMass Lowell,368,Providence,556,10/25/2002,5,6,Away,"",1 OT,"1,975"
+2003,UMass Lowell,368,Boston College,67,10/26/2002,3,4,Home,"",-,"3,236"
+2003,UMass Lowell,368,Union (NY),727,11/01/2002,3,2,Home,"",-,"1,541"
+2003,UMass Lowell,368,New Hampshire,469,11/08/2002,3,4,Away,"",-,"6,501"
+2003,UMass Lowell,368,New Hampshire,469,11/09/2002,2,6,Home,"",-,"4,861"
+2003,UMass Lowell,368,Massachusetts,400,11/15/2002,3,6,Away,"",-,"2,249"
+2003,UMass Lowell,368,Massachusetts,400,11/16/2002,3,4,Home,"",-,"2,194"
+2003,UMass Lowell,368,Boston U.,68,11/21/2002,2,3,Away,"",-,"2,252"
+2003,UMass Lowell,368,St. Lawrence,607,12/06/2002,3,2,Home,"",-,"1,735"
+2003,UMass Lowell,368,Clarkson,146,12/07/2002,3,0,Home,"",-,"1,914"
+2003,UMass Lowell,368,Vermont,738,12/28/2002,5,0,Neutral,"Hanover, N.H.",-,"2,500"
+2003,UMass Lowell,368,Dartmouth,172,12/29/2002,2,10,Away,"",-,"3,537"
+2003,UMass Lowell,368,Brown,80,01/03/2003,3,3,Away,"",1 OT,956
+2003,UMass Lowell,368,Maine,380,01/04/2003,2,5,Home,"",-,"3,493"
+2003,UMass Lowell,368,Merrimack,410,01/07/2003,6,5,Home,"",-,"1,840"
+2003,UMass Lowell,368,Boston College,67,01/10/2003,3,6,Away,"",-,"5,509"
+2003,UMass Lowell,368,Boston College,67,01/11/2003,1,7,Home,"",-,"4,637"
+2003,UMass Lowell,368,Northeastern,500,01/17/2003,1,4,Home,"",-,"2,208"
+2003,UMass Lowell,368,Northeastern,500,01/18/2003,3,2,Away,"",1 OT,"1,637"
+2003,UMass Lowell,368,Maine,380,01/24/2003,2,3,Away,"",-,"5,441"
+2003,UMass Lowell,368,Maine,380,01/25/2003,4,4,Away,"",1 OT,"5,362"
+2003,UMass Lowell,368,Merrimack,410,02/04/2003,1,1,Away,"",1 OT,"1,117"
+2003,UMass Lowell,368,Providence,556,02/07/2003,1,6,Home,"",-,"1,799"
+2003,UMass Lowell,368,Massachusetts,400,02/08/2003,3,2,Away,"",-,"2,867"
+2003,UMass Lowell,368,Boston U.,68,02/14/2003,3,5,Home,"",-,"2,230"
+2003,UMass Lowell,368,Boston U.,68,02/15/2003,1,2,Away,"",-,"2,952"
+2003,UMass Lowell,368,New Hampshire,469,02/21/2003,4,4,Home,"",1 OT,"5,254"
+2003,UMass Lowell,368,Merrimack,410,02/25/2003,2,2,Home,"",1 OT,"3,932"
+2003,UMass Lowell,368,Providence,556,02/28/2003,1,3,Away,"",-,"2,103"
+2003,UMass Lowell,368,Northeastern,500,03/01/2003,4,1,Home,"",-,"3,934"
+2003,UMass Lowell,368,New Hampshire,469,03/07/2003,4,8,Away,"",-,"6,501"
+2003,UMass Lowell,368,New Hampshire,469,03/08/2003,4,8,Away,"",-,"6,501"
 2003,Union (NY),727,Providence,556,10/11/2002,2,5,Away,"",-,"1,626"
 2003,Union (NY),727,Merrimack,410,10/12/2002,4,4,Away,"",1 OT,"1,056"
 2003,Union (NY),727,Niagara,482,10/18/2002,5,2,Home,"",-,"1,728"
@@ -2669,35 +2669,35 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2003,Wayne St. (MI),757,Niagara,482,03/15/2003,6,4,Neutral,"Kearney, Neb.",-,"1,161"
 2003,Wayne St. (MI),757,Bemidji St.,54,03/16/2003,3,2,Neutral,"Kearney, Neb.",-,"1,685"
 2003,Wayne St. (MI),757,Colorado Col.,154,03/29/2003,2,4,Neutral,"Ann Arbor, Mich.",-,"6,798"
-2003,Wentworth Inst.,762,Western New Eng.,775,11/05/2002,6,1,Away,"",-,185
-2003,Wentworth Inst.,762,Stonehill,682,11/09/2002,5,2,Home,"",-,500
-2003,Wentworth Inst.,762,Worcester St.,809,11/12/2002,7,3,Home,"",-,250
-2003,Wentworth Inst.,762,Suffolk,684,11/19/2002,1,1,Away,"",1 OT,200
-2003,Wentworth Inst.,762,Utica,733,11/23/2002,5,1,Home,"",-,275
-2003,Wentworth Inst.,762,Rochester Inst.,580,11/24/2002,2,2,Home,"",1 OT,275
-2003,Wentworth Inst.,762,Amherst,24,11/30/2002,10,0,Away,"",-,57
-2003,Wentworth Inst.,762,Oswego St.,530,12/01/2002,1,5,Neutral,"Amherst, Mass.",-,50
-2003,Wentworth Inst.,762,Assumption,36,12/07/2002,4,3,Away,"",-,250
-2003,Wentworth Inst.,762,Salem St.,621,01/04/2003,5,2,Home,"",-,150
-2003,Wentworth Inst.,762,Wesleyan (CT),764,01/07/2003,8,0,Away,"",-,50
-2003,Wentworth Inst.,762,SUNY Cortland,168,01/10/2003,5,4,Away,"",-,147
-2003,Wentworth Inst.,762,Oswego St.,530,01/11/2003,1,9,Away,"",-,316
-2003,Wentworth Inst.,762,Fitchburg St.,227,01/15/2003,9,0,Home,"",-,300
-2003,Wentworth Inst.,762,Franklin Pierce,241,01/22/2003,10,0,Home,"",-,250
-2003,Wentworth Inst.,762,Curry,170,01/25/2003,2,4,Home,"",-,300
-2003,Wentworth Inst.,762,Salve Regina,623,01/29/2003,5,3,Away,"",-,129
-2003,Wentworth Inst.,762,Plymouth St.,548,02/01/2003,10,0,Home,"",-,500
-2003,Wentworth Inst.,762,Nichols,484,02/04/2003,11,1,Home,"",-,375
-2003,Wentworth Inst.,762,Lebanon Valley,351,02/07/2003,3,2,Away,"",-,587
-2003,Wentworth Inst.,762,Manhattanville,382,02/08/2003,1,3,Away,"",-,682
-2003,Wentworth Inst.,762,Mass.-Dartmouth,656,02/13/2003,7,2,Home,"",-,325
-2003,Wentworth Inst.,762,Southern N.H.,468,02/15/2003,4,4,Away,"",1 OT,278
-2003,Wentworth Inst.,762,Framingham St.,238,02/22/2003,13,0,Away,"",-,90
-2003,Wentworth Inst.,762,Johnson & Wales (RI),22626,02/23/2003,4,0,Home,"",-,400
-2003,Wentworth Inst.,762,Worcester St.,809,03/01/2003,1,0,Home,"",-,400
-2003,Wentworth Inst.,762,Fitchburg St.,227,03/05/2003,5,1,Home,"",-,400
-2003,Wentworth Inst.,762,Lebanon Valley,351,03/08/2003,5,1,Home,"",-,500
-2003,Wentworth Inst.,762,Oswego St.,530,03/15/2003,3,4,Away,"",-,"1,728"
+2003,Wentworth,762,Western New Eng.,775,11/05/2002,6,1,Away,"",-,185
+2003,Wentworth,762,Stonehill,682,11/09/2002,5,2,Home,"",-,500
+2003,Wentworth,762,Worcester St.,809,11/12/2002,7,3,Home,"",-,250
+2003,Wentworth,762,Suffolk,684,11/19/2002,1,1,Away,"",1 OT,200
+2003,Wentworth,762,Utica,733,11/23/2002,5,1,Home,"",-,275
+2003,Wentworth,762,Rochester Inst.,580,11/24/2002,2,2,Home,"",1 OT,275
+2003,Wentworth,762,Amherst,24,11/30/2002,10,0,Away,"",-,57
+2003,Wentworth,762,Oswego St.,530,12/01/2002,1,5,Neutral,"Amherst, Mass.",-,50
+2003,Wentworth,762,Assumption,36,12/07/2002,4,3,Away,"",-,250
+2003,Wentworth,762,Salem St.,621,01/04/2003,5,2,Home,"",-,150
+2003,Wentworth,762,Wesleyan (CT),764,01/07/2003,8,0,Away,"",-,50
+2003,Wentworth,762,SUNY Cortland,168,01/10/2003,5,4,Away,"",-,147
+2003,Wentworth,762,Oswego St.,530,01/11/2003,1,9,Away,"",-,316
+2003,Wentworth,762,Fitchburg St.,227,01/15/2003,9,0,Home,"",-,300
+2003,Wentworth,762,Franklin Pierce,241,01/22/2003,10,0,Home,"",-,250
+2003,Wentworth,762,Curry,170,01/25/2003,2,4,Home,"",-,300
+2003,Wentworth,762,Salve Regina,623,01/29/2003,5,3,Away,"",-,129
+2003,Wentworth,762,Plymouth St.,548,02/01/2003,10,0,Home,"",-,500
+2003,Wentworth,762,Nichols,484,02/04/2003,11,1,Home,"",-,375
+2003,Wentworth,762,Lebanon Valley,351,02/07/2003,3,2,Away,"",-,587
+2003,Wentworth,762,Manhattanville,382,02/08/2003,1,3,Away,"",-,682
+2003,Wentworth,762,Mass.-Dartmouth,656,02/13/2003,7,2,Home,"",-,325
+2003,Wentworth,762,Southern N.H.,468,02/15/2003,4,4,Away,"",1 OT,278
+2003,Wentworth,762,Framingham St.,238,02/22/2003,13,0,Away,"",-,90
+2003,Wentworth,762,Johnson & Wales (RI),22626,02/23/2003,4,0,Home,"",-,400
+2003,Wentworth,762,Worcester St.,809,03/01/2003,1,0,Home,"",-,400
+2003,Wentworth,762,Fitchburg St.,227,03/05/2003,5,1,Home,"",-,400
+2003,Wentworth,762,Lebanon Valley,351,03/08/2003,5,1,Home,"",-,500
+2003,Wentworth,762,Oswego St.,530,03/15/2003,3,4,Away,"",-,"1,728"
 2003,Wesleyan (CT),764,Southern Me.,662,11/22/2002,3,0,Home,"",-,350
 2003,Wesleyan (CT),764,Salem St.,621,11/23/2002,3,4,Home,"",-,200
 2003,Wesleyan (CT),764,Manhattanville,382,11/26/2002,2,2,Away,"",1 OT,200
@@ -2750,8 +2750,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2003,Wis.-Eau Claire,793,Wis.-Stout,803,11/02/2002,6,1,Home,"",-,145
 2003,Wis.-Eau Claire,793,Lake Forest,344,11/08/2002,0,2,Away,"",-,350
 2003,Wis.-Eau Claire,793,St. Norbert,614,11/09/2002,1,8,Away,"",-,"1,082"
-2003,Wis.-Eau Claire,793,Concordia-M'head,161,11/16/2002,5,6,Home,"",-,187
 2003,Wis.-Eau Claire,793,Saint John's (MN),602,11/16/2002,1,8,Home,"",-,100
+2003,Wis.-Eau Claire,793,Concordia-M'head,161,11/16/2002,5,6,Home,"",-,187
 2003,Wis.-Eau Claire,793,Wis.-Superior,804,11/22/2002,1,10,Home,"",-,187
 2003,Wis.-Eau Claire,793,St. Scholastica,618,11/23/2002,2,2,Home,"",1 OT,143
 2003,Wis.-Eau Claire,793,St. Thomas (MN),620,11/29/2002,1,1,Home,"",1 OT,97

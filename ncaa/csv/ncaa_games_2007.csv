@@ -151,40 +151,40 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2007,Alas. Fairbanks,12,Western Mich.,774,03/04/2007,3,1,Away,"",-,"1,234"
 2007,Alas. Fairbanks,12,Notre Dame,513,03/09/2007,1,7,Away,"",-,"2,763"
 2007,Alas. Fairbanks,12,Notre Dame,513,03/10/2007,1,3,Away,"",-,"2,763"
-2007,American Intl,22,Army,725,10/13/2006,0,2,Away,"",-,"1,109"
-2007,American Intl,22,Rochester Inst.,580,10/20/2006,3,8,Away,"",-,"1,830"
-2007,American Intl,22,Rochester Inst.,580,10/21/2006,0,8,Away,"",-,"1,352"
-2007,American Intl,22,Lake Superior St.,345,10/27/2006,0,5,Away,"",-,"2,044"
-2007,American Intl,22,Lake Superior St.,345,10/28/2006,1,4,Away,"",-,"2,949"
-2007,American Intl,22,Army,725,11/03/2006,1,2,Home,"",-,284
-2007,American Intl,22,Army,725,11/04/2006,2,4,Away,"",-,"1,566"
-2007,American Intl,22,Sacred Heart,590,11/07/2006,2,5,Home,"",-,131
-2007,American Intl,22,Connecticut,164,11/10/2006,3,4,Away,"",-,749
-2007,American Intl,22,Air Force,721,11/17/2006,1,6,Away,"",-,"1,166"
-2007,American Intl,22,Air Force,721,11/19/2006,0,3,Away,"",-,648
-2007,American Intl,22,Brown,80,11/25/2006,2,4,Away,"",-,"1,025"
-2007,American Intl,22,Mercyhurst,408,12/01/2006,4,2,Home,"",-,148
-2007,American Intl,22,Mercyhurst,408,12/02/2006,3,8,Home,"",-,123
-2007,American Intl,22,Canisius,116,12/08/2006,2,5,Away,"",-,239
-2007,American Intl,22,Canisius,116,12/09/2006,4,1,Away,"",-,359
-2007,American Intl,22,Connecticut,164,01/06/2007,4,5,Home,"",-,166
-2007,American Intl,22,Sacred Heart,590,01/09/2007,1,3,Home,"",-,149
-2007,American Intl,22,Bentley,56,01/12/2007,6,1,Home,"",-,208
-2007,American Intl,22,Bentley,56,01/13/2007,3,5,Away,"",-,422
-2007,American Intl,22,Holy Cross,285,01/19/2007,4,2,Away,"",-,904
-2007,American Intl,22,Holy Cross,285,01/20/2007,3,4,Away,"",-,"1,041"
-2007,American Intl,22,Rochester Inst.,580,01/26/2007,2,6,Home,"",-,202
-2007,American Intl,22,Rochester Inst.,580,01/27/2007,2,3,Home,"",-,256
-2007,American Intl,22,Army,725,01/30/2007,3,0,Home,"",-,147
-2007,American Intl,22,Bentley,56,02/02/2007,2,4,Away,"",-,410
-2007,American Intl,22,Bentley,56,02/03/2007,5,2,Home,"",-,301
-2007,American Intl,22,Quinnipiac,562,02/13/2007,1,8,Away,"",-,"2,182"
-2007,American Intl,22,Connecticut,164,02/16/2007,3,2,Home,"",1 OT,199
-2007,American Intl,22,Connecticut,164,02/17/2007,2,2,Away,"",1 OT,806
-2007,American Intl,22,Air Force,721,02/23/2007,2,6,Home,"",-,344
-2007,American Intl,22,Air Force,721,02/24/2007,1,5,Home,"",-,255
-2007,American Intl,22,Canisius,116,03/03/2007,2,1,Away,"",-,305
-2007,American Intl,22,Sacred Heart,590,03/10/2007,0,4,Away,"",-,383
+2007,American Int'l,22,Army,725,10/13/2006,0,2,Away,"",-,"1,109"
+2007,American Int'l,22,Rochester Inst.,580,10/20/2006,3,8,Away,"",-,"1,830"
+2007,American Int'l,22,Rochester Inst.,580,10/21/2006,0,8,Away,"",-,"1,352"
+2007,American Int'l,22,Lake Superior St.,345,10/27/2006,0,5,Away,"",-,"2,044"
+2007,American Int'l,22,Lake Superior St.,345,10/28/2006,1,4,Away,"",-,"2,949"
+2007,American Int'l,22,Army,725,11/03/2006,1,2,Home,"",-,284
+2007,American Int'l,22,Army,725,11/04/2006,2,4,Away,"",-,"1,566"
+2007,American Int'l,22,Sacred Heart,590,11/07/2006,2,5,Home,"",-,131
+2007,American Int'l,22,Connecticut,164,11/10/2006,3,4,Away,"",-,749
+2007,American Int'l,22,Air Force,721,11/17/2006,1,6,Away,"",-,"1,166"
+2007,American Int'l,22,Air Force,721,11/19/2006,0,3,Away,"",-,648
+2007,American Int'l,22,Brown,80,11/25/2006,2,4,Away,"",-,"1,025"
+2007,American Int'l,22,Mercyhurst,408,12/01/2006,4,2,Home,"",-,148
+2007,American Int'l,22,Mercyhurst,408,12/02/2006,3,8,Home,"",-,123
+2007,American Int'l,22,Canisius,116,12/08/2006,2,5,Away,"",-,239
+2007,American Int'l,22,Canisius,116,12/09/2006,4,1,Away,"",-,359
+2007,American Int'l,22,Connecticut,164,01/06/2007,4,5,Home,"",-,166
+2007,American Int'l,22,Sacred Heart,590,01/09/2007,1,3,Home,"",-,149
+2007,American Int'l,22,Bentley,56,01/12/2007,6,1,Home,"",-,208
+2007,American Int'l,22,Bentley,56,01/13/2007,3,5,Away,"",-,422
+2007,American Int'l,22,Holy Cross,285,01/19/2007,4,2,Away,"",-,904
+2007,American Int'l,22,Holy Cross,285,01/20/2007,3,4,Away,"",-,"1,041"
+2007,American Int'l,22,Rochester Inst.,580,01/26/2007,2,6,Home,"",-,202
+2007,American Int'l,22,Rochester Inst.,580,01/27/2007,2,3,Home,"",-,256
+2007,American Int'l,22,Army,725,01/30/2007,3,0,Home,"",-,147
+2007,American Int'l,22,Bentley,56,02/02/2007,2,4,Away,"",-,410
+2007,American Int'l,22,Bentley,56,02/03/2007,5,2,Home,"",-,301
+2007,American Int'l,22,Quinnipiac,562,02/13/2007,1,8,Away,"",-,"2,182"
+2007,American Int'l,22,Connecticut,164,02/16/2007,3,2,Home,"",1 OT,199
+2007,American Int'l,22,Connecticut,164,02/17/2007,2,2,Away,"",1 OT,806
+2007,American Int'l,22,Air Force,721,02/23/2007,2,6,Home,"",-,344
+2007,American Int'l,22,Air Force,721,02/24/2007,1,5,Home,"",-,255
+2007,American Int'l,22,Canisius,116,03/03/2007,2,1,Away,"",-,305
+2007,American Int'l,22,Sacred Heart,590,03/10/2007,0,4,Away,"",-,383
 2007,Amherst,24,Wesleyan (CT),764,11/17/2006,5,4,Away,"",-,150
 2007,Amherst,24,Trinity (CT),713,11/18/2006,4,4,Away,"",1 OT,150
 2007,Amherst,24,Connecticut Col.,163,11/25/2006,7,0,Home,"",-,150
@@ -830,67 +830,31 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2007,Colorado Col.,154,Michigan Tech,417,03/09/2007,1,2,Home,"",1 OT,"6,231"
 2007,Colorado Col.,154,Michigan Tech,417,03/10/2007,2,0,Home,"",-,"6,093"
 2007,Colorado Col.,154,Michigan Tech,417,03/11/2007,0,1,Home,"",-,"5,513"
-2007,Concordia-Mhead,161,Northland,1267,11/03/2006,1,0,Away,"",-,215
-2007,Concordia-Mhead,161,Northland,1267,11/04/2006,3,2,Away,"",-,75
-2007,Concordia-Mhead,161,Minn.-Crookston,27854,11/07/2006,8,3,Home,"",-,285
-2007,Concordia-Mhead,161,Gust. Adolphus,266,11/17/2006,1,2,Home,"",-,325
-2007,Concordia-Mhead,161,Gust. Adolphus,266,11/18/2006,2,5,Home,"",-,205
-2007,Concordia-Mhead,161,St. Scholastica,618,11/24/2006,2,5,Home,"",-,195
-2007,Concordia-Mhead,161,St. Scholastica,618,11/25/2006,3,5,Home,"",-,215
-2007,Concordia-Mhead,161,Hamline,268,12/08/2006,4,0,Home,"",-,275
-2007,Concordia-Mhead,161,Hamline,268,12/09/2006,6,4,Home,"",-,205
-2007,Concordia-Mhead,161,Minn.-Crookston,27854,12/16/2006,8,0,Away,"",-,275
-2007,Concordia-Mhead,161,Wis.-Eau Claire,793,01/05/2007,0,9,Away,"",-,250
-2007,Concordia-Mhead,161,Wis.-Stevens Point,802,01/06/2007,2,8,Away,"",-,572
-2007,Concordia-Mhead,161,Wis.-Stout,803,01/09/2007,3,9,Away,"",-,250
-2007,Concordia-Mhead,161,Saint Mary's (MN),612,01/19/2007,3,6,Away,"",-,250
-2007,Concordia-Mhead,161,Saint Mary's (MN),612,01/20/2007,1,7,Away,"",-,231
-2007,Concordia-Mhead,161,St. Olaf,615,01/27/2007,3,4,Home,"",-,210
-2007,Concordia-Mhead,161,St. Olaf,615,01/28/2007,2,3,Home,"",-,183
-2007,Concordia-Mhead,161,Bethel (MN),60,02/02/2007,2,8,Away,"",-,631
-2007,Concordia-Mhead,161,Bethel (MN),60,02/03/2007,1,7,Away,"",-,249
-2007,Concordia-Mhead,161,St. Thomas (MN),620,02/09/2007,3,9,Away,"",-,168
-2007,Concordia-Mhead,161,St. Thomas (MN),620,02/10/2007,1,5,Away,"",-,150
-2007,Concordia-Mhead,161,Augsburg,38,02/16/2007,2,6,Away,"",-,120
-2007,Concordia-Mhead,161,Augsburg,38,02/17/2007,2,4,Away,"",-,177
-2007,Concordia-Mhead,161,Saint John's (MN),602,02/23/2007,6,3,Home,"",-,174
-2007,Concordia-Mhead,161,Saint John's (MN),602,02/24/2007,1,3,Home,"",-,117
-2007,Connecticut,164,Bowling Green,71,10/13/2006,1,2,Away,"",1 OT,"2,357"
-2007,Connecticut,164,Michigan,418,10/14/2006,5,7,Away,"",-,"5,210"
-2007,Connecticut,164,Army,725,10/20/2006,4,5,Home,"",-,633
-2007,Connecticut,164,Army,725,10/21/2006,3,7,Home,"",-,615
-2007,Connecticut,164,Mercyhurst,408,10/27/2006,2,6,Away,"",-,"1,013"
-2007,Connecticut,164,Mercyhurst,408,10/28/2006,5,4,Away,"",1 OT,"1,038"
-2007,Connecticut,164,Bentley,56,11/03/2006,1,3,Away,"",-,480
-2007,Connecticut,164,Bentley,56,11/04/2006,6,2,Home,"",-,781
-2007,Connecticut,164,American Int'l,22,11/10/2006,4,3,Home,"",-,749
-2007,Connecticut,164,Yale,813,11/11/2006,2,3,Away,"",-,"2,223"
-2007,Connecticut,164,Massachusetts,400,11/18/2006,1,8,Away,"",-,"4,123"
-2007,Connecticut,164,Holy Cross,285,11/21/2006,3,7,Away,"",-,864
-2007,Connecticut,164,Sacred Heart,590,11/25/2006,4,1,Home,"",-,683
-2007,Connecticut,164,Sacred Heart,590,11/26/2006,2,3,Away,"",-,407
-2007,Connecticut,164,Air Force,721,12/07/2006,2,4,Home,"",-,616
-2007,Connecticut,164,Air Force,721,12/08/2006,7,5,Home,"",-,"1,199"
-2007,Connecticut,164,Union (NY),727,12/17/2006,2,7,Home,"",-,639
-2007,Connecticut,164,Holy Cross,285,12/29/2006,2,1,Home,"",-,"1,147"
-2007,Connecticut,164,Colgate,153,12/30/2006,1,3,Home,"",-,"1,047"
-2007,Connecticut,164,American Int'l,22,01/06/2007,5,4,Away,"",-,166
-2007,Connecticut,164,Canisius,116,01/12/2007,3,4,Home,"",1 OT,627
-2007,Connecticut,164,Canisius,116,01/13/2007,4,3,Home,"",-,741
-2007,Connecticut,164,Rochester Inst.,580,01/19/2007,4,3,Away,"",1 OT,"2,100"
-2007,Connecticut,164,Rochester Inst.,580,01/20/2007,2,4,Away,"",-,"1,971"
-2007,Connecticut,164,Army,725,01/26/2007,2,2,Away,"",1 OT,"2,120"
-2007,Connecticut,164,Army,725,01/27/2007,0,3,Away,"",-,"2,561"
-2007,Connecticut,164,Sacred Heart,590,02/02/2007,2,1,Away,"",-,389
-2007,Connecticut,164,Sacred Heart,590,02/03/2007,4,1,Home,"",-,933
-2007,Connecticut,164,Bentley,56,02/09/2007,4,3,Home,"",-,"1,511"
-2007,Connecticut,164,Bentley,56,02/10/2007,2,1,Away,"",-,424
-2007,Connecticut,164,American Int'l,22,02/16/2007,2,3,Away,"",1 OT,199
-2007,Connecticut,164,American Int'l,22,02/17/2007,2,2,Home,"",1 OT,806
-2007,Connecticut,164,Holy Cross,285,02/23/2007,4,2,Home,"",-,"1,417"
-2007,Connecticut,164,Holy Cross,285,02/24/2007,5,2,Away,"",-,"1,052"
-2007,Connecticut,164,Mercyhurst,408,03/10/2007,5,4,Home,"",-,874
-2007,Connecticut,164,Army,725,03/16/2007,1,3,Neutral,"Rochester, NY",-,780
+2007,Concordia-M'head,161,Northland,1267,11/03/2006,1,0,Away,"",-,215
+2007,Concordia-M'head,161,Northland,1267,11/04/2006,3,2,Away,"",-,75
+2007,Concordia-M'head,161,Minn.-Crookston,27854,11/07/2006,8,3,Home,"",-,285
+2007,Concordia-M'head,161,Gust. Adolphus,266,11/17/2006,1,2,Home,"",-,325
+2007,Concordia-M'head,161,Gust. Adolphus,266,11/18/2006,2,5,Home,"",-,205
+2007,Concordia-M'head,161,St. Scholastica,618,11/24/2006,2,5,Home,"",-,195
+2007,Concordia-M'head,161,St. Scholastica,618,11/25/2006,3,5,Home,"",-,215
+2007,Concordia-M'head,161,Hamline,268,12/08/2006,4,0,Home,"",-,275
+2007,Concordia-M'head,161,Hamline,268,12/09/2006,6,4,Home,"",-,205
+2007,Concordia-M'head,161,Minn.-Crookston,27854,12/16/2006,8,0,Away,"",-,275
+2007,Concordia-M'head,161,Wis.-Eau Claire,793,01/05/2007,0,9,Away,"",-,250
+2007,Concordia-M'head,161,Wis.-Stevens Point,802,01/06/2007,2,8,Away,"",-,572
+2007,Concordia-M'head,161,Wis.-Stout,803,01/09/2007,3,9,Away,"",-,250
+2007,Concordia-M'head,161,Saint Mary's (MN),612,01/19/2007,3,6,Away,"",-,250
+2007,Concordia-M'head,161,Saint Mary's (MN),612,01/20/2007,1,7,Away,"",-,231
+2007,Concordia-M'head,161,St. Olaf,615,01/27/2007,3,4,Home,"",-,210
+2007,Concordia-M'head,161,St. Olaf,615,01/28/2007,2,3,Home,"",-,183
+2007,Concordia-M'head,161,Bethel (MN),60,02/02/2007,2,8,Away,"",-,631
+2007,Concordia-M'head,161,Bethel (MN),60,02/03/2007,1,7,Away,"",-,249
+2007,Concordia-M'head,161,St. Thomas (MN),620,02/09/2007,3,9,Away,"",-,168
+2007,Concordia-M'head,161,St. Thomas (MN),620,02/10/2007,1,5,Away,"",-,150
+2007,Concordia-M'head,161,Augsburg,38,02/16/2007,2,6,Away,"",-,120
+2007,Concordia-M'head,161,Augsburg,38,02/17/2007,2,4,Away,"",-,177
+2007,Concordia-M'head,161,Saint John's (MN),602,02/23/2007,6,3,Home,"",-,174
+2007,Concordia-M'head,161,Saint John's (MN),602,02/24/2007,1,3,Home,"",-,117
 2007,Connecticut Col.,163,Williams,789,11/17/2006,2,1,Away,"",-,311
 2007,Connecticut Col.,163,Middlebury,420,11/18/2006,1,2,Away,"",-,"1,450"
 2007,Connecticut Col.,163,Amherst,24,11/25/2006,0,7,Away,"",-,300
@@ -1163,8 +1127,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2007,Fitchburg St.,227,Suffolk,684,02/03/2007,4,1,Away,"",-,0
 2007,Fitchburg St.,227,Johnson & Wales (RI),22626,02/08/2007,2,3,Home,"",1 OT,500
 2007,Fitchburg St.,227,Plymouth St.,548,02/10/2007,1,1,Away,"",1 OT,0
-2007,Fitchburg St.,227,Franklin Pierce,241,02/17/2007,5,3,Away,"",-,0
 2007,Fitchburg St.,227,Salve Regina,623,02/17/2007,1,3,Away,"",-,0
+2007,Fitchburg St.,227,Franklin Pierce,241,02/17/2007,5,3,Away,"",-,0
 2007,Fitchburg St.,227,Plymouth St.,548,02/24/2007,3,2,Away,"",-,0
 2007,Fitchburg St.,227,Mass.-Dartmouth,656,02/28/2007,3,7,Away,"",-,0
 2007,Framingham St.,238,Johnson & Wales (RI),22626,11/08/2006,2,5,Away,"",-,0
@@ -1190,35 +1154,35 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2007,Framingham St.,238,Stonehill,682,02/06/2007,3,6,Away,"",-,0
 2007,Framingham St.,238,Mass.-Dartmouth,656,02/10/2007,1,4,Home,"",-,200
 2007,Framingham St.,238,Wentworth Inst.,762,02/17/2007,2,7,Home,"",-,150
-2007,Fredonia St.,242,Buffalo St.,85,10/20/2006,5,4,Neutral,"Brockport, NY",-,0
-2007,Fredonia St.,242,SUNY Cortland,168,10/21/2006,1,2,Neutral,"Brockport, NY",-,0
-2007,Fredonia St.,242,Marian (WI),1196,10/27/2006,8,2,Home,"",-,802
-2007,Fredonia St.,242,St. Norbert,614,10/28/2006,2,2,Home,"",1 OT,538
-2007,Fredonia St.,242,Plattsburgh St.,547,11/03/2006,4,3,Home,"",-,889
-2007,Fredonia St.,242,SUNY Potsdam,552,11/04/2006,2,3,Home,"",-,707
-2007,Fredonia St.,242,Oswego St.,530,11/10/2006,0,8,Away,"",-,0
-2007,Fredonia St.,242,SUNY Cortland,168,11/11/2006,0,3,Away,"",-,0
-2007,Fredonia St.,242,Buffalo St.,85,11/17/2006,3,0,Away,"",-,0
-2007,Fredonia St.,242,SUNY Geneseo,247,12/01/2006,2,1,Home,"",-,875
-2007,Fredonia St.,242,Brockport,78,12/02/2006,3,3,Home,"",1 OT,764
-2007,Fredonia St.,242,Neumann,1254,12/08/2006,5,5,Home,"",1 OT,561
-2007,Fredonia St.,242,Neumann,1254,12/09/2006,2,5,Home,"",-,421
-2007,Fredonia St.,242,Johnson & Wales (RI),22626,01/05/2007,9,3,Away,"",-,0
-2007,Fredonia St.,242,Wentworth Inst.,762,01/06/2007,4,1,Away,"",-,0
-2007,Fredonia St.,242,Utica,733,01/09/2007,4,2,Away,"",-,0
-2007,Fredonia St.,242,Morrisville St.,30067,01/12/2007,5,2,Home,"",-,328
-2007,Fredonia St.,242,Morrisville St.,30067,01/13/2007,11,1,Home,"",-,246
-2007,Fredonia St.,242,Plattsburgh St.,547,01/26/2007,3,3,Away,"",1 OT,0
-2007,Fredonia St.,242,SUNY Potsdam,552,01/27/2007,4,2,Away,"",-,0
-2007,Fredonia St.,242,Oswego St.,530,02/02/2007,2,4,Home,"",-,920
-2007,Fredonia St.,242,SUNY Cortland,168,02/03/2007,3,4,Home,"",-,798
-2007,Fredonia St.,242,SUNY Geneseo,247,02/09/2007,2,4,Away,"",-,0
-2007,Fredonia St.,242,Brockport,78,02/10/2007,7,4,Away,"",-,0
-2007,Fredonia St.,242,Buffalo St.,85,02/16/2007,4,6,Home,"",-,"1,024"
-2007,Fredonia St.,242,Buffalo St.,85,02/20/2007,2,1,Away,"",-,0
-2007,Fredonia St.,242,Oswego St.,530,02/24/2007,3,2,Away,"",-,0
-2007,Fredonia St.,242,Plattsburgh St.,547,03/03/2007,6,4,Away,"",-,0
-2007,Fredonia St.,242,Middlebury,420,03/07/2007,0,9,Away,"",-,0
+2007,Fredonia,242,Buffalo St.,85,10/20/2006,5,4,Neutral,"Brockport, NY",-,0
+2007,Fredonia,242,SUNY Cortland,168,10/21/2006,1,2,Neutral,"Brockport, NY",-,0
+2007,Fredonia,242,Marian (WI),1196,10/27/2006,8,2,Home,"",-,802
+2007,Fredonia,242,St. Norbert,614,10/28/2006,2,2,Home,"",1 OT,538
+2007,Fredonia,242,Plattsburgh St.,547,11/03/2006,4,3,Home,"",-,889
+2007,Fredonia,242,SUNY Potsdam,552,11/04/2006,2,3,Home,"",-,707
+2007,Fredonia,242,Oswego St.,530,11/10/2006,0,8,Away,"",-,0
+2007,Fredonia,242,SUNY Cortland,168,11/11/2006,0,3,Away,"",-,0
+2007,Fredonia,242,Buffalo St.,85,11/17/2006,3,0,Away,"",-,0
+2007,Fredonia,242,SUNY Geneseo,247,12/01/2006,2,1,Home,"",-,875
+2007,Fredonia,242,Brockport,78,12/02/2006,3,3,Home,"",1 OT,764
+2007,Fredonia,242,Neumann,1254,12/08/2006,5,5,Home,"",1 OT,561
+2007,Fredonia,242,Neumann,1254,12/09/2006,2,5,Home,"",-,421
+2007,Fredonia,242,Johnson & Wales (RI),22626,01/05/2007,9,3,Away,"",-,0
+2007,Fredonia,242,Wentworth Inst.,762,01/06/2007,4,1,Away,"",-,0
+2007,Fredonia,242,Utica,733,01/09/2007,4,2,Away,"",-,0
+2007,Fredonia,242,Morrisville St.,30067,01/12/2007,5,2,Home,"",-,328
+2007,Fredonia,242,Morrisville St.,30067,01/13/2007,11,1,Home,"",-,246
+2007,Fredonia,242,Plattsburgh St.,547,01/26/2007,3,3,Away,"",1 OT,0
+2007,Fredonia,242,SUNY Potsdam,552,01/27/2007,4,2,Away,"",-,0
+2007,Fredonia,242,Oswego St.,530,02/02/2007,2,4,Home,"",-,920
+2007,Fredonia,242,SUNY Cortland,168,02/03/2007,3,4,Home,"",-,798
+2007,Fredonia,242,SUNY Geneseo,247,02/09/2007,2,4,Away,"",-,0
+2007,Fredonia,242,Brockport,78,02/10/2007,7,4,Away,"",-,0
+2007,Fredonia,242,Buffalo St.,85,02/16/2007,4,6,Home,"",-,"1,024"
+2007,Fredonia,242,Buffalo St.,85,02/20/2007,2,1,Away,"",-,0
+2007,Fredonia,242,Oswego St.,530,02/24/2007,3,2,Away,"",-,0
+2007,Fredonia,242,Plattsburgh St.,547,03/03/2007,6,4,Away,"",-,0
+2007,Fredonia,242,Middlebury,420,03/07/2007,0,9,Away,"",-,0
 2007,Gust. Adolphus,266,Wis.-River Falls,801,11/03/2006,2,4,Home,"",-,634
 2007,Gust. Adolphus,266,Wis.-Stout,803,11/04/2006,6,6,Away,"",1 OT,700
 2007,Gust. Adolphus,266,Wis.-Superior,804,11/10/2006,3,5,Home,"",-,433
@@ -1634,97 +1598,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2007,Marian (WI),1196,Northland,1267,02/24/2007,7,1,Home,"",-,120
 2007,Marian (WI),1196,Finlandia,30032,03/03/2007,3,6,Away,"",-,0
 2007,Marian (WI),1196,Lawrence,348,03/04/2007,2,4,Neutral,"Hancock, Mich",-,0
-2007,Mass.-Boston,401,Bowdoin,69,11/17/2006,1,6,Away,"",-,"1,526"
-2007,Mass.-Boston,401,Colby,151,11/18/2006,2,8,Away,"",-,500
-2007,Mass.-Boston,401,Wentworth Inst.,762,11/21/2006,3,3,Home,"",1 OT,194
-2007,Mass.-Boston,401,Framingham St.,238,11/28/2006,1,2,Home,"",-,172
-2007,Mass.-Boston,401,Trinity (CT),713,12/01/2006,1,4,Home,"",-,290
-2007,Mass.-Boston,401,Wesleyan (CT),764,12/02/2006,1,4,Home,"",-,189
-2007,Mass.-Boston,401,Babson,45,12/06/2006,2,4,Away,"",-,150
-2007,Mass.-Boston,401,Becker,26107,12/09/2006,2,0,Home,"",-,170
-2007,Mass.-Boston,401,Suffolk,684,12/28/2006,4,2,Home,"",-,158
-2007,Mass.-Boston,401,Skidmore,642,12/29/2006,0,5,Home,"",-,364
-2007,Mass.-Boston,401,Hamilton,267,01/05/2007,2,1,Home,"",-,166
-2007,Mass.-Boston,401,Amherst,24,01/06/2007,1,5,Home,"",-,138
-2007,Mass.-Boston,401,Norwich,511,01/12/2007,0,4,Away,"",-,"1,400"
-2007,Mass.-Boston,401,Saint Michael's,613,01/13/2007,5,4,Away,"",-,145
-2007,Mass.-Boston,401,Mass.-Dartmouth,656,01/16/2007,0,3,Home,"",-,140
-2007,Mass.-Boston,401,Southern Me.,662,01/19/2007,2,7,Home,"",-,166
-2007,Mass.-Boston,401,Salem St.,621,01/20/2007,4,6,Home,"",-,148
-2007,Mass.-Boston,401,Castleton,123,01/26/2007,2,5,Away,"",-,843
-2007,Mass.-Boston,401,Skidmore,642,01/27/2007,2,4,Away,"",-,720
-2007,Mass.-Boston,401,St. Anselm,593,02/02/2007,0,2,Home,"",-,219
-2007,Mass.-Boston,401,New England Col.,467,02/03/2007,3,8,Home,"",-,132
-2007,Mass.-Boston,401,Middlebury,420,02/09/2007,0,8,Away,"",-,"1,250"
-2007,Mass.-Boston,401,Williams,789,02/10/2007,2,5,Away,"",-,152
-2007,Mass.-Boston,401,Connecticut Col.,163,02/16/2007,2,4,Home,"",-,188
-2007,Mass.-Boston,401,Tufts,717,02/17/2007,4,3,Home,"",-,201
-2007,Mass.-Boston,401,Norwich,511,02/24/2007,2,8,Away,"",-,"1,850"
-2007,Mass.-Dartmouth,656,Lebanon Valley,351,11/10/2006,4,2,Home,"",-,571
-2007,Mass.-Dartmouth,656,Becker,26107,11/11/2006,8,0,Home,"",-,193
-2007,Mass.-Dartmouth,656,Stonehill,682,11/15/2006,5,2,Home,"",-,318
-2007,Mass.-Dartmouth,656,Plymouth St.,548,11/18/2006,5,4,Away,"",1 OT,350
-2007,Mass.-Dartmouth,656,Worcester St.,809,11/21/2006,6,2,Away,"",-,100
-2007,Mass.-Dartmouth,656,Babson,45,11/25/2006,7,2,Away,"",-,150
-2007,Mass.-Dartmouth,656,SUNY Geneseo,247,11/26/2006,6,2,Neutral,"Babson Park, MA",-,150
-2007,Mass.-Dartmouth,656,Fitchburg St.,227,11/29/2006,7,3,Home,"",-,337
-2007,Mass.-Dartmouth,656,Curry,170,11/30/2006,3,2,Home,"",-,663
-2007,Mass.-Dartmouth,656,Tufts,717,12/05/2006,7,2,Home,"",-,188
-2007,Mass.-Dartmouth,656,Wesleyan (CT),764,12/09/2006,1,1,Home,"",1 OT,300
-2007,Mass.-Dartmouth,656,Connecticut,164,12/12/2006,3,4,Away,"",-,150
-2007,Mass.-Dartmouth,656,Assumption,36,01/06/2007,5,1,Home,"",-,178
-2007,Mass.-Dartmouth,656,Salve Regina,623,01/11/2007,7,2,Home,"",-,146
-2007,Mass.-Dartmouth,656,Western New Eng.,775,01/13/2007,8,1,Home,"",-,127
-2007,Mass.-Dartmouth,656,Mass.-Boston,401,01/16/2007,3,0,Away,"",-,140
-2007,Mass.-Dartmouth,656,Southern N.H.,468,01/20/2007,5,3,Away,"",-,256
-2007,Mass.-Dartmouth,656,Suffolk,684,01/24/2007,5,2,Away,"",-,125
-2007,Mass.-Dartmouth,656,Fitchburg St.,227,01/27/2007,3,0,Away,"",-,300
-2007,Mass.-Dartmouth,656,Salve Regina,623,01/31/2007,3,2,Away,"",-,131
-2007,Mass.-Dartmouth,656,Franklin Pierce,241,02/03/2007,7,0,Home,"",-,230
-2007,Mass.-Dartmouth,656,Wentworth Inst.,762,02/06/2007,2,5,Away,"",-,300
-2007,Mass.-Dartmouth,656,Framingham St.,238,02/10/2007,4,1,Away,"",-,200
-2007,Mass.-Dartmouth,656,Johnson & Wales (RI),22626,02/17/2007,6,1,Away,"",-,240
-2007,Mass.-Dartmouth,656,Nichols,484,02/20/2007,6,3,Home,"",-,217
-2007,Mass.-Dartmouth,656,Salve Regina,623,02/24/2007,9,2,Home,"",-,"1,027"
-2007,Mass.-Dartmouth,656,Fitchburg St.,227,02/28/2007,7,3,Home,"",-,"1,141"
-2007,Mass.-Dartmouth,656,Wentworth Inst.,762,03/03/2007,4,3,Home,"",-,"1,637"
-2007,Mass.-Dartmouth,656,Middlebury,420,03/10/2007,2,3,Away,"",-,"2,440"
-2007,Mass.-Lowell,368,Minn. Duluth,427,10/13/2006,3,3,Away,"",1 OT,"4,048"
-2007,Mass.-Lowell,368,Minn. Duluth,427,10/14/2006,3,7,Away,"",-,"4,002"
-2007,Mass.-Lowell,368,Northern Mich.,506,10/20/2006,1,2,Neutral,"Omaha, NE",-,"1,000"
-2007,Mass.-Lowell,368,Niagara,482,10/21/2006,7,4,Neutral,"Omaha, NE",-,"1,000"
-2007,Mass.-Lowell,368,Boston U.,68,10/27/2006,2,1,Away,"",-,"5,805"
-2007,Mass.-Lowell,368,Providence,556,10/28/2006,2,2,Home,"",1 OT,"2,028"
-2007,Mass.-Lowell,368,Boston U.,68,11/03/2006,1,1,Home,"",1 OT,"4,233"
-2007,Mass.-Lowell,368,Merrimack,410,11/04/2006,5,0,Home,"",-,"1,922"
-2007,Mass.-Lowell,368,Maine,380,11/10/2006,1,4,Away,"",-,"5,450"
-2007,Mass.-Lowell,368,New Hampshire,469,11/17/2006,2,5,Home,"",-,"3,603"
-2007,Mass.-Lowell,368,New Hampshire,469,11/18/2006,0,4,Away,"",-,"6,501"
-2007,Mass.-Lowell,368,Providence,556,11/24/2006,2,4,Away,"",-,"1,703"
-2007,Mass.-Lowell,368,Vermont,738,12/01/2006,1,2,Home,"",-,"3,295"
-2007,Mass.-Lowell,368,New Hampshire,469,12/06/2006,2,4,Home,"",-,"2,535"
-2007,Mass.-Lowell,368,St. Lawrence,607,12/10/2006,3,3,Home,"",1 OT,"1,941"
-2007,Mass.-Lowell,368,Union (NY),727,12/15/2006,3,4,Away,"",-,"1,141"
-2007,Mass.-Lowell,368,Rensselaer,570,12/16/2006,1,2,Away,"",-,"2,812"
-2007,Mass.-Lowell,368,Brown,80,12/29/2006,1,1,Neutral,"Denver, CO",1 OT,"3,000"
-2007,Mass.-Lowell,368,Denver,183,12/30/2006,1,2,Away,"",-,"6,035"
-2007,Mass.-Lowell,368,Maine,380,01/05/2007,2,4,Home,"",-,"3,107"
-2007,Mass.-Lowell,368,Maine,380,01/06/2007,2,5,Home,"",-,"3,230"
-2007,Mass.-Lowell,368,Massachusetts,400,01/12/2007,1,5,Away,"",-,"2,631"
-2007,Mass.-Lowell,368,Providence,556,01/13/2007,2,3,Home,"",1 OT,"3,363"
-2007,Mass.-Lowell,368,Northeastern,500,01/19/2007,2,6,Home,"",-,"1,769"
-2007,Mass.-Lowell,368,Northeastern,500,01/20/2007,1,2,Away,"",1 OT,"1,842"
-2007,Mass.-Lowell,368,Massachusetts,400,01/26/2007,3,6,Home,"",-,"3,736"
-2007,Mass.-Lowell,368,Boston College,67,01/27/2007,3,4,Away,"",-,"4,819"
-2007,Mass.-Lowell,368,Boston U.,68,02/02/2007,0,0,Away,"",1 OT,"5,549"
-2007,Mass.-Lowell,368,Massachusetts,400,02/03/2007,2,1,Away,"",-,"5,296"
-2007,Mass.-Lowell,368,Northeastern,500,02/08/2007,1,0,Home,"",-,"1,717"
-2007,Mass.-Lowell,368,Merrimack,410,02/16/2007,3,0,Home,"",-,"1,919"
-2007,Mass.-Lowell,368,Merrimack,410,02/17/2007,3,2,Away,"",-,"1,217"
-2007,Mass.-Lowell,368,Boston College,67,02/22/2007,0,3,Away,"",-,"4,218"
-2007,Mass.-Lowell,368,Boston College,67,02/24/2007,3,4,Home,"",-,"6,358"
-2007,Mass.-Lowell,368,Vermont,738,03/02/2007,2,1,Away,"",-,"4,003"
-2007,Mass.-Lowell,368,Vermont,738,03/03/2007,3,3,Away,"",1 OT,"4,003"
 2007,Massachusetts,400,Sacred Heart,590,10/13/2006,3,2,Home,"",-,"4,715"
 2007,Massachusetts,400,Clarkson,146,10/14/2006,3,3,Home,"",1 OT,"3,521"
 2007,Massachusetts,400,New Hampshire,469,10/26/2006,3,2,Away,"",-,"6,501"
@@ -1987,33 +1860,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2007,Middlebury,420,Mass.-Dartmouth,656,03/10/2007,3,2,Home,"",-,"2,440"
 2007,Middlebury,420,Manhattanville,382,03/17/2007,3,2,Neutral,"Superior, Wis.",-,"1,293"
 2007,Middlebury,420,Oswego St.,530,03/18/2007,3,4,Neutral,"Superior, Wis.",1 OT,"1,052"
-2007,Milwaukee Engr.,20220,Lake Forest,344,10/27/2006,9,0,Away,"",-,650
-2007,Milwaukee Engr.,20220,Lake Forest,344,10/28/2006,3,4,Home,"",-,"1,100"
-2007,Milwaukee Engr.,20220,Marian (WI),1196,11/03/2006,3,3,Home,"",1 OT,800
-2007,Milwaukee Engr.,20220,Marian (WI),1196,11/04/2006,4,2,Away,"",-,269
-2007,Milwaukee Engr.,20220,Minn.-Crookston,27854,11/10/2006,3,2,Home,"",-,500
-2007,Milwaukee Engr.,20220,Minn.-Crookston,27854,11/11/2006,5,1,Home,"",-,272
-2007,Milwaukee Engr.,20220,Gust. Adolphus,266,11/25/2006,9,6,Home,"",-,250
-2007,Milwaukee Engr.,20220,Neumann,1254,11/26/2006,0,9,Home,"",-,200
-2007,Milwaukee Engr.,20220,Northland,1267,12/01/2006,3,0,Home,"",-,500
-2007,Milwaukee Engr.,20220,Northland,1267,12/02/2006,8,2,Home,"",-,350
-2007,Milwaukee Engr.,20220,Lawrence,348,12/08/2006,3,0,Home,"",-,500
-2007,Milwaukee Engr.,20220,Lawrence,348,12/09/2006,5,1,Away,"",-,412
-2007,Milwaukee Engr.,20220,St. Norbert,614,01/06/2007,2,5,Away,"",-,"1,948"
-2007,Milwaukee Engr.,20220,Finlandia,,01/12/2007,2,1,Home,"",-,519
-2007,Milwaukee Engr.,20220,Finlandia,,01/13/2007,1,6,Home,"",-,500
-2007,Milwaukee Engr.,20220,Minn.-Crookston,27854,01/19/2007,5,2,Away,"",-,300
-2007,Milwaukee Engr.,20220,Minn.-Crookston,27854,01/20/2007,5,0,Away,"",-,255
-2007,Milwaukee Engr.,20220,Marian (WI),1196,01/26/2007,2,2,Away,"",1 OT,332
-2007,Milwaukee Engr.,20220,Marian (WI),1196,01/27/2007,7,3,Home,"",-,522
-2007,Milwaukee Engr.,20220,Northland,1267,02/02/2007,12,1,Away,"",-,120
-2007,Milwaukee Engr.,20220,Northland,1267,02/03/2007,5,2,Away,"",-,100
-2007,Milwaukee Engr.,20220,Lawrence,348,02/09/2007,2,1,Home,"",-,552
-2007,Milwaukee Engr.,20220,Lawrence,348,02/10/2007,7,1,Away,"",-,441
-2007,Milwaukee Engr.,20220,Finlandia,,02/16/2007,4,11,Away,"",-,350
-2007,Milwaukee Engr.,20220,Finlandia,,02/17/2007,3,2,Away,"",-,255
-2007,Milwaukee Engr.,20220,Lawrence,348,03/03/2007,4,0,Neutral,"Hancock, MI",-,125
-2007,Milwaukee Engr.,20220,Finlandia,,03/04/2007,3,4,Home,"",-,"1,000"
 2007,Minn. Duluth,427,Mass.-Lowell,368,10/13/2006,3,3,Home,"",1 OT,"4,048"
 2007,Minn. Duluth,427,Mass.-Lowell,368,10/14/2006,7,3,Home,"",-,"4,002"
 2007,Minn. Duluth,427,Wisconsin,796,10/20/2006,2,2,Away,"",1 OT,"12,238"
@@ -2161,48 +2007,33 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2007,Minnesota,428,North Dakota,494,03/17/2007,3,2,Neutral,"St. Paul, Minn.",1 OT,"19,463"
 2007,Minnesota,428,Air Force,721,03/24/2007,4,3,Neutral,"Denver, Colo.",-,"11,161"
 2007,Minnesota,428,North Dakota,494,03/25/2007,2,3,Neutral,"Denver, Colo.",1 OT,"11,217"
-2007,Neb.-Omaha,464,Colorado,157,10/13/2006,2,2,Neutral,"Anchorage, Alaska",1 OT,"2,250"
-2007,Neb.-Omaha,464,Alas. Anchorage,11,10/14/2006,2,2,Away,"",1 OT,"3,942"
-2007,Neb.-Omaha,464,Niagara,482,10/20/2006,10,1,Home,"",-,"5,066"
-2007,Neb.-Omaha,464,Northern Mich.,506,10/21/2006,2,5,Home,"",-,"5,187"
-2007,Neb.-Omaha,464,Western Mich.,774,10/27/2006,7,5,Home,"",-,"4,487"
-2007,Neb.-Omaha,464,Western Mich.,774,10/28/2006,6,0,Home,"",-,"4,145"
-2007,Neb.-Omaha,464,Alas. Fairbanks,12,11/03/2006,5,5,Home,"",1 OT,"5,007"
-2007,Neb.-Omaha,464,Alas. Fairbanks,12,11/04/2006,3,4,Home,"",-,"5,158"
-2007,Neb.-Omaha,464,Michigan,418,11/10/2006,4,6,Away,"",-,"6,048"
-2007,Neb.-Omaha,464,Michigan,418,11/11/2006,1,5,Away,"",-,"6,237"
-2007,Neb.-Omaha,464,Miami (OH),414,11/17/2006,3,7,Away,"",-,"3,642"
-2007,Neb.-Omaha,464,Miami (OH),414,11/18/2006,1,2,Away,"",-,"3,072"
-2007,Neb.-Omaha,464,Minn. St. Mankato,383,11/21/2006,4,4,Away,"",1 OT,"3,305"
-2007,Neb.-Omaha,464,Notre Dame,513,11/24/2006,2,4,Home,"",-,"6,039"
-2007,Neb.-Omaha,464,Notre Dame,513,11/25/2006,3,2,Home,"",-,"7,178"
-2007,Neb.-Omaha,464,Bowling Green,71,12/01/2006,4,1,Away,"",-,"1,635"
-2007,Neb.-Omaha,464,Bowling Green,71,12/02/2006,7,1,Away,"",-,"1,493"
-2007,Neb.-Omaha,464,Bentley,56,12/08/2006,5,2,Home,"",-,"4,243"
-2007,Neb.-Omaha,464,Bentley,56,12/10/2006,7,2,Home,"",-,"3,405"
-2007,Neb.-Omaha,464,Princeton,554,12/29/2006,2,3,Away,"",1 OT,"1,196"
-2007,Neb.-Omaha,464,Yale,813,12/30/2006,4,4,Away,"",1 OT,"2,522"
-2007,Neb.-Omaha,464,Lake Superior St.,345,01/05/2007,4,4,Away,"",1 OT,"1,840"
-2007,Neb.-Omaha,464,Lake Superior St.,345,01/06/2007,2,3,Away,"",1 OT,"1,780"
-2007,Neb.-Omaha,464,Bowling Green,71,01/12/2007,2,1,Home,"",-,"5,201"
-2007,Neb.-Omaha,464,Bowling Green,71,01/13/2007,7,0,Home,"",-,"5,516"
-2007,Neb.-Omaha,464,Minn. St. Mankato,383,01/16/2007,2,3,Home,"",1 OT,"2,766"
-2007,Neb.-Omaha,464,Ferris St.,224,01/19/2007,3,1,Away,"",-,"1,369"
-2007,Neb.-Omaha,464,Ferris St.,224,01/20/2007,3,6,Away,"",-,"1,533"
-2007,Neb.-Omaha,464,Northern Mich.,506,01/26/2007,5,2,Home,"",-,"5,594"
-2007,Neb.-Omaha,464,Northern Mich.,506,01/27/2007,6,1,Home,"",-,"6,508"
-2007,Neb.-Omaha,464,Michigan St.,416,02/02/2007,1,5,Home,"",-,"7,317"
-2007,Neb.-Omaha,464,Michigan St.,416,02/03/2007,3,3,Home,"",1 OT,"8,578"
-2007,Neb.-Omaha,464,Notre Dame,513,02/09/2007,2,4,Away,"",-,"2,763"
-2007,Neb.-Omaha,464,Notre Dame,513,02/10/2007,2,2,Away,"",1 OT,"2,763"
-2007,Neb.-Omaha,464,Ohio St.,518,02/16/2007,3,4,Home,"",-,"7,814"
-2007,Neb.-Omaha,464,Ohio St.,518,02/17/2007,2,1,Home,"",1 OT,"7,864"
-2007,Neb.-Omaha,464,Alas. Fairbanks,12,02/23/2007,4,3,Away,"",-,"3,260"
-2007,Neb.-Omaha,464,Alas. Fairbanks,12,02/24/2007,5,3,Away,"",-,"3,623"
-2007,Neb.-Omaha,464,Bowling Green,71,03/02/2007,3,2,Home,"",1 OT,"4,125"
-2007,Neb.-Omaha,464,Bowling Green,71,03/03/2007,7,5,Home,"",-,"5,957"
-2007,Neb.-Omaha,464,Michigan St.,416,03/09/2007,2,4,Away,"",-,"3,719"
-2007,Neb.-Omaha,464,Michigan St.,416,03/10/2007,1,4,Away,"",-,"3,819"
+2007,MSOE,20220,Lake Forest,344,10/27/2006,9,0,Away,"",-,650
+2007,MSOE,20220,Lake Forest,344,10/28/2006,3,4,Home,"",-,"1,100"
+2007,MSOE,20220,Marian (WI),1196,11/03/2006,3,3,Home,"",1 OT,800
+2007,MSOE,20220,Marian (WI),1196,11/04/2006,4,2,Away,"",-,269
+2007,MSOE,20220,Minn.-Crookston,27854,11/10/2006,3,2,Home,"",-,500
+2007,MSOE,20220,Minn.-Crookston,27854,11/11/2006,5,1,Home,"",-,272
+2007,MSOE,20220,Gust. Adolphus,266,11/25/2006,9,6,Home,"",-,250
+2007,MSOE,20220,Neumann,1254,11/26/2006,0,9,Home,"",-,200
+2007,MSOE,20220,Northland,1267,12/01/2006,3,0,Home,"",-,500
+2007,MSOE,20220,Northland,1267,12/02/2006,8,2,Home,"",-,350
+2007,MSOE,20220,Lawrence,348,12/08/2006,3,0,Home,"",-,500
+2007,MSOE,20220,Lawrence,348,12/09/2006,5,1,Away,"",-,412
+2007,MSOE,20220,St. Norbert,614,01/06/2007,2,5,Away,"",-,"1,948"
+2007,MSOE,20220,Finlandia,,01/12/2007,2,1,Home,"",-,519
+2007,MSOE,20220,Finlandia,,01/13/2007,1,6,Home,"",-,500
+2007,MSOE,20220,Minn.-Crookston,27854,01/19/2007,5,2,Away,"",-,300
+2007,MSOE,20220,Minn.-Crookston,27854,01/20/2007,5,0,Away,"",-,255
+2007,MSOE,20220,Marian (WI),1196,01/26/2007,2,2,Away,"",1 OT,332
+2007,MSOE,20220,Marian (WI),1196,01/27/2007,7,3,Home,"",-,522
+2007,MSOE,20220,Northland,1267,02/02/2007,12,1,Away,"",-,120
+2007,MSOE,20220,Northland,1267,02/03/2007,5,2,Away,"",-,100
+2007,MSOE,20220,Lawrence,348,02/09/2007,2,1,Home,"",-,552
+2007,MSOE,20220,Lawrence,348,02/10/2007,7,1,Away,"",-,441
+2007,MSOE,20220,Finlandia,,02/16/2007,4,11,Away,"",-,350
+2007,MSOE,20220,Finlandia,,02/17/2007,3,2,Away,"",-,255
+2007,MSOE,20220,Lawrence,348,03/03/2007,4,0,Neutral,"Hancock, MI",-,125
+2007,MSOE,20220,Finlandia,,03/04/2007,3,4,Home,"",-,"1,000"
 2007,Neumann,1254,SUNY Potsdam,552,10/21/2006,6,2,Away,"",-,0
 2007,Neumann,1254,SUNY Potsdam,552,10/22/2006,6,3,Away,"",-,0
 2007,Neumann,1254,SUNY Geneseo,247,10/27/2006,6,2,Away,"",-,0
@@ -2614,6 +2445,48 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2007,Ohio St.,518,Northern Mich.,506,03/02/2007,6,2,Home,"",-,779
 2007,Ohio St.,518,Northern Mich.,506,03/03/2007,2,3,Home,"",1 OT,800
 2007,Ohio St.,518,Northern Mich.,506,03/04/2007,2,3,Home,"",-,800
+2007,Omaha,464,Colorado,157,10/13/2006,2,2,Neutral,"Anchorage, Alaska",1 OT,"2,250"
+2007,Omaha,464,Alas. Anchorage,11,10/14/2006,2,2,Away,"",1 OT,"3,942"
+2007,Omaha,464,Niagara,482,10/20/2006,10,1,Home,"",-,"5,066"
+2007,Omaha,464,Northern Mich.,506,10/21/2006,2,5,Home,"",-,"5,187"
+2007,Omaha,464,Western Mich.,774,10/27/2006,7,5,Home,"",-,"4,487"
+2007,Omaha,464,Western Mich.,774,10/28/2006,6,0,Home,"",-,"4,145"
+2007,Omaha,464,Alas. Fairbanks,12,11/03/2006,5,5,Home,"",1 OT,"5,007"
+2007,Omaha,464,Alas. Fairbanks,12,11/04/2006,3,4,Home,"",-,"5,158"
+2007,Omaha,464,Michigan,418,11/10/2006,4,6,Away,"",-,"6,048"
+2007,Omaha,464,Michigan,418,11/11/2006,1,5,Away,"",-,"6,237"
+2007,Omaha,464,Miami (OH),414,11/17/2006,3,7,Away,"",-,"3,642"
+2007,Omaha,464,Miami (OH),414,11/18/2006,1,2,Away,"",-,"3,072"
+2007,Omaha,464,Minn. St. Mankato,383,11/21/2006,4,4,Away,"",1 OT,"3,305"
+2007,Omaha,464,Notre Dame,513,11/24/2006,2,4,Home,"",-,"6,039"
+2007,Omaha,464,Notre Dame,513,11/25/2006,3,2,Home,"",-,"7,178"
+2007,Omaha,464,Bowling Green,71,12/01/2006,4,1,Away,"",-,"1,635"
+2007,Omaha,464,Bowling Green,71,12/02/2006,7,1,Away,"",-,"1,493"
+2007,Omaha,464,Bentley,56,12/08/2006,5,2,Home,"",-,"4,243"
+2007,Omaha,464,Bentley,56,12/10/2006,7,2,Home,"",-,"3,405"
+2007,Omaha,464,Princeton,554,12/29/2006,2,3,Away,"",1 OT,"1,196"
+2007,Omaha,464,Yale,813,12/30/2006,4,4,Away,"",1 OT,"2,522"
+2007,Omaha,464,Lake Superior St.,345,01/05/2007,4,4,Away,"",1 OT,"1,840"
+2007,Omaha,464,Lake Superior St.,345,01/06/2007,2,3,Away,"",1 OT,"1,780"
+2007,Omaha,464,Bowling Green,71,01/12/2007,2,1,Home,"",-,"5,201"
+2007,Omaha,464,Bowling Green,71,01/13/2007,7,0,Home,"",-,"5,516"
+2007,Omaha,464,Minn. St. Mankato,383,01/16/2007,2,3,Home,"",1 OT,"2,766"
+2007,Omaha,464,Ferris St.,224,01/19/2007,3,1,Away,"",-,"1,369"
+2007,Omaha,464,Ferris St.,224,01/20/2007,3,6,Away,"",-,"1,533"
+2007,Omaha,464,Northern Mich.,506,01/26/2007,5,2,Home,"",-,"5,594"
+2007,Omaha,464,Northern Mich.,506,01/27/2007,6,1,Home,"",-,"6,508"
+2007,Omaha,464,Michigan St.,416,02/02/2007,1,5,Home,"",-,"7,317"
+2007,Omaha,464,Michigan St.,416,02/03/2007,3,3,Home,"",1 OT,"8,578"
+2007,Omaha,464,Notre Dame,513,02/09/2007,2,4,Away,"",-,"2,763"
+2007,Omaha,464,Notre Dame,513,02/10/2007,2,2,Away,"",1 OT,"2,763"
+2007,Omaha,464,Ohio St.,518,02/16/2007,3,4,Home,"",-,"7,814"
+2007,Omaha,464,Ohio St.,518,02/17/2007,2,1,Home,"",1 OT,"7,864"
+2007,Omaha,464,Alas. Fairbanks,12,02/23/2007,4,3,Away,"",-,"3,260"
+2007,Omaha,464,Alas. Fairbanks,12,02/24/2007,5,3,Away,"",-,"3,623"
+2007,Omaha,464,Bowling Green,71,03/02/2007,3,2,Home,"",1 OT,"4,125"
+2007,Omaha,464,Bowling Green,71,03/03/2007,7,5,Home,"",-,"5,957"
+2007,Omaha,464,Michigan St.,416,03/09/2007,2,4,Away,"",-,"3,719"
+2007,Omaha,464,Michigan St.,416,03/10/2007,1,4,Away,"",-,"3,819"
 2007,Oswego St.,530,Morrisville St.,30067,10/15/2006,9,1,Away,"",-,800
 2007,Oswego St.,530,Utica,733,10/20/2006,4,3,Home,"",-,"2,980"
 2007,Oswego St.,530,Elmira,213,10/27/2006,2,1,Away,"",-,"1,944"
@@ -2948,6 +2821,56 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2007,Sacred Heart,590,Army,725,02/24/2007,2,4,Home,"",-,656
 2007,Sacred Heart,590,American Int'l,22,03/10/2007,4,0,Home,"",-,383
 2007,Sacred Heart,590,Air Force,721,03/16/2007,4,5,Neutral,"Rochester, NY",1 OT,780
+2007,Saint John's (MN),602,Lake Forest,344,11/03/2006,8,5,Away,"",-,200
+2007,Saint John's (MN),602,St. Norbert,614,11/04/2006,1,5,Away,"",-,752
+2007,Saint John's (MN),602,Wis.-Stout,803,11/10/2006,0,2,Home,"",-,"1,001"
+2007,Saint John's (MN),602,Wis.-River Falls,801,11/11/2006,1,4,Away,"",-,865
+2007,Saint John's (MN),602,Hamline,268,11/18/2006,1,2,Away,"",-,248
+2007,Saint John's (MN),602,Hamline,268,11/19/2006,7,2,Home,"",-,302
+2007,Saint John's (MN),602,Gust. Adolphus,266,11/21/2006,3,1,Away,"",-,301
+2007,Saint John's (MN),602,Saint Mary's (MN),612,12/02/2006,1,2,Home,"",-,378
+2007,Saint John's (MN),602,Saint Mary's (MN),612,12/03/2006,6,3,Home,"",-,387
+2007,Saint John's (MN),602,St. Olaf,615,12/09/2006,1,3,Away,"",-,316
+2007,Saint John's (MN),602,St. Olaf,615,12/10/2006,1,2,Home,"",1 OT,407
+2007,Saint John's (MN),602,Wis.-Stevens Point,802,01/05/2007,5,2,Away,"",-,615
+2007,Saint John's (MN),602,Wis.-Eau Claire,793,01/06/2007,1,3,Away,"",-,457
+2007,Saint John's (MN),602,St. Scholastica,618,01/13/2007,1,1,Home,"",1 OT,198
+2007,Saint John's (MN),602,Wis.-Superior,804,01/14/2007,2,5,Home,"",-,247
+2007,Saint John's (MN),602,Bethel (MN),60,01/19/2007,0,5,Away,"",-,947
+2007,Saint John's (MN),602,Bethel (MN),60,01/20/2007,3,1,Home,"",-,317
+2007,Saint John's (MN),602,St. Thomas (MN),620,01/26/2007,2,1,Away,"",-,855
+2007,Saint John's (MN),602,St. Thomas (MN),620,01/27/2007,3,4,Home,"",1 OT,"1,312"
+2007,Saint John's (MN),602,Augsburg,38,02/02/2007,3,4,Away,"",1 OT,315
+2007,Saint John's (MN),602,Augsburg,38,02/03/2007,2,5,Home,"",-,213
+2007,Saint John's (MN),602,Gust. Adolphus,266,02/16/2007,3,3,Away,"",1 OT,638
+2007,Saint John's (MN),602,Gust. Adolphus,266,02/17/2007,6,5,Home,"",1 OT,811
+2007,Saint John's (MN),602,Concordia-M'head,161,02/23/2007,3,6,Away,"",-,174
+2007,Saint John's (MN),602,Concordia-M'head,161,02/24/2007,3,1,Away,"",-,117
+2007,Saint Mary's (MN),612,Wis.-Stevens Point,802,11/03/2006,3,5,Home,"",-,556
+2007,Saint Mary's (MN),612,Wis.-Eau Claire,793,11/04/2006,5,6,Away,"",-,350
+2007,Saint Mary's (MN),612,Lake Forest,344,11/10/2006,4,2,Home,"",-,412
+2007,Saint Mary's (MN),612,St. Norbert,614,11/11/2006,2,7,Home,"",-,420
+2007,Saint Mary's (MN),612,Augsburg,38,11/17/2006,2,4,Away,"",-,270
+2007,Saint Mary's (MN),612,Augsburg,38,11/18/2006,3,3,Home,"",1 OT,313
+2007,Saint Mary's (MN),612,Northland,1267,11/21/2006,6,2,Home,"",-,77
+2007,Saint Mary's (MN),612,Saint John's (MN),602,12/02/2006,2,1,Away,"",-,378
+2007,Saint Mary's (MN),612,Saint John's (MN),602,12/03/2006,3,6,Away,"",-,387
+2007,Saint Mary's (MN),612,Gust. Adolphus,266,12/08/2006,1,2,Home,"",1 OT,433
+2007,Saint Mary's (MN),612,Gust. Adolphus,266,12/09/2006,0,2,Away,"",-,439
+2007,Saint Mary's (MN),612,Wis.-River Falls,801,12/12/2006,2,10,Away,"",-,530
+2007,Saint Mary's (MN),612,St. Scholastica,618,01/06/2007,3,1,Away,"",-,238
+2007,Saint Mary's (MN),612,Wis.-Stout,803,01/12/2007,1,4,Away,"",-,250
+2007,Saint Mary's (MN),612,Wis.-River Falls,801,01/13/2007,2,5,Home,"",-,412
+2007,Saint Mary's (MN),612,Concordia-M'head,161,01/19/2007,6,3,Home,"",-,250
+2007,Saint Mary's (MN),612,Concordia-M'head,161,01/20/2007,7,1,Home,"",-,231
+2007,Saint Mary's (MN),612,Hamline,268,01/26/2007,5,4,Home,"",1 OT,575
+2007,Saint Mary's (MN),612,Hamline,268,01/27/2007,2,4,Away,"",-,275
+2007,Saint Mary's (MN),612,St. Olaf,615,02/09/2007,2,3,Away,"",-,423
+2007,Saint Mary's (MN),612,St. Olaf,615,02/10/2007,3,4,Home,"",-,371
+2007,Saint Mary's (MN),612,Bethel (MN),60,02/16/2007,2,3,Home,"",-,471
+2007,Saint Mary's (MN),612,Bethel (MN),60,02/17/2007,1,3,Away,"",-,"1,001"
+2007,Saint Mary's (MN),612,St. Thomas (MN),620,02/23/2007,4,6,Home,"",-,471
+2007,Saint Mary's (MN),612,St. Thomas (MN),620,02/26/2007,3,5,Away,"",-,205
 2007,Salem St.,621,Trinity (CT),713,01/05/2006,0,4,Away,"",-,0
 2007,Salem St.,621,Norwich,511,11/17/2006,1,5,Away,"",-,0
 2007,Salem St.,621,Saint Michael's,613,11/18/2006,8,1,Away,"",-,0
@@ -3091,31 +3014,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2007,St. Cloud St.,598,North Dakota,494,03/16/2007,2,6,Neutral,"St. Paul, MN",-,"17,511"
 2007,St. Cloud St.,598,Wisconsin,796,03/17/2007,3,4,Neutral,"St. Paul, MN",1 OT,"16,118"
 2007,St. Cloud St.,598,Maine,380,03/23/2007,1,4,Neutral,"Rochester, N.Y.",-,"3,887"
-2007,St. Johns (MN),602,Lake Forest,344,11/03/2006,8,5,Away,"",-,200
-2007,St. Johns (MN),602,St. Norbert,614,11/04/2006,1,5,Away,"",-,752
-2007,St. Johns (MN),602,Wis.-Stout,803,11/10/2006,0,2,Home,"",-,"1,001"
-2007,St. Johns (MN),602,Wis.-River Falls,801,11/11/2006,1,4,Away,"",-,865
-2007,St. Johns (MN),602,Hamline,268,11/18/2006,1,2,Away,"",-,248
-2007,St. Johns (MN),602,Hamline,268,11/19/2006,7,2,Home,"",-,302
-2007,St. Johns (MN),602,Gust. Adolphus,266,11/21/2006,3,1,Away,"",-,301
-2007,St. Johns (MN),602,Saint Mary's (MN),612,12/02/2006,1,2,Home,"",-,378
-2007,St. Johns (MN),602,Saint Mary's (MN),612,12/03/2006,6,3,Home,"",-,387
-2007,St. Johns (MN),602,St. Olaf,615,12/09/2006,1,3,Away,"",-,316
-2007,St. Johns (MN),602,St. Olaf,615,12/10/2006,1,2,Home,"",1 OT,407
-2007,St. Johns (MN),602,Wis.-Stevens Point,802,01/05/2007,5,2,Away,"",-,615
-2007,St. Johns (MN),602,Wis.-Eau Claire,793,01/06/2007,1,3,Away,"",-,457
-2007,St. Johns (MN),602,St. Scholastica,618,01/13/2007,1,1,Home,"",1 OT,198
-2007,St. Johns (MN),602,Wis.-Superior,804,01/14/2007,2,5,Home,"",-,247
-2007,St. Johns (MN),602,Bethel (MN),60,01/19/2007,0,5,Away,"",-,947
-2007,St. Johns (MN),602,Bethel (MN),60,01/20/2007,3,1,Home,"",-,317
-2007,St. Johns (MN),602,St. Thomas (MN),620,01/26/2007,2,1,Away,"",-,855
-2007,St. Johns (MN),602,St. Thomas (MN),620,01/27/2007,3,4,Home,"",1 OT,"1,312"
-2007,St. Johns (MN),602,Augsburg,38,02/02/2007,3,4,Away,"",1 OT,315
-2007,St. Johns (MN),602,Augsburg,38,02/03/2007,2,5,Home,"",-,213
-2007,St. Johns (MN),602,Gust. Adolphus,266,02/16/2007,3,3,Away,"",1 OT,638
-2007,St. Johns (MN),602,Gust. Adolphus,266,02/17/2007,6,5,Home,"",1 OT,811
-2007,St. Johns (MN),602,Concordia-M'head,161,02/23/2007,3,6,Away,"",-,174
-2007,St. Johns (MN),602,Concordia-M'head,161,02/24/2007,3,1,Away,"",-,117
 2007,St. Lawrence,607,Rochester Inst.,580,10/06/2006,4,3,Home,"",-,"2,655"
 2007,St. Lawrence,607,Niagara,482,10/07/2006,3,4,Home,"",-,"2,474"
 2007,St. Lawrence,607,Providence,556,10/14/2006,2,4,Away,"",-,"2,052"
@@ -3155,31 +3053,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2007,St. Lawrence,607,Quinnipiac,562,03/16/2007,0,4,Neutral,"Albany, N.Y.",-,0
 2007,St. Lawrence,607,Dartmouth,172,03/17/2007,5,3,Neutral,"Albany, N.Y.",-,0
 2007,St. Lawrence,607,Boston College,67,03/24/2007,1,4,Neutral,"Manchester, NH",-,"9,015"
-2007,St. Marys (MN),612,Wis.-Stevens Point,802,11/03/2006,3,5,Home,"",-,556
-2007,St. Marys (MN),612,Wis.-Eau Claire,793,11/04/2006,5,6,Away,"",-,350
-2007,St. Marys (MN),612,Lake Forest,344,11/10/2006,4,2,Home,"",-,412
-2007,St. Marys (MN),612,St. Norbert,614,11/11/2006,2,7,Home,"",-,420
-2007,St. Marys (MN),612,Augsburg,38,11/17/2006,2,4,Away,"",-,270
-2007,St. Marys (MN),612,Augsburg,38,11/18/2006,3,3,Home,"",1 OT,313
-2007,St. Marys (MN),612,Northland,1267,11/21/2006,6,2,Home,"",-,77
-2007,St. Marys (MN),612,Saint John's (MN),602,12/02/2006,2,1,Away,"",-,378
-2007,St. Marys (MN),612,Saint John's (MN),602,12/03/2006,3,6,Away,"",-,387
-2007,St. Marys (MN),612,Gust. Adolphus,266,12/08/2006,1,2,Home,"",1 OT,433
-2007,St. Marys (MN),612,Gust. Adolphus,266,12/09/2006,0,2,Away,"",-,439
-2007,St. Marys (MN),612,Wis.-River Falls,801,12/12/2006,2,10,Away,"",-,530
-2007,St. Marys (MN),612,St. Scholastica,618,01/06/2007,3,1,Away,"",-,238
-2007,St. Marys (MN),612,Wis.-Stout,803,01/12/2007,1,4,Away,"",-,250
-2007,St. Marys (MN),612,Wis.-River Falls,801,01/13/2007,2,5,Home,"",-,412
-2007,St. Marys (MN),612,Concordia-M'head,161,01/19/2007,6,3,Home,"",-,250
-2007,St. Marys (MN),612,Concordia-M'head,161,01/20/2007,7,1,Home,"",-,231
-2007,St. Marys (MN),612,Hamline,268,01/26/2007,5,4,Home,"",1 OT,575
-2007,St. Marys (MN),612,Hamline,268,01/27/2007,2,4,Away,"",-,275
-2007,St. Marys (MN),612,St. Olaf,615,02/09/2007,2,3,Away,"",-,423
-2007,St. Marys (MN),612,St. Olaf,615,02/10/2007,3,4,Home,"",-,371
-2007,St. Marys (MN),612,Bethel (MN),60,02/16/2007,2,3,Home,"",-,471
-2007,St. Marys (MN),612,Bethel (MN),60,02/17/2007,1,3,Away,"",-,"1,001"
-2007,St. Marys (MN),612,St. Thomas (MN),620,02/23/2007,4,6,Home,"",-,471
-2007,St. Marys (MN),612,St. Thomas (MN),620,02/26/2007,3,5,Away,"",-,205
 2007,St. Norbert,614,Marian (WI),1196,10/24/2006,4,1,Away,"",-,298
 2007,St. Norbert,614,Buffalo St.,85,10/27/2006,8,1,Away,"",-,412
 2007,St. Norbert,614,Fredonia St.,242,10/28/2006,2,2,Away,"",1 OT,538
@@ -3443,6 +3316,133 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2007,Tufts,717,Southern Me.,662,02/10/2007,4,8,Home,"",-,200
 2007,Tufts,717,Babson,45,02/16/2007,2,7,Away,"",-,200
 2007,Tufts,717,Mass.-Boston,401,02/17/2007,3,4,Away,"",-,201
+2007,UConn,164,Bowling Green,71,10/13/2006,1,2,Away,"",1 OT,"2,357"
+2007,UConn,164,Michigan,418,10/14/2006,5,7,Away,"",-,"5,210"
+2007,UConn,164,Army,725,10/20/2006,4,5,Home,"",-,633
+2007,UConn,164,Army,725,10/21/2006,3,7,Home,"",-,615
+2007,UConn,164,Mercyhurst,408,10/27/2006,2,6,Away,"",-,"1,013"
+2007,UConn,164,Mercyhurst,408,10/28/2006,5,4,Away,"",1 OT,"1,038"
+2007,UConn,164,Bentley,56,11/03/2006,1,3,Away,"",-,480
+2007,UConn,164,Bentley,56,11/04/2006,6,2,Home,"",-,781
+2007,UConn,164,American Int'l,22,11/10/2006,4,3,Home,"",-,749
+2007,UConn,164,Yale,813,11/11/2006,2,3,Away,"",-,"2,223"
+2007,UConn,164,Massachusetts,400,11/18/2006,1,8,Away,"",-,"4,123"
+2007,UConn,164,Holy Cross,285,11/21/2006,3,7,Away,"",-,864
+2007,UConn,164,Sacred Heart,590,11/25/2006,4,1,Home,"",-,683
+2007,UConn,164,Sacred Heart,590,11/26/2006,2,3,Away,"",-,407
+2007,UConn,164,Air Force,721,12/07/2006,2,4,Home,"",-,616
+2007,UConn,164,Air Force,721,12/08/2006,7,5,Home,"",-,"1,199"
+2007,UConn,164,Union (NY),727,12/17/2006,2,7,Home,"",-,639
+2007,UConn,164,Holy Cross,285,12/29/2006,2,1,Home,"",-,"1,147"
+2007,UConn,164,Colgate,153,12/30/2006,1,3,Home,"",-,"1,047"
+2007,UConn,164,American Int'l,22,01/06/2007,5,4,Away,"",-,166
+2007,UConn,164,Canisius,116,01/12/2007,3,4,Home,"",1 OT,627
+2007,UConn,164,Canisius,116,01/13/2007,4,3,Home,"",-,741
+2007,UConn,164,Rochester Inst.,580,01/19/2007,4,3,Away,"",1 OT,"2,100"
+2007,UConn,164,Rochester Inst.,580,01/20/2007,2,4,Away,"",-,"1,971"
+2007,UConn,164,Army,725,01/26/2007,2,2,Away,"",1 OT,"2,120"
+2007,UConn,164,Army,725,01/27/2007,0,3,Away,"",-,"2,561"
+2007,UConn,164,Sacred Heart,590,02/02/2007,2,1,Away,"",-,389
+2007,UConn,164,Sacred Heart,590,02/03/2007,4,1,Home,"",-,933
+2007,UConn,164,Bentley,56,02/09/2007,4,3,Home,"",-,"1,511"
+2007,UConn,164,Bentley,56,02/10/2007,2,1,Away,"",-,424
+2007,UConn,164,American Int'l,22,02/16/2007,2,3,Away,"",1 OT,199
+2007,UConn,164,American Int'l,22,02/17/2007,2,2,Home,"",1 OT,806
+2007,UConn,164,Holy Cross,285,02/23/2007,4,2,Home,"",-,"1,417"
+2007,UConn,164,Holy Cross,285,02/24/2007,5,2,Away,"",-,"1,052"
+2007,UConn,164,Mercyhurst,408,03/10/2007,5,4,Home,"",-,874
+2007,UConn,164,Army,725,03/16/2007,1,3,Neutral,"Rochester, NY",-,780
+2007,UMass Boston,401,Bowdoin,69,11/17/2006,1,6,Away,"",-,"1,526"
+2007,UMass Boston,401,Colby,151,11/18/2006,2,8,Away,"",-,500
+2007,UMass Boston,401,Wentworth Inst.,762,11/21/2006,3,3,Home,"",1 OT,194
+2007,UMass Boston,401,Framingham St.,238,11/28/2006,1,2,Home,"",-,172
+2007,UMass Boston,401,Trinity (CT),713,12/01/2006,1,4,Home,"",-,290
+2007,UMass Boston,401,Wesleyan (CT),764,12/02/2006,1,4,Home,"",-,189
+2007,UMass Boston,401,Babson,45,12/06/2006,2,4,Away,"",-,150
+2007,UMass Boston,401,Becker,26107,12/09/2006,2,0,Home,"",-,170
+2007,UMass Boston,401,Suffolk,684,12/28/2006,4,2,Home,"",-,158
+2007,UMass Boston,401,Skidmore,642,12/29/2006,0,5,Home,"",-,364
+2007,UMass Boston,401,Hamilton,267,01/05/2007,2,1,Home,"",-,166
+2007,UMass Boston,401,Amherst,24,01/06/2007,1,5,Home,"",-,138
+2007,UMass Boston,401,Norwich,511,01/12/2007,0,4,Away,"",-,"1,400"
+2007,UMass Boston,401,Saint Michael's,613,01/13/2007,5,4,Away,"",-,145
+2007,UMass Boston,401,Mass.-Dartmouth,656,01/16/2007,0,3,Home,"",-,140
+2007,UMass Boston,401,Southern Me.,662,01/19/2007,2,7,Home,"",-,166
+2007,UMass Boston,401,Salem St.,621,01/20/2007,4,6,Home,"",-,148
+2007,UMass Boston,401,Castleton,123,01/26/2007,2,5,Away,"",-,843
+2007,UMass Boston,401,Skidmore,642,01/27/2007,2,4,Away,"",-,720
+2007,UMass Boston,401,St. Anselm,593,02/02/2007,0,2,Home,"",-,219
+2007,UMass Boston,401,New England Col.,467,02/03/2007,3,8,Home,"",-,132
+2007,UMass Boston,401,Middlebury,420,02/09/2007,0,8,Away,"",-,"1,250"
+2007,UMass Boston,401,Williams,789,02/10/2007,2,5,Away,"",-,152
+2007,UMass Boston,401,Connecticut Col.,163,02/16/2007,2,4,Home,"",-,188
+2007,UMass Boston,401,Tufts,717,02/17/2007,4,3,Home,"",-,201
+2007,UMass Boston,401,Norwich,511,02/24/2007,2,8,Away,"",-,"1,850"
+2007,UMass Dartmouth,656,Lebanon Valley,351,11/10/2006,4,2,Home,"",-,571
+2007,UMass Dartmouth,656,Becker,26107,11/11/2006,8,0,Home,"",-,193
+2007,UMass Dartmouth,656,Stonehill,682,11/15/2006,5,2,Home,"",-,318
+2007,UMass Dartmouth,656,Plymouth St.,548,11/18/2006,5,4,Away,"",1 OT,350
+2007,UMass Dartmouth,656,Worcester St.,809,11/21/2006,6,2,Away,"",-,100
+2007,UMass Dartmouth,656,Babson,45,11/25/2006,7,2,Away,"",-,150
+2007,UMass Dartmouth,656,SUNY Geneseo,247,11/26/2006,6,2,Neutral,"Babson Park, MA",-,150
+2007,UMass Dartmouth,656,Fitchburg St.,227,11/29/2006,7,3,Home,"",-,337
+2007,UMass Dartmouth,656,Curry,170,11/30/2006,3,2,Home,"",-,663
+2007,UMass Dartmouth,656,Tufts,717,12/05/2006,7,2,Home,"",-,188
+2007,UMass Dartmouth,656,Wesleyan (CT),764,12/09/2006,1,1,Home,"",1 OT,300
+2007,UMass Dartmouth,656,Connecticut,164,12/12/2006,3,4,Away,"",-,150
+2007,UMass Dartmouth,656,Assumption,36,01/06/2007,5,1,Home,"",-,178
+2007,UMass Dartmouth,656,Salve Regina,623,01/11/2007,7,2,Home,"",-,146
+2007,UMass Dartmouth,656,Western New Eng.,775,01/13/2007,8,1,Home,"",-,127
+2007,UMass Dartmouth,656,Mass.-Boston,401,01/16/2007,3,0,Away,"",-,140
+2007,UMass Dartmouth,656,Southern N.H.,468,01/20/2007,5,3,Away,"",-,256
+2007,UMass Dartmouth,656,Suffolk,684,01/24/2007,5,2,Away,"",-,125
+2007,UMass Dartmouth,656,Fitchburg St.,227,01/27/2007,3,0,Away,"",-,300
+2007,UMass Dartmouth,656,Salve Regina,623,01/31/2007,3,2,Away,"",-,131
+2007,UMass Dartmouth,656,Franklin Pierce,241,02/03/2007,7,0,Home,"",-,230
+2007,UMass Dartmouth,656,Wentworth Inst.,762,02/06/2007,2,5,Away,"",-,300
+2007,UMass Dartmouth,656,Framingham St.,238,02/10/2007,4,1,Away,"",-,200
+2007,UMass Dartmouth,656,Johnson & Wales (RI),22626,02/17/2007,6,1,Away,"",-,240
+2007,UMass Dartmouth,656,Nichols,484,02/20/2007,6,3,Home,"",-,217
+2007,UMass Dartmouth,656,Salve Regina,623,02/24/2007,9,2,Home,"",-,"1,027"
+2007,UMass Dartmouth,656,Fitchburg St.,227,02/28/2007,7,3,Home,"",-,"1,141"
+2007,UMass Dartmouth,656,Wentworth Inst.,762,03/03/2007,4,3,Home,"",-,"1,637"
+2007,UMass Dartmouth,656,Middlebury,420,03/10/2007,2,3,Away,"",-,"2,440"
+2007,UMass Lowell,368,Minn. Duluth,427,10/13/2006,3,3,Away,"",1 OT,"4,048"
+2007,UMass Lowell,368,Minn. Duluth,427,10/14/2006,3,7,Away,"",-,"4,002"
+2007,UMass Lowell,368,Northern Mich.,506,10/20/2006,1,2,Neutral,"Omaha, NE",-,"1,000"
+2007,UMass Lowell,368,Niagara,482,10/21/2006,7,4,Neutral,"Omaha, NE",-,"1,000"
+2007,UMass Lowell,368,Boston U.,68,10/27/2006,2,1,Away,"",-,"5,805"
+2007,UMass Lowell,368,Providence,556,10/28/2006,2,2,Home,"",1 OT,"2,028"
+2007,UMass Lowell,368,Boston U.,68,11/03/2006,1,1,Home,"",1 OT,"4,233"
+2007,UMass Lowell,368,Merrimack,410,11/04/2006,5,0,Home,"",-,"1,922"
+2007,UMass Lowell,368,Maine,380,11/10/2006,1,4,Away,"",-,"5,450"
+2007,UMass Lowell,368,New Hampshire,469,11/17/2006,2,5,Home,"",-,"3,603"
+2007,UMass Lowell,368,New Hampshire,469,11/18/2006,0,4,Away,"",-,"6,501"
+2007,UMass Lowell,368,Providence,556,11/24/2006,2,4,Away,"",-,"1,703"
+2007,UMass Lowell,368,Vermont,738,12/01/2006,1,2,Home,"",-,"3,295"
+2007,UMass Lowell,368,New Hampshire,469,12/06/2006,2,4,Home,"",-,"2,535"
+2007,UMass Lowell,368,St. Lawrence,607,12/10/2006,3,3,Home,"",1 OT,"1,941"
+2007,UMass Lowell,368,Union (NY),727,12/15/2006,3,4,Away,"",-,"1,141"
+2007,UMass Lowell,368,Rensselaer,570,12/16/2006,1,2,Away,"",-,"2,812"
+2007,UMass Lowell,368,Brown,80,12/29/2006,1,1,Neutral,"Denver, CO",1 OT,"3,000"
+2007,UMass Lowell,368,Denver,183,12/30/2006,1,2,Away,"",-,"6,035"
+2007,UMass Lowell,368,Maine,380,01/05/2007,2,4,Home,"",-,"3,107"
+2007,UMass Lowell,368,Maine,380,01/06/2007,2,5,Home,"",-,"3,230"
+2007,UMass Lowell,368,Massachusetts,400,01/12/2007,1,5,Away,"",-,"2,631"
+2007,UMass Lowell,368,Providence,556,01/13/2007,2,3,Home,"",1 OT,"3,363"
+2007,UMass Lowell,368,Northeastern,500,01/19/2007,2,6,Home,"",-,"1,769"
+2007,UMass Lowell,368,Northeastern,500,01/20/2007,1,2,Away,"",1 OT,"1,842"
+2007,UMass Lowell,368,Massachusetts,400,01/26/2007,3,6,Home,"",-,"3,736"
+2007,UMass Lowell,368,Boston College,67,01/27/2007,3,4,Away,"",-,"4,819"
+2007,UMass Lowell,368,Boston U.,68,02/02/2007,0,0,Away,"",1 OT,"5,549"
+2007,UMass Lowell,368,Massachusetts,400,02/03/2007,2,1,Away,"",-,"5,296"
+2007,UMass Lowell,368,Northeastern,500,02/08/2007,1,0,Home,"",-,"1,717"
+2007,UMass Lowell,368,Merrimack,410,02/16/2007,3,0,Home,"",-,"1,919"
+2007,UMass Lowell,368,Merrimack,410,02/17/2007,3,2,Away,"",-,"1,217"
+2007,UMass Lowell,368,Boston College,67,02/22/2007,0,3,Away,"",-,"4,218"
+2007,UMass Lowell,368,Boston College,67,02/24/2007,3,4,Home,"",-,"6,358"
+2007,UMass Lowell,368,Vermont,738,03/02/2007,2,1,Away,"",-,"4,003"
+2007,UMass Lowell,368,Vermont,738,03/03/2007,3,3,Away,"",1 OT,"4,003"
 2007,Union (NY),727,Ferris St.,224,10/06/2006,2,0,Away,"",-,"1,181"
 2007,Union (NY),727,Ferris St.,224,10/07/2006,6,5,Away,"",-,"1,365"
 2007,Union (NY),727,Rochester Inst.,580,10/14/2006,2,2,Home,"",1 OT,"2,064"
@@ -3578,34 +3578,34 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2007,Wayne St. (MI),757,Robert Morris,579,03/02/2007,5,2,Away,"",-,684
 2007,Wayne St. (MI),757,Robert Morris,579,03/03/2007,5,4,Away,"",-,919
 2007,Wayne St. (MI),757,Ala.-Huntsville,10,03/09/2007,3,4,Neutral,"Des Moines, Iowa",1 OT,255
-2007,Wentworth Inst.,762,Worcester St.,809,11/07/2006,4,2,Home,"",-,500
-2007,Wentworth Inst.,762,Western New Eng.,775,11/09/2006,7,1,Away,"",-,215
-2007,Wentworth Inst.,762,Franklin Pierce,241,11/11/2006,2,2,Home,"",1 OT,283
-2007,Wentworth Inst.,762,Manhattanville,382,11/12/2006,2,6,Home,"",-,200
-2007,Wentworth Inst.,762,Suffolk,684,11/14/2006,12,3,Away,"",-,500
-2007,Wentworth Inst.,762,Hobart,282,11/17/2006,3,6,Away,"",-,220
-2007,Wentworth Inst.,762,SUNY Geneseo,247,11/18/2006,4,6,Away,"",-,"1,224"
-2007,Wentworth Inst.,762,Mass.-Boston,401,11/21/2006,3,3,Away,"",1 OT,194
-2007,Wentworth Inst.,762,U New England,1255,11/28/2006,6,3,Home,"",-,375
-2007,Wentworth Inst.,762,Salem St.,621,12/05/2006,4,3,Home,"",-,300
-2007,Wentworth Inst.,762,Norwich,511,12/08/2006,2,7,Home,"",-,475
-2007,Wentworth Inst.,762,Castleton,123,12/10/2006,7,5,Home,"",-,125
-2007,Wentworth Inst.,762,Fredonia St.,242,01/06/2007,1,4,Home,"",-,100
-2007,Wentworth Inst.,762,Fitchburg St.,227,01/10/2007,5,5,Away,"",1 OT,300
-2007,Wentworth Inst.,762,Assumption,36,01/13/2007,4,1,Away,"",-,125
-2007,Wentworth Inst.,762,Babson,45,01/16/2007,1,8,Away,"",-,75
-2007,Wentworth Inst.,762,Curry,170,01/19/2007,0,5,Home,"",-,325
-2007,Wentworth Inst.,762,Nichols,484,01/21/2007,4,3,Home,"",-,100
-2007,Wentworth Inst.,762,Stonehill,682,01/23/2007,4,2,Home,"",-,175
-2007,Wentworth Inst.,762,Plymouth St.,548,01/26/2007,6,0,Home,"",-,200
-2007,Wentworth Inst.,762,Salve Regina,623,02/03/2007,4,1,Away,"",-,117
-2007,Wentworth Inst.,762,Mass.-Dartmouth,656,02/06/2007,5,2,Home,"",-,300
-2007,Wentworth Inst.,762,Southern N.H.,468,02/10/2007,4,1,Away,"",-,323
-2007,Wentworth Inst.,762,Framingham St.,238,02/17/2007,7,2,Away,"",-,150
-2007,Wentworth Inst.,762,Johnson & Wales (RI),22626,02/18/2007,3,5,Home,"",-,500
-2007,Wentworth Inst.,762,Johnson & Wales (RI),22626,02/25/2007,5,1,Home,"",-,325
-2007,Wentworth Inst.,762,Curry,170,02/28/2007,4,3,Away,"",-,516
-2007,Wentworth Inst.,762,Mass.-Dartmouth,656,03/03/2007,3,4,Away,"",-,"1,637"
+2007,Wentworth,762,Worcester St.,809,11/07/2006,4,2,Home,"",-,500
+2007,Wentworth,762,Western New Eng.,775,11/09/2006,7,1,Away,"",-,215
+2007,Wentworth,762,Franklin Pierce,241,11/11/2006,2,2,Home,"",1 OT,283
+2007,Wentworth,762,Manhattanville,382,11/12/2006,2,6,Home,"",-,200
+2007,Wentworth,762,Suffolk,684,11/14/2006,12,3,Away,"",-,500
+2007,Wentworth,762,Hobart,282,11/17/2006,3,6,Away,"",-,220
+2007,Wentworth,762,SUNY Geneseo,247,11/18/2006,4,6,Away,"",-,"1,224"
+2007,Wentworth,762,Mass.-Boston,401,11/21/2006,3,3,Away,"",1 OT,194
+2007,Wentworth,762,U New England,1255,11/28/2006,6,3,Home,"",-,375
+2007,Wentworth,762,Salem St.,621,12/05/2006,4,3,Home,"",-,300
+2007,Wentworth,762,Norwich,511,12/08/2006,2,7,Home,"",-,475
+2007,Wentworth,762,Castleton,123,12/10/2006,7,5,Home,"",-,125
+2007,Wentworth,762,Fredonia St.,242,01/06/2007,1,4,Home,"",-,100
+2007,Wentworth,762,Fitchburg St.,227,01/10/2007,5,5,Away,"",1 OT,300
+2007,Wentworth,762,Assumption,36,01/13/2007,4,1,Away,"",-,125
+2007,Wentworth,762,Babson,45,01/16/2007,1,8,Away,"",-,75
+2007,Wentworth,762,Curry,170,01/19/2007,0,5,Home,"",-,325
+2007,Wentworth,762,Nichols,484,01/21/2007,4,3,Home,"",-,100
+2007,Wentworth,762,Stonehill,682,01/23/2007,4,2,Home,"",-,175
+2007,Wentworth,762,Plymouth St.,548,01/26/2007,6,0,Home,"",-,200
+2007,Wentworth,762,Salve Regina,623,02/03/2007,4,1,Away,"",-,117
+2007,Wentworth,762,Mass.-Dartmouth,656,02/06/2007,5,2,Home,"",-,300
+2007,Wentworth,762,Southern N.H.,468,02/10/2007,4,1,Away,"",-,323
+2007,Wentworth,762,Framingham St.,238,02/17/2007,7,2,Away,"",-,150
+2007,Wentworth,762,Johnson & Wales (RI),22626,02/18/2007,3,5,Home,"",-,500
+2007,Wentworth,762,Johnson & Wales (RI),22626,02/25/2007,5,1,Home,"",-,325
+2007,Wentworth,762,Curry,170,02/28/2007,4,3,Away,"",-,516
+2007,Wentworth,762,Mass.-Dartmouth,656,03/03/2007,3,4,Away,"",-,"1,637"
 2007,Wesleyan (CT),764,Amherst,24,11/17/2006,4,5,Home,"",-,500
 2007,Wesleyan (CT),764,Hamilton,267,11/18/2006,3,3,Home,"",1 OT,400
 2007,Wesleyan (CT),764,Trinity (CT),713,11/25/2006,5,4,Neutral,"Amherst, MA",-,200

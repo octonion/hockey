@@ -1,59 +1,69 @@
-library("lme4")
+sink("diagnostics/lmer.txt")
 
-library("RPostgreSQL")
+library(lme4)
+library(nortest)
+library(RPostgreSQL)
 
 drv <- dbDriver("PostgreSQL")
-
-con <- dbConnect(drv,host="localhost",port="5432",dbname="hockey")
+con <- dbConnect(drv,dbname="hockey")
 
 query <- dbSendQuery(con, "
 select
+distinct
 r.game_id,
 r.year,
 r.field as field,
-r.school_id as team,
-r.school_div_id as o_div,
+r.team_id as team,
+r.team_div_id as o_div,
 r.opponent_id as opponent,
 r.opponent_div_id as d_div,
-r.team_score::float as gs
+r.game_length as game_length,
+team_score::float as gs
 from ncaa.results r
+
 where
-    r.year between 2002 and 2012
-and r.school_div_id is not null
+    r.year between 2002 and 2015
+and r.team_div_id is not null
 and r.opponent_div_id is not null
-and r.team_score is not null
-and r.opponent_score is not null
-
--- fit all excluding March and April
-
-and not(extract(month from r.game_date) in (3,4))
+--and r.pulled_id = least(r.team_id,r.opponent_id)
 
 ;")
 
 games <- fetch(query,n=-1)
+
 dim(games)
 
 attach(games)
-
-model <- gs ~ 1+year+field+d_div+o_div+(1|offense)+(1|defense)+(1|game_id)
 
 pll <- list()
 
 # Fixed parameters
 
 year <- as.factor(year)
+#contrasts(year)<-'contr.sum'
+
 field <- as.factor(field)
+#field <- relevel(field, ref = "neutral")
+
 d_div <- as.factor(d_div)
+
 o_div <- as.factor(o_div)
 
-fp <- data.frame(year,field,d_div,o_div)
+game_length <- as.factor(game_length)
+
+fp <- data.frame(year,field,d_div,o_div,game_length)
 fpn <- names(fp)
 
 # Random parameters
 
 game_id <- as.factor(game_id)
+#contrasts(game_id) <- 'contr.sum'
+
 offense <- as.factor(paste(year,"/",team,sep=""))
+#contrasts(offense) <- 'contr.sum'
+
 defense <- as.factor(paste(year,"/",opponent,sep=""))
+#contrasts(defense) <- 'contr.sum'
 
 rp <- data.frame(offense,defense)
 rpn <- names(rp)
@@ -80,12 +90,17 @@ parameter_levels <- as.data.frame(do.call("rbind",pll))
 dbWriteTable(con,c("ncaa","_parameter_levels"),parameter_levels,row.names=TRUE)
 
 g <- cbind(fp,rp)
-
 g$gs <- gs
+
+detach(games)
 
 dim(g)
 
-fit <- glmer(model,data=g,family=poisson(link=log))
+model <- gs ~ year+field+d_div+o_div+game_length+(1|offense)+(1|defense)+(1|game_id)
+fit <- glmer(model,data=g,REML=TRUE,verbose=TRUE,family=poisson(link=log))
+
+fit
+summary(fit)
 
 # List of data frames
 

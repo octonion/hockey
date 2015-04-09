@@ -27,7 +27,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2010,153,Colgate,15,15,6,36
 2010,154,Colorado Col.,19,17,3,39
 2010,161,Concordia-M'head,5,15,5,25
-2010,164,Connecticut,7,26,3,36
 2010,163,Connecticut Col.,8,15,1,24
 2010,167,Cornell,21,9,4,34
 2010,170,Curry,19,9,1,29
@@ -38,7 +37,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2010,30032,Finlandia,5,17,3,25
 2010,227,Fitchburg St.,20,6,1,27
 2010,238,Framingham St.,2,20,2,24
-2010,242,Fredonia St.,17,7,2,26
+2010,242,Fredonia,17,7,2,26
 2010,266,Gust. Adolphus,20,7,2,29
 2010,267,Hamilton,15,9,2,26
 2010,268,Hamline,16,6,4,26
@@ -53,9 +52,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2010,380,Maine,19,17,3,39
 2010,382,Manhattanville,20,6,1,27
 2010,1196,Marian (WI),20,7,0,27
-2010,401,Mass.-Boston,10,13,2,25
-2010,656,Mass.-Dartmouth,11,15,1,27
-2010,368,Mass.-Lowell,19,16,4,39
 2010,400,Massachusetts,18,18,0,36
 2010,408,Mercyhurst,15,20,3,38
 2010,410,Merrimack,16,19,2,37
@@ -64,12 +60,11 @@ year,team_id,team_name,wins,losses,ties,total_games
 2010,416,Michigan St.,19,13,6,38
 2010,417,Michigan Tech,5,30,1,36
 2010,420,Middlebury,19,5,4,28
-2010,20220,Milwaukee Engr.,14,12,2,28
 2010,427,Minn. Duluth,22,17,1,40
 2010,383,Minn. St. Mankato,16,20,3,39
 2010,428,Minnesota,18,19,2,39
 2010,30067,Morrisville St.,9,17,0,26
-2010,464,Neb. Omaha,20,16,6,42
+2010,20220,MSOE,14,12,2,28
 2010,1254,Neumann,15,9,3,27
 2010,467,New England Col.,11,14,2,27
 2010,469,New Hampshire,18,14,7,39
@@ -82,6 +77,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2010,511,Norwich,26,1,4,31
 2010,513,Notre Dame,13,17,8,38
 2010,518,Ohio St.,15,18,6,39
+2010,464,Omaha,20,16,6,42
 2010,530,Oswego St.,26,3,0,29
 2010,547,Plattsburgh St.,19,6,4,29
 2010,548,Plymouth St.,17,9,1,27
@@ -92,14 +88,14 @@ year,team_id,team_name,wins,losses,ties,total_games
 2010,579,Robert Morris,10,19,6,35
 2010,580,Rochester Inst.,28,12,1,41
 2010,590,Sacred Heart,20,13,4,37
+2010,602,Saint John's (MN),9,12,4,25
+2010,612,Saint Mary's (MN),1,23,1,25
 2010,621,Salem St.,15,8,4,27
 2010,623,Salve Regina,1,24,1,26
 2010,642,Skidmore,9,16,2,27
 2010,662,Southern Me.,10,13,3,26
 2010,598,St. Cloud St.,24,14,5,43
-2010,602,Saint John's (MN),9,12,4,25
 2010,607,St. Lawrence,19,16,7,42
-2010,612,Saint Mary's (MN),1,23,1,25
 2010,614,St. Norbert,24,4,3,31
 2010,615,St. Olaf,12,10,4,26
 2010,618,St. Scholastica,17,5,6,28
@@ -111,10 +107,14 @@ year,team_id,team_name,wins,losses,ties,total_games
 2010,713,Trinity (CT),15,9,2,26
 2010,717,Tufts,12,10,3,25
 2010,1255,U New England,3,22,0,25
+2010,164,UConn,7,26,3,36
+2010,401,UMass Boston,10,13,2,25
+2010,656,UMass Dartmouth,11,15,1,27
+2010,368,UMass Lowell,19,16,4,39
 2010,727,Union (NY),21,12,6,39
 2010,733,Utica,8,14,4,26
 2010,738,Vermont,17,15,7,39
-2010,762,Wentworth Inst.,20,5,1,26
+2010,762,Wentworth,20,5,1,26
 2010,764,Wesleyan (CT),7,16,0,23
 2010,774,Western Mich.,8,20,8,36
 2010,775,Western New Eng.,3,21,1,25
