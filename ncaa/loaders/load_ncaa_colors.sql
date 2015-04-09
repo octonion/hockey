@@ -1,5 +1,7 @@
 begin;
 
+drop table if exists ncaa.colors;
+
 create table ncaa.colors (
         school_name             text,
         school_id               integer,

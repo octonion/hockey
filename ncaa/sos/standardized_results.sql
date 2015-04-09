@@ -7,16 +7,17 @@ create table ncaa.results (
 	game_date	      date,
 	year		      integer,
 	school_name	      text,
-	school_id		      integer,
+	school_id	      integer,
 	school_div_id	      integer,
 	opponent_name	      text,
 	opponent_id	      integer,
 	opponent_div_id	      integer,
 	location_name	      text,
-	location_id		      integer,
+	location_id	      integer,
 	field		      text,
 	team_score	      integer,
-	opponent_score	      integer
+	opponent_score	      integer,
+	game_length	      text
 );
 
 insert into ncaa.results
@@ -24,7 +25,8 @@ insert into ncaa.results
  school_name,school_id,
  opponent_name,opponent_id,
  location_name,location_id,field,
- team_score,opponent_score)
+ team_score,opponent_score,
+ game_length)
 (
 select
 game_id,
@@ -45,7 +47,8 @@ opponent_id,
        when location='Away' then 'defense_home'
        when location='Neutral' then 'neutral' end) as field,
  g.team_score,
- g.opponent_score
+ g.opponent_score,
+ g.game_length
  from ncaa.games g
  where
      g.location in ('Away','Home','Neutral')
@@ -57,6 +60,7 @@ opponent_id,
  and g.school_id is not NULL
  and g.opponent_id is not NULL
  and not(g.game_date is null)
+ and g.school_id < g.opponent_id
 );
 
 insert into ncaa.results
@@ -64,7 +68,8 @@ insert into ncaa.results
  school_name,school_id,
  opponent_name,opponent_id,
  location_name,location_id,field,
- team_score,opponent_score)
+ team_score,opponent_score,
+ game_length)
 (select
  game_id,
  (case when game_date='' then NULL
@@ -84,7 +89,8 @@ school_id,
        when location='Away' then 'offense_home'
        when location='Neutral' then 'neutral' end) as field,
  g.opponent_score,
- g.team_score
+ g.team_score,
+ g.game_length
  from ncaa.games g
  where
      g.location in ('Away','Home','Neutral')
@@ -96,6 +102,7 @@ school_id,
  and g.school_id is not NULL
  and g.opponent_id is not NULL
  and not(g.game_date is null)
+ and g.school_id < g.opponent_id
 );
 
 update ncaa.results

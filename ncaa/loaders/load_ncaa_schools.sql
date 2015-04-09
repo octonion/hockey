@@ -1,5 +1,7 @@
 begin;
 
+drop table if exists ncaa.schools;
+
 create table ncaa.schools (
         school_id               integer,
         school_name             text,

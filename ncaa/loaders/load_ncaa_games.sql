@@ -21,6 +21,13 @@ truncate table ncaa.games;
 
 copy ncaa.games from '/tmp/ncaa_games.csv' with delimiter as ',' csv header quote as '"';
 
+update ncaa.games
+set game_length=replace(game_length, '-', '');
+
+update ncaa.games
+set game_length='0 OT'
+where game_length='';
+
 alter table ncaa.games add column game_id serial primary key;
 
 commit;

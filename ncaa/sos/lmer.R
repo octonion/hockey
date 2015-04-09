@@ -13,8 +13,8 @@ distinct
 r.game_id,
 r.year,
 r.field as field,
-r.team_id as team,
-r.team_div_id as o_div,
+r.school_id as team,
+r.school_div_id as o_div,
 r.opponent_id as opponent,
 r.opponent_div_id as d_div,
 r.game_length as game_length,
@@ -23,9 +23,9 @@ from ncaa.results r
 
 where
     r.year between 2002 and 2015
-and r.team_div_id is not null
+and r.school_div_id is not null
 and r.opponent_div_id is not null
---and r.pulled_id = least(r.team_id,r.opponent_id)
+--and r.pulled_id = least(r.school_id,r.opponent_id)
 
 ;")
 
