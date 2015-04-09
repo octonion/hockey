@@ -1,0 +1,13 @@
+[1] 2216    9
+[1] 2216    8
+gbm(formula = model, distribution = "poisson", data = g, n.trees = 1e+05, 
+    shrinkage = 1e-05, n.cores = 4)
+A gradient boosted model with poisson loss function.
+100000 iterations were performed.
+There were 4 predictors of which 2 had non-zero influence.
+                    var  rel.inf
+defense         defense 52.30421
+offense         offense 47.69579
+field             field  0.00000
+game_length game_length  0.00000
+
