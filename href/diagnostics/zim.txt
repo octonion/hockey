@@ -1,3 +1,66 @@
 [1] 10560     6
 [1] FALSE
 [1] 10560     4
+
+GLMM's in R powered by AD Model Builder:
+
+  Family: poisson 
+  link = log 
+  Zero inflation: p = 1e-06 
+
+Fixed effects:
+  Log-likelihood: -19487.5 
+  AIC: 38995 
+  Formula: gs ~ year + field + (1 | offense) + (1 | defense) + (1 | game_id) 
+      (Intercept)          year2012          year2013          year2014 
+       0.92406245       -0.02302078       -0.02412799       -0.01914502 
+         year2015 fieldoffense_home 
+      -0.02272436        0.10097786 
+
+Random effects:
+Structure: Diagonal matrix
+Group=offense
+            Variance  StdDev
+(Intercept) 0.006153 0.07844
+Group=defense
+            Variance  StdDev
+(Intercept) 0.008699 0.09327
+Group=game_id
+             Variance    StdDev
+(Intercept) 2.179e-09 4.668e-05
+
+Number of observations: total=10560, offense=150, defense=150, game_id=5280
+
+Call:
+glmmadmb(formula = model, data = g, family = "poisson", zeroInflation = TRUE, 
+    verbose = TRUE, extra.args = "-ndi 1000000 -rs")
+
+AIC: 38995 
+
+Coefficients:
+                  Estimate Std. Error z value Pr(>|z|)    
+(Intercept)         0.9241     0.0262   35.22   <2e-16 ***
+year2012           -0.0230     0.0361   -0.64     0.52    
+year2013           -0.0241     0.0376   -0.64     0.52    
+year2014           -0.0191     0.0368   -0.52     0.60    
+year2015           -0.0227     0.0361   -0.63     0.53    
+fieldoffense_home   0.1010     0.0120    8.40   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Number of observations: total=10560, offense=150, defense=150, game_id=5280 
+Random effect variance(s):
+Group=offense
+            Variance  StdDev
+(Intercept) 0.006153 0.07844
+Group=defense
+            Variance  StdDev
+(Intercept) 0.008699 0.09327
+Group=game_id
+             Variance    StdDev
+(Intercept) 2.179e-09 4.668e-05
+
+Zero-inflation: 1e-06  (std. err.:  1.5869e-07 )
+
+Log-likelihood: -19487.5 
+[1] TRUE

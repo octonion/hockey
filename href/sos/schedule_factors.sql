@@ -38,9 +38,9 @@ set strength=offensive/defensive;
 
 ----
 
-drop table if exists public.r;
+--drop table if exists public.r;
 
-create table public.r (
+create temporary table r (
          team_id		text,
          opponent_id		text,
          year                   integer,
@@ -51,7 +51,7 @@ create table public.r (
 	 field			float
 );
 
-insert into public.r
+insert into r
 (team_id,opponent_id,year,field_id)
 (
 select
@@ -60,10 +60,10 @@ r.opponent_id,
 r.year,
 r.field
 from href.results r
-where r.year between 2002 and 2015
+where r.year between 2008 and 2015
 );
 
-update public.r
+update r
 set
 offensive=o.offensive,
 defensive=o.defensive,
@@ -73,7 +73,7 @@ where (r.opponent_id,r.year)=(o.team_id,o.year);
 
 -- field
 
-update public.r
+update r
 set field=f.exp_factor
 from href._factors f
 where (f.parameter,f.level)=('field',r.field_id);

@@ -17,7 +17,7 @@ r.team_score as gs,
 r.game_length as status
 from href.results r
 where
-    r.year between 2011 and 2015
+    r.year between 2008 and 2015
 and r.team_score is not null
 ;")
 
