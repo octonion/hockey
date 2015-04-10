@@ -1,15 +1,9 @@
 BEGIN
  rd |       name        |   p   
 ----+-------------------+-------
-  4 | Boston University | 0.579
-  4 | Providence        | 0.533
-  4 | Nebraska-Omaha    | 0.467
-  4 | North Dakota      | 0.421
-  5 | Boston University | 0.358
-  5 | Providence        | 0.229
-  5 | North Dakota      | 0.228
-  5 | Nebraska-Omaha    | 0.185
-(8 rows)
+  5 | Boston University | 0.604
+  5 | Providence        | 0.396
+(2 rows)
 
-COPY 8
+COPY 2
 COMMIT

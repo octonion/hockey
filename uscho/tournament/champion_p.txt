@@ -1,11 +1,9 @@
 BEGIN
     school_name    |    p    
 -------------------+---------
- Boston University | 0.35823
- Providence        | 0.22865
- North Dakota      | 0.22781
- Nebraska-Omaha    | 0.18532
-(4 rows)
+ Boston University | 0.60404
+ Providence        | 0.39596
+(2 rows)
 
-COPY 4
+COPY 2
 COMMIT
