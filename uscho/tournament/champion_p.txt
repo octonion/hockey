@@ -1,8 +1,8 @@
 BEGIN
     school_name    |    p    
 -------------------+---------
- Boston University | 0.60404
- Providence        | 0.39596
+ Boston University | 0.58218
+ Providence        | 0.41782
 (2 rows)
 
 COPY 2
