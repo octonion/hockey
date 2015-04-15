@@ -1,8 +1,9 @@
 select
 p.year,
+-- 1.86
 sum(
-(h.strength*o.exp_factor)^1.86/
-((h.strength*o.exp_factor)^1.86+(v.strength*d.exp_factor)^1.86)
+(h.strength*o.exp_factor)^2.10/
+((h.strength*o.exp_factor)^2.10+(v.strength*d.exp_factor)^2.10)
 )::numeric(4,2) as e_home_wins,
 sum(case when (p.visitor_score<p.home_score) then 1
     else 0 end) as home_wins
@@ -21,9 +22,9 @@ order by p.year asc;
 select
 p.year,
 (sum(
-case when ((h.strength*o.exp_factor)>(v.strength*d.exp_factor)
+case when ((h.strength*o.exp_factor)>=(v.strength*d.exp_factor)
             and p.home_score>p.visitor_score) then 1
-     when ((h.strength*o.exp_factor)<(v.strength*d.exp_factor)
+     when ((h.strength*o.exp_factor)<=(v.strength*d.exp_factor)
             and p.home_score<p.visitor_score) then 1
 else 0 end)::float/
 count(*))::numeric(4,2) as model,
@@ -33,7 +34,7 @@ else 0 end)::float/
 count(*))::numeric(4,2) as naive,
 
 (sum(
-case when ((h.strength*o.exp_factor)>(v.strength*d.exp_factor)
+case when ((h.strength*o.exp_factor)>=(v.strength*d.exp_factor)
             and p.home_score>p.visitor_score) then 1
      when ((h.strength*o.exp_factor)<(v.strength*d.exp_factor)
             and p.home_score<p.visitor_score) then 1
@@ -58,9 +59,9 @@ order by p.year asc;
 
 select
 (sum(
-case when ((h.strength*o.exp_factor)>(v.strength*d.exp_factor)
+case when ((h.strength*o.exp_factor)>=(v.strength*d.exp_factor)
             and p.home_score>p.visitor_score) then 1
-     when ((h.strength*o.exp_factor)<(v.strength*d.exp_factor)
+     when ((h.strength*o.exp_factor)<=(v.strength*d.exp_factor)
             and p.home_score<p.visitor_score) then 1
 else 0 end)::float/
 count(*))::numeric(4,2) as model,

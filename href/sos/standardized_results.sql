@@ -5,6 +5,7 @@ drop table if exists href.results;
 create table href.results (
 	game_id		      integer,
 	year		      integer,
+	game_date	      date,
 	team_name	      text,
 	team_id		      text,
 	opponent_name	      text,
@@ -17,7 +18,7 @@ create table href.results (
 );
 
 insert into href.results
-(game_id,year,
+(game_id,year,game_date,
  team_name,team_id,
  opponent_name,opponent_id,
  location_id,field,
@@ -26,6 +27,7 @@ insert into href.results
 select
 game_id,
 year,
+game_date::date,
 trim(both from home_name),
 home_id,
 trim(both from visitor_name),
@@ -51,7 +53,7 @@ and g.visitor_id is not NULL
 );
 
 insert into href.results
-(game_id,year,
+(game_id,year,game_date,
  team_name,team_id,
  opponent_name,opponent_id,
  location_id,field,
@@ -60,6 +62,7 @@ insert into href.results
 select
 game_id,
 year,
+game_date::date,
 trim(both from visitor_name),
 visitor_id,
 trim(both from home_name),
