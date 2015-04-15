@@ -1,0 +1,12 @@
+ home_id | visitor_id 
+---------+------------
+ NYR     | PIT
+ DET     | TBL
+ MTL     | OTT
+ CHI     | NSH
+ ANA     | WPG
+ NYI     | WSH
+ MIN     | STL
+ CGY     | VAN
+(8 rows)
+
