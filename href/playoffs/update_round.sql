@@ -9,8 +9,10 @@ r1.round_id+1 as round,
 r1.team_id,
 r1.seed,
 r1.bracket,
---coalesce(
+
 sum(
+(case when r2.team_id is null then 1.0
+ else
 r1.p*r2.p*
 (
 case
@@ -34,15 +36,16 @@ when r1.seed > r2.seed then
     (mp1.visitor_p^3+3*mp1.visitor_p^2*mp1.home_p^1)
 + 4*mp2.home_p^1*mp2.visitor_p^3*
     (mp1.visitor_p^3)
-) end
-)) as p
+)
+end)
+end)) as p
 
 from href.rounds r1
 left join href.rounds r2
   on ((r1.year,r1.round_id,r1.bracket[r1.round_id+1])=
       (r2.year,r2.round_id,r2.bracket[r1.round_id+1])
        and not(r1.bracket[r1.round_id]=r2.bracket[r1.round_id]))
-join href.matrix_p mp1
+left join href.matrix_p mp1
   on (mp1.year,mp1.home_id,mp1.visitor_id)=(r1.year,r1.team_id,r2.team_id)
 left join href.matrix_p mp2
   on (mp2.year,mp2.home_id,mp2.visitor_id)=(r2.year,r2.team_id,r1.team_id)
