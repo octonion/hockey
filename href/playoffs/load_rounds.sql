@@ -7,6 +7,7 @@ create table href.rounds (
 	round_id			integer,
 	team_id				text,
 	seed				integer,
+	points				integer,
 	bracket				int[],
 	p				float,
 	primary key (year,round_id,team_id)
