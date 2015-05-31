@@ -15,7 +15,7 @@ table_xpath = '//*[@id="stats"]/tbody/tr'
 
 
 
-(2014..2014).each do |year|
+(2015..2015).each do |year|
 
   if (year==2005)
     next
