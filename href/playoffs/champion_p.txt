@@ -1,11 +1,9 @@
 BEGIN
       team_name      |   p   
 ---------------------+-------
- New York Rangers    | 0.554
- Tampa Bay Lightning | 0.234
- Chicago Blackhawks  | 0.136
- Anaheim Ducks       | 0.076
-(4 rows)
+ Tampa Bay Lightning | 0.681
+ Chicago Blackhawks  | 0.319
+(2 rows)
 
-COPY 4
+COPY 2
 COMMIT
