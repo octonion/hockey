@@ -1,8 +1,8 @@
 BEGIN
       team_name      |   p   
 ---------------------+-------
- Tampa Bay Lightning | 0.681
- Chicago Blackhawks  | 0.319
+ Tampa Bay Lightning | 0.578
+ Chicago Blackhawks  | 0.422
 (2 rows)
 
 COPY 2

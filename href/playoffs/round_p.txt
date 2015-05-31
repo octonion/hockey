@@ -1,8 +1,8 @@
 BEGIN
  rd |        name         |   p   
 ----+---------------------+-------
-  5 | Tampa Bay Lightning | 0.681
-  5 | Chicago Blackhawks  | 0.319
+  5 | Tampa Bay Lightning | 0.578
+  5 | Chicago Blackhawks  | 0.422
 (2 rows)
 
 COPY 2
