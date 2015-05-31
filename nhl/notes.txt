@@ -1,0 +1,12 @@
+https://code.google.com/p/hockey-stats/issues/detail?id=59
+
+http://feeds.cdnak.neulion.com/fs/nhl/mobile/feeds/data/20100514.xml
+
+https://gist.github.com/arempe93/66a2a0a6e0491d16df0d
+
+http://hfboards.hockeysfuture.com/showthread.php?t=1596119
+
+http://www.reddit.com/r/nhl/comments/2i13xa/places_to_get_raw_statistics/
+
+http://www.r-bloggers.com/visualize-nhl-play-by-play-using-tableau-public-and-r/
+http://www.r-bloggers.com/visualize-nhl-play-by-play-using-tableau-public-and-r/
