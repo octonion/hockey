@@ -7,6 +7,7 @@ bad = '%'
 
 agent = Mechanize.new{ |agent| agent.history.max_size=0 }
 agent.user_agent = 'Mozilla/5.0'
+agent.robots = false
 
 search_url = "http://web1.ncaa.org/stats/exec/records"
 teams = CSV.read("csv/ncaa_schools.csv")

@@ -97,7 +97,13 @@ detach(games)
 dim(g)
 
 model <- gs ~ year+field+d_div+o_div+game_length+(1|offense)+(1|defense)+(1|game_id)
-fit <- glmer(model,data=g,REML=TRUE,verbose=TRUE,family=poisson(link=log))
+fit <- glmer(model,
+             data=g,
+	     verbose=TRUE,
+	     family=poisson(link=log),
+	     nAGQ=0,
+	     control=glmerControl(optimizer = "nloptwrap")
+	     )
 
 fit
 summary(fit)
