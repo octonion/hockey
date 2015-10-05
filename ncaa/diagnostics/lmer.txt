@@ -1,3 +1,80 @@
 [1] 52040     9
 [1] TRUE
 [1] 52040     8
+Generalized linear mixed model fit by maximum likelihood (Adaptive
+  Gauss-Hermite Quadrature, nAGQ = 0) [glmerMod]
+ Family: poisson  ( log )
+Formula: gs ~ year + field + d_div + o_div + game_length + (1 | offense) +  
+    (1 | defense) + (1 | game_id)
+   Data: g
+      AIC       BIC    logLik  deviance  df.resid 
+ 205875.3  206105.7 -102911.7  205823.3     52014 
+Random effects:
+ Groups  Name        Std.Dev.
+ game_id (Intercept) 0.1739  
+ defense (Intercept) 0.2712  
+ offense (Intercept) 0.2357  
+Number of obs: 52040, groups:  game_id, 26020; defense, 1778; offense, 1778
+Fixed Effects:
+      (Intercept)           year2003           year2004           year2005  
+          1.03861            0.05362           -0.02459           -0.01839  
+         year2006           year2007           year2008           year2009  
+         -0.03403           -0.04420           -0.08157           -0.09150  
+         year2010           year2011           year2012           year2013  
+         -0.03673           -0.06100           -0.08679           -0.11108  
+         year2014           year2015       fieldneutral  fieldoffense_home  
+         -0.11927           -0.14236            0.07045            0.12312  
+           d_div3             o_div3    game_length1 OT    game_length2 OT  
+          0.34899           -0.22193           -0.08799           -0.15071  
+  game_length3 OT    game_length4 OT    game_length5 OT  
+         -0.10162            0.08964           -0.11579  
+Generalized linear mixed model fit by maximum likelihood (Adaptive
+  Gauss-Hermite Quadrature, nAGQ = 0) [glmerMod]
+ Family: poisson  ( log )
+Formula: gs ~ year + field + d_div + o_div + game_length + (1 | offense) +  
+    (1 | defense) + (1 | game_id)
+   Data: g
+Control: glmerControl(optimizer = "nloptwrap")
+
+      AIC       BIC    logLik  deviance  df.resid 
+ 205875.3  206105.7 -102911.7  205823.3     52014 
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-6.1468 -0.6632 -0.0730  0.5442  4.4489 
+
+Random effects:
+ Groups  Name        Variance Std.Dev.
+ game_id (Intercept) 0.03025  0.1739  
+ defense (Intercept) 0.07357  0.2712  
+ offense (Intercept) 0.05555  0.2357  
+Number of obs: 52040, groups:  game_id, 26020; defense, 1778; offense, 1778
+
+Fixed effects:
+                   Estimate Std. Error z value Pr(>|z|)    
+(Intercept)        1.038608   0.036109  28.763  < 2e-16 ***
+year2003           0.053617   0.049920   1.074  0.28280    
+year2004          -0.024592   0.049660  -0.495  0.62046    
+year2005          -0.018387   0.048744  -0.377  0.70602    
+year2006          -0.034028   0.048633  -0.700  0.48412    
+year2007          -0.044197   0.048468  -0.912  0.36183    
+year2008          -0.081570   0.048408  -1.685  0.09197 .  
+year2009          -0.091502   0.048326  -1.893  0.05830 .  
+year2010          -0.036732   0.048158  -0.763  0.44562    
+year2011          -0.060999   0.048180  -1.266  0.20549    
+year2012          -0.086788   0.048193  -1.801  0.07173 .  
+year2013          -0.111075   0.048229  -2.303  0.02127 *  
+year2014          -0.119268   0.048056  -2.482  0.01307 *  
+year2015          -0.142362   0.047652  -2.988  0.00281 ** 
+fieldneutral       0.070449   0.012063   5.840 5.22e-09 ***
+fieldoffense_home  0.123120   0.005298  23.239  < 2e-16 ***
+d_div3             0.348994   0.110260   3.165  0.00155 ** 
+o_div3            -0.221935   0.110062  -2.016  0.04375 *  
+game_length1 OT   -0.087992   0.008026 -10.964  < 2e-16 ***
+game_length2 OT   -0.150706   0.033987  -4.434 9.24e-06 ***
+game_length3 OT   -0.101617   0.131193  -0.775  0.43860    
+game_length4 OT    0.089641   0.202204   0.443  0.65753    
+game_length5 OT   -0.115792   0.235318  -0.492  0.62267    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+[1] TRUE
