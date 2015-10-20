@@ -39,7 +39,7 @@ join uscho._basic_factors i
 where
     TRUE
 and g.game_date = current_date
-and g.year=2015
+and g.year=2016
 and (g.field in ('offense_home') or
     (g.field in ('neutral') and g.school_id < g.opponent_id))
 order by team asc;
@@ -83,7 +83,7 @@ join uscho._basic_factors i
 where
     TRUE
 and g.game_date = current_date
-and g.year=2015
+and g.year=2016
 and (g.field in ('offense_home') or
     (g.field in ('neutral') and g.school_id < g.opponent_id))
 order by team asc

@@ -20,7 +20,7 @@ r.game_length as game_length,
 r.team_score::float as gs
 from uscho.results r
 where
-    r.year between 1999 and 2015
+    r.year between 1999 and 2016
 and r.school_div_id is not null
 and r.opponent_div_id is not null
 and r.team_score is not null
@@ -91,7 +91,10 @@ dim(g)
 
 model <- gs ~ year+field+d_div+o_div+game_length+(1|offense)+(1|defense)+(1|game_id)
 
-fit <- glmer(model,data=g,REML=TRUE,verbose=TRUE,family=poisson(link=log))
+fit <- glmer(model, data=g, verbose=TRUE, family=poisson(link=log),
+             nAGQ=0,
+             control=glmerControl(optimizer = "nloptwrap"))
+	     
 fit
 summary(fit)
 

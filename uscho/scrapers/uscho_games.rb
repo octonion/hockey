@@ -9,8 +9,8 @@ agent.user_agent = 'Mozilla/5.0'
 d1_base = 'http://www.uscho.com/scoreboard/division-i-men'
 d3_base = 'http://www.uscho.com/scoreboard/division-iii-men'
 
-first_year = 2015
-last_year = 2015
+first_year = 2016
+last_year = 2016
 
 path = '//section[@id="scoreboard"]/table/tr'
 
