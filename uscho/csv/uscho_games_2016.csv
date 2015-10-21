@@ -136,7 +136,7 @@
 2016,Sat.,,10/17/2015,7:00 ET,US Under-18 Team,,,US Under-18 Team,5,@,Dartmouth,dartmouth,/team/dartmouth/mens-hockey/,Dartmouth,4,,,EX,Box,,
 2016,Sat.,,10/17/2015,6:00 CT,Alabama,,,Alabama,1,@,Alabama-Huntsville,alabama-huntsville,/team/alabama-huntsville/mens-hockey/,Alabama-Huntsville,11,,,EX,Box,,
 2016,Sun.,,10/18/2015,5:00 ET,Mercyhurst,mercyhurst,/team/mercyhurst/mens-hockey/,Mercyhurst,2,@,(11) Michigan,michigan,/team/michigan/mens-hockey/,(11) Michigan,3,,,NC,Box,Recap,
-2016,Tue.,,10/20/2015,7:00 ET,Maine,maine,/team/maine/mens-hockey/,Maine,,@,(14) Quinnipiac,quinnipiac,/team/quinnipiac/mens-hockey/,(14) Quinnipiac,,,,NC,,,
+2016,Tue.,,10/20/2015,7:00 ET,Maine,maine,/team/maine/mens-hockey/,Maine,0,@,(14) Quinnipiac,quinnipiac,/team/quinnipiac/mens-hockey/,(14) Quinnipiac,4,,,NC,Box,,
 2016,Thu.,,10/22/2015,7:00 ET,Lake Superior,lake-superior,/team/lake-superior/mens-hockey/,Lake Superior,,@,Michigan State,michigan-state,/team/michigan-state/mens-hockey/,Michigan State,,,,NC,,,
 2016,Fri.,,10/23/2015,4:00 ET,Holy Cross,holy-cross,/team/holy-cross/mens-hockey/,Holy Cross,,@,Canisius,canisius,/team/canisius/mens-hockey/,Canisius,,,,AH,,,
 2016,Fri.,,10/23/2015,7:00 ET,Army West Point,army,/team/army/mens-hockey/,Army West Point,,@,Mercyhurst,mercyhurst,/team/mercyhurst/mens-hockey/,Mercyhurst,,,,AH,,,
@@ -152,7 +152,7 @@
 2016,Fri.,,10/23/2015,7:00 ET,RIT,rit,/team/rit/mens-hockey/,RIT,,@,Colgate,colgate,/team/colgate/mens-hockey/,Colgate,,,,NC,,,
 2016,Fri.,,10/23/2015,7:00 ET,Wisconsin,wisconsin,/team/wisconsin/mens-hockey/,Wisconsin,,@,Ferris State,ferris-state,/team/ferris-state/mens-hockey/,Ferris State,,,,NC,,,
 2016,Fri.,,10/23/2015,7:00 ET,Lake Superior,lake-superior,/team/lake-superior/mens-hockey/,Lake Superior,,@,Michigan State,michigan-state,/team/michigan-state/mens-hockey/,Michigan State,,,,NC,,,
-2016,Fri.,,10/23/2015,6:00 ET,(5) Minnesota-Duluth,minnesota-duluth,/team/minnesota-duluth/mens-hockey/,(5) Minnesota-Duluth,,@,Notre Dame,notre-dame,/team/notre-dame/mens-hockey/,Notre Dame,,,,NC,,,ASN
+2016,Fri.,,10/23/2015,6:00 ET,(5) Minnesota-Duluth,minnesota-duluth,/team/minnesota-duluth/mens-hockey/,(5) Minnesota-Duluth,,@,Notre Dame,notre-dame,/team/notre-dame/mens-hockey/,Notre Dame,,,,NC,,,"ASN, NESN+"
 2016,Fri.,,10/23/2015,7:00 ET,Ohio State,ohio-state,/team/ohio-state/mens-hockey/,Ohio State,,@,(3) Providence,providence,/team/providence/mens-hockey/,(3) Providence,,,,NC,,,OSN
 2016,Fri.,,10/23/2015,7:00 ET,American International,american-international,/team/american-international/mens-hockey/,American International,,@,Penn State,penn-state,/team/penn-state/mens-hockey/,Penn State,,,,NC,,,
 2016,Fri.,,10/23/2015,7:00 ET,(9) St. Cloud State,st-cloud-state,/team/st-cloud-state/mens-hockey/,(9) St. Cloud State,,@,(14) Quinnipiac,quinnipiac,/team/quinnipiac/mens-hockey/,(14) Quinnipiac,,,,NC,,,
@@ -179,7 +179,7 @@
 2016,Sat.,,10/24/2015,3:00 ET,American International,american-international,/team/american-international/mens-hockey/,American International,,@,Penn State,penn-state,/team/penn-state/mens-hockey/,Penn State,,,,NC,,,
 2016,Sat.,,10/24/2015,7:00 ET,(9) St. Cloud State,st-cloud-state,/team/st-cloud-state/mens-hockey/,(9) St. Cloud State,,@,(14) Quinnipiac,quinnipiac,/team/quinnipiac/mens-hockey/,(14) Quinnipiac,,,,NC,,,
 2016,Sat.,,10/24/2015,7:00 ET,Colgate,colgate,/team/colgate/mens-hockey/,Colgate,,@,RIT,rit,/team/rit/mens-hockey/,RIT,,,,NC,,,
-2016,Sat.,,10/24/2015,7:00 ET,(11) Michigan,michigan,/team/michigan/mens-hockey/,(11) Michigan,,@,Rensselaer,rensselaer,/team/rensselaer/mens-hockey/,Rensselaer,,,,NC,,,
+2016,Sat.,,10/24/2015,7:00 ET,(11) Michigan,michigan,/team/michigan/mens-hockey/,(11) Michigan,,@,Rensselaer,rensselaer,/team/rensselaer/mens-hockey/,Rensselaer,,,,NC,,,TWCS
 2016,Sat.,,10/24/2015,7:00 ET,(15) Miami,miami,/team/miami/mens-hockey/,(15) Miami,,@,(17) St. Lawrence,st-lawrence,/team/st-lawrence/mens-hockey/,(17) St. Lawrence,,,,NC,,,
 2016,Sat.,,10/24/2015,7:00 ET,New Hampshire,new-hampshire,/team/new-hampshire/mens-hockey/,New Hampshire,,@,(18) Union,union,/team/union/mens-hockey/,(18) Union,,,,NC,,,
 2016,Sat.,,10/24/2015,8:00 CT,Northeastern,northeastern,/team/northeastern/mens-hockey/,Northeastern,,@,(19) Minnesota,minnesota,/team/minnesota/mens-hockey/,(19) Minnesota,,,,NC,,,FSN
@@ -270,7 +270,7 @@
 2016,Fri.,,11/6/2015,7:00 AT,Northern Michigan,northern-michigan,/team/northern-michigan/mens-hockey/,Northern Michigan,,@,Alaska,alaska,/team/alaska/mens-hockey/,Alaska,,,,WC,,,
 2016,Fri.,,11/6/2015,7:00 CT,(16) Michigan Tech,michigan-tech,/team/michigan-tech/mens-hockey/,(16) Michigan Tech,,@,Alabama-Huntsville,alabama-huntsville,/team/alabama-huntsville/mens-hockey/,Alabama-Huntsville,,,,WC,,,
 2016,Fri.,,11/6/2015,7:00 ET,New Hampshire,new-hampshire,/team/new-hampshire/mens-hockey/,New Hampshire,,@,Michigan State,michigan-state,/team/michigan-state/mens-hockey/,Michigan State,,,,NC,,,
-2016,Fri.,,11/6/2015,7:30 ET,(19) Minnesota,minnesota,/team/minnesota/mens-hockey/,(19) Minnesota,,@,Notre Dame,notre-dame,/team/notre-dame/mens-hockey/,Notre Dame,,,,NC,,,ASN
+2016,Fri.,,11/6/2015,7:30 ET,(19) Minnesota,minnesota,/team/minnesota/mens-hockey/,(19) Minnesota,,@,Notre Dame,notre-dame,/team/notre-dame/mens-hockey/,Notre Dame,,,,NC,,,"ASN, NESN"
 2016,Fri.,,11/6/2015,7:00 ET,Penn State,penn-state,/team/penn-state/mens-hockey/,Penn State,,@,Niagara,niagara,/team/niagara/mens-hockey/,Niagara,,,,NC,,,
 2016,Fri.,,11/6/2015,7:30 CT,Wisconsin,wisconsin,/team/wisconsin/mens-hockey/,Wisconsin,,@,(1) North Dakota,north-dakota,/team/north-dakota/mens-hockey/,(1) North Dakota,,,,NC,,,MidcoSN
 2016,Sat.,,11/7/2015,7:00 ET,RIT,rit,/team/rit/mens-hockey/,RIT,,@,Army West Point,army,/team/army/mens-hockey/,Army West Point,,,,AH,,,
@@ -301,7 +301,7 @@
 2016,Tue.,,11/10/2015,7:00 ET,Sacred Heart,sacred-heart,/team/sacred-heart/mens-hockey/,Sacred Heart,,@,American International,american-international,/team/american-international/mens-hockey/,American International,,,,AH,,,
 2016,Tue.,,11/10/2015,7:00 ET,Army West Point,army,/team/army/mens-hockey/,Army West Point,,@,Connecticut,connecticut,/team/connecticut/mens-hockey/,Connecticut,,,,NC,,,
 2016,Thu.,,11/12/2015,7:00 MT,Holy Cross,holy-cross,/team/holy-cross/mens-hockey/,Holy Cross,,@,Air Force,air-force,/team/air-force/mens-hockey/,Air Force,,,,AH,,,
-2016,Thu.,,11/12/2015,7:30 ET,Northeastern,northeastern,/team/northeastern/mens-hockey/,Northeastern,,@,Notre Dame,notre-dame,/team/notre-dame/mens-hockey/,Notre Dame,,,,HE,,,ASN
+2016,Thu.,,11/12/2015,7:30 ET,Northeastern,northeastern,/team/northeastern/mens-hockey/,Northeastern,,@,Notre Dame,notre-dame,/team/notre-dame/mens-hockey/,Notre Dame,,,,HE,,,"ASN, NESN+"
 2016,Fri.,,11/13/2015,7:00 MT,Holy Cross,holy-cross,/team/holy-cross/mens-hockey/,Holy Cross,,@,Air Force,air-force,/team/air-force/mens-hockey/,Air Force,,,,AH,,,
 2016,Fri.,,11/13/2015,7:00 ET,Bentley,bentley,/team/bentley/mens-hockey/,Bentley,,@,RIT,rit,/team/rit/mens-hockey/,RIT,,,,AH,,,
 2016,Fri.,,11/13/2015,7:00 ET,Colgate,colgate,/team/colgate/mens-hockey/,Colgate,,@,Cornell,cornell,/team/cornell/mens-hockey/,Cornell,,,,EC,,,
@@ -311,7 +311,7 @@
 2016,Fri.,,11/13/2015,7:00 ET,Clarkson,clarkson,/team/clarkson/mens-hockey/,Clarkson,,@,(17) St. Lawrence,st-lawrence,/team/st-lawrence/mens-hockey/,(17) St. Lawrence,,,,EC,,,
 2016,Fri.,,11/13/2015,7:00 ET,Brown,brown,/team/brown/mens-hockey/,Brown,,@,(18) Union,union,/team/union/mens-hockey/,(18) Union,,,,EC,,,
 2016,Fri.,,11/13/2015,7:30 ET,Northeastern,northeastern,/team/northeastern/mens-hockey/,Northeastern,,@,Notre Dame,notre-dame,/team/notre-dame/mens-hockey/,Notre Dame,,,,HE,,,
-2016,Fri.,,11/13/2015,6:00 ET,(8) Boston University,boston-university,/team/boston-university/mens-hockey/,(8) Boston University,,@,(3) Providence,providence,/team/providence/mens-hockey/,(3) Providence,,,,HE,,,ASN
+2016,Fri.,,11/13/2015,6:00 ET,(8) Boston University,boston-university,/team/boston-university/mens-hockey/,(8) Boston University,,@,(3) Providence,providence,/team/providence/mens-hockey/,(3) Providence,,,,HE,,,"ASN, NESN"
 2016,Fri.,,11/13/2015,7:00 ET,(19) Merrimack,merrimack,/team/merrimack/mens-hockey/,(19) Merrimack,,@,Massachusetts,massachusetts,/team/massachusetts/mens-hockey/,Massachusetts,,,,HE,,,
 2016,Fri.,,11/13/2015,7:15 ET,Maine,maine,/team/maine/mens-hockey/,Maine,,@,(7) Massachusetts-Lowell,umass-lowell,/team/umass-lowell/mens-hockey/,(7) Massachusetts-Lowell,,,,HE,,,
 2016,Fri.,,11/13/2015,7:00 ET,Connecticut,connecticut,/team/connecticut/mens-hockey/,Connecticut,,@,Vermont,vermont,/team/vermont/mens-hockey/,Vermont,,,,HE,,,
@@ -346,7 +346,7 @@
 2016,Sat.,,11/14/2015,4:00 ET,Sacred Heart,sacred-heart,/team/sacred-heart/mens-hockey/,Sacred Heart,,@,Penn State,penn-state,/team/penn-state/mens-hockey/,Penn State,,,,NC,,,
 2016,Sat.,,11/14/2015,7:00 CT,Minnesota State,minnesota-state,/team/minnesota-state/mens-hockey/,Minnesota State,,@,(19) Minnesota,minnesota,/team/minnesota/mens-hockey/,(19) Minnesota,,,,NC,,,"FSN+, STO"
 2016,Sat.,,11/14/2015,7:00 ET,Niagara,niagara,/team/niagara/mens-hockey/,Niagara,,@,US Under-18 Team,,,US Under-18 Team,,,,EX,,,
-2016,Sun.,,11/15/2015,5:00 ET,(7) Massachusetts-Lowell,umass-lowell,/team/umass-lowell/mens-hockey/,(7) Massachusetts-Lowell,,@,Maine,maine,/team/maine/mens-hockey/,Maine,,,,HE,,,ASN
+2016,Sun.,,11/15/2015,5:00 ET,(7) Massachusetts-Lowell,umass-lowell,/team/umass-lowell/mens-hockey/,(7) Massachusetts-Lowell,,@,Maine,maine,/team/maine/mens-hockey/,Maine,,,,HE,,,"ASN, NESN"
 2016,Sun.,,11/15/2015,1:00 ET,Massachusetts,massachusetts,/team/massachusetts/mens-hockey/,Massachusetts,,@,Vermont,vermont,/team/vermont/mens-hockey/,Vermont,,,,HE,,,
 2016,Tue.,,11/17/2015,7:00 ET,(14) Quinnipiac,quinnipiac,/team/quinnipiac/mens-hockey/,(14) Quinnipiac,,@,Connecticut,connecticut,/team/connecticut/mens-hockey/,Connecticut,,,,NC,,,
 2016,Fri.,,11/20/2015,7:00 ET,Robert Morris,robert-morris,/team/robert-morris/mens-hockey/,Robert Morris,,@,Army West Point,army,/team/army/mens-hockey/,Army West Point,,,,AH,,,
@@ -369,7 +369,7 @@
 2016,Fri.,,11/20/2015,7:00 ET,Alaska,alaska,/team/alaska/mens-hockey/,Alaska,,@,Ferris State,ferris-state,/team/ferris-state/mens-hockey/,Ferris State,,,,WC,,,
 2016,Fri.,,11/20/2015,7:00 ET,Minnesota State,minnesota-state,/team/minnesota-state/mens-hockey/,Minnesota State,,@,Northern Michigan,northern-michigan,/team/northern-michigan/mens-hockey/,Northern Michigan,,,,WC,,,
 2016,Fri.,,11/20/2015,7:00 ET,Rensselaer,rensselaer,/team/rensselaer/mens-hockey/,Rensselaer,,@,Bentley,bentley,/team/bentley/mens-hockey/,Bentley,,,,NC,,,
-2016,Fri.,,11/20/2015,6:00 ET,(11) Michigan,michigan,/team/michigan/mens-hockey/,(11) Michigan,,@,(8) Boston University,boston-university,/team/boston-university/mens-hockey/,(8) Boston University,,,,NC,,,ASN
+2016,Fri.,,11/20/2015,6:00 ET,(11) Michigan,michigan,/team/michigan/mens-hockey/,(11) Michigan,,@,(8) Boston University,boston-university,/team/boston-university/mens-hockey/,(8) Boston University,,,,NC,,,"ASN, NESN"
 2016,Fri.,,11/20/2015,7:00 AT,Penn State,penn-state,/team/penn-state/mens-hockey/,Penn State,,@,Alaska-Anchorage,alaska-anchorage,/team/alaska-anchorage/mens-hockey/,Alaska-Anchorage,,,,NC,,,
 2016,Fri.,,11/20/2015,7:30 CT,(6) Denver,denver,/team/denver/mens-hockey/,(6) Denver,,@,Wisconsin,wisconsin,/team/wisconsin/mens-hockey/,Wisconsin,,,,NC,,,ASN
 2016,Sat.,,11/21/2015,7:00 ET,Robert Morris,robert-morris,/team/robert-morris/mens-hockey/,Robert Morris,,@,Army West Point,army,/team/army/mens-hockey/,Army West Point,,,,AH,,,
@@ -511,7 +511,7 @@
 2016,Sat.,,12/5/2015,7:00 CT,Northern Michigan,northern-michigan,/team/northern-michigan/mens-hockey/,Northern Michigan,,@,Alabama-Huntsville,alabama-huntsville,/team/alabama-huntsville/mens-hockey/,Alabama-Huntsville,,,,WC,,,
 2016,Sat.,,12/5/2015,7:30 MT,Alberta,,,Alberta,,@,Arizona State,arizona-state,/team/arizona-state/mens-hockey/,Arizona State,,,,EX,,,
 2016,Sun.,,12/6/2015,4:00 ET,(4) Boston College,boston-college,/team/boston-college/mens-hockey/,(4) Boston College,,@,Northeastern,northeastern,/team/northeastern/mens-hockey/,Northeastern,,,,HE,,,
-2016,Sun.,,12/6/2015,1:00 ET,Connecticut,connecticut,/team/connecticut/mens-hockey/,Connecticut,,@,(7) Massachusetts-Lowell,umass-lowell,/team/umass-lowell/mens-hockey/,(7) Massachusetts-Lowell,,,,HE,,,ASN
+2016,Sun.,,12/6/2015,1:00 ET,Connecticut,connecticut,/team/connecticut/mens-hockey/,Connecticut,,@,(7) Massachusetts-Lowell,umass-lowell,/team/umass-lowell/mens-hockey/,(7) Massachusetts-Lowell,,,,HE,,,"ASN, NESN"
 2016,Thu.,,12/10/2015,7:00 ET,Notre Dame,notre-dame,/team/notre-dame/mens-hockey/,Notre Dame,,@,(4) Boston College,boston-college,/team/boston-college/mens-hockey/,(4) Boston College,,,,HE,,,
 2016,Thu.,,12/10/2015,7:00 ET,Brown,brown,/team/brown/mens-hockey/,Brown,,@,(3) Providence,providence,/team/providence/mens-hockey/,(3) Providence,,,Mayor's Cup,NC,,,OSN
 2016,Fri.,,12/11/2015,7:00 ET,Army West Point,army,/team/army/mens-hockey/,Army West Point,,@,American International,american-international,/team/american-international/mens-hockey/,American International,,,,AH,,,
@@ -705,7 +705,7 @@
 2016,Fri.,,1/15/2016,7:00 ET,Cornell,cornell,/team/cornell/mens-hockey/,Cornell,,@,Rensselaer,rensselaer,/team/rensselaer/mens-hockey/,Rensselaer,,,,EC,,,
 2016,Fri.,,1/15/2016,7:00 ET,Colgate,colgate,/team/colgate/mens-hockey/,Colgate,,@,(18) Union,union,/team/union/mens-hockey/,(18) Union,,,,EC,,,
 2016,Fri.,,1/15/2016,7:00 ET,Brown,brown,/team/brown/mens-hockey/,Brown,,@,(13) Yale,yale,/team/yale/mens-hockey/,(13) Yale,,,,EC,,,
-2016,Fri.,,1/15/2016,6:00 ET,(8) Boston University,boston-university,/team/boston-university/mens-hockey/,(8) Boston University,,@,(4) Boston College,boston-college,/team/boston-college/mens-hockey/,(4) Boston College,,,,HE,,,ASN
+2016,Fri.,,1/15/2016,6:00 ET,(8) Boston University,boston-university,/team/boston-university/mens-hockey/,(8) Boston University,,@,(4) Boston College,boston-college,/team/boston-college/mens-hockey/,(4) Boston College,,,,HE,,,"ASN, NESN+"
 2016,Fri.,,1/15/2016,7:00 ET,Connecticut,connecticut,/team/connecticut/mens-hockey/,Connecticut,,@,Maine,maine,/team/maine/mens-hockey/,Maine,,,,HE,,,
 2016,Fri.,,1/15/2016,7:30 ET,(19) Merrimack,merrimack,/team/merrimack/mens-hockey/,(19) Merrimack,,@,Notre Dame,notre-dame,/team/notre-dame/mens-hockey/,Notre Dame,,,,HE,,,NBCSN
 2016,Fri.,,1/15/2016,7:00 ET,New Hampshire,new-hampshire,/team/new-hampshire/mens-hockey/,New Hampshire,,@,Northeastern,northeastern,/team/northeastern/mens-hockey/,Northeastern,,,,HE,,,
@@ -765,7 +765,7 @@
 2016,Fri.,,1/22/2016,7:00 ET,Northeastern,northeastern,/team/northeastern/mens-hockey/,Northeastern,,@,(19) Merrimack,merrimack,/team/merrimack/mens-hockey/,(19) Merrimack,,,,HE,,,
 2016,Fri.,,1/22/2016,7:00 ET,(8) Boston University,boston-university,/team/boston-university/mens-hockey/,(8) Boston University,,@,Maine,maine,/team/maine/mens-hockey/,Maine,,,,HE,,,
 2016,Fri.,,1/22/2016,7:00 ET,(7) Massachusetts-Lowell,umass-lowell,/team/umass-lowell/mens-hockey/,(7) Massachusetts-Lowell,,@,(3) Providence,providence,/team/providence/mens-hockey/,(3) Providence,,,,HE,,,OSN
-2016,Fri.,,1/22/2016,8:30 ET,Vermont,vermont,/team/vermont/mens-hockey/,Vermont,,@,Connecticut,connecticut,/team/connecticut/mens-hockey/,Connecticut,,,,HE,,,ASN
+2016,Fri.,,1/22/2016,8:30 ET,Vermont,vermont,/team/vermont/mens-hockey/,Vermont,,@,Connecticut,connecticut,/team/connecticut/mens-hockey/,Connecticut,,,,HE,,,"ASN, NESN"
 2016,Fri.,,1/22/2016,7:00 ET,(4) Boston College,boston-college,/team/boston-college/mens-hockey/,(4) Boston College,,@,Massachusetts,massachusetts,/team/massachusetts/mens-hockey/,Massachusetts,,,,HE,,,
 2016,Fri.,,1/22/2016,7:00 ET,Notre Dame,notre-dame,/team/notre-dame/mens-hockey/,Notre Dame,,@,New Hampshire,new-hampshire,/team/new-hampshire/mens-hockey/,New Hampshire,,,,HE,,,
 2016,Fri.,,1/22/2016,7:30 MT,(5) Minnesota-Duluth,minnesota-duluth,/team/minnesota-duluth/mens-hockey/,(5) Minnesota-Duluth,,@,(6) Denver,denver,/team/denver/mens-hockey/,(6) Denver,,,,NT,,,Root
@@ -934,7 +934,7 @@
 2016,Fri.,,2/12/2016,7:30 ET,(7) Massachusetts-Lowell,umass-lowell,/team/umass-lowell/mens-hockey/,(7) Massachusetts-Lowell,,@,(8) Boston University,boston-university,/team/boston-university/mens-hockey/,(8) Boston University,,,,HE,,,
 2016,Fri.,,2/12/2016,6:30 ET,Maine,maine,/team/maine/mens-hockey/,Maine,,@,Notre Dame,notre-dame,/team/notre-dame/mens-hockey/,Notre Dame,,,,HE,,,NBCSN
 2016,Fri.,,2/12/2016,7:00 ET,Connecticut,connecticut,/team/connecticut/mens-hockey/,Connecticut,,@,(3) Providence,providence,/team/providence/mens-hockey/,(3) Providence,,,,HE,,,OSN
-2016,Fri.,,2/12/2016,8:30 ET,Northeastern,northeastern,/team/northeastern/mens-hockey/,Northeastern,,@,Massachusetts,massachusetts,/team/massachusetts/mens-hockey/,Massachusetts,,,,HE,,,ASN
+2016,Fri.,,2/12/2016,8:30 ET,Northeastern,northeastern,/team/northeastern/mens-hockey/,Northeastern,,@,Massachusetts,massachusetts,/team/massachusetts/mens-hockey/,Massachusetts,,,,HE,,,"ASN, NESN"
 2016,Fri.,,2/12/2016,7:00 ET,Vermont,vermont,/team/vermont/mens-hockey/,Vermont,,@,New Hampshire,new-hampshire,/team/new-hampshire/mens-hockey/,New Hampshire,,,,HE,,,
 2016,Fri.,,2/12/2016,8:00 MT,(1) North Dakota,north-dakota,/team/north-dakota/mens-hockey/,(1) North Dakota,,@,(6) Denver,denver,/team/denver/mens-hockey/,(6) Denver,,,,NT,,,CBS
 2016,Fri.,,2/12/2016,6:30 CT,Western Michigan,western-michigan,/team/western-michigan/mens-hockey/,Western Michigan,,@,(2) Nebraska-Omaha,nebraska-omaha,/team/nebraska-omaha/mens-hockey/,(2) Nebraska-Omaha,,,,NT,,,CBS
@@ -985,7 +985,7 @@
 2016,Fri.,,2/19/2016,,(19) Merrimack,merrimack,/team/merrimack/mens-hockey/,(19) Merrimack,,@,Maine,maine,/team/maine/mens-hockey/,Maine,,,,HE,,,
 2016,Fri.,,2/19/2016,7:00 ET,Notre Dame,notre-dame,/team/notre-dame/mens-hockey/,Notre Dame,,@,(3) Providence,providence,/team/providence/mens-hockey/,(3) Providence,,,,HE,,,OSN
 2016,Fri.,,2/19/2016,7:00 ET,Northeastern,northeastern,/team/northeastern/mens-hockey/,Northeastern,,@,Connecticut,connecticut,/team/connecticut/mens-hockey/,Connecticut,,,,HE,,,
-2016,Fri.,,2/19/2016,8:30 ET,(8) Boston University,boston-university,/team/boston-university/mens-hockey/,(8) Boston University,,@,New Hampshire,new-hampshire,/team/new-hampshire/mens-hockey/,New Hampshire,,,,HE,,,ASN
+2016,Fri.,,2/19/2016,8:30 ET,(8) Boston University,boston-university,/team/boston-university/mens-hockey/,(8) Boston University,,@,New Hampshire,new-hampshire,/team/new-hampshire/mens-hockey/,New Hampshire,,,,HE,,,"ASN, NESN"
 2016,Fri.,,2/19/2016,7:00 ET,(4) Boston College,boston-college,/team/boston-college/mens-hockey/,(4) Boston College,,@,Vermont,vermont,/team/vermont/mens-hockey/,Vermont,,,,HE,,,
 2016,Fri.,,2/19/2016,7:30 CT,(5) Minnesota-Duluth,minnesota-duluth,/team/minnesota-duluth/mens-hockey/,(5) Minnesota-Duluth,,@,(1) North Dakota,north-dakota,/team/north-dakota/mens-hockey/,(1) North Dakota,,,,NT,,,CBS
 2016,Fri.,,2/19/2016,7:00 CT,(9) St. Cloud State,st-cloud-state,/team/st-cloud-state/mens-hockey/,(9) St. Cloud State,,@,(2) Nebraska-Omaha,nebraska-omaha,/team/nebraska-omaha/mens-hockey/,(2) Nebraska-Omaha,,,,NT,,,
@@ -1039,7 +1039,7 @@
 2016,Fri.,,2/26/2016,7:00 ET,Brown,brown,/team/brown/mens-hockey/,Brown,,@,(14) Quinnipiac,quinnipiac,/team/quinnipiac/mens-hockey/,(14) Quinnipiac,,,,EC,,,
 2016,Fri.,,2/26/2016,7:00 ET,Dartmouth,dartmouth,/team/dartmouth/mens-hockey/,Dartmouth,,@,(17) St. Lawrence,st-lawrence,/team/st-lawrence/mens-hockey/,(17) St. Lawrence,,,,EC,,,
 2016,Fri.,,2/26/2016,7:00 ET,(7) Massachusetts-Lowell,umass-lowell,/team/umass-lowell/mens-hockey/,(7) Massachusetts-Lowell,,@,(4) Boston College,boston-college,/team/boston-college/mens-hockey/,(4) Boston College,,,,HE,,,
-2016,Fri.,,2/26/2016,8:30 ET,Vermont,vermont,/team/vermont/mens-hockey/,Vermont,,@,(19) Merrimack,merrimack,/team/merrimack/mens-hockey/,(19) Merrimack,,,,HE,,,ASN
+2016,Fri.,,2/26/2016,8:30 ET,Vermont,vermont,/team/vermont/mens-hockey/,Vermont,,@,(19) Merrimack,merrimack,/team/merrimack/mens-hockey/,(19) Merrimack,,,,HE,,,"ASN, NESN+"
 2016,Fri.,,2/26/2016,7:30 ET,(8) Boston University,boston-university,/team/boston-university/mens-hockey/,(8) Boston University,,@,Notre Dame,notre-dame,/team/notre-dame/mens-hockey/,Notre Dame,,,,HE,,,NBCSN
 2016,Fri.,,2/26/2016,7:00 ET,Maine,maine,/team/maine/mens-hockey/,Maine,,@,Northeastern,northeastern,/team/northeastern/mens-hockey/,Northeastern,,,,HE,,,
 2016,Fri.,,2/26/2016,7:00 ET,New Hampshire,new-hampshire,/team/new-hampshire/mens-hockey/,New Hampshire,,@,Connecticut,connecticut,/team/connecticut/mens-hockey/,Connecticut,,,,HE,,,
@@ -1167,7 +1167,7 @@
 2016,Sat.,,10/31/2015,6:30 CT,St. Thomas,st-thomas,/team/st-thomas/mens-hockey/,St. Thomas,,vs.,St. John's,st-johns,/team/st-johns/mens-hockey/,St. John's,,,MIAC Showcase,NC,,,
 2016,Sat.,,10/31/2015,4:00 ET,Wentworth,wentworth,/team/wentworth/mens-hockey/,Wentworth,,@,Fitchburg State,fitchburg-state,/team/fitchburg-state/mens-hockey/,Fitchburg State,,,Fitchburg Shootout,NC,,,
 2016,Sat.,,10/31/2015,1:00 ET,Southern Maine,southern-maine,/team/southern-maine/mens-hockey/,Southern Maine,,vs.,Worcester State,worcester-state,/team/worcester-state/mens-hockey/,Worcester State,,,Fitchburg Shootout,NC,,,
-2016,Sun.,,11/1/2015,,Western New England,western-new-england,/team/western-new-england/mens-hockey/,Western New England,,vs.,Westfield State,westfield-state,/team/westfield-state/mens-hockey/,Westfield State,,,,NC,,,
+2016,Sun.,,11/1/2015,3:30 ET,Western New England,western-new-england,/team/western-new-england/mens-hockey/,Western New England,,vs.,Westfield State,westfield-state,/team/westfield-state/mens-hockey/,Westfield State,,,,NC,,,
 2016,Sun.,,11/1/2015,3:30 CT,St. John's,st-johns,/team/st-johns/mens-hockey/,St. John's,,vs.,Augsburg,augsburg,/team/augsburg/mens-hockey/,Augsburg,,,MIAC Showcase,NC,,,
 2016,Sun.,,11/1/2015,2:30 CT,St. Olaf,st-olaf,/team/st-olaf/mens-hockey/,St. Olaf,,vs.,Concordia (Minn.),concordia-mn,/team/concordia-mn/mens-hockey/,Concordia (Minn.),,,MIAC Showcase,NC,,,
 2016,Sun.,,11/1/2015,3:00 CT,St. Mary's,st-marys,/team/st-marys/mens-hockey/,St. Mary's,,vs.,(15) Hamline,hamline,/team/hamline/mens-hockey/,(15) Hamline,,,MIAC Showcase,NC,,,
@@ -1386,7 +1386,6 @@
 2016,Tue.,,11/24/2015,7:30 ET,Tufts,tufts,/team/tufts/mens-hockey/,Tufts,,@,Becker,becker,/team/becker/mens-hockey/,Becker,,,,NC,,,
 2016,Tue.,,11/24/2015,5:00 ET,Plymouth State,plymouth-state,/team/plymouth-state/mens-hockey/,Plymouth State,,@,Connecticut College,connecticut-college,/team/connecticut-college/mens-hockey/,Connecticut College,,,,NC,,,
 2016,Tue.,,11/24/2015,7:30 ET,New England College,new-england-college,/team/new-england-college/mens-hockey/,New England College,,@,Framingham State,framingham-state,/team/framingham-state/mens-hockey/,Framingham State,,,,NC,,,
-2016,Tue.,,11/24/2015,7:00 ET,Nazareth,nazareth,/team/nazareth/mens-hockey/,Nazareth,,@,Geneseo,geneseo,/team/geneseo/mens-hockey/,Geneseo,,,,NC,,,
 2016,Tue.,,11/24/2015,7:30 ET,(12) Babson,babson,/team/babson/mens-hockey/,(12) Babson,,@,Massachusetts-Dartmouth,umass-dartmouth,/team/umass-dartmouth/mens-hockey/,Massachusetts-Dartmouth,,,,NC,,,
 2016,Tue.,,11/24/2015,7:00 ET,So. New Hampshire,so-new-hampshire,/team/so-new-hampshire/mens-hockey/,So. New Hampshire,,@,St. Anselm,st-anselm,/team/st-anselm/mens-hockey/,St. Anselm,,,,NC,,,
 2016,Tue.,,11/24/2015,7:00 ET,Bowdoin,bowdoin,/team/bowdoin/mens-hockey/,Bowdoin,,@,University of New England,university-of-new-england,/team/university-of-new-england/mens-hockey/,University of New England,,,,NC,,,
@@ -1412,7 +1411,6 @@
 2016,Sat.,,11/28/2015,4:00 CT,Bethel,bethel,/team/bethel/mens-hockey/,Bethel,,@,Concordia (Wis.),concordia-wi,/team/concordia-wi/mens-hockey/,Concordia (Wis.),,,,NC,,,
 2016,Sat.,,11/28/2015,3:00 ET,(4) Amherst,amherst,/team/amherst/mens-hockey/,(4) Amherst,,@,Elmira,elmira,/team/elmira/mens-hockey/,Elmira,,,,NC,,,
 2016,Sat.,,11/28/2015,3:00 ET,(12) Babson,babson,/team/babson/mens-hockey/,(12) Babson,,@,Nazareth,nazareth,/team/nazareth/mens-hockey/,Nazareth,,,,NC,,,
-2016,Sat.,,11/28/2015,3:00 ET,(4) Amherst,amherst,/team/amherst/mens-hockey/,(4) Amherst,,@,Nazareth,nazareth,/team/nazareth/mens-hockey/,Nazareth,,,,NC,,,
 2016,Sat.,,11/28/2015,4:00 ET,Morrisville,morrisville,/team/morrisville/mens-hockey/,Morrisville,,@,Neumann,neumann,/team/neumann/mens-hockey/,Neumann,,,,NC,,,
 2016,Sat.,,11/28/2015,8:00 CT,Aurora,aurora,/team/aurora/mens-hockey/,Aurora,,@,St. Mary's,st-marys,/team/st-marys/mens-hockey/,St. Mary's,,,,NC,,,
 2016,Sat.,,11/28/2015,4:00 ET,Stonehill,stonehill,/team/stonehill/mens-hockey/,Stonehill,,@,(1) Trinity,trinity,/team/trinity/mens-hockey/,(1) Trinity,,,,NC,,,
@@ -1440,6 +1438,7 @@
 2016,Sat.,,11/28/2015,4:00 ET,St. John's,st-johns,/team/st-johns/mens-hockey/,St. John's,,vs.,(6) Oswego,oswego,/team/oswego/mens-hockey/,(6) Oswego,,,Utica Thanksgiving Showcase,NC,,,
 2016,Sat.,,11/28/2015,7:00 ET,St. Thomas,st-thomas,/team/st-thomas/mens-hockey/,St. Thomas,,@,Utica,utica,/team/utica/mens-hockey/,Utica,,,Utica Thanksgiving Showcase,NC,,,
 2016,Sun.,,11/29/2015,3:00 ET,(12) Babson,babson,/team/babson/mens-hockey/,(12) Babson,,@,Elmira,elmira,/team/elmira/mens-hockey/,Elmira,,,,NC,,,
+2016,Sun.,,11/29/2015,3:00 ET,(4) Amherst,amherst,/team/amherst/mens-hockey/,(4) Amherst,,@,Nazareth,nazareth,/team/nazareth/mens-hockey/,Nazareth,,,,NC,,,
 2016,Sun.,,11/29/2015,3:00 CT,Aurora,aurora,/team/aurora/mens-hockey/,Aurora,,@,St. Mary's,st-marys,/team/st-marys/mens-hockey/,St. Mary's,,,,NC,,,
 2016,Sun.,,11/29/2015,7:00 ET,Salem State,salem-state,/team/salem-state/mens-hockey/,Salem State,,@,Suffolk,suffolk,/team/suffolk/mens-hockey/,Suffolk,,,,NC,,,
 2016,Sun.,,11/29/2015,3:00 ET,Salve Regina,salve-regina,/team/salve-regina/mens-hockey/,Salve Regina,,@,(1) Trinity,trinity,/team/trinity/mens-hockey/,(1) Trinity,,,,NC,,,
@@ -1513,7 +1512,7 @@
 2016,Sat.,,12/5/2015,7:00 CT,Aurora,aurora,/team/aurora/mens-hockey/,Aurora,,@,Concordia (Wis.),concordia-wi,/team/concordia-wi/mens-hockey/,Concordia (Wis.),,,,NH2,,,
 2016,Sat.,,12/5/2015,3:00 CT,Lake Forest,lake-forest,/team/lake-forest/mens-hockey/,Lake Forest,,@,Northland,northland,/team/northland/mens-hockey/,Northland,,,,NH2,,,
 2016,Sat.,,12/5/2015,7:00 CT,Lawrence,lawrence,/team/lawrence/mens-hockey/,Lawrence,,@,(8) St. Norbert,st-norbert,/team/st-norbert/mens-hockey/,(8) St. Norbert,,,,NH2,,,
-2016,Sat.,,12/5/2015,,Marian,marian,/team/marian/mens-hockey/,Marian,,@,St. Scholastica,st-scholastica,/team/st-scholastica/mens-hockey/,St. Scholastica,,,,NH2,,,
+2016,Sat.,,12/5/2015,4:00 CT,Marian,marian,/team/marian/mens-hockey/,Marian,,@,St. Scholastica,st-scholastica,/team/st-scholastica/mens-hockey/,St. Scholastica,,,,NH2,,,
 2016,Sat.,,12/5/2015,7:00 ET,Wesleyan,wesleyan,/team/wesleyan/mens-hockey/,Wesleyan,,@,(4) Amherst,amherst,/team/amherst/mens-hockey/,(4) Amherst,,,,NS,,,
 2016,Sat.,,12/5/2015,7:00 ET,Colby,colby,/team/colby/mens-hockey/,Colby,,@,Bowdoin,bowdoin,/team/bowdoin/mens-hockey/,Bowdoin,,,,NS,,,
 2016,Sat.,,12/5/2015,3:00 ET,Williams,williams,/team/williams/mens-hockey/,Williams,,@,Connecticut College,connecticut-college,/team/connecticut-college/mens-hockey/,Connecticut College,,,,NS,,,
@@ -1550,6 +1549,7 @@
 2016,Fri.,,12/11/2015,7:00 ET,Connecticut College,connecticut-college,/team/connecticut-college/mens-hockey/,Connecticut College,,@,Colby,colby,/team/colby/mens-hockey/,Colby,,,,NS,,,
 2016,Fri.,,12/11/2015,7:00 ET,Middlebury,middlebury,/team/middlebury/mens-hockey/,Middlebury,,@,Hamilton,hamilton,/team/hamilton/mens-hockey/,Hamilton,,,,NS,,,
 2016,Fri.,,12/11/2015,7:00 ET,Daniel Webster,daniel-webster,/team/daniel-webster/mens-hockey/,Daniel Webster,,@,Fredonia,fredonia,/team/fredonia/mens-hockey/,Fredonia,,,,NC,,,
+2016,Fri.,,12/11/2015,7:00 ET,Nazareth,nazareth,/team/nazareth/mens-hockey/,Nazareth,,@,Geneseo,geneseo,/team/geneseo/mens-hockey/,Geneseo,,,,NC,,,
 2016,Fri.,,12/11/2015,7:00 CT,(2) Wisconsin-Stevens Point,wisconsin-stevens-point,/team/wisconsin-stevens-point/mens-hockey/,(2) Wisconsin-Stevens Point,,@,Northland,northland,/team/northland/mens-hockey/,Northland,,,,NC,,,
 2016,Fri.,,12/11/2015,7:00 ET,Johnson and Wales,johnson-and-wales,/team/johnson-and-wales/mens-hockey/,Johnson and Wales,,@,Potsdam,potsdam,/team/potsdam/mens-hockey/,Potsdam,,,,NC,,,
 2016,Fri.,,12/11/2015,7:00 CT,Gustavus Adolphus,gustavus-adolphus,/team/gustavus-adolphus/mens-hockey/,Gustavus Adolphus,,@,St. Scholastica,st-scholastica,/team/st-scholastica/mens-hockey/,St. Scholastica,,,,NC,,,
@@ -1564,7 +1564,7 @@
 2016,Sat.,,12/12/2015,3:00 ET,Tufts,tufts,/team/tufts/mens-hockey/,Tufts,,@,Colby,colby,/team/colby/mens-hockey/,Colby,,,,NS,,,
 2016,Sat.,,12/12/2015,3:00 ET,Williams,williams,/team/williams/mens-hockey/,Williams,,@,Hamilton,hamilton,/team/hamilton/mens-hockey/,Hamilton,,,,NS,,,
 2016,Sat.,,12/12/2015,6:30 ET,St. Michael's,st-michaels,/team/st-michaels/mens-hockey/,St. Michael's,,@,Assumption,assumption,/team/assumption/mens-hockey/,Assumption,,,,NC,,,
-2016,Sat.,,12/12/2015,,Plymouth State,plymouth-state,/team/plymouth-state/mens-hockey/,Plymouth State,,@,Castleton,castleton,/team/castleton/mens-hockey/,Castleton,,,,NC,,,
+2016,Sat.,,12/12/2015,7:00 ET,Plymouth State,plymouth-state,/team/plymouth-state/mens-hockey/,Plymouth State,,@,Castleton,castleton,/team/castleton/mens-hockey/,Castleton,,,,NC,,,
 2016,Sat.,,12/12/2015,3:00 ET,Johnson and Wales,johnson-and-wales,/team/johnson-and-wales/mens-hockey/,Johnson and Wales,,@,Canton,canton,/team/canton/mens-hockey/,Canton,,,,NC,,,
 2016,Sat.,,12/12/2015,4:45 ET,Cortland,cortland,/team/cortland/mens-hockey/,Cortland,,@,Curry,curry,/team/curry/mens-hockey/,Curry,,,,NC,,,
 2016,Sat.,,12/12/2015,3:00 ET,Salem State,salem-state,/team/salem-state/mens-hockey/,Salem State,,@,Endicott,endicott,/team/endicott/mens-hockey/,Endicott,,,,NC,,,
@@ -1681,8 +1681,8 @@
 2016,Sat.,,1/9/2016,7:00 ET,Wesleyan,wesleyan,/team/wesleyan/mens-hockey/,Wesleyan,,@,Middlebury,middlebury,/team/middlebury/mens-hockey/,Middlebury,,,,NS,,,
 2016,Sat.,,1/9/2016,7:00 ET,(1) Trinity,trinity,/team/trinity/mens-hockey/,(1) Trinity,,@,Williams,williams,/team/williams/mens-hockey/,Williams,,,,NS,,,
 2016,Sat.,,1/9/2016,3:00 ET,(14) Nichols,nichols,/team/nichols/mens-hockey/,(14) Nichols,,@,Cortland,cortland,/team/cortland/mens-hockey/,Cortland,,,,NC,,,
-2016,Sat.,,1/9/2016,6:45 ET,Plymouth State,plymouth-state,/team/plymouth-state/mens-hockey/,Plymouth State,,@,Curry,curry,/team/curry/mens-hockey/,Curry,,,,NC,,,
 2016,Sat.,,1/9/2016,4:45 ET,Potsdam,potsdam,/team/potsdam/mens-hockey/,Potsdam,,@,Curry,curry,/team/curry/mens-hockey/,Curry,,,,NC,,,
+2016,Sat.,,1/9/2016,6:45 ET,Plymouth State,plymouth-state,/team/plymouth-state/mens-hockey/,Plymouth State,,@,Curry,curry,/team/curry/mens-hockey/,Curry,,,,NC,,,
 2016,Sat.,,1/9/2016,7:00 ET,Geneseo,geneseo,/team/geneseo/mens-hockey/,Geneseo,,@,Elmira,elmira,/team/elmira/mens-hockey/,Elmira,,,,NC,,,
 2016,Sat.,,1/9/2016,4:00 ET,Tufts,tufts,/team/tufts/mens-hockey/,Tufts,,@,Endicott,endicott,/team/endicott/mens-hockey/,Endicott,,,,NC,,,
 2016,Sat.,,1/9/2016,7:00 ET,Suffolk,suffolk,/team/suffolk/mens-hockey/,Suffolk,,@,Franklin Pierce,franklin-pierce,/team/franklin-pierce/mens-hockey/,Franklin Pierce,,,,NC,,,
@@ -1921,7 +1921,7 @@
 2016,Sat.,,1/30/2016,4:50 ET,Curry,curry,/team/curry/mens-hockey/,Curry,,@,Becker,becker,/team/becker/mens-hockey/,Becker,,,,EN,,,
 2016,Sat.,,1/30/2016,3:00 ET,Salve Regina,salve-regina,/team/salve-regina/mens-hockey/,Salve Regina,,@,Endicott,endicott,/team/endicott/mens-hockey/,Endicott,,,,EN,,,
 2016,Sat.,,1/30/2016,7:20 ET,Wentworth,wentworth,/team/wentworth/mens-hockey/,Wentworth,,@,Johnson and Wales,johnson-and-wales,/team/johnson-and-wales/mens-hockey/,Johnson and Wales,,,,EN,,,
-2016,Sat.,,1/30/2016,,Western New England,western-new-england,/team/western-new-england/mens-hockey/,Western New England,,@,Suffolk,suffolk,/team/suffolk/mens-hockey/,Suffolk,,,,EN,,,
+2016,Sat.,,1/30/2016,7:00 ET,Western New England,western-new-england,/team/western-new-england/mens-hockey/,Western New England,,@,Suffolk,suffolk,/team/suffolk/mens-hockey/,Suffolk,,,,EN,,,
 2016,Sat.,,1/30/2016,4:00 ET,Utica,utica,/team/utica/mens-hockey/,Utica,,@,(10) Hobart,hobart,/team/hobart/mens-hockey/,(10) Hobart,,,,EW,,,
 2016,Sat.,,1/30/2016,4:00 ET,Manhattanville,manhattanville,/team/manhattanville/mens-hockey/,Manhattanville,,@,Nazareth,nazareth,/team/nazareth/mens-hockey/,Nazareth,,,,EW,,,
 2016,Sat.,,1/30/2016,4:00 ET,Elmira,elmira,/team/elmira/mens-hockey/,Elmira,,@,Neumann,neumann,/team/neumann/mens-hockey/,Neumann,,,,EW,,,
@@ -1933,7 +1933,7 @@
 2016,Sat.,,1/30/2016,7:00 CT,Marian,marian,/team/marian/mens-hockey/,Marian,,@,Milwaukee School of Engineering,milwaukee-school-of-engineering,/team/milwaukee-school-of-engineering/mens-hockey/,Milwaukee School of Engineering,,,,NH2,,,
 2016,Sat.,,1/30/2016,7:00 CT,Finlandia,finlandia,/team/finlandia/mens-hockey/,Finlandia,,@,Northland,northland,/team/northland/mens-hockey/,Northland,,,,NH2,,,
 2016,Sat.,,1/30/2016,7:00 CT,Concordia (Wis.),concordia-wi,/team/concordia-wi/mens-hockey/,Concordia (Wis.),,@,(8) St. Norbert,st-norbert,/team/st-norbert/mens-hockey/,(8) St. Norbert,,,,NH2,,,
-2016,Sat.,,1/30/2016,,Aurora,aurora,/team/aurora/mens-hockey/,Aurora,,@,St. Scholastica,st-scholastica,/team/st-scholastica/mens-hockey/,St. Scholastica,,,,NH2,,,
+2016,Sat.,,1/30/2016,5:00 CT,Aurora,aurora,/team/aurora/mens-hockey/,Aurora,,@,St. Scholastica,st-scholastica,/team/st-scholastica/mens-hockey/,St. Scholastica,,,,NH2,,,
 2016,Sat.,,1/30/2016,4:00 ET,Tufts,tufts,/team/tufts/mens-hockey/,Tufts,,@,Middlebury,middlebury,/team/middlebury/mens-hockey/,Middlebury,,,,NS,,,
 2016,Sat.,,1/30/2016,7:30 ET,Hamilton,hamilton,/team/hamilton/mens-hockey/,Hamilton,,@,(1) Trinity,trinity,/team/trinity/mens-hockey/,(1) Trinity,,,,NS,,,
 2016,Sat.,,1/30/2016,7:00 ET,(4) Amherst,amherst,/team/amherst/mens-hockey/,(4) Amherst,,@,Wesleyan,wesleyan,/team/wesleyan/mens-hockey/,Wesleyan,,,,NS,,,

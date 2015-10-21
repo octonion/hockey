@@ -1,9 +1,8 @@
 BEGIN
 SET
-    date    |     site     |      team       | div | score |  opp  | div | score 
-------------+--------------+-----------------+-----+-------+-------+-----+-------
- 2015-10-20 | offense_home | (14) Quinnipiac |   1 |   2.9 | Maine |   1 |   1.9
-(1 row)
+ date | site | team | div | score | opp | div | score 
+------+------+------+-----+-------+-----+-----+-------
+(0 rows)
 
-COPY 1
+COPY 0
 COMMIT
