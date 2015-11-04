@@ -1,8 +1,11 @@
 BEGIN
 SET
- date | site | team | div | score | opp | div | score 
-------+------+------+-----+-------+-----+-----+-------
-(0 rows)
+    date    |     site     |  team   | div | score |      opp       | div | score 
+------------+--------------+---------+-----+-------+----------------+-----+-------
+ 2015-11-04 | offense_home | Bentley |   1 |   2.2 | (16) Merrimack |   1 |   2.5
+ 2015-11-04 | offense_home | Nichols |   3 |   2.8 | Endicott       |   3 |   2.6
+ 2015-11-04 | offense_home | Suffolk |   3 |   3.3 | Salve Regina   |   3 |   3.0
+(3 rows)
 
-COPY 0
+COPY 3
 COMMIT
