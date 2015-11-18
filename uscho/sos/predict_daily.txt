@@ -1,12 +1,10 @@
 BEGIN
 SET
-    date    |     site     |       team        | div | score |           opp           | div | score 
-------------+--------------+-------------------+-----+-------+-------------------------+-----+-------
- 2015-11-11 | offense_home | Nichols           |   3 |   3.7 | Stonehill               |   2 |   2.4
- 2015-11-11 | offense_home | Plymouth State    |   3 |   3.3 | Massachusetts-Dartmouth |   3 |   2.5
- 2015-11-11 | offense_home | So. New Hampshire |   2 |   4.8 | Daniel Webster          |   3 |   4.3
- 2015-11-11 | offense_home | Wentworth         |   3 |   3.0 | Johnson and Wales       |   3 |   2.6
-(4 rows)
+    date    |     site     |      team      | div | score |       opp       | div | score 
+------------+--------------+----------------+-----+-------+-----------------+-----+-------
+ 2015-11-18 | offense_home | Daniel Webster |   3 |   4.5 | Franklin Pierce |   2 |   2.4
+ 2015-11-18 | offense_home | Nichols        |   3 |   4.4 | Becker          |   3 |   2.3
+(2 rows)
 
-COPY 4
+COPY 2
 COMMIT
