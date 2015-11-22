@@ -1,3 +1,61 @@
 date,site,team,div,score,opp,div,score
-2015-11-18,offense_home,Daniel Webster,3,4.5,Franklin Pierce,2,2.4
-2015-11-18,offense_home,Nichols,3,4.4,Becker,3,2.3
+2015-11-21,offense_home,(10) Boston University,1,3.3,(12) Michigan,1,3.3
+2015-11-21,offense_home,(11) Yale,1,3.3,Colgate,1,1.8
+2015-11-21,offense_home,(13) Merrimack,1,3.8,Massachusetts,1,2.3
+2015-11-21,offense_home,(13) Wisconsin-River Falls,3,2.2,Milwaukee School of Engineering,3,2.1
+2015-11-21,offense_home,(14) Hamline,3,3.5,St. John's,3,2.6
+2015-11-21,offense_home,(15) Bowling Green,1,2.9,Alabama-Huntsville,1,2.2
+2015-11-21,offense_home,(1) Trinity,3,3.1,Connecticut College,3,2.2
+2015-11-21,offense_home,(2) Wisconsin-Stevens Point,3,3.0,(9) St. Norbert,3,2.8
+2015-11-21,offense_home,(3) Norwich,3,2.9,Castleton,3,1.5
+2015-11-21,offense_home,(3) Quinnipiac,1,2.9,(14) St. Lawrence,1,1.9
+2015-11-21,offense_home,(4) Plattsburgh,3,3.8,(12) Potsdam,3,2.2
+2015-11-21,offense_home,(5) Massachusetts-Lowell,1,3.0,(16) Notre Dame,1,2.0
+2015-11-21,offense_home,(7) St. Cloud State,1,3.6,(4) North Dakota,1,2.1
+2015-11-21,offense_home,(8) Wisconsin-Eau Claire,3,4.6,Lake Forest,3,1.9
+2015-11-21,offense_home,Alaska-Anchorage,1,3.1,Penn State,1,3.2
+2015-11-21,offense_home,Army West Point,1,2.2,Robert Morris,1,3.7
+2015-11-21,offense_home,Augsburg,3,3.1,Gustavus Adolphus,3,2.2
+2015-11-21,offense_home,Becker,3,2.8,Endicott,3,3.6
+2015-11-21,offense_home,Bemidji State,1,2.7,Lake Superior,1,2.2
+2015-11-21,offense_home,Bethel,3,2.5,St. Thomas,3,3.7
+2015-11-21,offense_home,Brown,1,2.1,(18) Cornell,1,3.1
+2015-11-21,offense_home,Buffalo State,3,4.5,Brockport,3,2.6
+2015-11-21,offense_home,Canisius,1,2.7,Mercyhurst,1,3.5
+2015-11-21,offense_home,Colorado College,1,1.9,(17) Minnesota-Duluth,1,2.9
+2015-11-21,offense_home,Cortland,3,4.0,Canton,3,2.9
+2015-11-21,offense_home,Curry,3,2.3,Nichols,3,2.8
+2015-11-21,offense_home,Elmira,3,2.8,(11) Hobart,3,3.8
+2015-11-21,offense_home,Ferris State,1,3.2,Alaska,1,2.9
+2015-11-21,offense_home,Finlandia,3,3.2,Lawrence,3,3.4
+2015-11-21,offense_home,Fitchburg State,3,3.1,Plymouth State,3,3.8
+2015-11-21,offense_home,Fredonia,3,3.4,Geneseo,3,3.2
+2015-11-21,offense_home,Hamilton,3,4.6,Franklin Pierce,2,1.5
+2015-11-21,offense_home,Maine,1,2.2,Vermont,1,2.0
+2015-11-21,offense_home,Manhattanville,3,3.4,Utica,3,3.1
+2015-11-21,offense_home,Massachusetts-Dartmouth,3,2.5,Salem State,3,3.5
+2015-11-21,offense_home,Miami,1,2.5,(6) Nebraska-Omaha,1,2.6
+2015-11-21,offense_home,Michigan State,1,2.9,(19) Michigan Tech,1,2.8
+2015-11-21,offense_home,Morrisville,3,2.6,Oswego,3,3.5
+2015-11-21,offense_home,Neumann,3,3.8,Nazareth,3,2.9
+2015-11-21,offense_home,New Hampshire,1,2.2,(2) Boston College,1,4.1
+2015-11-21,offense_home,Niagara,1,3.9,American International,1,3.0
+2015-11-21,offense_home,Northeastern,1,1.9,(1) Providence,1,3.5
+2015-11-21,offense_home,Northern Michigan,1,2.5,Minnesota State,1,2.0
+2015-11-21,offense_home,Northland,3,2.3,(15) St. Scholastica,3,4.0
+2015-11-21,offense_home,Princeton,1,2.2,(20) Clarkson,1,2.3
+2015-11-21,offense_home,Sacred Heart,1,2.4,Air Force,1,2.2
+2015-11-21,offense_home,Salve Regina,3,4.1,Western New England,3,2.2
+2015-11-21,offense_home,So. New Hampshire,2,3.3,Assumption,2,3.4
+2015-11-21,offense_home,Southern Maine,3,2.4,(10) Massachusetts-Boston,3,4.3
+2015-11-21,offense_home,St. Mary's,3,5.0,St. Olaf,3,2.9
+2015-11-21,offense_home,St. Michael's,2,2.4,Skidmore,3,4.5
+2015-11-21,offense_home,Suffolk,3,2.5,Johnson and Wales,3,2.7
+2015-11-21,offense_home,University of New England,3,1.9,(6) Babson,3,3.7
+2015-11-21,offense_home,Wentworth,3,2.7,St. Anselm,2,2.4
+2015-11-21,offense_home,Wesleyan,3,2.5,Tufts,3,2.2
+2015-11-21,offense_home,Westfield State,3,4.6,Framingham State,3,2.3
+2015-11-21,offense_home,Williams,3,3.4,Bowdoin,3,2.3
+2015-11-21,offense_home,Wisconsin,1,2.4,(9) Denver,1,2.8
+2015-11-21,offense_home,Wisconsin-Stout,3,2.5,Concordia (Wis.),3,2.2
+2015-11-21,offense_home,Wisconsin-Superior,3,2.4,Marian,3,2.5
