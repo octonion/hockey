@@ -15,7 +15,7 @@ table_xpath = '//*[@id="stats"]/tbody/tr'
 
 #stats = CSV.open("csv/goalies.csv","w")
 
-(2015..2015).each do |year|
+(2016..2016).each do |year|
 
   if (year==2005)
     next

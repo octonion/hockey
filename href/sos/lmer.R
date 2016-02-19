@@ -24,7 +24,7 @@ from href.games
 group by year) f
   on (f.year)=(r.year)
 where
-    r.year between 2008 and 2015
+    r.year between 2008 and 2016
 and r.team_score is not null
 ;")
 
@@ -85,7 +85,13 @@ dim(g)
 
 model <- gs ~ year+field+status+(1|offense)+(1|defense)+(1|game_id)
 
-fit <- glmer(model, data=g, REML=TRUE, verbose=TRUE, family=poisson, weights=week)
+fit <- glmer(model,
+	     data=g,
+	     family=poisson,
+	     verbose=TRUE,
+	     weights=week,
+	     nAGQ=0,
+	     control=glmerControl(optimizer = "nloptwrap"))
 fit
 summary(fit)
 

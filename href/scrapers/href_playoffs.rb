@@ -13,7 +13,7 @@ base = "http://www.hockey-reference.com/leagues"
 
 table_xpath = '//*[@id="games_playoffs"]/tbody/tr'
 
-(2015..2015).each do |year|
+(2016..2016).each do |year|
 
   if (year==2005)
     next
