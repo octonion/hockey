@@ -1,54 +1,12 @@
 BEGIN
 SET
-    date    |     site     |           team            | div | score |               opp               | div | score 
-------------+--------------+---------------------------+-----+-------+---------------------------------+-----+-------
- 2016-02-19 | offense_home | (11) Massachusetts-Lowell |   1 |   4.3 | Massachusetts                   |   1 |   1.8
- 2016-02-19 | offense_home | (12) Nebraska-Omaha       |   1 |   2.5 | (3) St. Cloud State             |   1 |   3.6
- 2016-02-19 | offense_home | (13) Harvard              |   1 |   3.1 | (16) Cornell                    |   1 |   2.0
- 2016-02-19 | offense_home | (14) St. Scholastica      |   3 |   2.7 | (3) Adrian                      |   3 |   4.1
- 2016-02-19 | offense_home | (15) Penn State           |   1 |   3.9 | Ohio State                      |   1 |   3.0
- 2016-02-19 | offense_home | (17) Rensselaer           |   1 |   1.9 | (1) Quinnipiac                  |   1 |   2.8
- 2016-02-19 | offense_home | (1) St. Norbert           |   3 |   3.3 | Milwaukee School of Engineering |   3 |   1.3
- 2016-02-19 | offense_home | (2) Plattsburgh           |   3 |   5.0 | Brockport                       |   3 |   2.5
- 2016-02-19 | offense_home | (4) North Dakota          |   1 |   2.7 | Minnesota-Duluth                |   1 |   1.9
- 2016-02-19 | offense_home | (5) Providence            |   1 |   2.8 | (7) Notre Dame                  |   1 |   2.3
- 2016-02-19 | offense_home | (6) Michigan              |   1 |   4.4 | Ferris State                    |   1 |   2.6
- 2016-02-19 | offense_home | (7) Trinity               |   3 |   4.4 | Wesleyan                        |   3 |   2.0
- 2016-02-19 | offense_home | (8) Yale                  |   1 |   2.3 | (18) St. Lawrence               |   1 |   1.8
- 2016-02-19 | offense_home | Air Force                 |   1 |   2.7 | Robert Morris                   |   1 |   3.0
- 2016-02-19 | offense_home | Alaska                    |   1 |   2.2 | Bowling Green                   |   1 |   2.8
- 2016-02-19 | offense_home | Alaska-Anchorage          |   1 |   2.6 | Lake Superior                   |   1 |   2.1
- 2016-02-19 | offense_home | Army West Point           |   1 |   2.7 | Mercyhurst                      |   1 |   2.6
- 2016-02-19 | offense_home | Augsburg                  |   3 |   3.1 | St. John's                      |   3 |   2.0
- 2016-02-19 | offense_home | Aurora                    |   3 |   1.5 | (11) Marian                     |   3 |   5.3
- 2016-02-19 | offense_home | Bemidji State             |   1 |   2.3 | (14) Michigan Tech              |   1 |   2.4
- 2016-02-19 | offense_home | Brown                     |   1 |   2.5 | (20) Clarkson                   |   1 |   3.1
- 2016-02-19 | offense_home | Buffalo State             |   3 |   2.6 | Oswego                          |   3 |   1.9
- 2016-02-19 | offense_home | Canisius                  |   1 |   2.6 | Sacred Heart                    |   1 |   2.5
- 2016-02-19 | offense_home | Concordia (Minn.)         |   3 |   4.4 | Bethel                          |   3 |   2.4
- 2016-02-19 | offense_home | Connecticut               |   1 |   2.2 | Northeastern                    |   1 |   3.0
- 2016-02-19 | offense_home | Connecticut College       |   3 |   2.3 | Colby                           |   3 |   3.1
- 2016-02-19 | offense_home | Dartmouth                 |   1 |   3.7 | Colgate                         |   1 |   2.5
- 2016-02-19 | offense_home | Fredonia                  |   3 |   3.5 | Cortland                        |   3 |   3.1
- 2016-02-19 | offense_home | Gustavus Adolphus         |   3 |   3.0 | Hamline                         |   3 |   3.2
- 2016-02-19 | offense_home | Holy Cross                |   1 |   4.4 | American International          |   1 |   2.0
- 2016-02-19 | offense_home | Lake Forest               |   3 |   3.6 | Lawrence                        |   3 |   3.1
- 2016-02-19 | offense_home | Maine                     |   1 |   2.2 | Merrimack                       |   1 |   2.6
- 2016-02-19 | offense_home | Neumann                   |   3 |   4.2 | Manhattanville                  |   3 |   3.0
- 2016-02-19 | offense_home | New Hampshire             |   1 |   3.1 | (9) Boston University           |   1 |   3.9
- 2016-02-19 | offense_home | Niagara                   |   1 |   2.5 | RIT                             |   1 |   3.1
- 2016-02-19 | offense_home | Northern Michigan         |   1 |   3.1 | Alabama-Huntsville              |   1 |   2.1
- 2016-02-19 | offense_home | Northland                 |   3 |   2.6 | Concordia (Wis.)                |   3 |   2.5
- 2016-02-19 | offense_home | Potsdam                   |   3 |   3.0 | (12) Geneseo                    |   3 |   3.4
- 2016-02-19 | offense_home | St. Olaf                  |   3 |   2.6 | St. Thomas                      |   3 |   3.3
- 2016-02-19 | offense_home | Tufts                     |   3 |   2.6 | Bowdoin                         |   3 |   2.3
- 2016-02-19 | offense_home | Union                     |   1 |   3.3 | Princeton                       |   1 |   2.2
- 2016-02-19 | offense_home | Utica                     |   3 |   2.9 | Nazareth                        |   3 |   2.2
- 2016-02-19 | offense_home | Vermont                   |   1 |   1.8 | (2) Boston College              |   1 |   3.2
- 2016-02-19 | offense_home | Western Michigan          |   1 |   2.5 | Miami                           |   1 |   3.0
- 2016-02-19 | offense_home | Wisconsin                 |   1 |   3.0 | Michigan State                  |   1 |   2.6
- 2016-02-19 | offense_home | Wisconsin-Superior        |   3 |   3.3 | Wisconsin-Stout                 |   3 |   3.1
-(46 rows)
+    date    |     site     |      team       | div | score |             opp             | div | score 
+------------+--------------+-----------------+-----+-------+-----------------------------+-----+-------
+ 2016-03-19 | offense_home | (1) Adrian      |   3 |   4.1 | (3) Wisconsin-Stevens Point |   3 |   3.1
+ 2016-03-19 | offense_home | (2) St. Norbert |   3 |   3.5 | (13) Augsburg               |   3 |   1.7
+ 2016-03-19 | offense_home | (4) Hobart      |   3 |   3.3 | (7) Massachusetts-Boston    |   3 |   2.3
+ 2016-03-19 | offense_home | (8) Geneseo     |   3 |   2.6 | (10) Williams               |   3 |   2.4
+(4 rows)
 
-COPY 46
+COPY 4
 COMMIT
