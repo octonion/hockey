@@ -1,15 +1,9 @@
 BEGIN
-    school_name    |    p    
--------------------+---------
- Minnesota         | 0.42794
- Boston College    | 0.24010
- Wisconsin         | 0.22194
- Harvard           | 0.06750
- Quinnipiac        | 0.02432
- Clarkson          | 0.01374
- Boston University | 0.00443
- RIT               | 0.00003
-(8 rows)
+  school_name   |   p   
+----------------+-------
+ Minnesota      | 0.511
+ Boston College | 0.489
+(2 rows)
 
-COPY 8
+COPY 2
 COMMIT

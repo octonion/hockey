@@ -1,31 +1,9 @@
 BEGIN
- rd |       name        |   p   
-----+-------------------+-------
-  2 | Minnesota         | 0.982
-  2 | Wisconsin         | 0.850
-  2 | Boston College    | 0.792
-  2 | Harvard           | 0.607
-  2 | Quinnipiac        | 0.393
-  2 | Clarkson          | 0.208
-  2 | Boston University | 0.150
-  2 | RIT               | 0.018
-  3 | Minnesota         | 0.620
-  3 | Boston College    | 0.556
-  3 | Wisconsin         | 0.361
-  3 | Harvard           | 0.243
-  3 | Quinnipiac        | 0.121
-  3 | Clarkson          | 0.080
-  3 | Boston University | 0.019
-  3 | RIT               | 0.001
-  4 | Minnesota         | 0.428
-  4 | Boston College    | 0.240
-  4 | Wisconsin         | 0.222
-  4 | Harvard           | 0.068
-  4 | Quinnipiac        | 0.024
-  4 | Clarkson          | 0.014
-  4 | Boston University | 0.004
-  4 | RIT               | 0.000
-(24 rows)
+ rd |      name      |   p   
+----+----------------+-------
+  4 | Minnesota      | 0.511
+  4 | Boston College | 0.489
+(2 rows)
 
-COPY 24
+COPY 2
 COMMIT

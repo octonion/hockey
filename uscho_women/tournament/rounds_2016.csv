@@ -1,0 +1,9 @@
+year,round_id,school_id,school_name,bracket,p
+2016,1,boston-college,Boston College,"{1,1,1,1}",1
+2016,1,northeastern,Northeastern,"{2,1,1,1}",1
+2016,1,quinnipiac,Quinnipiac,"{3,2,1,1}",1
+2016,1,clarkson,Clarkson,"{4,2,1,1}",1
+2016,1,wisconsin,Wisconsin,"{5,3,2,1}",1
+2016,1,mercyhurst,Mercyhurst,"{6,3,2,1}",1
+2016,1,minnesota,Minnesota,"{7,4,2,1}",1
+2016,1,princeton,Princeton,"{8,4,2,1}",1
