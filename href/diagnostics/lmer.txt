@@ -1,13 +1,13 @@
-[1] 21762     8
+[1] 22526     8
 [1] TRUE
   year        field status  offense  defense week
-1 2008 offense_home   0 OT 2008/BOS 2008/OTT  169
-2 2008 offense_home   0 OT 2008/COL 2008/DAL  576
-3 2009 offense_home   0 OT 2009/CGY 2009/OTT  169
-4 2009 offense_home   0 OT 2009/DAL 2009/SJS  484
-5 2009 offense_home   0 OT 2009/CGY 2009/STL  625
-6 2010 offense_home   0 OT 2010/ANA 2010/MIN    9
-[1] 21762     7
+1 2008 offense_home   0 OT 2008/MIN 2008/DAL  400
+2 2008 offense_home   0 OT 2008/PHX 2008/CGY  529
+3 2009 offense_home   0 OT 2009/BOS 2009/DET   81
+4 2011 offense_home   0 OT 2011/BOS 2011/DAL  324
+5 2011 offense_home   0 OT 2011/BOS 2011/MTL  361
+6 2011 offense_home   0 OT 2011/ANA 2011/PHX  576
+[1] 22526     7
 Generalized linear mixed model fit by maximum likelihood (Adaptive
   Gauss-Hermite Quadrature, nAGQ = 0) [glmerMod]
  Family: poisson  ( log )
@@ -16,22 +16,22 @@ Formula: gs ~ year + field + status + (1 | offense) + (1 | defense) +
    Data: g
 Weights: week
       AIC       BIC    logLik  deviance  df.resid 
- 20690405  20690549 -10345185  20690369     21744 
+ 22172773  22172918 -11086369  22172737     22508 
 Random effects:
  Groups  Name        Std.Dev.
- game_id (Intercept) 0.6072  
- defense (Intercept) 0.1650  
- offense (Intercept) 0.1542  
-Number of obs: 21762, groups:  game_id, 10861; defense, 270; offense, 270
+ game_id (Intercept) 0.6287  
+ defense (Intercept) 0.1905  
+ offense (Intercept) 0.1908  
+Number of obs: 22526, groups:  game_id, 11236; defense, 270; offense, 270
 Fixed Effects:
       (Intercept)           year2009           year2010           year2011  
-         0.846181           0.008774           0.005745           0.036411  
+         0.830299           0.021225           0.013508           0.061750  
          year2012           year2013           year2014           year2015  
-        -0.008315          -0.016321           0.067157          -0.014849  
+         0.023706           0.005580           0.020717          -0.020834  
          year2016  fieldoffense_home          status2OT          status3OT  
-        -0.031059           0.096238           0.057365           0.153450  
+        -0.004341           0.094977           0.032801           1.406734  
         status4OT           statusOT           statusSO  
-        -0.380012          -0.246236          -0.251066  
+        -0.323654          -0.184420          -0.236482  
 Generalized linear mixed model fit by maximum likelihood (Adaptive
   Gauss-Hermite Quadrature, nAGQ = 0) [glmerMod]
  Family: poisson  ( log )
@@ -42,55 +42,55 @@ Weights: week
 Control: glmerControl(optimizer = "nloptwrap")
 
       AIC       BIC    logLik  deviance  df.resid 
- 20690405  20690549 -10345184  20690369     21744 
+ 22172774  22172918 -11086369  22172738     22508 
 
 Scaled residuals: 
     Min      1Q  Median      3Q     Max 
--56.684  -5.450  -0.055   5.493  53.301 
+-56.708  -5.627  -0.052   5.682  53.345 
 
 Random effects:
  Groups  Name        Variance Std.Dev.
- game_id (Intercept) 0.36868  0.6072  
- defense (Intercept) 0.02721  0.1650  
- offense (Intercept) 0.02377  0.1542  
-Number of obs: 21762, groups:  game_id, 10861; defense, 270; offense, 270
+ game_id (Intercept) 0.39530  0.6287  
+ defense (Intercept) 0.03629  0.1905  
+ offense (Intercept) 0.03641  0.1908  
+Number of obs: 22526, groups:  game_id, 11236; defense, 270; offense, 270
 
 Fixed effects:
                    Estimate Std. Error z value Pr(>|z|)    
-(Intercept)        0.846181   0.044472   19.03   <2e-16 ***
-year2009           0.008774   0.062711    0.14    0.889    
-year2010           0.005744   0.062656    0.09    0.927    
-year2011           0.036411   0.062608    0.58    0.561    
-year2012          -0.008315   0.062841   -0.13    0.895    
-year2013          -0.016321   0.064273   -0.25    0.800    
-year2014           0.067157   0.062376    1.08    0.282    
-year2015          -0.014849   0.062925   -0.24    0.813    
-year2016          -0.031059   0.064040   -0.49    0.628    
-fieldoffense_home  0.096238   0.000489  196.82   <2e-16 ***
-status2OT          0.057365   0.133876    0.43    0.668    
-status3OT          0.153450   0.216508    0.71    0.478    
-status4OT         -0.380012   0.611354   -0.62    0.534    
-statusOT          -0.246236   0.016907  -14.56   <2e-16 ***
-statusSO          -0.251066   0.018180  -13.81   <2e-16 ***
+(Intercept)        0.830299   0.052089   15.94   <2e-16 ***
+year2009           0.021225   0.073536    0.29    0.773    
+year2010           0.013508   0.073504    0.18    0.854    
+year2011           0.061750   0.073412    0.84    0.400    
+year2012           0.023706   0.073637    0.32    0.748    
+year2013           0.005580   0.074919    0.07    0.941    
+year2014           0.020717   0.073187    0.28    0.777    
+year2015          -0.020834   0.073705   -0.28    0.777    
+year2016          -0.004341   0.073784   -0.06    0.953    
+fieldoffense_home  0.094977   0.000472  201.20   <2e-16 ***
+status2OT          0.032801   0.073559    0.45    0.656    
+status3OT          1.406734   0.104803   13.42   <2e-16 ***
+status4OT         -0.323654   0.633228   -0.51    0.609    
+statusOT          -0.184420   0.017973  -10.26   <2e-16 ***
+statusSO          -0.236482   0.018603  -12.71   <2e-16 ***
 ---
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 Correlation of Fixed Effects:
             (Intr) yr2009 yr2010 yr2011 yr2012 yr2013 yr2014 yr2015 yr2016
 year2009    -0.706                                                        
-year2010    -0.706  0.501                                                 
-year2011    -0.705  0.501  0.501                                          
-year2012    -0.705  0.500  0.500  0.500                                   
-year2013    -0.689  0.489  0.488  0.490  0.488                            
-year2014    -0.707  0.504  0.504  0.505  0.502  0.492                     
-year2015    -0.704  0.499  0.499  0.499  0.498  0.487  0.500              
-year2016    -0.692  0.490  0.490  0.490  0.491  0.479  0.493  0.489       
-fildffns_hm -0.006  0.000  0.000  0.000  0.000  0.000  0.000  0.000  0.000
-status2OT   -0.004  0.001  0.000 -0.007 -0.003 -0.005 -0.003 -0.003  0.001
-status3OT   -0.005  0.000  0.000  0.002  0.000  0.000  0.002 -0.002  0.003
-status4OT   -0.006  0.004  0.004  0.004  0.004  0.004  0.003  0.004  0.004
-statusOT    -0.037  0.001 -0.003 -0.016 -0.006 -0.007 -0.017 -0.008 -0.014
-statusSO    -0.053 -0.001 -0.004 -0.001 -0.005  0.000 -0.007 -0.004  0.006
+year2010    -0.706  0.500                                                 
+year2011    -0.705  0.500  0.501                                          
+year2012    -0.704  0.499  0.499  0.500                                   
+year2013    -0.693  0.490  0.491  0.491  0.490                            
+year2014    -0.705  0.502  0.501  0.503  0.500  0.492                     
+year2015    -0.704  0.498  0.499  0.499  0.498  0.489  0.499              
+year2016    -0.703  0.498  0.498  0.499  0.497  0.489  0.499  0.497       
+fildffns_hm -0.005  0.000  0.000  0.000  0.000  0.000  0.000  0.000  0.000
+status2OT   -0.001  0.005  0.010  0.008 -0.004 -0.003 -0.027 -0.001  0.004
+status3OT    0.030 -0.019 -0.025 -0.021 -0.023 -0.034 -0.043 -0.024 -0.022
+status4OT   -0.006  0.004  0.004  0.003  0.004  0.004  0.003  0.004  0.004
+statusOT    -0.040  0.008  0.005 -0.013 -0.001  0.002 -0.010 -0.003 -0.007
+statusSO    -0.048  0.001 -0.002 -0.001 -0.003  0.001 -0.005 -0.002  0.008
             fldff_ stt2OT stt3OT stt4OT sttsOT
 year2009                                      
 year2010                                      
@@ -102,8 +102,8 @@ year2015
 year2016                                      
 fildffns_hm                                   
 status2OT    0.000                            
-status3OT    0.000  0.006                     
-status4OT    0.000  0.000  0.000              
-statusOT     0.001  0.016  0.014  0.005       
-statusSO     0.000  0.016  0.011  0.004  0.116
+status3OT    0.000  0.004                     
+status4OT    0.000 -0.001 -0.027              
+statusOT     0.000 -0.008  0.010  0.006       
+statusSO     0.000  0.003  0.008  0.004  0.118
 [1] TRUE

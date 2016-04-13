@@ -13,7 +13,7 @@ create table href.rounds (
 	primary key (year,round_id,team_id)
 );
 
-copy href.rounds from '/tmp/rounds.csv' with delimiter as ',' csv header quote as '"';
+copy href.rounds from '/tmp/rounds.csv' csv header;
 
 drop table if exists href.matrix_p;
 
@@ -50,7 +50,7 @@ join href._factors o
 join href._factors d
   on (d.parameter,d.level)=('field','defense_home')
 where
-  r1.year=2015
+  r1.year=2016
 );
 
 commit;
