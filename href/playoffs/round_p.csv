@@ -1,65 +1,25 @@
 rd,name,p
-2,Pittsburgh Penguins,0.817
-2,Anaheim Ducks,0.715
-2,Tampa Bay Lightning,0.686
-2,Dallas Stars,0.652
-2,Florida Panthers,0.626
-2,St. Louis Blues,0.608
-2,Washington Capitals,0.560
-2,San Jose Sharks,0.504
-2,Los Angeles Kings,0.496
-2,Philadelphia Flyers,0.440
-2,Chicago Blackhawks,0.392
-2,New York Islanders,0.374
-2,Minnesota Wild,0.348
-2,Detroit Red Wings,0.314
-2,Nashville Predators,0.285
-2,New York Rangers,0.183
-3,Pittsburgh Penguins,0.602
-3,Anaheim Ducks,0.512
-3,Florida Panthers,0.368
-3,Tampa Bay Lightning,0.355
-3,St. Louis Blues,0.345
-3,Dallas Stars,0.344
-3,Washington Capitals,0.196
-3,Chicago Blackhawks,0.187
-3,San Jose Sharks,0.181
-3,Los Angeles Kings,0.170
-3,New York Islanders,0.167
-3,Nashville Predators,0.138
-3,Philadelphia Flyers,0.127
-3,Minnesota Wild,0.125
-3,Detroit Red Wings,0.109
-3,New York Rangers,0.075
-4,Pittsburgh Penguins,0.495
-4,Anaheim Ducks,0.277
-4,St. Louis Blues,0.163
-4,Dallas Stars,0.154
-4,Washington Capitals,0.124
-4,Florida Panthers,0.113
-4,Tampa Bay Lightning,0.103
-4,San Jose Sharks,0.087
-4,Los Angeles Kings,0.078
-4,Philadelphia Flyers,0.071
-4,Nashville Predators,0.065
-4,Chicago Blackhawks,0.044
-4,New York Rangers,0.039
-4,New York Islanders,0.037
-4,Minnesota Wild,0.036
-4,Detroit Red Wings,0.018
-5,Pittsburgh Penguins,0.324
-5,Anaheim Ducks,0.128
-5,St. Louis Blues,0.069
-5,Dallas Stars,0.061
-5,Washington Capitals,0.058
-5,Tampa Bay Lightning,0.037
-5,Florida Panthers,0.032
-5,San Jose Sharks,0.031
-5,Los Angeles Kings,0.027
-5,Philadelphia Flyers,0.026
-5,Nashville Predators,0.020
-5,New York Rangers,0.014
-5,Chicago Blackhawks,0.012
-5,New York Islanders,0.011
-5,Minnesota Wild,0.010
-5,Detroit Red Wings,0.004
+3,Pittsburgh Penguins,0.711
+3,Tampa Bay Lightning,0.607
+3,San Jose Sharks,0.525
+3,St. Louis Blues,0.510
+3,Dallas Stars,0.490
+3,Nashville Predators,0.475
+3,New York Islanders,0.393
+3,Washington Capitals,0.289
+4,Pittsburgh Penguins,0.589
+4,St. Louis Blues,0.292
+4,Dallas Stars,0.269
+4,San Jose Sharks,0.233
+4,Nashville Predators,0.206
+4,Washington Capitals,0.186
+4,Tampa Bay Lightning,0.152
+4,New York Islanders,0.073
+5,Pittsburgh Penguins,0.447
+5,St. Louis Blues,0.114
+5,Washington Capitals,0.105
+5,Dallas Stars,0.099
+5,San Jose Sharks,0.076
+5,Tampa Bay Lightning,0.067
+5,Nashville Predators,0.065
+5,New York Islanders,0.026

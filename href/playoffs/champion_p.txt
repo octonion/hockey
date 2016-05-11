@@ -1,23 +1,15 @@
 BEGIN
       team_name      |   p   
 ---------------------+-------
- Pittsburgh Penguins | 0.324
- Anaheim Ducks       | 0.128
- St. Louis Blues     | 0.069
- Dallas Stars        | 0.061
- Washington Capitals | 0.058
- Tampa Bay Lightning | 0.037
- Florida Panthers    | 0.032
- San Jose Sharks     | 0.031
- Los Angeles Kings   | 0.027
- Philadelphia Flyers | 0.026
- Nashville Predators | 0.020
- New York Rangers    | 0.014
- Chicago Blackhawks  | 0.012
- New York Islanders  | 0.011
- Minnesota Wild      | 0.010
- Detroit Red Wings   | 0.004
-(16 rows)
+ Pittsburgh Penguins | 0.447
+ St. Louis Blues     | 0.114
+ Washington Capitals | 0.105
+ Dallas Stars        | 0.099
+ San Jose Sharks     | 0.076
+ Tampa Bay Lightning | 0.067
+ Nashville Predators | 0.065
+ New York Islanders  | 0.026
+(8 rows)
 
-COPY 16
+COPY 8
 COMMIT
