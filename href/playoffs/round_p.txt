@@ -1,31 +1,15 @@
 BEGIN
  rd |        name         |   p   
 ----+---------------------+-------
-  3 | Pittsburgh Penguins | 0.711
-  3 | Tampa Bay Lightning | 0.607
-  3 | San Jose Sharks     | 0.525
-  3 | St. Louis Blues     | 0.510
-  3 | Dallas Stars        | 0.490
-  3 | Nashville Predators | 0.475
-  3 | New York Islanders  | 0.393
-  3 | Washington Capitals | 0.289
-  4 | Pittsburgh Penguins | 0.589
-  4 | St. Louis Blues     | 0.292
-  4 | Dallas Stars        | 0.269
-  4 | San Jose Sharks     | 0.233
-  4 | Nashville Predators | 0.206
-  4 | Washington Capitals | 0.186
-  4 | Tampa Bay Lightning | 0.152
-  4 | New York Islanders  | 0.073
-  5 | Pittsburgh Penguins | 0.447
-  5 | St. Louis Blues     | 0.114
-  5 | Washington Capitals | 0.105
-  5 | Dallas Stars        | 0.099
-  5 | San Jose Sharks     | 0.076
-  5 | Tampa Bay Lightning | 0.067
-  5 | Nashville Predators | 0.065
-  5 | New York Islanders  | 0.026
-(24 rows)
+  4 | Pittsburgh Penguins | 0.807
+  4 | St. Louis Blues     | 0.569
+  4 | San Jose Sharks     | 0.431
+  4 | Tampa Bay Lightning | 0.193
+  5 | Pittsburgh Penguins | 0.606
+  5 | St. Louis Blues     | 0.193
+  5 | San Jose Sharks     | 0.119
+  5 | Tampa Bay Lightning | 0.082
+(8 rows)
 
-COPY 24
+COPY 8
 COMMIT
