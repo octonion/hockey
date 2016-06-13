@@ -1,0 +1,33 @@
+1,Pittsburgh Penguins,0.817
+1,Anaheim Ducks,0.715
+1,Tampa Bay Lightning,0.686
+1,Dallas Stars,0.652
+1,Florida Panthers,0.626
+1,St. Louis Blues,0.608
+1,Washington Capitals,0.560
+1,San Jose Sharks,0.504
+1,Los Angeles Kings,0.496
+1,Philadelphia Flyers,0.440
+1,Chicago Blackhawks,0.392
+1,New York Islanders,0.374
+1,Minnesota Wild,0.348
+1,Detroit Red Wings,0.314
+1,Nashville Predators,0.285
+1,New York Rangers,0.183
+
+2,Pittsburgh Penguins,0.711
+2,Tampa Bay Lightning,0.607
+2,San Jose Sharks,0.525
+2,St. Louis Blues,0.510
+2,Dallas Stars,0.490
+2,Nashville Predators,0.475
+2,New York Islanders,0.393
+2,Washington Capitals,0.289
+
+3,Pittsburgh Penguins,0.807
+3,St. Louis Blues,0.569
+3,San Jose Sharks,0.431
+3,Tampa Bay Lightning,0.193
+
+4,Pittsburgh Penguins,0.591
+4,San Jose Sharks,0.409
