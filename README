@@ -16,6 +16,15 @@ apt-get install rpl
 apt-get install postgresql-9.2
 apt-get install r-base-core
 
+Under Fedora:
+
+dnf install rpl
+dnf install postgresql
+dnf install R
+
+For Ruby:
+mechanize (available via dnf or gem)
+
 Install the two R packages if you want to run the power ratings scripts.
 
 To load data from Hockey Reference:
