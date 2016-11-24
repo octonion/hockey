@@ -22,7 +22,7 @@ team_score::float as gs
 from ncaa.results r
 
 where
-    r.year between 2002 and 2015
+    r.year between 2002 and 2017
 and r.school_div_id is not null
 and r.opponent_div_id is not null
 --and r.pulled_id = least(r.school_id,r.opponent_id)

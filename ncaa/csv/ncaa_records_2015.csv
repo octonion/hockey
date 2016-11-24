@@ -46,7 +46,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,267,Hamilton,9,10,6,25
 2015,268,Hamline,14,11,4,29
 2015,275,Harvard,21,13,3,37
-2015,282,Hobart,21,7,0,28
+2015,282,Hobart and William Smith Colleges,21,7,0,28
 2015,285,Holy Cross,14,18,5,37
 2015,22626,Johnson & Wales (RI),15,11,1,27
 2015,344,Lake Forest,15,7,5,27
@@ -64,7 +64,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,417,Michigan Tech,29,10,2,41
 2015,420,Middlebury,10,12,3,25
 2015,427,Minn. Duluth,21,16,3,40
-2015,383,Minn. St. Mankato,29,8,3,40
+2015,383,Minnesota St.,29,8,3,40
 2015,428,Minnesota,23,13,3,39
 2015,30067,Morrisville St.,7,12,5,24
 2015,20220,MSOE,17,11,0,28
