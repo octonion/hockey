@@ -1,9 +1,10 @@
 BEGIN
 SET
-    date    |     site     |    team    | div | score | opp | div | score 
-------------+--------------+------------+-----+-------+-----+-----+-------
- 2016-11-23 | offense_home | Mercyhurst |   1 |   2.7 | RIT |   1 |   3.5
-(1 row)
+    date    |  site   |        team        | div | score |          opp          | div | score 
+------------+---------+--------------------+-----+-------+-----------------------+-----+-------
+ 2017-02-06 | neutral | (4) Harvard        |   1 |   3.6 | Northeastern          |   1 |   3.0
+ 2017-02-06 | neutral | (7) Boston College |   1 |   2.5 | (3) Boston University |   1 |   2.5
+(2 rows)
 
-COPY 1
+COPY 2
 COMMIT
