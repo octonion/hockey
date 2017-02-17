@@ -1,10 +1,14 @@
 BEGIN
 SET
-    date    |  site   |        team        | div | score |          opp          | div | score 
-------------+---------+--------------------+-----+-------+-----------------------+-----+-------
- 2017-02-06 | neutral | (4) Harvard        |   1 |   3.6 | Northeastern          |   1 |   3.0
- 2017-02-06 | neutral | (7) Boston College |   1 |   2.5 | (3) Boston University |   1 |   2.5
-(2 rows)
+    date    |     site     |        team         | div | score |            opp            | div | score 
+------------+--------------+---------------------+-----+-------+---------------------------+-----+-------
+ 2017-02-16 | offense_home | Becker              |   3 |   2.5 | Wentworth                 |   3 |   2.9
+ 2017-02-16 | offense_home | Curry               |   3 |   4.0 | University of New England |   3 |   4.3
+ 2017-02-16 | offense_home | Framingham State    |   3 |   2.4 | Westfield State           |   3 |   4.7
+ 2017-02-16 | offense_home | Plymouth State      |   3 |   4.3 | Fitchburg State           |   3 |   2.0
+ 2017-02-16 | offense_home | Salem State         |   3 |   3.7 | Massachusetts-Dartmouth   |   3 |   3.2
+ 2017-02-16 | offense_home | Western New England |   3 |   1.6 | (10) Endicott             |   3 |   5.0
+(6 rows)
 
-COPY 2
+COPY 6
 COMMIT
