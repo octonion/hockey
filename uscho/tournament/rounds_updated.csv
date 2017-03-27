@@ -1,17 +1,5 @@
 year,round_id,school_id,school_name,bracket,p
 2017,1,denver,Denver,"{1,1,1,1,1}",1
-2017,1,michigan-tech,Michigan Tech,"{2,1,1,1,1}",1
-2017,1,penn-state,Penn State,"{3,2,1,1,1}",1
-2017,1,union,Union (NY),"{4,2,1,1,1}",1
-2017,1,minnesota,Minnesota,"{5,3,2,1,1}",1
 2017,1,notre-dame,Notre Dame,"{6,3,2,1,1}",1
-2017,1,cornell,Cornell,"{7,4,2,1,1}",1
-2017,1,umass-lowell,UMass-Lowell,"{8,4,2,1,1}",1
 2017,1,harvard,Harvard,"{9,5,3,2,1}",1
-2017,1,providence,Providence,"{10,5,3,2,1}",1
-2017,1,air-force,Air Force,"{11,6,3,2,1}",1
-2017,1,western-michigan,Western Michigan,"{12,6,3,2,1}",1
 2017,1,minnesota-duluth,Minnesota-Duluth,"{13,7,4,2,1}",1
-2017,1,ohio-state,Ohio State,"{14,7,4,2,1}",1
-2017,1,north-dakota,North Dakota,"{15,8,4,2,1}",1
-2017,1,boston-university,Boston University,"{16,8,4,2,1}",1

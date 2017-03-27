@@ -1,65 +1,9 @@
 rd,name,p
-2,Denver,0.686
-2,Harvard,0.618
-2,UMass-Lowell,0.616
-2,Minnesota-Duluth,0.605
-2,Penn State,0.552
-2,Boston University,0.543
-2,Western Michigan,0.525
-2,Notre Dame,0.515
-2,Minnesota,0.485
-2,Air Force,0.475
-2,North Dakota,0.457
-2,Union (NY),0.448
-2,Ohio State,0.395
-2,Cornell,0.384
-2,Providence,0.382
-2,Michigan Tech,0.314
-3,Denver,0.445
-3,Harvard,0.396
-3,Minnesota-Duluth,0.341
-3,UMass-Lowell,0.331
-3,Boston University,0.270
-3,Notre Dame,0.265
-3,Minnesota,0.242
-3,Penn State,0.238
-3,Western Michigan,0.217
-3,North Dakota,0.207
-3,Providence,0.201
-3,Air Force,0.186
-3,Ohio State,0.181
-3,Union (NY),0.172
-3,Cornell,0.162
-3,Michigan Tech,0.145
-4,Denver,0.270
-4,Harvard,0.223
-4,Minnesota-Duluth,0.193
-4,UMass-Lowell,0.173
-4,Boston University,0.141
-4,Notre Dame,0.130
-4,Minnesota,0.116
-4,Penn State,0.113
-4,North Dakota,0.100
-4,Western Michigan,0.094
-4,Providence,0.089
-4,Ohio State,0.084
-4,Air Force,0.076
-4,Union (NY),0.073
-4,Cornell,0.066
-4,Michigan Tech,0.060
-5,Denver,0.161
-5,Harvard,0.124
-5,Minnesota-Duluth,0.105
-5,UMass-Lowell,0.091
-5,Boston University,0.071
-5,Notre Dame,0.065
-5,Minnesota,0.056
-5,Penn State,0.053
-5,North Dakota,0.045
-5,Western Michigan,0.040
-5,Providence,0.039
-5,Ohio State,0.037
-5,Air Force,0.031
-5,Union (NY),0.031
-5,Cornell,0.027
-5,Michigan Tech,0.024
+4,Denver,0.599
+4,Harvard,0.514
+4,Minnesota-Duluth,0.486
+4,Notre Dame,0.401
+5,Denver,0.323
+5,Harvard,0.261
+5,Minnesota-Duluth,0.239
+5,Notre Dame,0.177
