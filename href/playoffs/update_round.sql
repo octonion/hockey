@@ -18,7 +18,7 @@ r1.p*r2.p*
 (
 case
 when (r1.round_id between 1 and 2 and r1.seed < r2.seed)
-  or (r1.round_id >= 3 and r1.points > r2.points) then
+  or (r1.round_id >= 3 and ((r1.points > r2.points) or (r1.points=r2.points and r1.team_id < r2.team_id))) then
 (
   mp1.home_p^4
 + 4*mp1.home_p^3*mp1.visitor_p^1*
@@ -29,7 +29,7 @@ when (r1.round_id between 1 and 2 and r1.seed < r2.seed)
     (mp2.visitor_p^3)
 )
 when (r1.round_id between 1 and 2 and r1.seed > r2.seed)
-  or (r1.round_id >= 3 and r1.points < r2.points) then
+  or (r1.round_id >= 3 and ((r1.points < r2.points) or (r1.points=r2.points and r1.team_id > r2.team_id))) then
 1.0-
 (
   mp2.home_p^4
@@ -53,7 +53,7 @@ left join href.matrix_p mp1
 left join href.matrix_p mp2
   on (mp2.year,mp2.home_id,mp2.visitor_id)=(r2.year,r2.team_id,r1.team_id)
 where
-    r1.year=2016
+    r1.year=2017
 and r1.round_id=1
 group by r1.year,round,r1.team_id,r1.seed,r1.points,r1.bracket
 );

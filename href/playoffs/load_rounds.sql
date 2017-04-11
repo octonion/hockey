@@ -50,7 +50,7 @@ join href._factors o
 join href._factors d
   on (d.parameter,d.level)=('field','defense_home')
 where
-  r1.year=2016
+  r1.year=2017
 );
 
 commit;

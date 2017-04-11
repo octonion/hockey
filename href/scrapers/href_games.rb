@@ -15,8 +15,8 @@ table_xpath = '//*[@id="games"]/tbody/tr'
 
 #//*[@id="games"]/tbody/tr[1]/td[1]/a
 
-first_year = 2016
-last_year = 2016
+first_year = ARGV[0].to_i
+last_year = ARGV[1].to_i
 
 #if (first_year==last_year)
 #  stats = CSV.open("csv/games_#{first_year}.csv","w")
@@ -30,7 +30,7 @@ last_year = 2016
     next
   end
 
-  stats = CSV.open("csv/games_#{first_year}.csv","w")
+  stats = CSV.open("csv/games_#{year}.csv","w")
 
   url = "#{base}/NHL_#{year}_games.html"
   print "Pulling year #{year}"
@@ -44,7 +44,7 @@ last_year = 2016
   found = 0
   page.parser.xpath(table_xpath).each do |r|
     row = [year]
-    r.xpath("td").each_with_index do |e,i|
+    r.xpath("td|th").each_with_index do |e,i|
 
       et = e.text
       if (et==nil) or (et.size==0)
@@ -69,10 +69,11 @@ last_year = 2016
 
     if (row.size>1)
       found += 1
-      if (row.size == 10)
-        row += [nil]
-      end
-      stats << row[0..10]
+      #if (row.size == 10)
+      #  row += [nil]
+      #end
+      #stats << row[0..10]
+      stats << row
     end
 
   end

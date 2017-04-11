@@ -24,7 +24,7 @@ from href.games
 group by year) f
   on (f.year)=(r.year)
 where
-    r.year between 2008 and 2016
+    r.year between 2008 and 2017
 and r.team_score is not null
 ;")
 

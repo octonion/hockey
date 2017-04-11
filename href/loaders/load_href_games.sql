@@ -13,10 +13,12 @@ create table href.games (
 	home_url			text,
 	home_score			integer,
 	status				text,
+	attendance			text,
+	length_of_game			text,
 	notes				text
 );
 
-copy href.games from '/tmp/href_games.csv' with delimiter as ',' csv header quote as '"';
+copy href.games from '/tmp/href_games.csv' with delimiter as ',' csv;
 
 alter table href.games
 add column visitor_id text;

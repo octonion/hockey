@@ -13,7 +13,10 @@ base = "http://www.hockey-reference.com/leagues"
 
 table_xpath = '//*[@id="games_playoffs"]/tbody/tr'
 
-(2016..2016).each do |year|
+first_year = ARGV[0].to_i
+last_year = ARGV[1].to_i
+
+(first_year..last_year).each do |year|
 
   if (year==2005)
     next
@@ -33,7 +36,7 @@ table_xpath = '//*[@id="games_playoffs"]/tbody/tr'
   found = 0
   page.parser.xpath(table_xpath).each do |r|
     row = [year]
-    r.xpath("td").each_with_index do |e,i|
+    r.xpath("td|th").each_with_index do |e,i|
 
       et = e.text
       if (et==nil) or (et.size==0)
@@ -58,9 +61,9 @@ table_xpath = '//*[@id="games_playoffs"]/tbody/tr'
 
     if (row.size>1)
       found += 1
-      if (row.size == 10)
-        row += [nil]
-      end
+      #if (row.size == 10)
+      #  row += [nil]
+      #end
       stats << row
     end
 
