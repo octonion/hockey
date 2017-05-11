@@ -1,4 +1,4 @@
-[1] 25170     8
+[1] 25306     8
 [1] TRUE
   year        field status  offense  defense week
 1 2008 offense_home   0 OT 2008/MIN 2008/CGY   36
@@ -7,7 +7,7 @@
 4 2014 offense_home   0 OT 2014/MIN 2014/CGY   36
 5 2015 offense_home   0 OT 2015/MIN 2015/ANA   81
 6 2008 offense_home   0 OT 2008/LAK 2008/ANA    1
-[1] 25170     7
+[1] 25306     7
 Generalized linear mixed model fit by maximum likelihood (Adaptive
   Gauss-Hermite Quadrature, nAGQ = 0) [glmerMod]
  Family: poisson  ( log )
@@ -16,22 +16,22 @@ Formula: gs ~ year + field + status + (1 | offense) + (1 | defense) +
    Data: g
 Weights: week
       AIC       BIC    logLik  deviance  df.resid 
- 24731372  24731526 -12365667  24731334     25151 
+ 25080166  25080321 -12540064  25080128     25287 
 Random effects:
  Groups  Name        Std.Dev.
- game_id (Intercept) 0.5946  
- defense (Intercept) 0.1384  
- offense (Intercept) 0.1160  
-Number of obs: 25170, groups:  game_id, 12585; defense, 300; offense, 300
+ game_id (Intercept) 0.5943  
+ defense (Intercept) 0.1380  
+ offense (Intercept) 0.1161  
+Number of obs: 25306, groups:  game_id, 12653; defense, 300; offense, 300
 Fixed Effects:
       (Intercept)           year2009           year2010           year2011  
-         0.871960           0.032238           0.023800           0.005987  
+         0.871550           0.032254           0.023781           0.005754  
          year2012           year2013           year2014           year2015  
-        -0.031194          -0.036530          -0.011721          -0.033798  
+        -0.031306          -0.036702          -0.011914          -0.033925  
          year2016           year2017  fieldoffense_home          status2OT  
-        -0.024844          -0.015567           0.094438           0.073596  
+        -0.025055          -0.017906           0.094153           0.120781  
         status3OT          status4OT           statusOT           statusSO  
-         0.178889          -0.469026          -0.309468          -0.263927  
+         0.179592          -0.468673          -0.305127          -0.263159  
 Generalized linear mixed model fit by maximum likelihood (Adaptive
   Gauss-Hermite Quadrature, nAGQ = 0) [glmerMod]
  Family: poisson  ( log )
@@ -42,37 +42,37 @@ Weights: week
 Control: glmerControl(optimizer = "nloptwrap")
 
       AIC       BIC    logLik  deviance  df.resid 
- 24731372  24731526 -12365667  24731334     25151 
+ 25080166  25080321 -12540064  25080128     25287 
 
 Scaled residuals: 
     Min      1Q  Median      3Q     Max 
--56.709  -5.593  -0.050   5.667  53.371 
+-56.713  -5.614  -0.050   5.676  54.275 
 
 Random effects:
  Groups  Name        Variance Std.Dev.
- game_id (Intercept) 0.35351  0.5946  
- defense (Intercept) 0.01914  0.1384  
- offense (Intercept) 0.01345  0.1160  
-Number of obs: 25170, groups:  game_id, 12585; defense, 300; offense, 300
+ game_id (Intercept) 0.35317  0.5943  
+ defense (Intercept) 0.01903  0.1380  
+ offense (Intercept) 0.01348  0.1161  
+Number of obs: 25306, groups:  game_id, 12653; defense, 300; offense, 300
 
 Fixed effects:
-                   Estimate Std. Error z value Pr(>|z|)    
-(Intercept)        0.871959   0.036998   23.57   <2e-16 ***
-year2009           0.032238   0.052173    0.62    0.537    
-year2010           0.023800   0.052181    0.46    0.648    
-year2011           0.005987   0.052190    0.11    0.909    
-year2012          -0.031194   0.052192   -0.60    0.550    
-year2013          -0.036530   0.053965   -0.68    0.498    
-year2014          -0.011721   0.052179   -0.22    0.822    
-year2015          -0.033798   0.052196   -0.65    0.517    
-year2016          -0.024844   0.052196   -0.48    0.634    
-year2017          -0.015567   0.052374   -0.30    0.766    
-fieldoffense_home  0.094438   0.000447  211.26   <2e-16 ***
-status2OT          0.073596   0.122618    0.60    0.548    
-status3OT          0.178889   0.199815    0.90    0.371    
-status4OT         -0.469027   0.598874   -0.78    0.434    
-statusOT          -0.309468   0.017028  -18.17   <2e-16 ***
-statusSO          -0.263927   0.016980  -15.54   <2e-16 ***
+                    Estimate Std. Error z value Pr(>|z|)    
+(Intercept)        0.8715501  0.0369581   23.58   <2e-16 ***
+year2009           0.0322543  0.0521168    0.62    0.536    
+year2010           0.0237810  0.0521248    0.46    0.648    
+year2011           0.0057536  0.0521338    0.11    0.912    
+year2012          -0.0313056  0.0521353   -0.60    0.548    
+year2013          -0.0367021  0.0539094   -0.68    0.496    
+year2014          -0.0119140  0.0521228   -0.23    0.819    
+year2015          -0.0339248  0.0521400   -0.65    0.515    
+year2016          -0.0250548  0.0521394   -0.48    0.631    
+year2017          -0.0179058  0.0521822   -0.34    0.731    
+fieldoffense_home  0.0941531  0.0004439  212.12   <2e-16 ***
+status2OT          0.1207807  0.1134545    1.06    0.287    
+status3OT          0.1795916  0.1997183    0.90    0.369    
+status4OT         -0.4686729  0.5985865   -0.78    0.434    
+statusOT          -0.3051273  0.0169186  -18.04   <2e-16 ***
+statusSO          -0.2631588  0.0169693  -15.51   <2e-16 ***
 ---
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 [1] TRUE

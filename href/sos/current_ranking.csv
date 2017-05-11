@@ -1,31 +1,31 @@
 rk,team,str,ofs,dfs,sos
-1,Washington Capitals,1.445,1.173,0.812,0.998
-2,Anaheim Ducks,1.342,1.108,0.825,0.996
-3,Boston Bruins,1.254,1.100,0.877,0.996
-4,St. Louis Blues,1.232,1.114,0.904,0.998
-5,Edmonton Oilers,1.203,1.086,0.903,0.994
-6,Pittsburgh Penguins,1.155,1.193,1.033,1.001
-7,Nashville Predators,1.141,1.093,0.958,0.998
-8,Minnesota Wild,1.118,1.083,0.968,1.003
-9,Columbus Blue Jackets,1.114,1.013,0.909,1.006
-10,Chicago Blackhawks,1.103,1.051,0.953,1.000
-11,Tampa Bay Lightning,1.101,1.036,0.941,0.998
-12,Calgary Flames,1.093,1.058,0.967,1.006
-13,Toronto Maple Leafs,1.082,1.145,1.058,1.010
-14,Winnipeg Jets,1.076,1.152,1.070,0.996
-15,New York Islanders,1.021,1.094,1.071,1.003
-16,San Jose Sharks,1.013,0.989,0.977,1.007
-17,New York Rangers,1.010,0.975,0.965,1.003
-18,Montreal Canadiens,1.003,0.932,0.929,1.000
-19,Ottawa Senators,0.997,0.956,0.959,1.007
-20,Philadelphia Flyers,0.994,0.931,0.936,0.999
-21,Los Angeles Kings,0.955,0.883,0.925,1.002
-22,Carolina Hurricanes,0.946,0.977,1.034,1.003
-23,Florida Panthers,0.909,0.978,1.076,1.004
-24,Dallas Stars,0.836,0.980,1.173,1.002
-25,Buffalo Sabres,0.825,0.919,1.114,1.005
-26,Detroit Red Wings,0.823,0.871,1.059,1.005
-27,Arizona Coyotes,0.807,0.938,1.163,1.003
-28,Vancouver Canucks,0.692,0.812,1.175,1.009
-29,New Jersey Devils,0.679,0.788,1.162,1.011
-30,Colorado Avalanche,0.597,0.764,1.280,1.012
+1,Washington Capitals,1.320,1.126,0.853,1.008
+2,Nashville Predators,1.306,1.139,0.872,1.004
+3,Pittsburgh Penguins,1.276,1.256,0.984,1.006
+4,Anaheim Ducks,1.272,1.104,0.868,1.010
+5,Edmonton Oilers,1.236,1.101,0.891,1.003
+6,Boston Bruins,1.230,1.086,0.883,0.996
+7,St. Louis Blues,1.185,1.074,0.907,1.005
+8,Toronto Maple Leafs,1.114,1.159,1.041,1.005
+9,Minnesota Wild,1.105,1.065,0.963,1.000
+10,Tampa Bay Lightning,1.096,1.035,0.945,0.998
+11,Winnipeg Jets,1.077,1.155,1.073,0.995
+12,San Jose Sharks,1.073,1.005,0.936,1.006
+13,Calgary Flames,1.068,1.053,0.986,1.001
+14,Columbus Blue Jackets,1.064,1.003,0.942,1.008
+15,New York Rangers,1.061,1.007,0.949,1.001
+16,New York Islanders,1.026,1.098,1.070,1.003
+17,Chicago Blackhawks,1.004,0.997,0.993,1.003
+18,Philadelphia Flyers,1.001,0.935,0.934,1.000
+19,Ottawa Senators,0.997,0.963,0.967,1.014
+20,Montreal Canadiens,0.972,0.914,0.941,1.001
+21,Carolina Hurricanes,0.949,0.980,1.032,1.003
+22,Los Angeles Kings,0.948,0.881,0.929,1.002
+23,Florida Panthers,0.909,0.979,1.077,1.004
+24,Dallas Stars,0.844,0.987,1.170,1.002
+25,Buffalo Sabres,0.830,0.923,1.112,1.005
+26,Detroit Red Wings,0.821,0.871,1.061,1.005
+27,Arizona Coyotes,0.800,0.936,1.169,1.003
+28,Vancouver Canucks,0.692,0.813,1.176,1.009
+29,New Jersey Devils,0.687,0.794,1.156,1.011
+30,Colorado Avalanche,0.592,0.762,1.287,1.012

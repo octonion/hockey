@@ -1,15 +1,11 @@
 BEGIN
       team_name      |   p   
 ---------------------+-------
- Washington Capitals | 0.429
- Anaheim Ducks       | 0.214
- St. Louis Blues     | 0.112
- Edmonton Oilers     | 0.077
- Pittsburgh Penguins | 0.070
- Nashville Predators | 0.049
- New York Rangers    | 0.026
- Ottawa Senators     | 0.023
-(8 rows)
+ Pittsburgh Penguins | 0.380
+ Nashville Predators | 0.291
+ Anaheim Ducks       | 0.266
+ Ottawa Senators     | 0.064
+(4 rows)
 
-COPY 8
+COPY 4
 COMMIT
