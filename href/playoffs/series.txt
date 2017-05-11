@@ -1,12 +1,7 @@
- home_id | visitor_id 
----------+------------
- NYR     | PIT
- DET     | TBL
- MTL     | OTT
- CHI     | NSH
- ANA     | WPG
- NYI     | WSH
- MIN     | STL
- CGY     | VAN
-(8 rows)
 
+ year | round | field | team | opponent |  w4   |  w5   |  w6   |  w7   
+------+-------+-------+------+----------+-------+-------+-------+-------
+ 2017 |     4 | home  | PIT  | OTT      | 0.143 | 0.238 | 0.198 | 0.175
+ 2017 |     4 | away  | OTT  | PIT      | 0.021 | 0.047 | 0.088 | 0.090
+ 2017 |     4 | home  | ANA  | NSH      | 0.056 | 0.126 | 0.138 | 0.167
+ 2017 |     4 | away  | NSH  | ANA      | 0.068 | 0.123 | 0.176 | 0.147
