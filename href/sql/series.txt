@@ -1,0 +1,7 @@
+BEGIN
+CREATE TABLE
+INSERT 0 36
+ year | round | field | team_id | opponent_id |  w2   |  w3   
+------+-------+-------+---------+-------------+-------+-------
+ 2017 |     4 | home  | PIT     | OTT         | 0.379 | 0.436
+ 2017 |     4 | home  | ANA     | NSH         | 0.236 | 0.282
