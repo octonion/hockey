@@ -1,11 +1,9 @@
 BEGIN
       team_name      |   p   
 ---------------------+-------
- Pittsburgh Penguins | 0.380
- Nashville Predators | 0.291
- Anaheim Ducks       | 0.266
- Ottawa Senators     | 0.064
-(4 rows)
+ Nashville Predators | 0.545
+ Pittsburgh Penguins | 0.455
+(2 rows)
 
-COPY 4
+COPY 2
 COMMIT

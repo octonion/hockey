@@ -1,15 +1,9 @@
 BEGIN
  rd |        name         |   p   
 ----+---------------------+-------
-  4 | Pittsburgh Penguins | 0.755
-  4 | Nashville Predators | 0.513
-  4 | Anaheim Ducks       | 0.487
-  4 | Ottawa Senators     | 0.245
-  5 | Pittsburgh Penguins | 0.380
-  5 | Nashville Predators | 0.291
-  5 | Anaheim Ducks       | 0.266
-  5 | Ottawa Senators     | 0.064
-(8 rows)
+  5 | Nashville Predators | 0.545
+  5 | Pittsburgh Penguins | 0.455
+(2 rows)
 
-COPY 8
+COPY 2
 COMMIT

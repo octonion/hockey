@@ -13,7 +13,12 @@ r.year,
 r.field as field,
 r.team_id as team,
 r.opponent_id as opponent,
-r.team_score as gs,
+(
+case when (r.game_type='playoffs' and r.game_length<>'0 OT')
+     then r.team_score::float*(r.team_score+r.opponent_score-1)::float/
+                              (r.team_score+r.opponent_score)::float
+else r.team_score
+end) as gs,
 r.game_length as status,
 (((r.game_date-f.base_date)/6.9)::integer)^2 as week
 from href.results r
