@@ -36,6 +36,7 @@ join href._factors d
 where
     p.home_score is not null
 and p.visitor_score is not null
+and p.status is null
 group by p.year
 order by p.year asc;
 
@@ -75,4 +76,5 @@ join href._factors d
   on (d.parameter,d.level)=('field','defense_home')
 where
     p.home_score is not null
-and p.visitor_score is not null;
+and p.visitor_score is not null
+and p.status is null;
