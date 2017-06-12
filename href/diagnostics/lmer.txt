@@ -1,13 +1,13 @@
-[1] 25332     8
+[1] 25344     8
 [1] TRUE
   year        field status  offense  defense week
 1 2008 offense_home   0 OT 2008/MIN 2008/CGY   36
-2 2013 offense_home   0 OT 2013/ANA 2013/DAL  144
-3 2014 offense_home   0 OT 2014/ANA 2014/DAL   16
-4 2014 offense_home   0 OT 2014/MIN 2014/CGY   36
-5 2015 offense_home   0 OT 2015/MIN 2015/ANA   81
-6 2008 offense_home   0 OT 2008/LAK 2008/ANA    1
-[1] 25332     7
+2 2014 offense_home   0 OT 2014/BUF 2014/ANA   36
+3 2008 offense_home   0 OT 2008/LAK 2008/ANA    1
+4 2008 offense_home   0 OT 2008/ANA 2008/LAK    1
+5 2008 offense_home     OT 2008/CAR 2008/MTL    4
+6 2008 offense_home   0 OT 2008/COL 2008/DAL    4
+[1] 25344     7
 Generalized linear mixed model fit by maximum likelihood (Adaptive
   Gauss-Hermite Quadrature, nAGQ = 0) [glmerMod]
  Family: poisson  ( log )
@@ -16,22 +16,22 @@ Formula: gs ~ year + field + status + (1 | offense) + (1 | defense) +
    Data: g
 Weights: week
      AIC      BIC   logLik deviance df.resid 
-     Inf      Inf     -Inf      Inf    25313 
+     Inf      Inf     -Inf      Inf    25325 
 Random effects:
  Groups  Name        Std.Dev.
  game_id (Intercept) 1       
  defense (Intercept) 1       
  offense (Intercept) 1       
-Number of obs: 25332, groups:  game_id, 12666; defense, 300; offense, 300
+Number of obs: 25344, groups:  game_id, 12672; defense, 300; offense, 300
 Fixed Effects:
       (Intercept)           year2009           year2010           year2011  
-         0.869556           0.028363           0.022769           0.006127  
+         0.868602           0.028362           0.022765           0.006126  
          year2012           year2013           year2014           year2015  
-        -0.031092          -0.040906          -0.011036          -0.036589  
+        -0.031096          -0.040905          -0.011045          -0.036589  
          year2016           year2017  fieldoffense_home          status2OT  
-        -0.026317          -0.020058           0.096088          -0.107116  
+        -0.026321          -0.020453           0.097868          -0.107003  
         status3OT          status4OT           statusOT           statusSO  
-        -0.029361          -0.885567          -0.337930          -0.279376  
+        -0.029361          -0.885592          -0.337810          -0.279303  
 convergence code 0; 0 optimizer warnings; 7980 lme4 warnings 
 Generalized linear mixed model fit by maximum likelihood (Adaptive
   Gauss-Hermite Quadrature, nAGQ = 0) [glmerMod]
@@ -43,37 +43,37 @@ Weights: week
 Control: glmerControl(optimizer = "nloptwrap")
 
      AIC      BIC   logLik deviance df.resid 
-     Inf      Inf     -Inf      Inf    25313 
+     Inf      Inf     -Inf      Inf    25325 
 
 Scaled residuals: 
     Min      1Q  Median      3Q     Max 
--56.717  -5.732  -0.049   5.792  53.834 
+-59.590  -5.735  -0.050   5.790  54.631 
 
 Random effects:
  Groups  Name        Variance Std.Dev.
  game_id (Intercept) 1        1       
  defense (Intercept) 1        1       
  offense (Intercept) 1        1       
-Number of obs: 25332, groups:  game_id, 12666; defense, 300; offense, 300
+Number of obs: 25344, groups:  game_id, 12672; defense, 300; offense, 300
 
 Fixed effects:
                     Estimate Std. Error z value Pr(>|z|)    
-(Intercept)        0.8695558  0.2597339    3.35 0.000814 ***
-year2009           0.0283631  0.3672596    0.08 0.938441    
-year2010           0.0227692  0.3672598    0.06 0.950565    
-year2011           0.0061273  0.3672625    0.02 0.986689    
-year2012          -0.0310921  0.3672626   -0.08 0.932532    
-year2013          -0.0409062  0.3679747   -0.11 0.911485    
-year2014          -0.0110365  0.3672590   -0.03 0.976026    
+(Intercept)        0.8686020  0.2597339    3.34 0.000825 ***
+year2009           0.0283624  0.3672596    0.08 0.938443    
+year2010           0.0227654  0.3672598    0.06 0.950573    
+year2011           0.0061261  0.3672625    0.02 0.986691    
+year2012          -0.0310957  0.3672626   -0.08 0.932525    
+year2013          -0.0409053  0.3679747   -0.11 0.911487    
+year2014          -0.0110447  0.3672590   -0.03 0.976009    
 year2015          -0.0365888  0.3672635   -0.10 0.920642    
-year2016          -0.0263166  0.3672637   -0.07 0.942876    
-year2017          -0.0200582  0.3672720   -0.05 0.956446    
-fieldoffense_home  0.0960883  0.0004437  216.58  < 2e-16 ***
-status2OT         -0.1071158  0.1883264   -0.57 0.569507    
-status3OT         -0.0293608  0.3371148   -0.09 0.930597    
-status4OT         -0.8855666  1.0098199   -0.88 0.380511    
-statusOT          -0.3379297  0.0283752  -11.91  < 2e-16 ***
-statusSO          -0.2793760  0.0284932   -9.81  < 2e-16 ***
+year2016          -0.0263213  0.3672637   -0.07 0.942866    
+year2017          -0.0204526  0.3672694   -0.06 0.955590    
+fieldoffense_home  0.0978685  0.0004432  220.80  < 2e-16 ***
+status2OT         -0.1070029  0.1883258   -0.57 0.569913    
+status3OT         -0.0293612  0.3371148   -0.09 0.930595    
+status4OT         -0.8855923  1.0098199   -0.88 0.380497    
+statusOT          -0.3378097  0.0283738  -11.91  < 2e-16 ***
+statusSO          -0.2793029  0.0284926   -9.80  < 2e-16 ***
 ---
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 convergence code: 0
