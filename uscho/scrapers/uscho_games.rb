@@ -6,13 +6,16 @@ require 'mechanize'
 agent = Mechanize.new{ |agent| agent.history.max_size=0 }
 agent.user_agent = 'Mozilla/5.0'
 
-d1_base = 'http://www.uscho.com/scoreboard/division-i-men'
-d3_base = 'http://www.uscho.com/scoreboard/division-iii-men'
+d1_base = 'https://www.uscho.com/scoreboard/division-i-men'
+d3_base = 'https://www.uscho.com/scoreboard/division-iii-men'
 
-first_year = 2017
-last_year = 2017
+first_year = ARGV[0].to_i
+last_year = ARGV[1].to_i
 
-path = '//section[@id="scoreboard"]/table/tr'
+#//*[@id="teamsked"]/tbody/tr[498]
+#path = '//tr[@role="row"]'
+#'//section[@id="scoreboard"]/table/tr'
+path = '//*[@id="teamsked"]/tbody/tr'
 
 (first_year..last_year).each do |year|
 
@@ -21,7 +24,7 @@ path = '//section[@id="scoreboard"]/table/tr'
   games = CSV.open("csv/uscho_games_#{year}.csv","w")
 
   url = "#{d1_base}/#{year-1}-#{year}/composite-schedule/"
-
+  
   begin
     page = agent.get(url)
   rescue
@@ -30,6 +33,7 @@ path = '//section[@id="scoreboard"]/table/tr'
   end
 
   page.parser.xpath(path).each do |tr|
+    #print(tr)
     row = [year]
     tr.xpath('td').each_with_index do |td,i|
 

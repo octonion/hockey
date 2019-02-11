@@ -20,23 +20,23 @@ end
 
 teams = []
 
-team_path = '//*[@id="history_md1"]/option'
-
+team_path = '//*[@id="team"]/option'
 row_path = '//*[@class="odd" or @class="even"]'
 
 page.parser.xpath(team_path).each do |team|
-  team_id = team.attribute("value").text
-  if not(team_id=='')
-    teams << team_id
+  value = team.attribute("value").text
+
+  if not(value=='')
+    s = value.split('/')
+    team_id = s[3]
+    league_id = s[4]
+    #print "#{team_id} #{league_id}\n"
+  else
+    next
   end
-end
 
-team_path = '//*[@id="history_md3"]/option'
-
-page.parser.xpath(team_path).each do |team|
-  team_id = team.attribute("value").text
-  if not(team_id=='')
-    teams << team_id.strip
+  if league_id=='mens-hockey'
+    teams << team_id
   end
 end
 
