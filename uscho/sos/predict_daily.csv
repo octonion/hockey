@@ -1,2 +1,63 @@
 date,site,team,div,score,opp,div,score
-2019-02-13,offense_home,Buffalo State,3,1.7,(2) Geneseo,3,4.5
+2019-02-16,offense_home,(10) Hobart,3,3.2,New England College,3,2.3
+2019-02-16,offense_home,(11) Clarkson,1,2.8,(18) Harvard,1,2.3
+2019-02-16,offense_home,(11) Trinity,3,2.8,(12) Wesleyan,3,2.1
+2019-02-16,offense_home,(12) Arizona State,1,3.7,American International,1,2.2
+2019-02-16,offense_home,(13) Providence,1,2.9,(10) UMass Lowell,1,2.1
+2019-02-16,offense_home,(13) University of New England,3,4.1,Salve Regina,3,2.6
+2019-02-16,offense_home,(14) Northeastern,1,2.8,Vermont,1,2.0
+2019-02-16,offense_home,(15) Babson,3,3.6,Skidmore,3,2.6
+2019-02-16,offense_home,(15) Notre Dame,1,3.4,Wisconsin,1,2.3
+2019-02-16,offense_home,(16) Bowling Green,1,3.7,Alaska,1,1.5
+2019-02-16,offense_home,(19) Lake Superior,1,3.3,Michigan Tech,1,2.4
+2019-02-16,offense_home,(20) Union,1,3.4,Princeton,1,2.4
+2019-02-16,offense_home,(2) Ohio State,1,3.3,Minnesota,1,2.0
+2019-02-16,offense_home,(4) Minnesota Duluth,1,3.0,(7) Denver,1,2.0
+2019-02-16,offense_home,(4) St. Norbert,3,4.7,Finlandia,3,1.5
+2019-02-16,offense_home,(5) Norwich,3,4.2,Suffolk,3,1.6
+2019-02-16,offense_home,(7) Augsburg,3,3.9,Concordia (Minn.),3,2.6
+2019-02-16,offense_home,(8) Adrian,3,3.9,Milwaukee School of Engineering,3,2.3
+2019-02-16,offense_home,(9) UMass Boston,3,5.0,Southern Maine,3,1.7
+2019-02-16,offense_home,(9) Western Michigan,1,3.0,North Dakota,1,2.5
+2019-02-16,offense_home,Air Force,1,3.5,Canisius,1,2.3
+2019-02-16,offense_home,Alaska Anchorage,1,2.2,Ferris State,1,3.0
+2019-02-16,offense_home,Amherst,3,3.1,Middlebury,3,2.1
+2019-02-16,offense_home,Army West Point,1,3.1,Mercyhurst,1,3.0
+2019-02-16,offense_home,Becker,3,1.9,Curry,3,5.7
+2019-02-16,offense_home,Bemidji State,1,2.6,Northern Michigan,1,2.4
+2019-02-16,offense_home,Boston College,1,2.1,(3) Massachusetts,1,3.5
+2019-02-16,offense_home,Boston University,1,3.6,Connecticut,1,2.5
+2019-02-16,offense_home,Bowdoin,3,3.1,Connecticut College,3,3.0
+2019-02-16,offense_home,Brown,1,3.2,Colgate,1,1.7
+2019-02-16,offense_home,Bryn Athyn,3,3.7,Stonehill,2,3.1
+2019-02-16,offense_home,Canton,3,3.6,Buffalo State,3,3.3
+2019-02-16,offense_home,Colby,3,2.8,Tufts,3,1.9
+2019-02-16,offense_home,Elmira,3,5.6,Chatham,3,2.4
+2019-02-16,offense_home,Fitchburg State,3,3.5,Westfield State,3,2.5
+2019-02-16,offense_home,Franklin Pierce,2,2.6,Saint Michael's,2,3.1
+2019-02-16,offense_home,Gustavus Adolphus,3,1.9,Saint John's,3,2.1
+2019-02-16,offense_home,Hamilton,3,2.6,(14) Williams,3,3.0
+2019-02-16,offense_home,Holy Cross,1,3.0,Robert Morris,1,2.6
+2019-02-16,offense_home,Lake Forest,3,3.3,Aurora,3,2.3
+2019-02-16,offense_home,Lebanon Valley,3,3.2,Stevenson,3,3.3
+2019-02-16,offense_home,Marian,3,3.0,Northland,3,2.1
+2019-02-16,offense_home,Merrimack,1,2.4,Maine,1,3.3
+2019-02-16,offense_home,Michigan State,1,4.1,(17) Penn State,1,4.5
+2019-02-16,offense_home,Morrisville,3,2.4,Fredonia,3,3.7
+2019-02-16,offense_home,Nazareth,3,5.0,King's,3,1.3
+2019-02-16,offense_home,Plattsburgh,3,2.2,(3) Oswego,3,3.3
+2019-02-16,offense_home,Plymouth State,3,5.8,Framingham State,3,1.8
+2019-02-16,offense_home,Post,2,2.4,Assumption,2,3.4
+2019-02-16,offense_home,Potsdam,3,3.4,Cortland,3,2.5
+2019-02-16,offense_home,Rensselaer,1,1.8,(6) Quinnipiac,1,3.5
+2019-02-16,offense_home,Sacred Heart,1,2.8,RIT,1,2.7
+2019-02-16,offense_home,Saint Anselm,2,2.9,Southern New Hampshire,2,2.8
+2019-02-16,offense_home,St. Lawrence,1,2.4,Dartmouth,1,3.3
+2019-02-16,offense_home,St. Olaf,3,2.6,Saint Mary's,3,3.1
+2019-02-16,offense_home,St. Thomas,3,4.9,Hamline,3,2.0
+2019-02-16,offense_home,UMass Dartmouth,3,3.9,Worcester State,3,2.3
+2019-02-16,offense_home,Utica,3,4.1,Wilkes,3,1.9
+2019-02-16,offense_home,Wentworth,3,2.9,Nichols,3,3.5
+2019-02-16,offense_home,Western New England,3,2.6,Endicott,3,6.1
+2019-02-16,offense_home,Wisconsin-River Falls,3,2.7,Wisconsin-Stout,3,2.5
+2019-02-16,offense_home,Yale,1,2.2,(8) Cornell,1,2.8
