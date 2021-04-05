@@ -1,146 +1,146 @@
 year,team_id,team_name,wins,losses,ties,total_games
-2017,4,Adrian,5,1,19,25
-2017,721,Air Force,6,3,27,36
-2017,10,Ala.-Huntsville,4,8,22,34
-2017,11,Alas. Anchorage,1,9,24,34
-2017,12,Alas. Fairbanks,4,7,23,34
-2017,22,American Int'l,2,3,29,34
-2017,24,Amherst,0,0,23,23
-2017,28,Arizona St.,2,9,21,32
-2017,725,Army West Point,6,3,24,33
-2017,36,Assumption,2,3,12,17
-2017,38,Augsburg,5,0,21,26
-2017,42,Aurora,2,5,18,25
-2017,45,Babson,3,1,21,25
-2017,26107,Becker,2,3,20,25
-2017,54,Bemidji St.,9,2,25,36
-2017,56,Bentley,2,4,28,34
-2017,60,Bethel (MN),1,5,19,25
-2017,67,Boston College,10,2,24,36
-2017,68,Boston U.,5,3,26,34
-2017,69,Bowdoin,0,0,24,24
-2017,71,Bowling Green,4,7,25,36
-2017,78,Brockport,2,2,21,25
-2017,80,Brown,1,5,23,29
-2017,85,Buffalo St.,2,1,22,25
-2017,116,Canisius,4,7,25,36
-2017,123,Castleton,2,3,20,25
-2017,146,Clarkson,6,5,22,33
-2017,151,Colby,0,0,24,24
-2017,153,Colgate,2,5,27,34
-2017,154,Colorado Col.,3,7,24,34
-2017,1036,Concordia Wisconsin,3,2,20,25
-2017,161,Concordia-M'head,3,3,19,25
-2017,163,Connecticut Col.,0,0,23,23
-2017,167,Cornell,2,2,25,29
-2017,170,Curry,3,2,20,25
-2017,2691,Daniel Webster,1,6,18,25
-2017,172,Dartmouth,2,2,25,29
-2017,183,Denver,7,2,27,36
-2017,213,Elmira,1,5,19,25
-2017,8981,Endicott,1,2,22,25
-2017,224,Ferris St.,3,9,23,35
-2017,30032,Finlandia,0,6,19,25
-2017,227,Fitchburg St.,1,3,21,25
-2017,238,Framingham St.,1,3,21,25
-2017,241,Franklin Pierce,3,1,11,15
-2017,242,Fredonia,2,2,21,25
-2017,266,Gust. Adolphus,1,4,20,25
-2017,267,Hamilton,0,0,24,24
-2017,268,Hamline,4,0,21,25
-2017,275,Harvard,4,1,24,29
-2017,282,Hobart and William Smith Colleges,4,1,20,25
-2017,285,Holy Cross,5,3,26,34
-2017,22626,Johnson & Wales (RI),2,3,19,24
-2017,344,Lake Forest,4,3,18,25
-2017,345,Lake Superior St.,6,4,24,34
-2017,348,Lawrence,1,3,21,25
-2017,351,Lebanon Valley,0,5,20,25
-2017,380,Maine,4,6,24,34
-2017,382,Manhattanville,3,3,19,25
-2017,1196,Marian (WI),1,5,19,25
-2017,400,Massachusetts,3,5,26,34
-2017,408,Mercyhurst,3,6,25,34
-2017,410,Merrimack,4,5,24,33
-2017,414,Miami (OH),3,6,25,34
-2017,418,Michigan,5,4,23,32
-2017,416,Michigan St.,3,6,25,34
-2017,417,Michigan Tech,6,6,26,38
-2017,420,Middlebury,0,0,24,24
-2017,427,Minn. Duluth,8,2,22,32
-2017,428,Minnesota,4,2,30,36
-2017,383,Minnesota St.,7,4,23,34
-2017,30067,Morrisville St.,0,5,20,25
-2017,20220,MSOE,1,3,21,25
-2017,461,Nazareth,3,2,20,25
-2017,1254,Neumann,3,3,19,25
-2017,467,New England Col.,3,2,20,25
-2017,469,New Hampshire,4,5,25,34
-2017,482,Niagara,1,7,26,34
-2017,484,Nichols,4,1,19,24
-2017,494,North Dakota,5,4,26,35
-2017,500,Northeastern,3,4,27,34
-2017,506,Northern Mich.,3,8,25,36
-2017,1267,Northland,2,3,20,25
-2017,511,Norwich,4,0,21,25
-2017,513,Notre Dame,5,3,24,32
-2017,518,Ohio St.,6,1,29,36
-2017,464,Omaha,6,3,27,36
-2017,530,Oswego St.,5,0,21,26
-2017,539,Penn St.,9,1,24,34
-2017,547,Plattsburgh St.,2,1,22,25
-2017,548,Plymouth St.,3,2,20,25
-2017,1318,Post,0,4,17,21
-2017,554,Princeton,0,4,25,29
-2017,556,Providence,3,3,28,34
-2017,562,Quinnipiac,7,3,23,33
-2017,570,Rensselaer,2,8,25,35
-2017,580,RIT,3,7,24,34
-2017,579,Robert Morris,5,3,25,33
-2017,590,Sacred Heart,2,6,26,34
-2017,602,Saint John's (MN),3,2,20,25
-2017,612,Saint Mary's (MN),3,1,21,25
-2017,613,Saint Michael's,2,4,21,27
-2017,621,Salem St.,1,2,22,25
-2017,623,Salve Regina,5,1,19,25
-2017,642,Skidmore,3,2,20,25
-2017,662,Southern Me.,2,2,21,25
-2017,468,Southern N.H.,3,0,12,15
-2017,593,St. Anselm,3,3,20,26
-2017,598,St. Cloud St.,6,4,24,34
-2017,607,St. Lawrence,6,4,24,34
-2017,614,St. Norbert,5,1,19,25
-2017,615,St. Olaf,1,5,19,25
-2017,618,St. Scholastica,3,2,21,26
-2017,620,St. Thomas (MN),3,2,20,25
-2017,21852,Stevenson,4,2,19,25
-2017,682,Stonehill,2,2,13,17
-2017,684,Suffolk,2,2,21,25
-2017,30165,SUNY Canton,1,3,21,25
-2017,168,SUNY Cortland,2,3,21,26
-2017,247,SUNY Geneseo,3,1,21,25
-2017,552,SUNY Potsdam,2,2,21,25
-2017,713,Trinity (CT),0,0,24,24
-2017,717,Tufts,0,0,24,24
-2017,1255,U New England,1,2,22,25
-2017,164,UConn,3,3,27,33
-2017,401,UMass Boston,3,1,21,25
-2017,656,UMass Dartmouth,3,2,20,25
-2017,368,UMass Lowell,7,3,24,34
-2017,727,Union (NY),8,3,23,34
-2017,733,Utica,6,0,19,25
-2017,738,Vermont,6,3,22,31
-2017,762,Wentworth,1,5,19,25
-2017,764,Wesleyan (CT),0,0,24,24
-2017,774,Western Mich.,6,3,23,32
-2017,775,Western New Eng.,1,3,21,25
-2017,777,Westfield St.,3,2,20,25
-2017,789,Williams,0,0,24,24
-2017,793,Wis.-Eau Claire,3,1,21,25
-2017,801,Wis.-River Falls,1,5,21,27
-2017,802,Wis.-Stevens Point,5,0,20,25
-2017,803,Wis.-Stout,4,2,19,25
-2017,804,Wis.-Superior,3,3,19,25
-2017,796,Wisconsin,5,3,23,31
-2017,809,Worcester St.,1,3,21,25
-2017,813,Yale,2,3,23,28
+2017,4,Adrian,20,7,2,29
+2017,721,Air Force,27,10,5,42
+2017,10,Alabama Huntsville,9,22,3,34
+2017,11,Alas. Anchorage,7,21,6,34
+2017,12,Alas. Fairbanks,12,20,4,36
+2017,22,American Int'l,8,20,8,36
+2017,24,Amherst,14,7,3,24
+2017,28,Arizona St.,10,19,3,32
+2017,725,Army West Point,18,14,5,37
+2017,36,Assumption,6,12,1,19
+2017,38,Augsburg,17,5,6,28
+2017,42,Aurora,4,19,2,25
+2017,45,Babson,15,9,3,27
+2017,26107,Becker,6,19,1,26
+2017,54,Bemidji St.,22,16,3,41
+2017,56,Bentley,13,19,7,39
+2017,60,Bethel (MN),3,20,2,25
+2017,67,Boston College,21,15,4,40
+2017,68,Boston U.,24,12,3,39
+2017,69,Bowdoin,8,16,1,25
+2017,71,Bowling Green,21,18,2,41
+2017,78,SUNY Brockport,11,14,1,26
+2017,80,Brown,4,25,2,31
+2017,85,Buffalo St.,18,8,1,27
+2017,116,Canisius,21,11,7,39
+2017,123,Castleton,11,10,6,27
+2017,146,Clarkson,18,16,5,39
+2017,151,Colby,13,7,4,24
+2017,153,Colgate,9,22,6,37
+2017,154,Colorado Col.,8,24,4,36
+2017,1036,Concordia Wisconsin,13,11,1,25
+2017,161,Concordia-M'head,14,11,2,27
+2017,163,Connecticut Col.,4,16,3,23
+2017,167,Cornell,21,9,5,35
+2017,170,Curry,14,10,2,26
+2017,2691,Daniel Webster,1,23,1,25
+2017,172,Dartmouth,10,18,3,31
+2017,183,Denver,33,7,4,44
+2017,213,Elmira,8,16,1,25
+2017,8981,Endicott,24,4,2,30
+2017,224,Ferris St.,13,19,5,37
+2017,30032,Finlandia,0,25,0,25
+2017,227,Fitchburg St.,11,15,1,27
+2017,238,Framingham St.,2,23,0,25
+2017,241,Franklin Pierce,6,9,1,16
+2017,242,Fredonia,13,11,2,26
+2017,266,Gust. Adolphus,5,15,5,25
+2017,267,Hamilton,20,5,4,29
+2017,268,Hamline,10,10,6,26
+2017,275,Harvard,28,6,2,36
+2017,282,Hobart,20,5,4,29
+2017,285,Holy Cross,14,15,7,36
+2017,22626,JWU (Providence),11,12,4,27
+2017,344,Lake Forest,16,10,0,26
+2017,345,Lake Superior St.,11,18,7,36
+2017,348,Lawrence,6,16,3,25
+2017,351,Lebanon Valley,4,19,2,25
+2017,380,Maine,11,21,4,36
+2017,382,Manhattanville,14,11,1,26
+2017,1196,Marian (WI),15,10,2,27
+2017,400,Massachusetts,5,29,2,36
+2017,408,Mercyhurst,15,20,4,39
+2017,410,Merrimack,15,16,6,37
+2017,414,Miami (OH),9,20,7,36
+2017,418,Michigan,13,19,3,35
+2017,416,Michigan St.,7,24,4,35
+2017,417,Michigan Tech,23,15,7,45
+2017,420,Middlebury,3,19,2,24
+2017,427,Minn. Duluth,28,7,7,42
+2017,428,Minnesota,23,12,3,38
+2017,383,Minnesota St.,22,13,4,39
+2017,30067,Morrisville St.,5,16,4,25
+2017,20220,MSOE,12,8,5,25
+2017,461,Nazareth,9,15,2,26
+2017,1254,Neumann,16,8,3,27
+2017,467,New England Col.,19,8,0,27
+2017,469,New Hampshire,15,20,5,40
+2017,482,Niagara,5,31,3,39
+2017,484,Nichols,15,7,5,27
+2017,494,North Dakota,21,16,3,40
+2017,500,Northeastern,18,15,5,38
+2017,506,Northern Mich.,13,22,4,39
+2017,1267,Northland,11,13,2,26
+2017,511,Norwich,27,1,3,31
+2017,513,Notre Dame,23,12,5,40
+2017,518,Ohio St.,21,12,6,39
+2017,464,Omaha,17,17,5,39
+2017,530,Oswego St.,21,6,1,28
+2017,539,Penn St.,25,12,2,39
+2017,547,Plattsburgh St.,17,10,1,28
+2017,548,Plymouth St.,19,6,2,27
+2017,1318,Post,0,12,0,12
+2017,554,Princeton,15,16,3,34
+2017,556,Providence,22,12,5,39
+2017,562,Quinnipiac,23,15,2,40
+2017,570,Rensselaer,8,28,1,37
+2017,580,RIT,14,22,1,37
+2017,579,Robert Morris,22,12,4,38
+2017,590,Sacred Heart,13,19,5,37
+2017,602,Saint John's (MN),12,10,3,25
+2017,612,Saint Mary's (MN),13,10,3,26
+2017,613,Saint Michael's,9,16,2,27
+2017,621,Salem St.,15,10,3,28
+2017,623,Salve Regina,14,8,4,26
+2017,642,Skidmore,10,12,4,26
+2017,662,Southern Me.,9,15,2,26
+2017,468,Southern N.H.,10,8,0,18
+2017,593,St. Anselm,12,12,2,26
+2017,598,St. Cloud St.,16,19,1,36
+2017,607,St. Lawrence,17,13,7,37
+2017,614,St. Norbert,22,6,1,29
+2017,615,St. Olaf,7,15,3,25
+2017,618,St. Scholastica,13,13,1,27
+2017,620,St. Thomas (MN),14,8,5,27
+2017,21852,Stevenson,10,14,2,26
+2017,682,Stonehill,3,12,3,18
+2017,684,Suffolk,7,13,5,25
+2017,30165,SUNY Canton,7,16,2,25
+2017,168,SUNY Cortland,10,13,2,25
+2017,247,SUNY Geneseo,17,7,3,27
+2017,552,SUNY Potsdam,6,17,2,25
+2017,713,Trinity (CT),21,7,3,31
+2017,717,Tufts,11,11,3,25
+2017,1255,U New England,15,10,2,27
+2017,164,UConn,12,16,8,36
+2017,401,UMass Boston,12,11,3,26
+2017,656,UMass Dartmouth,17,9,0,26
+2017,368,UMass Lowell,27,11,3,41
+2017,727,Union (NY),25,10,3,38
+2017,733,Utica,18,9,0,27
+2017,738,Vermont,20,13,5,38
+2017,762,Wentworth,5,17,3,25
+2017,764,Wesleyan (CT),13,9,4,26
+2017,774,Western Mich.,22,13,5,40
+2017,775,Western New Eng.,8,16,2,26
+2017,777,Westfield St.,11,15,0,26
+2017,789,Williams,14,9,3,26
+2017,793,Wis.-Eau Claire,18,7,3,28
+2017,801,UW-River Falls,12,13,2,27
+2017,802,Wis.-Stevens Point,21,5,3,29
+2017,803,Wis.-Stout,12,13,2,27
+2017,804,Wis.-Superior,8,19,2,29
+2017,796,Wisconsin,20,15,1,36
+2017,809,Worcester St.,9,14,3,26
+2017,813,Yale,13,15,5,33

@@ -1,0 +1,149 @@
+year,team_id,team_name,wins,losses,ties,total_games
+2018,4,Adrian,24,6,0,30
+2018,721,Air Force,23,15,5,43
+2018,10,Alabama Huntsville,12,23,2,37
+2018,11,Alas. Anchorage,4,26,4,34
+2018,12,Alas. Fairbanks,11,22,3,36
+2018,22,American Int'l,15,20,4,39
+2018,24,Amherst,11,9,5,25
+2018,28,Arizona St.,8,21,5,34
+2018,725,Army West Point,15,15,6,36
+2018,36,Assumption,12,7,8,27
+2018,38,Augsburg,19,10,0,29
+2018,42,Aurora,5,15,5,25
+2018,45,Babson,15,9,3,27
+2018,26107,Becker,5,18,1,24
+2018,54,Bemidji St.,16,14,8,38
+2018,56,Bentley,13,18,6,37
+2018,60,Bethel (MN),3,19,3,25
+2018,67,Boston College,20,14,3,37
+2018,68,Boston U.,22,14,4,40
+2018,69,Bowdoin,8,16,0,24
+2018,71,Bowling Green,23,12,6,41
+2018,78,SUNY Brockport,11,13,1,25
+2018,80,Brown,8,19,4,31
+2018,30188,Bryn Athyn,9,12,1,22
+2018,85,Buffalo St.,17,7,3,27
+2018,116,Canisius,19,17,2,38
+2018,123,Castleton,7,16,3,26
+2018,10972,Chatham,2,20,3,25
+2018,146,Clarkson,23,11,6,40
+2018,151,Colby,17,11,2,30
+2018,153,Colgate,17,17,6,40
+2018,154,Colorado Col.,15,17,5,37
+2018,1036,Concordia Wisconsin,16,9,2,27
+2018,161,Concordia-M'head,10,13,3,26
+2018,163,Connecticut Col.,10,11,4,25
+2018,167,Cornell,25,6,2,33
+2018,170,Curry,17,8,1,26
+2018,172,Dartmouth,16,17,2,35
+2018,183,Denver,23,10,8,41
+2018,213,Elmira,15,10,3,28
+2018,8981,Endicott,18,6,3,27
+2018,224,Ferris St.,14,23,1,38
+2018,30032,Finlandia,1,23,1,25
+2018,227,Fitchburg St.,18,7,3,28
+2018,238,Framingham St.,3,20,2,25
+2018,241,Franklin Pierce,5,16,5,26
+2018,242,Fredonia,13,11,4,28
+2018,266,Gust. Adolphus,12,13,3,28
+2018,267,Hamilton,15,7,3,25
+2018,268,Hamline,9,14,2,25
+2018,275,Harvard,15,14,4,33
+2018,282,Hobart,18,6,5,29
+2018,285,Holy Cross,13,16,7,36
+2018,22626,JWU (Providence),5,19,1,25
+2018,336,King's (PA),0,25,0,25
+2018,344,Lake Forest,15,11,2,28
+2018,345,Lake Superior St.,10,22,4,36
+2018,348,Lawrence,10,15,2,27
+2018,351,Lebanon Valley,12,10,2,24
+2018,380,Maine,18,16,4,38
+2018,382,Manhattanville,12,9,5,26
+2018,1196,Marian (WI),20,8,1,29
+2018,400,Massachusetts,17,20,2,39
+2018,408,Mercyhurst,21,12,4,37
+2018,410,Merrimack,12,21,4,37
+2018,414,Miami (OH),12,20,5,37
+2018,418,Michigan,22,15,3,40
+2018,416,Michigan St.,12,22,2,36
+2018,417,Michigan Tech,22,17,5,44
+2018,420,Middlebury,4,17,3,24
+2018,427,Minn. Duluth,25,16,3,44
+2018,428,Minnesota,19,17,2,38
+2018,383,Minnesota St.,29,10,1,40
+2018,30067,Morrisville St.,6,16,3,25
+2018,20220,MSOE,11,14,2,27
+2018,461,Nazareth,10,13,2,25
+2018,1254,Neumann,10,15,2,27
+2018,467,New England Col.,12,12,2,26
+2018,469,New Hampshire,10,20,6,36
+2018,482,Niagara,11,22,3,36
+2018,484,Nichols,18,9,3,30
+2018,494,North Dakota,17,13,10,40
+2018,500,Northeastern,23,10,5,38
+2018,506,Northern Mich.,25,15,3,43
+2018,1267,Northland,9,13,3,25
+2018,511,Norwich,19,7,2,28
+2018,513,Notre Dame,28,10,2,40
+2018,518,Ohio St.,26,10,5,41
+2018,464,Omaha,17,17,2,36
+2018,530,Oswego St.,18,6,2,26
+2018,539,Penn St.,18,15,5,38
+2018,547,Plattsburgh St.,13,12,1,26
+2018,548,Plymouth St.,19,5,2,26
+2018,1318,Post,2,22,1,25
+2018,554,Princeton,19,13,4,36
+2018,556,Providence,24,12,4,40
+2018,562,Quinnipiac,16,18,4,38
+2018,570,Rensselaer,6,27,4,37
+2018,580,RIT,15,20,2,37
+2018,579,Robert Morris,18,20,3,41
+2018,590,Sacred Heart,13,22,4,39
+2018,602,Saint John's (MN),16,8,2,26
+2018,612,Saint Mary's (MN),9,12,4,25
+2018,613,Saint Michael's,14,7,7,28
+2018,621,Salem St.,10,12,5,27
+2018,623,Salve Regina,22,6,2,30
+2018,642,Skidmore,6,18,2,26
+2018,662,Southern Me.,3,19,4,26
+2018,468,Southern N.H.,8,6,10,24
+2018,593,St. Anselm,16,8,3,27
+2018,598,St. Cloud St.,25,9,6,40
+2018,607,St. Lawrence,8,27,2,37
+2018,614,St. Norbert,27,4,1,32
+2018,615,St. Olaf,9,12,3,24
+2018,618,St. Scholastica,15,11,1,27
+2018,620,St. Thomas (MN),16,9,1,26
+2018,21852,Stevenson,11,8,7,26
+2018,682,Stonehill,3,13,9,25
+2018,684,Suffolk,9,13,3,25
+2018,30165,SUNY Canton,7,16,2,25
+2018,168,SUNY Cortland,10,13,2,25
+2018,247,SUNY Geneseo,20,6,3,29
+2018,552,SUNY Potsdam,10,11,5,26
+2018,30037,Trine,6,17,2,25
+2018,713,Trinity (CT),19,6,2,27
+2018,717,Tufts,5,16,4,25
+2018,1255,U New England,20,6,3,29
+2018,164,UConn,15,19,2,36
+2018,401,UMass Boston,17,10,0,27
+2018,656,UMass Dartmouth,12,13,3,28
+2018,368,UMass Lowell,17,19,0,36
+2018,727,Union (NY),21,15,2,38
+2018,733,Utica,21,5,1,27
+2018,738,Vermont,10,20,7,37
+2018,762,Wentworth,9,14,3,26
+2018,764,Wesleyan (CT),13,8,5,26
+2018,774,Western Mich.,15,19,2,36
+2018,775,Western New Eng.,9,14,3,26
+2018,777,Westfield St.,10,14,1,25
+2018,789,Williams,14,11,1,26
+2018,793,Wis.-Eau Claire,17,10,1,28
+2018,801,UW-River Falls,8,17,4,29
+2018,802,Wis.-Stevens Point,21,6,3,30
+2018,803,Wis.-Stout,7,16,3,26
+2018,804,Wis.-Superior,9,15,3,27
+2018,796,Wisconsin,14,19,4,37
+2018,809,Worcester St.,13,11,2,26
+2018,813,Yale,15,15,1,31
