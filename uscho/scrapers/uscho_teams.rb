@@ -44,13 +44,17 @@ teams.sort!.uniq!
 
 teams.each do |team_id|
 
+  print "  -> pulling #{team_id}\n"
+
   url = "#{base}/#{team_id}/mens-hockey/"
 
   begin
     page = agent.get(url)
   rescue
     print "  -> #{team_id} not found\n"
-    next
+    sleep 30
+    retry
+    #next
   end
 
   page.parser.xpath(row_path).each do |tr|
