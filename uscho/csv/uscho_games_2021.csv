@@ -600,9 +600,9 @@
 2021,Sat.,20210327,3/27/2021,1:00 ET,(10) Boston University,boston-university,/team/boston-university/mens-hockey/,(10) Boston University,2,vs.,(7) St. Cloud State,st-cloud-state,/team/st-cloud-state/mens-hockey/,(7) St. Cloud State,6,,NCAA Northeast Regional,NC,Box Score,ESPNNEWS
 2021,Sun.,20210328,3/28/2021,6:00 MT,(5) Minnesota State,minnesota-state,/team/minnesota-state/mens-hockey/,(5) Minnesota State,4,vs.,(2) Minnesota,minnesota,/team/minnesota/mens-hockey/,(2) Minnesota,0,,NCAA West Regional,NC,Box Score,ESPN2
 2021,Sun.,20210328,3/28/2021,5:30 ET,(7) St. Cloud State,st-cloud-state,/team/st-cloud-state/mens-hockey/,(7) St. Cloud State,4,vs.,(2) Boston College,boston-college,/team/boston-college/mens-hockey/,(2) Boston College,1,,NCAA Northeast Regional,NC,Box Score,ESPN2
-2021,Thu.,20210408,4/8/2021,5:00 ET,(7) St. Cloud State,st-cloud-state,/team/st-cloud-state/mens-hockey/,(7) St. Cloud State,,vs.,(5) Minnesota State,minnesota-state,/team/minnesota-state/mens-hockey/,(5) Minnesota State,,,NCAA Tournament,NC,,
-2021,Thu.,20210408,4/8/2021,9:00 ET,(9) Minnesota Duluth,minnesota-duluth,/team/minnesota-duluth/mens-hockey/,(9) Minnesota Duluth,,vs.,(6) Massachusetts,massachusetts,/team/massachusetts/mens-hockey/,(6) Massachusetts,,,NCAA Tournament,NC,,
-2021,Sat.,20210410,4/10/2021,7:00 ET,St Cloud/Minn St,,,St Cloud/Minn St,,vs.,UMD/UMass,,,UMD/UMass,,,NCAA Tournament,NC,,
+2021,Thu.,20210408,4/8/2021,5:00 ET,(7) St. Cloud State,st-cloud-state,/team/st-cloud-state/mens-hockey/,(7) St. Cloud State,5,vs.,(5) Minnesota State,minnesota-state,/team/minnesota-state/mens-hockey/,(5) Minnesota State,4,,NCAA Tournament,NC,Box Score,
+2021,Thu.,20210408,4/8/2021,9:00 ET,(9) Minnesota Duluth,minnesota-duluth,/team/minnesota-duluth/mens-hockey/,(9) Minnesota Duluth,2,vs.,(6) Massachusetts,massachusetts,/team/massachusetts/mens-hockey/,(6) Massachusetts,3,OT,NCAA Tournament,NC,Box Score,
+2021,Sat.,20210410,4/10/2021,7:00 ET,(7) St. Cloud State,st-cloud-state,/team/st-cloud-state/mens-hockey/,(7) St. Cloud State,0,vs.,(6) Massachusetts,massachusetts,/team/massachusetts/mens-hockey/,(6) Massachusetts,5,,NCAA Tournament,NC,Box Score,ESPN
 2021,Fri.,20201023,10/23/2020,7:00 CT,US Under-18 Team,,,US Under-18 Team,8,@,Concordia (Wis.),concordia-wi,/team/concordia-wi/mens-hockey/,Concordia (Wis.),2,,,EX,Box Score,
 2021,Sat.,20201024,10/24/2020,7:05 ET,US Under-18 Team,,,US Under-18 Team,3,@,(5) Adrian,adrian,/team/adrian/mens-hockey/,(5) Adrian,5,,,EX,Box Score,
 2021,Fri.,20201030,10/30/2020,7:05 ET,Trine,trine,/team/trine/mens-hockey/,Trine,3,@,(5) Adrian,adrian,/team/adrian/mens-hockey/,(5) Adrian,6,,,NC,Box Score,
@@ -785,8 +785,8 @@
 2021,Tue.,20210309,3/9/2021,7:05 ET,Trine,trine,/team/trine/mens-hockey/,Trine,1,@,(5) Adrian,adrian,/team/adrian/mens-hockey/,(5) Adrian,4,,NCHA Tournament,NC,Box Score,
 2021,Tue.,20210309,3/9/2021,7:30 CT,Milwaukee School of Engineering,milwaukee-school-of-engineering,/team/milwaukee-school-of-engineering/mens-hockey/,Milwaukee School of Engineering,2,@,Aurora,aurora,/team/aurora/mens-hockey/,Aurora,1,,NCHA Tournament,NC,Box Score,
 2021,Wed.,20210310,3/10/2021,3:00 CT,Concordia (Minn.),concordia-mn,/team/concordia-mn/mens-hockey/,Concordia (Minn.),3,@,Bethel,bethel,/team/bethel/mens-hockey/,Bethel,2,,,MI,Box Score,
-2021,Wed.,20210310,3/10/2021,2:00 ET,Stevenson,stevenson,/team/stevenson/mens-hockey/,Stevenson,5,vs.,Manhattanville,manhattanville,/team/manhattanville/mens-hockey/,Manhattanville,2,,,UC,Box Score,
 2021,Wed.,20210310,3/10/2021,5:00 ET,Elmira,elmira,/team/elmira/mens-hockey/,Elmira,4,@,Nazareth,nazareth,/team/nazareth/mens-hockey/,Nazareth,3,,,UC,Box Score,
+2021,Wed.,20210310,3/10/2021,2:00 ET,Manhattanville,manhattanville,/team/manhattanville/mens-hockey/,Manhattanville,2,vs.,Stevenson,stevenson,/team/stevenson/mens-hockey/,Stevenson,5,,,UC,Box Score,
 2021,Wed.,20210310,3/10/2021,7:00 CT,St. Scholastica,st-scholastica,/team/st-scholastica/mens-hockey/,St. Scholastica,5,@,Concordia (Wis.),concordia-wi,/team/concordia-wi/mens-hockey/,Concordia (Wis.),4,OT,NCHA Tournament,NC,Box Score,
 2021,Wed.,20210310,3/10/2021,5:00 CT,Lawrence,lawrence,/team/lawrence/mens-hockey/,Lawrence,1,@,Marian,marian,/team/marian/mens-hockey/,Marian,3,,NCHA Tournament,NC,Box Score,
 2021,Wed.,20210310,3/10/2021,7:00 CT,(8) Wisconsin-Stevens Point,wisconsin-stevens-point,/team/wisconsin-stevens-point/mens-hockey/,(8) Wisconsin-Stevens Point,2,@,(4) Wisconsin-Eau Claire,wisconsin-eau-claire,/team/wisconsin-eau-claire/mens-hockey/,(4) Wisconsin-Eau Claire,1,OT,WIAC Tournament,NC,Box Score,
@@ -837,7 +837,7 @@
 2021,Sat.,20210320,3/20/2021,1:00 ET,Colby,colby,/team/colby/mens-hockey/,Colby,5,@,Southern Maine,southern-maine,/team/southern-maine/mens-hockey/,Southern Maine,1,,,NC,Box Score,
 2021,Sat.,20210320,3/20/2021,7:30 CT,Milwaukee School of Engineering,milwaukee-school-of-engineering,/team/milwaukee-school-of-engineering/mens-hockey/,Milwaukee School of Engineering,1,@,Marian,marian,/team/marian/mens-hockey/,Marian,4,,NCHA Tournament,NC,Box Score,
 2021,Sun.,20210321,3/21/2021,6:00 ET,Stevenson,stevenson,/team/stevenson/mens-hockey/,Stevenson,7,@,Lebanon Valley,lebanon-valley,/team/lebanon-valley/mens-hockey/,Lebanon Valley,2,,,UC,Box Score,
-2021,Tue.,20210323,3/23/2021,4:00 ET,(3) Utica,utica,/team/utica/mens-hockey/,(3) Utica,7,@,Elmira,elmira,/team/elmira/mens-hockey/,Elmira,5,,,UC,Box Score,
+2021,Tue.,20210323,3/23/2021,4:00 ET,Elmira,elmira,/team/elmira/mens-hockey/,Elmira,5,@,(3) Utica,utica,/team/utica/mens-hockey/,(3) Utica,7,,,UC,Box Score,
 2021,Fri.,20210326,3/26/2021,7:00 ET,Elmira,elmira,/team/elmira/mens-hockey/,Elmira,5,@,Chatham,chatham,/team/chatham/mens-hockey/,Chatham,1,,,UC,Box Score,
 2021,Fri.,20210326,3/26/2021,5:00 ET,Neumann,neumann,/team/neumann/mens-hockey/,Neumann,1,@,Wilkes,wilkes,/team/wilkes/mens-hockey/,Wilkes,4,,,UC,Box Score,
 2021,Fri.,20210326,3/26/2021,6:30 ET,(1) Norwich,norwich,/team/norwich/mens-hockey/,(1) Norwich,2,@,New England College,new-england-college,/team/new-england-college/mens-hockey/,New England College,1,,,NC,Box Score,
@@ -856,8 +856,4 @@
 2021,Thu.,20210401,4/1/2021,12:00 ET,Neumann,neumann,/team/neumann/mens-hockey/,Neumann,2,@,Stevenson,stevenson,/team/stevenson/mens-hockey/,Stevenson,3,,UCHC Tournament,NC,Box Score,
 2021,Fri.,20210402,4/2/2021,5:00 ET,Wilkes,wilkes,/team/wilkes/mens-hockey/,Wilkes,1,@,Stevenson,stevenson,/team/stevenson/mens-hockey/,Stevenson,4,,UCHC Tournament,NC,Box Score,
 2021,Fri.,20210402,4/2/2021,7:00 ET,Elmira,elmira,/team/elmira/mens-hockey/,Elmira,2,@,(3) Utica,utica,/team/utica/mens-hockey/,(3) Utica,1,0 OT,UCHC Tournament,NC,Box Score,
-2021,Mon.,20210405,4/5/2021,4:00 ET,Elmira,elmira,/team/elmira/mens-hockey/,Elmira,,@,Stevenson,stevenson,/team/stevenson/mens-hockey/,Stevenson,,,UCHC Tournament,NC,,
-2021,Sat.,20210410,4/10/2021,,(9) Trinity,trinity,/team/trinity/mens-hockey/,(9) Trinity,,@,(1) Norwich,norwich,/team/norwich/mens-hockey/,(1) Norwich,,,,EX,,
-2021,Sun.,20210411,4/11/2021,3:00 ET,(1) Norwich,norwich,/team/norwich/mens-hockey/,(1) Norwich,,@,(9) Trinity,trinity,/team/trinity/mens-hockey/,(9) Trinity,,,,EX,,
-2021,Sat.,20210417,4/17/2021,,(9) Trinity,trinity,/team/trinity/mens-hockey/,(9) Trinity,,@,Hamilton,hamilton,/team/hamilton/mens-hockey/,Hamilton,,,,EX,,
-2021,Sun.,20210418,4/18/2021,3:00 ET,Hamilton,hamilton,/team/hamilton/mens-hockey/,Hamilton,,@,(9) Trinity,trinity,/team/trinity/mens-hockey/,(9) Trinity,,,,EX,,
+2021,Mon.,20210405,4/5/2021,4:00 ET,Elmira,elmira,/team/elmira/mens-hockey/,Elmira,3,@,Stevenson,stevenson,/team/stevenson/mens-hockey/,Stevenson,0,,UCHC Tournament,NC,Box Score,

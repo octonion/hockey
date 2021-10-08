@@ -8,8 +8,8 @@ agent.user_agent = 'Mozilla/5.0'
 
 results = CSV.open('csv/uscho_teams.csv','w')
 
-base = 'http://www.uscho.com/stats/history/'
-url = 'http://www.uscho.com/stats/'
+base = 'http://uscho.com/stats/history/'
+url = 'http://uscho.com/stats/'
 
 begin
   page = agent.get(url)
