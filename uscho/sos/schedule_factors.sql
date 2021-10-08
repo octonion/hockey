@@ -68,7 +68,7 @@ r.game_date,
 r.year,
 r.field
 from uscho.results r
-where r.year between 2002 and 2021
+where r.year between 2002 and 2022
 );
 
 update public.r
