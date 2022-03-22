@@ -1,9 +1,8 @@
 BEGIN
 SET
-    date    |     site     |      team       | div | score |    opp    | div | score 
-------------+--------------+-----------------+-----+-------+-----------+-----+-------
- 2021-10-07 | offense_home | (11) Providence |   1 |   4.1 | Merrimack |   1 |   2.4
-(1 row)
+ date | site | team | div | score | opp | div | score 
+------+------+------+-----+-------+-----+-----+-------
+(0 rows)
 
-COPY 1
+COPY 0
 COMMIT
