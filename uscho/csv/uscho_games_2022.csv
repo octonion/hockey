@@ -1105,17 +1105,21 @@
 2022,Sat.,20220319,3/19/2022,7:35 ET,Air Force,air-force,/team/air-force/mens-hockey/,Air Force,0,vs.,American International,american-international,/team/american-international/mens-hockey/,American International,7,,AHA Tournament,NC,Box Score,
 2022,Sat.,20220319,3/19/2022,7:00 CT,Michigan,michigan,/team/michigan/mens-hockey/,Michigan,4,@,Minnesota,minnesota,/team/minnesota/mens-hockey/,Minnesota,3,,Big Ten Tournament,NC,Box Score,BTN
 2022,Sat.,20220319,3/19/2022,7:37 CT,Minnesota Duluth,minnesota-duluth,/team/minnesota-duluth/mens-hockey/,Minnesota Duluth,3,vs.,Western Michigan,western-michigan,/team/western-michigan/mens-hockey/,Western Michigan,0,,NCHC Tournament,NC,Box Score,CBS
-2022,Thu.,20220324,3/24/2022,12:00 ET,Harvard,harvard,/team/harvard/mens-hockey/,Harvard,,vs.,Minnesota State,minnesota-state,/team/minnesota-state/mens-hockey/,Minnesota State,,,NCAA East Regional,NC,,ESPNU
-2022,Thu.,20220324,3/24/2022,6:00 ET,Notre Dame,notre-dame,/team/notre-dame/mens-hockey/,Notre Dame,,vs.,North Dakota,north-dakota,/team/north-dakota/mens-hockey/,North Dakota,,,NCAA East Regional,NC,,ESPNU
-2022,Thu.,20220324,3/24/2022,7:00 MT,UMass Lowell,umass-lowell,/team/umass-lowell/mens-hockey/,UMass Lowell,,vs.,Denver,denver,/team/denver/mens-hockey/,Denver,,,NCAA West Regional,NC,,ESPNU
-2022,Thu.,20220324,3/24/2022,1:00 MT,Michigan Tech,michigan-tech,/team/michigan-tech/mens-hockey/,Michigan Tech,,vs.,Minnesota Duluth,minnesota-duluth,/team/minnesota-duluth/mens-hockey/,Minnesota Duluth,,,NCAA West Regional,NC,,ESPNU
-2022,Fri.,20220325,3/25/2022,8:00 ET,St. Cloud State,st-cloud-state,/team/st-cloud-state/mens-hockey/,St. Cloud State,,vs.,Quinnipiac,quinnipiac,/team/quinnipiac/mens-hockey/,Quinnipiac,,,NCAA Midwest Regional,NC,,ESPNews
-2022,Fri.,20220325,3/25/2022,3:00 ET,American International,american-international,/team/american-international/mens-hockey/,American International,,vs.,Michigan,michigan,/team/michigan/mens-hockey/,Michigan,,,NCAA Midwest Regional,NC,,ESPNU
-2022,Fri.,20220325,3/25/2022,6:00 ET,Massachusetts,massachusetts,/team/massachusetts/mens-hockey/,Massachusetts,,vs.,Minnesota,minnesota,/team/minnesota/mens-hockey/,Minnesota,,,NCAA Northeast Regional,NC,,ESPNU
-2022,Fri.,20220325,3/25/2022,12:00 ET,Northeastern,northeastern,/team/northeastern/mens-hockey/,Northeastern,,vs.,Western Michigan,western-michigan,/team/western-michigan/mens-hockey/,Western Michigan,,,NCAA Northeast Regional,NC,,ESPNU
-2022,Thu.,20220407,4/7/2022,,TBD,,,TBD,,vs.,TBD,,,TBD,,,NCAA Tournament,NC,,
-2022,Thu.,20220407,4/7/2022,,TBD,,,TBD,,vs.,TBD,,,TBD,,,NCAA Tournament,NC,,
-2022,Sat.,20220409,4/9/2022,,TBD,,,TBD,,vs.,TBD,,,TBD,,,NCAA Tournament,NC,,
+2022,Thu.,20220324,3/24/2022,12:00 ET,Harvard,harvard,/team/harvard/mens-hockey/,Harvard,3,vs.,Minnesota State,minnesota-state,/team/minnesota-state/mens-hockey/,Minnesota State,4,,NCAA East Regional,NC,Box Score,ESPNU
+2022,Thu.,20220324,3/24/2022,6:00 ET,Notre Dame,notre-dame,/team/notre-dame/mens-hockey/,Notre Dame,2,vs.,North Dakota,north-dakota,/team/north-dakota/mens-hockey/,North Dakota,1,OT,NCAA East Regional,NC,Box Score,ESPNU
+2022,Thu.,20220324,3/24/2022,7:00 MT,UMass Lowell,umass-lowell,/team/umass-lowell/mens-hockey/,UMass Lowell,2,vs.,Denver,denver,/team/denver/mens-hockey/,Denver,3,,NCAA West Regional,NC,Box Score,ESPNU
+2022,Thu.,20220324,3/24/2022,1:00 MT,Michigan Tech,michigan-tech,/team/michigan-tech/mens-hockey/,Michigan Tech,0,vs.,Minnesota Duluth,minnesota-duluth,/team/minnesota-duluth/mens-hockey/,Minnesota Duluth,3,,NCAA West Regional,NC,Box Score,ESPNU
+2022,Fri.,20220325,3/25/2022,8:00 ET,St. Cloud State,st-cloud-state,/team/st-cloud-state/mens-hockey/,St. Cloud State,4,vs.,Quinnipiac,quinnipiac,/team/quinnipiac/mens-hockey/,Quinnipiac,5,,NCAA Midwest Regional,NC,Box Score,ESPNews
+2022,Fri.,20220325,3/25/2022,3:00 ET,American International,american-international,/team/american-international/mens-hockey/,American International,3,vs.,Michigan,michigan,/team/michigan/mens-hockey/,Michigan,5,,NCAA Midwest Regional,NC,Box Score,ESPNU
+2022,Fri.,20220325,3/25/2022,6:00 ET,Massachusetts,massachusetts,/team/massachusetts/mens-hockey/,Massachusetts,3,vs.,Minnesota,minnesota,/team/minnesota/mens-hockey/,Minnesota,4,OT,NCAA Northeast Regional,NC,Box Score,ESPNU
+2022,Fri.,20220325,3/25/2022,12:00 ET,Northeastern,northeastern,/team/northeastern/mens-hockey/,Northeastern,1,vs.,Western Michigan,western-michigan,/team/western-michigan/mens-hockey/,Western Michigan,2,OT,NCAA Northeast Regional,NC,Box Score,ESPNU
+2022,Sat.,20220326,3/26/2022,6:30 ET,Notre Dame,notre-dame,/team/notre-dame/mens-hockey/,Notre Dame,0,vs.,Minnesota State,minnesota-state,/team/minnesota-state/mens-hockey/,Minnesota State,1,,NCAA East Regional,NC,Box Score,ESPNU
+2022,Sat.,20220326,3/26/2022,2:00 MT,Minnesota Duluth,minnesota-duluth,/team/minnesota-duluth/mens-hockey/,Minnesota Duluth,1,vs.,Denver,denver,/team/denver/mens-hockey/,Denver,2,,NCAA West Regional,NC,Box Score,ESPNU
+2022,Sun.,20220327,3/27/2022,6:30 ET,Quinnipiac,quinnipiac,/team/quinnipiac/mens-hockey/,Quinnipiac,4,vs.,Michigan,michigan,/team/michigan/mens-hockey/,Michigan,7,,NCAA Midwest Regional,NC,Box Score,ESPN2
+2022,Sun.,20220327,3/27/2022,4:00 ET,Minnesota,minnesota,/team/minnesota/mens-hockey/,Minnesota,3,vs.,Western Michigan,western-michigan,/team/western-michigan/mens-hockey/,Western Michigan,0,,NCAA Northeast Regional,NC,Box Score,ESPN2
+2022,Thu.,20220407,4/7/2022,8:30 ET,Minnesota,minnesota,/team/minnesota/mens-hockey/,Minnesota,1,vs.,Minnesota State,minnesota-state,/team/minnesota-state/mens-hockey/,Minnesota State,5,,NCAA Tournament,NC,Box Score,ESPNU
+2022,Thu.,20220407,4/7/2022,5:00 ET,Denver,denver,/team/denver/mens-hockey/,Denver,3,vs.,Michigan,michigan,/team/michigan/mens-hockey/,Michigan,2,OT,NCAA Tournament,NC,Box Score,ESPN2
+2022,Sat.,20220409,4/9/2022,8:00 ET,Denver,denver,/team/denver/mens-hockey/,Denver,5,vs.,Minnesota State,minnesota-state,/team/minnesota-state/mens-hockey/,Minnesota State,1,,NCAA Tournament,NC,Box Score,ESPN2
 2022,Fri.,20211022,10/22/2021,7:45 ET,Assumption,assumption,/team/assumption/mens-hockey/,Assumption,0,@,LIU,liu,/team/liu/mens-hockey/,LIU,7,,,NC,Box Score,
 2022,Sat.,20211023,10/23/2021,2:00 ET,Post,post,/team/post/mens-hockey/,Post,1,@,LIU,liu,/team/liu/mens-hockey/,LIU,6,,,NC,Box Score,
 2022,Fri.,20211029,10/29/2021,7:30 ET,Aurora,aurora,/team/aurora/mens-hockey/,Aurora,7,@,Arcadia,arcadia,/team/arcadia/mens-hockey/,Arcadia,0,,,NC,Box Score,
@@ -2285,6 +2289,6 @@
 2022,Sat.,20220319,3/19/2022,7:00 CT,St. Norbert,st-norbert,/team/st-norbert/mens-hockey/,St. Norbert,1,@,Augsburg,augsburg,/team/augsburg/mens-hockey/,Augsburg,4,,NCAA3 Tournament,NC,Box Score,
 2022,Sat.,20220319,3/19/2022,7:00 ET,Babson,babson,/team/babson/mens-hockey/,Babson,2,@,Geneseo,geneseo,/team/geneseo/mens-hockey/,Geneseo,3,,NCAA3 Tournament,NC,Box Score,
 2022,Sat.,20220319,3/19/2022,2:00 ET,University of New England,university-of-new-england,/team/university-of-new-england/mens-hockey/,University of New England,2,@,Utica,utica,/team/utica/mens-hockey/,Utica,0,,NCAA3 Tournament,NC,Box Score,
-2022,Fri.,20220325,3/25/2022,3:00 ET,Augsburg,augsburg,/team/augsburg/mens-hockey/,Augsburg,,vs.,Adrian,adrian,/team/adrian/mens-hockey/,Adrian,,,NCAA3 Tournament,NC,,
-2022,Fri.,20220325,3/25/2022,6:30 ET,University of New England,university-of-new-england,/team/university-of-new-england/mens-hockey/,University of New England,,vs.,Geneseo,geneseo,/team/geneseo/mens-hockey/,Geneseo,,,NCAA3 Tournament,NC,,
-2022,Sat.,20220326,3/26/2022,7:00 ET,Univ NE/Geneseo,,,Univ NE/Geneseo,,vs.,Augsburg/Adrian,,,Augsburg/Adrian,,,NCAA3 Tournament,NC,,
+2022,Fri.,20220325,3/25/2022,3:00 ET,Augsburg,augsburg,/team/augsburg/mens-hockey/,Augsburg,1,vs.,Adrian,adrian,/team/adrian/mens-hockey/,Adrian,5,,NCAA3 Tournament,NC,Box Score,
+2022,Fri.,20220325,3/25/2022,6:30 ET,University of New England,university-of-new-england,/team/university-of-new-england/mens-hockey/,University of New England,3,vs.,Geneseo,geneseo,/team/geneseo/mens-hockey/,Geneseo,8,,NCAA3 Tournament,NC,Box Score,
+2022,Sat.,20220326,3/26/2022,7:00 ET,Geneseo,geneseo,/team/geneseo/mens-hockey/,Geneseo,2,vs.,Adrian,adrian,/team/adrian/mens-hockey/,Adrian,5,,NCAA3 Tournament,NC,Box Score,

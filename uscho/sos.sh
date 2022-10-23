@@ -9,7 +9,7 @@ psql hockey -c "vacuum full verbose analyze uscho.results;"
 psql hockey -c "drop table if exists uscho._parameter_levels;"
 psql hockey -c "drop table if exists uscho._basic_factors;"
 
-R --vanilla -f sos/lmer.R
+R -f sos/lmer.R
 
 psql hockey -c "vacuum full verbose analyze uscho._parameter_levels;"
 psql hockey -c "vacuum full verbose analyze uscho._basic_factors;"
