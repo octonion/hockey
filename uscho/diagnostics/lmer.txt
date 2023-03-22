@@ -1,86 +1,82 @@
-[1] 103966      9
+[1] 20070     9
 [1] TRUE
-[1] 103966      8
+[1] 20070     8
 iteration: 1
-	f(x) = 473281.158235
+	f(x) = 90298.182971
 iteration: 2
-	f(x) = 517201.136087
+	f(x) = 98668.476352
 iteration: 3
-	f(x) = 476697.886464
+	f(x) = 91009.831146
 iteration: 4
-	f(x) = 476743.273701
+	f(x) = 91015.140925
 iteration: 5
-	f(x) = 422288.820746
+	f(x) = 80718.494010
 iteration: 6
-	f(x) = 468844.816078
+	f(x) = 89278.263721
 iteration: 7
-	f(x) = 468248.452672
+	f(x) = 89212.446226
 iteration: 8
-	f(x) = 411633.266448
+	f(x) = 78518.075943
 iteration: 9
-	f(x) = 419362.716873
+	f(x) = 80156.860807
 iteration: 10
-	f(x) = 408364.200973
+	f(x) = 77705.110585
 iteration: 11
-	f(x) = 427791.367705
+	f(x) = 81027.348132
 iteration: 12
-	f(x) = 409955.038091
+	f(x) = 78113.671023
 iteration: 13
-	f(x) = 414707.570380
+	f(x) = 79384.936547
 iteration: 14
-	f(x) = 408613.722015
+	f(x) = 77851.551007
 iteration: 15
-	f(x) = 408352.387841
+	f(x) = 77972.949021
 iteration: 16
-	f(x) = 408547.637666
+	f(x) = 77745.856986
 iteration: 17
-	f(x) = 408666.964209
+	f(x) = 77781.357330
 iteration: 18
-	f(x) = 408303.997379
+	f(x) = 77725.296114
 iteration: 19
-	f(x) = 408275.222895
+	f(x) = 77706.767122
 iteration: 20
-	f(x) = 408284.141331
+	f(x) = 77706.708263
 iteration: 21
-	f(x) = 408274.621748
+	f(x) = 77706.673365
 iteration: 22
-	f(x) = 408264.946912
+	f(x) = 77704.207696
 iteration: 23
-	f(x) = 408246.897966
+	f(x) = 77704.784505
 iteration: 24
-	f(x) = 408243.291861
+	f(x) = 77704.271007
 iteration: 25
-	f(x) = 408247.612472
+	f(x) = 77704.219088
 iteration: 26
-	f(x) = 408243.653654
+	f(x) = 77704.200522
 iteration: 27
-	f(x) = 408242.686910
+	f(x) = 77704.210300
 iteration: 28
-	f(x) = 408242.861810
+	f(x) = 77704.214072
 iteration: 29
-	f(x) = 408242.540129
+	f(x) = 77704.206987
 iteration: 30
-	f(x) = 408242.458352
+	f(x) = 77704.214271
 iteration: 31
-	f(x) = 408242.461478
+	f(x) = 77704.199434
 iteration: 32
-	f(x) = 408242.482967
+	f(x) = 77704.199527
 iteration: 33
-	f(x) = 408242.451442
+	f(x) = 77704.199407
 iteration: 34
-	f(x) = 408242.498661
+	f(x) = 77704.199607
 iteration: 35
-	f(x) = 408242.449688
+	f(x) = 77704.199307
 iteration: 36
-	f(x) = 408242.450081
+	f(x) = 77704.199194
 iteration: 37
-	f(x) = 408242.450464
+	f(x) = 77704.199300
 iteration: 38
-	f(x) = 408242.449364
-iteration: 39
-	f(x) = 408242.449335
-iteration: 40
-	f(x) = 408242.449315
+	f(x) = 77704.199187
 Generalized linear mixed model fit by maximum likelihood (Adaptive
   Gauss-Hermite Quadrature, nAGQ = 0) [glmerMod]
  Family: poisson  ( log )
@@ -88,32 +84,22 @@ Formula: gs ~ year + field + d_div + o_div + game_length + (1 | offense) +
     (1 | defense) + (1 | game_id)
    Data: g
       AIC       BIC    logLik  deviance  df.resid 
- 408320.4  408693.0 -204121.2  408242.4    103927 
+ 77740.20  77882.52 -38852.10  77704.20     20052 
 Random effects:
- Groups  Name        Std.Dev. 
- game_id (Intercept) 1.357e-05
- defense (Intercept) 2.643e-01
- offense (Intercept) 2.269e-01
-Number of obs: 103966, groups:  game_id, 51983; defense, 3405; offense, 3405
+ Groups  Name        Std.Dev.
+ game_id (Intercept) 0.0000  
+ defense (Intercept) 0.2411  
+ offense (Intercept) 0.2194  
+Number of obs: 20070, groups:  game_id, 10035; defense, 706; offense, 706
 Fixed Effects:
-      (Intercept)           year2000           year2001           year2002  
-         1.180598          -0.003382          -0.032716          -0.049058  
-         year2003           year2004           year2005           year2006  
-        -0.017603          -0.078637          -0.075230          -0.084304  
-         year2007           year2008           year2009           year2010  
-        -0.103417          -0.136491          -0.145212          -0.099317  
-         year2011           year2012           year2013           year2014  
-        -0.123335          -0.153286          -0.175250          -0.184456  
-         year2015           year2016           year2017           year2018  
-        -0.204233          -0.189285          -0.165168          -0.190256  
-         year2019           year2020           year2021           year2022  
-        -0.208464          -0.193592          -0.156414          -0.185580  
+      (Intercept)           year2020           year2021           year2022  
+          1.01635            0.01564            0.04362            0.02321  
          year2023  fielddefense_home  fieldoffense_home             d_div2  
-        -0.178136          -0.066636           0.054142           0.937016  
+          0.02975           -0.06320            0.03357            1.03377  
            d_div3             o_div2             o_div3    game_length1 OT  
-         0.634043          -0.701723          -0.523743          -0.090851  
-  game_length2 OT    game_length3 OT    game_length4 OT    game_length5 OT  
-        -0.048476          -0.061339           0.064568          -0.087847  
+          0.75556           -0.89716           -0.69823           -0.09332  
+  game_length2 OT    game_length3 OT    game_length4 OT  
+          0.10108            0.21234           -0.64776  
 optimizer (nloptwrap) convergence code: 0 (OK) ; 0 optimizer warnings; 1 lme4 warnings 
 Generalized linear mixed model fit by maximum likelihood (Adaptive
   Gauss-Hermite Quadrature, nAGQ = 0) [glmerMod]
@@ -123,58 +109,37 @@ Formula: gs ~ year + field + d_div + o_div + game_length + (1 | offense) +
    Data: g
 Control: glmerControl(optimizer = "nloptwrap")
 
-      AIC       BIC    logLik  deviance  df.resid 
- 408320.4  408693.0 -204121.2  408242.4    103927 
+     AIC      BIC   logLik deviance df.resid 
+ 77740.2  77882.5 -38852.1  77704.2    20052 
 
 Scaled residuals: 
     Min      1Q  Median      3Q     Max 
--2.4726 -0.7110 -0.0855  0.5909  4.6309 
+-2.2016 -0.7215 -0.0751  0.6080  4.3414 
 
 Random effects:
- Groups  Name        Variance  Std.Dev. 
- game_id (Intercept) 1.842e-10 1.357e-05
- defense (Intercept) 6.987e-02 2.643e-01
- offense (Intercept) 5.147e-02 2.269e-01
-Number of obs: 103966, groups:  game_id, 51983; defense, 3405; offense, 3405
+ Groups  Name        Variance Std.Dev.
+ game_id (Intercept) 0.00000  0.0000  
+ defense (Intercept) 0.05815  0.2411  
+ offense (Intercept) 0.04814  0.2194  
+Number of obs: 20070, groups:  game_id, 10035; defense, 706; offense, 706
 
 Fixed effects:
-                   Estimate Std. Error z value Pr(>|z|)    
-(Intercept)        1.180598   0.034223  34.498  < 2e-16 ***
-year2000          -0.003382   0.045977  -0.074 0.941367    
-year2001          -0.032716   0.046062  -0.710 0.477533    
-year2002          -0.049058   0.045418  -1.080 0.280081    
-year2003          -0.017603   0.045220  -0.389 0.697063    
-year2004          -0.078637   0.045446  -1.730 0.083570 .  
-year2005          -0.075230   0.045827  -1.642 0.100674    
-year2006          -0.084304   0.045459  -1.855 0.063667 .  
-year2007          -0.103417   0.045322  -2.282 0.022499 *  
-year2008          -0.136491   0.045177  -3.021 0.002517 ** 
-year2009          -0.145212   0.045195  -3.213 0.001314 ** 
-year2010          -0.099317   0.045155  -2.199 0.027843 *  
-year2011          -0.123335   0.045255  -2.725 0.006424 ** 
-year2012          -0.153286   0.045280  -3.385 0.000711 ***
-year2013          -0.175250   0.045068  -3.889 0.000101 ***
-year2014          -0.184456   0.045081  -4.092 4.28e-05 ***
-year2015          -0.204233   0.045028  -4.536 5.74e-06 ***
-year2016          -0.189285   0.044792  -4.226 2.38e-05 ***
-year2017          -0.165168   0.044554  -3.707 0.000210 ***
-year2018          -0.190256   0.044360  -4.289 1.80e-05 ***
-year2019          -0.208464   0.044252  -4.711 2.47e-06 ***
-year2020          -0.193592   0.044185  -4.381 1.18e-05 ***
-year2021          -0.156414   0.050335  -3.107 0.001887 ** 
-year2022          -0.185580   0.044390  -4.181 2.91e-05 ***
-year2023          -0.178136   0.044084  -4.041 5.33e-05 ***
-fielddefense_home -0.066636   0.008238  -8.089 6.02e-16 ***
-fieldoffense_home  0.054142   0.008176   6.622 3.53e-11 ***
-d_div2             0.937016   0.040940  22.888  < 2e-16 ***
-d_div3             0.634043   0.035532  17.844  < 2e-16 ***
-o_div2            -0.701723   0.039555 -17.740  < 2e-16 ***
-o_div3            -0.523743   0.035169 -14.892  < 2e-16 ***
-game_length1 OT   -0.090851   0.005091 -17.845  < 2e-16 ***
-game_length2 OT   -0.048476   0.043437  -1.116 0.264423    
-game_length3 OT   -0.061339   0.105475  -0.582 0.560867    
-game_length4 OT    0.064568   0.201859   0.320 0.749071    
-game_length5 OT   -0.087847   0.247789  -0.355 0.722946    
+                  Estimate Std. Error z value Pr(>|z|)    
+(Intercept)        1.01635    0.03892  26.114  < 2e-16 ***
+year2020           0.01564    0.03969   0.394  0.69349    
+year2021           0.04362    0.04607   0.947  0.34372    
+year2022           0.02321    0.03990   0.582  0.56068    
+year2023           0.02975    0.03959   0.752  0.45235    
+fielddefense_home -0.06320    0.02322  -2.722  0.00648 ** 
+fieldoffense_home  0.03357    0.02312   1.452  0.14643    
+d_div2             1.03377    0.09279  11.141  < 2e-16 ***
+d_div3             0.75556    0.08170   9.248  < 2e-16 ***
+o_div2            -0.89716    0.09134  -9.823  < 2e-16 ***
+o_div3            -0.69823    0.08117  -8.602  < 2e-16 ***
+game_length1 OT   -0.09332    0.01146  -8.146 3.76e-16 ***
+game_length2 OT    0.10108    0.18519   0.546  0.58520    
+game_length3 OT    0.21234    0.27607   0.769  0.44181    
+game_length4 OT   -0.64776    0.58692  -1.104  0.26974    
 ---
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 optimizer (nloptwrap) convergence code: 0 (OK)
