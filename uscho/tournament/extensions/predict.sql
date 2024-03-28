@@ -50,7 +50,7 @@ join uscho._factors of on
   of.level='neutral'
   
 join uscho._factors y on
-  y.level='2023'
+  y.level='2024'
 
 join uscho._basic_factors i on
   i.factor='(Intercept)'
