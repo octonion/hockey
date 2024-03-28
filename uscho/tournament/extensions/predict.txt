@@ -1,0 +1,14 @@
+ game_date  | ?column? |          team_id          | teo  |      team_id      | opo  |  win  | lose  | draw  | o_win 
+------------+----------+---------------------------+------+-------------------+------+-------+-------+-------+-------
+ 2023-03-23 | neutral  | canisius                  | 1.76 | minnesota         | 3.90 | 0.126 | 0.756 | 0.117 | 0.185
+ 2023-03-24 | neutral  | colgate                   | 2.81 | michigan          | 3.62 | 0.300 | 0.546 | 0.153 | 0.377
+ 2023-03-23 | neutral  | cornell                   | 2.43 | denver            | 2.63 | 0.375 | 0.444 | 0.182 | 0.466
+ 2023-03-24 | neutral  | hobart                    | 2.06 | endicott          | 1.81 | 0.444 | 0.346 | 0.209 | 0.549
+ 2023-03-24 | neutral  | merrimack                 | 1.83 | quinnipiac        | 2.90 | 0.231 | 0.599 | 0.170 | 0.316
+ 2023-03-24 | neutral  | michigan-tech             | 2.39 | penn-state        | 2.45 | 0.396 | 0.417 | 0.187 | 0.489
+ 2023-03-23 | neutral  | minnesota-state           | 2.45 | st-cloud-state    | 2.55 | 0.390 | 0.426 | 0.183 | 0.482
+ 2023-03-24 | neutral  | ohio-state                | 2.43 | harvard           | 2.79 | 0.350 | 0.473 | 0.177 | 0.438
+ 2023-03-24 | neutral  | university-of-new-england | 3.01 | adrian            | 3.53 | 0.343 | 0.501 | 0.156 | 0.421
+ 2023-03-23 | neutral  | western-michigan          | 3.37 | boston-university | 3.29 | 0.432 | 0.410 | 0.158 | 0.511
+(10 rows)
+

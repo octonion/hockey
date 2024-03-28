@@ -1,0 +1,17 @@
+year,round_id,school_id,school_name,bracket,p
+2023,1,minnesota,Minnesota,"{1,1,1,1,1}",1
+2023,1,canisius,Canisius,"{2,1,1,1,1}",1
+2023,1,st-cloud-state,St. Cloud,"{3,2,1,1,1}",1
+2023,1,minnesota-state,Minnesota State,"{4,2,1,1,1}",1
+2023,1,denver,Denver,"{5,3,2,1,1}",1
+2023,1,cornell,Cornell,"{6,3,2,1,1}",1
+2023,1,boston-university,Boston University,"{7,4,2,1,1}",1
+2023,1,western-michigan,Western Michigan,"{8,4,2,1,1}",1
+2023,1,quinnipiac,Quinnipiac,"{9,5,3,2,1}",1
+2023,1,merrimack,Merrimack,"{10,5,3,2,1}",1
+2023,1,harvard,Harvard,"{11,6,3,2,1}",1
+2023,1,ohio-state,Ohio State,"{12,6,3,2,1}",1
+2023,1,michigan,Michigan,"{13,7,4,2,1}",1
+2023,1,colgate,Colgate,"{14,7,4,2,1}",1
+2023,1,penn-state,Penn State,"{15,8,4,2,1}",1
+2023,1,michigan-tech,Michigan Tech,"{16,8,4,2,1}",1
