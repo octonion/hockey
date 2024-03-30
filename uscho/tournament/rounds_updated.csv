@@ -1,17 +1,9 @@
 year,round_id,school_id,school_name,bracket,p
 2024,1,boston-college,Boston College,"{1,1,1,1,1}",1
-2024,1,michigan-tech,Michigan Tech,"{2,1,1,1,1}",1
-2024,1,wisconsin,Wisconsin,"{3,2,1,1,1}",1
 2024,1,quinnipiac,Quinnipiac,"{4,2,1,1,1}",1
 2024,1,michigan-state,Michigan State,"{5,3,2,1,1}",1
-2024,1,western-michigan,Western Michigan,"{6,3,2,1,1}",1
-2024,1,north-dakota,North Dakota,"{7,4,2,1,1}",1
 2024,1,michigan,Michigan,"{8,4,2,1,1}",1
 2024,1,boston-university,Boston University,"{9,5,3,2,1}",1
-2024,1,rit,RIT,"{10,5,3,2,1}",1
 2024,1,minnesota,Minnesota,"{11,6,3,2,1}",1
-2024,1,nebraska-omaha,Nebraska-Omaha,"{12,6,3,2,1}",1
 2024,1,denver,Denver,"{13,7,4,2,1}",1
-2024,1,massachusetts,Massachusetts,"{14,7,4,2,1}",1
-2024,1,maine,Maine,"{15,8,4,2,1}",1
 2024,1,cornell,Cornell,"{16,8,4,2,1}",1
