@@ -1,31 +1,71 @@
 BEGIN
  rd |       name        |   p   
 ----+-------------------+-------
-  3 | Boston University | 0.619
-  3 | Denver            | 0.603
-  3 | Boston College    | 0.599
-  3 | Michigan State    | 0.501
-  3 | Michigan          | 0.499
-  3 | Quinnipiac        | 0.401
-  3 | Cornell           | 0.397
-  3 | Minnesota         | 0.381
-  4 | Boston College    | 0.414
-  4 | Boston University | 0.355
-  4 | Denver            | 0.309
-  4 | Quinnipiac        | 0.242
-  4 | Minnesota         | 0.174
-  4 | Michigan          | 0.172
-  4 | Michigan State    | 0.172
-  4 | Cornell           | 0.162
-  5 | Boston College    | 0.251
-  5 | Boston University | 0.191
-  5 | Denver            | 0.156
-  5 | Quinnipiac        | 0.123
-  5 | Minnesota         | 0.073
-  5 | Michigan          | 0.070
-  5 | Michigan State    | 0.070
-  5 | Cornell           | 0.066
-(24 rows)
+  2 | Boston College    | 0.758
+  2 | Maine             | 0.674
+  2 | Michigan State    | 0.656
+  2 | Denver            | 0.622
+  2 | Western Michigan  | 0.569
+  2 | Minnesota         | 0.550
+  2 | Connecticut       | 0.507
+  2 | Boston University | 0.507
+  2 | Quinnipiac        | 0.493
+  2 | Ohio State        | 0.493
+  2 | Massachusetts     | 0.450
+  2 | Minnesota State   | 0.431
+  2 | Providence        | 0.378
+  2 | Cornell           | 0.344
+  2 | Penn State        | 0.326
+  2 | Bentley           | 0.242
+  3 | Boston College    | 0.474
+  3 | Michigan State    | 0.409
+  3 | Maine             | 0.409
+  3 | Western Michigan  | 0.319
+  3 | Denver            | 0.301
+  3 | Minnesota         | 0.270
+  3 | Connecticut       | 0.231
+  3 | Quinnipiac        | 0.221
+  3 | Boston University | 0.220
+  3 | Minnesota State   | 0.211
+  3 | Ohio State        | 0.211
+  3 | Massachusetts     | 0.199
+  3 | Cornell           | 0.160
+  3 | Providence        | 0.140
+  3 | Penn State        | 0.139
+  3 | Bentley           | 0.085
+  4 | Boston College    | 0.292
+  4 | Maine             | 0.241
+  4 | Michigan State    | 0.229
+  4 | Denver            | 0.162
+  4 | Western Michigan  | 0.160
+  4 | Minnesota         | 0.125
+  4 | Connecticut       | 0.113
+  4 | Quinnipiac        | 0.107
+  4 | Boston University | 0.097
+  4 | Minnesota State   | 0.092
+  4 | Ohio State        | 0.091
+  4 | Massachusetts     | 0.083
+  4 | Cornell           | 0.065
+  4 | Penn State        | 0.058
+  4 | Providence        | 0.058
+  4 | Bentley           | 0.029
+  5 | Boston College    | 0.179
+  5 | Maine             | 0.131
+  5 | Michigan State    | 0.121
+  5 | Western Michigan  | 0.086
+  5 | Denver            | 0.086
+  5 | Minnesota         | 0.063
+  5 | Connecticut       | 0.050
+  5 | Quinnipiac        | 0.046
+  5 | Minnesota State   | 0.043
+  5 | Boston University | 0.040
+  5 | Massachusetts     | 0.038
+  5 | Ohio State        | 0.037
+  5 | Cornell           | 0.024
+  5 | Providence        | 0.024
+  5 | Penn State        | 0.021
+  5 | Bentley           | 0.010
+(64 rows)
 
-COPY 24
+COPY 64
 COMMIT

@@ -4,10 +4,10 @@ drop table if exists uscho.games;
 
 create table uscho.games (
 	year		      integer,
-	day						text,
-	flag					text,
-	game_date			date,
-	start_time		text,
+	day		      text,
+	flag		      text,
+	game_date	      date,
+	start_time	      text,
 	team_name	      text,
 	team_id		      text,
 	team_url	      text,
